@@ -784,7 +784,7 @@ The common Type I and Type II ions are summarized in Fig. 2.22. Also shown in Fi
 
 | | 8A |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | 2A | \multirow{3}{*}{} | 3A | 4A | 5A | 6A | 7A |  |  |  |  |  |
+| | 2A |  | 3A | 4A | 5A | 6A | 7A |  |  |  |  |  |
 | $\mathrm{Li}^{+}$ |  |  |  |  |  |  |  |  | $\mathrm{N}^{3-}$ | $\mathrm{O}^{2^{-}}$ | $\mathrm{F}^{-}$ |  |
 | $\mathrm{Na}^{+}$ | $\mathrm{Mg}^{2+}$ |  |  |  |  |  | $\mathrm{Al}^{3+}$ |  |  | $\mathrm{S}^{2^{-}}$ | $\mathrm{Cl}^{-}$ |  |
 | $\mathrm{K}^{+}$ | $\mathrm{Ca}^{2+}$ | $$\begin{array}{l|l} |  |  |  |  |  |  |  |  |  |  |

@@ -322,7 +322,7 @@ Examples of three types of crystalline solids. Only part of the structure is sho
 436
 Chapter Ten Liquids and Solids
 
-| \multirow{2}{*}{} | Atomic Solids | \multirow[b]{2}{*}{Molecular Solids} | \multirow[b]{2}{*}{Ionic Solids} |  |  |
+|  | Atomic Solids | \multirow[b]{2}{*}{Molecular Solids} | \multirow[b]{2}{*}{Ionic Solids} |  |  |
 | --- | --- | --- | --- | --- | --- |
 | | Metallic | Network | Group 8A |  |  |
 | Components That Occupy the Lattice Points: | Metal atoms | Nonmetal atoms | Group 8A atoms | Discrete molecules | Ions |

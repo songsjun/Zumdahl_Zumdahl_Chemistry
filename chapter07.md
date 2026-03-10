@@ -606,10 +606,10 @@ m_{\ell} & =-\ell, \ldots 0, \ldots+\ell
 | 1 | 0 | $1 s$ | 0 | 1 |
 | \multirow[t]{2}{*}{2} | 0 | $2 s$ | 0 | 1 |
 | | 1 | $2 p$ | $-1,0,+1$ | 3 |
-| \multirow{3}{*}{} | 0 | $3 s$ | 0 | 1 |
+|  | 0 | $3 s$ | 0 | 1 |
 | | 1 | $3 p$ | $-1,0,1$ | 3 |
 | | 2 | $3 d$ | $-2,-1,0,1,2$ | 5 |
-| \multirow{4}{*}{} | 0 | $4 s$ | 0 | 1 |
+|  | 0 | $4 s$ | 0 | 1 |
 | | 1 | $4 p$ | $-1,0,1$ | 3 |
 | | 2 | $4 d$ | $-2,-1,0,1,2$ | 5 |
 | | 3 | $4 f$ | $-3,-2,-1,0,1,2,3$ | 7 |
@@ -1154,9 +1154,9 @@ First ionization energy increases across a period and decreases down a group.
 FIGURE 7.30
 The values of first ionization energy for the elements in the first six periods. In general, ionization energy decreases in going down a group. For example, note the decrease in values for Group 1A and Group 8A. In general, ionization energy increases in going left to right across a period. For example, note the sharp increase going across Period 2 from lithium through neon.
 
-| \multirow{9}{*}{} | Element | $\boldsymbol{I}_{\mathbf{1}}$ | $\boldsymbol{I}_{\mathbf{2}}$ | $\boldsymbol{I}_{\mathbf{3}}$ | $\boldsymbol{I}_{\mathbf{4}}$ | $\boldsymbol{I}_{\mathbf{5}}$ | $\boldsymbol{I}_{\mathbf{6}}$ | $I_{7}$ |
+|  | Element | $\boldsymbol{I}_{\mathbf{1}}$ | $\boldsymbol{I}_{\mathbf{2}}$ | $\boldsymbol{I}_{\mathbf{3}}$ | $\boldsymbol{I}_{\mathbf{4}}$ | $\boldsymbol{I}_{\mathbf{5}}$ | $\boldsymbol{I}_{\mathbf{6}}$ | $I_{7}$ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | Na | 495 | 4560 |  |  |  | \multirow{4}{*}{} | \multirow{5}{*}{} |
+| | Na | 495 | 4560 |  |  |  |  |  |
 | | Mg | 735 | 1445 | 7730 | Core electrons* |  |  |  |
 | |  | 580 | 1815 | 2740 | 11,600 |  |  |  |
 | | Si | 780 | 1575 | 3220 | 4350 | 16,100 |  |  |

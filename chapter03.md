@@ -1611,8 +1611,8 @@ d. dinitrogen tetroxide
 
 | Mass of Sample | Moles of Sample | Molecules in Sample | Total Atoms in Sample |
 | --- | --- | --- | --- |
-| \multirow[t]{4}{*}{$4.24 \mathrm{~g} \mathrm{C}_{6} \mathrm{H}_{6}$} | \multirow{4}{*}{$0.224 \mathrm{~mol} \mathrm{H}_{2} \mathrm{O}$ |  |  |
-| $\_\_\_\_$} | \multirow{4}{*}{$2.71 \times 10^{22}$ molecules $\mathrm{CO}_{2}$ |  |  |
+| \multirow[t]{4}{*}{$4.24 \mathrm{~g} \mathrm{C}_{6} \mathrm{H}_{6}$} | $0.224 \mathrm{~mol \mathrm{H}_{2} \mathrm{O}$ |  |  |
+| $\_\_\_\_$} | $2.71 \times 10^{22$ molecules $\mathrm{CO}_{2}$ |  |  |
 | $\_\_\_\_$} | $\_\_\_\_$ |  |  |
 | |  |  |  |
 | |  |  | $\_\_\_\_$ |

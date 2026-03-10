@@ -1227,7 +1227,7 @@ Chapter Twenty-One Transition Metals and Coordination Chemistry
 | \mathrm{Cu}^{2+}(a q)+\mathrm{S}^{2-}(a q) \longrightarrow \mathrm{CuS}(s) |  |
 | \mathrm{Cu}^{+}(a q)+\mathrm{HCN}(a q) \longrightarrow \mathrm{CuCN}(s)+\mathrm{H}^{+}(a q) |  |
 | \end{array}$$ |  |
-| \multirow{2}{*}{} | $\left\{\begin{array}{l}\mathrm{Au}^{+}(a q)+\mathrm{Fe}^{2+}(a q) \longrightarrow \mathrm{Au}(s)+\mathrm{Fe}^{3+}(a q) \\ \mathrm{Cu}^{2+}(a q)+\mathrm{Fe}(s) \longrightarrow \mathrm{Cu}(s)+\mathrm{Fe}^{2+}(a q) \\ \mathrm{Ni}^{2+}(a q)+\mathrm{H}_{2}(g) \longrightarrow \mathrm{Ni}(s)+2 \mathrm{H}^{+}(a q)\end{array}\right.$ |
+|  | $\left\{\begin{array}{l}\mathrm{Au}^{+}(a q)+\mathrm{Fe}^{2+}(a q) \longrightarrow \mathrm{Au}(s)+\mathrm{Fe}^{3+}(a q) \\ \mathrm{Cu}^{2+}(a q)+\mathrm{Fe}(s) \longrightarrow \mathrm{Cu}(s)+\mathrm{Fe}^{2+}(a q) \\ \mathrm{Ni}^{2+}(a q)+\mathrm{H}_{2}(g) \longrightarrow \mathrm{Ni}(s)+2 \mathrm{H}^{+}(a q)\end{array}\right.$ |
 | $\left\{\begin{array}{l}\mathrm{Cu}^{2+}(a q)+2 \mathrm{e}^{-} \longrightarrow \mathrm{Cu}(s) \\ \mathrm{Al}^{3+}(a q)+3 \mathrm{e}^{-} \longrightarrow \mathrm{Al}(s)\end{array}\right.$ |  |
 | |  |
 | \multirow[t]{2}{*}{Reduction plus precipitation} | $2 \mathrm{Cu}^{2+}(a q)+2 \mathrm{Cl}^{-}(a q)+\mathrm{H}_{2} \mathrm{SO}_{3}(a q)+\mathrm{H}_{2} \mathrm{O}(l) \longrightarrow$ |

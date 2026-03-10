@@ -431,7 +431,7 @@ Since the sum of these five processes yields the desired overall reaction, the s
 
 | Process | Energy Change (kJ) |
 | --- | --- |
-| \multirow{6}{*}{| | $\operatorname{Li}(s) \rightarrow \operatorname{Li}(g) \mathrm{Li}(g) \rightarrow \mathrm{Li}^{+}(g)+\mathrm{e}^{-} \frac{1}{2} \mathrm{~F}_{2}(g) \rightarrow \mathrm{F}(g)$ |  | |
+| | | $\operatorname{Li(s) \rightarrow \operatorname{Li}(g) \mathrm{Li}(g) \rightarrow \mathrm{Li}^{+}(g)+\mathrm{e}^{-} \frac{1}{2} \mathrm{~F}_{2}(g) \rightarrow \mathrm{F}(g)$ |  | |
 | --- |
 | | $\mathrm{F}(g)+\mathrm{e}^{-} \rightarrow \mathrm{F}^{-}(g)$ |  | |
 | | $\underline{\mathrm{Li}^{+}(g)+\mathrm{F}^{-}(g) \rightarrow \operatorname{LiF}(s)}$ |  | |

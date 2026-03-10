@@ -961,7 +961,7 @@ The procedure here is very similar to that used at point B and will only be summ
 | --- | --- | --- | --- | --- | --- |
 | Before | $25.0 \mathrm{~mL} \times 0.10 M$ |  | $50.0 \mathrm{~mL} \times 0.10 M$ |  | 0 mmol |
 | reaction: | $=2.5 \mathrm{mmol}$ |  | $=5.0 \mathrm{mmol}$ |  |  |
-| After | $2.5-2.5=0$ |  | $5.0-2.5$ |  | \multirow{2}{*}{2.5 mmol} |
+| After | $2.5-2.5=0$ |  | $5.0-2.5$ |  | 2.5 mmol |
 | reaction: |  |  | $=2.5 \mathrm{mmol}$ |  |  |
 
 ---
@@ -991,7 +991,7 @@ and the pertinent concentrations are as follows:
 
 The corresponding ICE table is
 
-| \multirow{2}{*}{Initial:} | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}(a q)$ | ⇌ | $\mathrm{H}^{+}(a q)$ | + | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}(a q)$ |
+| Initial: | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}(a q)$ | ⇌ | $\mathrm{H}^{+}(a q)$ | + | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}(a q)$ |
 | --- | --- | --- | --- | --- | --- |
 | | $\frac{2.5}{75.0}$ |  | $\approx 0$ |  | $\frac{2.5}{75.0}$ |
 | Change: | $-x$ |  | $+x$ |  | $+x$ |

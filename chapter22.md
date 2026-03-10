@@ -1021,7 +1021,7 @@ ww.coppertone.com
 
 | Pentoses |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| \multirow{2}{*}{} |  |  | D-Ribulose |  |
+|  |  |  | D-Ribulose |  |
 | |  |  |  |  |
 | d-Glucose | d-Mannose | D-Galactose |  | D-Fructose |
 | |  |  |  |  |
