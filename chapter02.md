@@ -95,12 +95,8 @@ Chapter Two Atoms, Molecules, and lons
 
 But Dalton discovered another principle that convinced him even more of the existence of atoms. He noted, for example, that carbon and oxygen form two different compounds that contain different relative amounts of carbon and oxygen, as shown by the following data:
 
-| | | | --- | --- | |
-| --- |
-| | Mass of Oxygen That Combines |  | |
-| | with $\mathbf{1} \mathbf{g}$ of Carbon |  | |
-| |  |
- |  |
+| Compound | Mass of Oxygen That Combines with $\mathbf{1} \mathbf{g}$ of Carbon |
+| --- | --- |
 | Compound I | 1.33 g |
 | Compound II | 2.66 g |
 
@@ -112,12 +108,8 @@ To make sure the significance of this observation is clear, in Sample Exercise 2
 Sample Exercise 2.1 Illustrating the Law of Multiple Proportions
 The following data were collected for several compounds of nitrogen and oxygen:
 
-| | | | --- | --- | |
-| --- |
-| | Mass of Nitrogen That Combines |  | |
-| | with $\mathbf{1} \mathbf{~ g}$ of Oxygen |  | |
-| |  |
- |  |
+| Compound | Mass of Nitrogen That Combines with $\mathbf{1} \mathbf{~ g}$ of Oxygen |
+| --- | --- |
 | Compound A | 1.750 g |
 | Compound B | 0.8750 g |
 | Compound C | 0.4375 g |
@@ -251,7 +243,7 @@ Jöns Jakob Berzelius was probably the best experimental chemist of his generati
 
 | Comparison of Several of Berzelius's Atomic Masses with the Modern Values |  |  |
 | --- | --- | --- |
-| \multirow[b]{2}{*}{Element} | Atomic Mass |  |
+| Element | Atomic Mass |  |
 | | Berzelius's Value | Current Value |
 | Chlorine | 35.41 | 35.45 |
 | Copper | 63.00 | 63.55 |
@@ -782,12 +774,12 @@ The following flowchart is useful when you are naming binary ionic compounds:
 
 The common Type I and Type II ions are summarized in Fig. 2.22. Also shown in Fig. 2.22 are the common monatomic ions.
 
-| | 8A |  |  |  |  |  |  |  |  |  |  |  |
+|  | 8A |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | 2A |  | 3A | 4A | 5A | 6A | 7A |  |  |  |  |  |
+|  | 2A |  | 3A | 4A | 5A | 6A | 7A |  |  |  |  |  |
 | $\mathrm{Li}^{+}$ |  |  |  |  |  |  |  |  | $\mathrm{N}^{3-}$ | $\mathrm{O}^{2^{-}}$ | $\mathrm{F}^{-}$ |  |
 | $\mathrm{Na}^{+}$ | $\mathrm{Mg}^{2+}$ |  |  |  |  |  | $\mathrm{Al}^{3+}$ |  |  | $\mathrm{S}^{2^{-}}$ | $\mathrm{Cl}^{-}$ |  |
-| $\mathrm{K}^{+}$ | $\mathrm{Ca}^{2+}$ | $$\begin{array}{l|l} |  |  |  |  |  |  |  |  |  |  |
+| $\mathrm{K}^{+}$ | $\mathrm{Ca}^{2+}$ | $$\begin{array}{l | l} |  |  |  |  |  |  |  |  |  |
 | \mathrm{Cr}^{2+} | \mathrm{Mn}^{2+} |  |  |  |  |  |  |  |  |  |  |  |
 | \mathrm{Cr}^{3+} | \mathrm{Mn}^{3+} |  |  |  |  |  |  |  |  |  |  |  |
 | \end{array}$$ | $$\begin{array}{l} |  |  |  |  |  |  |  |  |  |  |  |
@@ -811,7 +803,7 @@ The common Type I and Type II ions are summarized in Fig. 2.22. Also shown in Fi
 | \mathrm{Pb}^{2+} |  |  |  |  |  |  |  |  |  |  |  |  |
 | \mathrm{Pb}^{4+} |  |  |  |  |  |  |  |  |  |  |  |  |
 | \end{array}$$ |  |  |  |  |  |  |  |  |  |  |  |  |
-| |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 □ Common Type I cations □ Common Type II cations □ Common monatomic anions
 
@@ -918,27 +910,20 @@ In the naming of binary covalent compounds, the following rules apply:
 64
 Chapter Two Atoms, Molecules, and lons
 
-| | | --- | --- | |
-| --- |
-| | TABLE 2.6 |  | |
-| | Indicate Number in Chemical |  | |
-| | Names |  | |
-| |  |
- | | | Prefixes Used to |  | |
-| --- |
-| | Prefix |  | |
-| |  |
- |  |
-| mono- | Number Indicated |
-| di- | 1 |
-| tri- | 2 |
-| tetra- | 3 |
-| penta- | 4 |
-| hexa- | 5 |
-| hepta- | 6 |
-| octa- | 7 |
-| nona- | 8 |
-| deca- | 9 |
+TABLE 2.6 Prefixes Used to Indicate Number in Chemical Names
+
+| Prefix | Number Indicated |
+| --- | --- |
+| mono- | 1 |
+| di- | 2 |
+| tri- | 3 |
+| tetra- | 4 |
+| penta- | 5 |
+| hexa- | 6 |
+| hepta- | 7 |
+| octa- | 8 |
+| nona- | 9 |
+| deca- | 10 |
 
 
 Compound
@@ -1068,17 +1053,10 @@ When the anion contains oxygen, the acidic name is formed from the root name of 
 For Review
 67
 
-| | | --- | --- | |
-| --- |
-| | TABLE 2.7 |  | |
-| | That Do Not Contain Oxygen |  | |
-| |  |
- |  |
-| Acid | | | Names of Acids* |  | |
-| --- |
-| | Name |  | |
-| |  |
- |  |
+TABLE 2.7 Acid Names of Acids That Do Not Contain Oxygen
+
+| Acid | Name |
+| --- | --- |
 | HF | Hydrofluoric acid |
 | HCl | Hydrochloric acid |
 | HBr | Hydrobromic acid |

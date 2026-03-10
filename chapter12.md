@@ -68,7 +68,7 @@ $$\begin{aligned}
 FIGURE 12.1
 Starting with a flask of nitrogen dioxide at $300^{\circ} \mathrm{C}$, the concentrations of nitrogen dioxide, nitric oxide, and oxygen are plotted versus time.
 
-| \multirow[b]{2}{*}{Time ( ± 1 s)} | Concentration (mol/L) |  |  |
+| Time ( ± 1 s) | Concentration (mol/L) |  |  |
 | --- | --- | --- | --- |
 | | $\mathbf{N O}_{\mathbf{2}}$ | NO | $\boldsymbol{O}_{\mathbf{2}}$ |
 | 0 | 0.0100 | 0 | 0 |
@@ -321,22 +321,8 @@ Rates 1, 2, and 3 were determined at the same value of $t$ (very close to $t=0$ 
 
 Overall reaction order is the sum of the orders for the various reactants.
 
-| Experiment | | | --- | --- | --- | --- | |
-| --- |
-| | Initial |  |  |  | |
-| | Concentration |  |  |  | |
-| | of $\mathbf{N H}_{\mathbf{4}}{ }^{+}$ |  |  |  | |
-| |  |
- | | | Initial |  |  |  | |
-| --- |
-| | Concentration |  |  |  | |
-| | of $\mathbf{N H}_{\mathbf{2}}{ }^{-}$ |  |  |  | |
-| |  |
- | | | Initial |  |  |  | |
-| --- |
-| | Rate $(\mathbf{m o l} / \mathbf{L} \cdot \mathbf{s})$ |  |  |  | |
-| |  |
- |  |  |  |
+| Experiment | Initial $[\mathrm{NH}_{4}^{+}]$ | Initial $[\mathrm{NO}_{2}^{-}]$ | Initial Rate $(\mathrm{mol} / \mathrm{L} \cdot \mathrm{s})$ |
+| --- | --- | --- | --- |
 | 1 | 0.100 M | 0.0050 M | $1.35 \times 10^{-7}$ |
 | 2 | 0.100 M | 0.010 M | $2.70 \times 10^{-7}$ |
 | 3 | 0.200 M | 0.010 M | $5.40 \times 10^{-7}$ |
@@ -587,13 +573,12 @@ The time required for a reactant to reach half its original concentration is cal
 
 | $\boldsymbol{[} \mathbf{N}_{\mathbf{2}} \mathbf{O}_{\mathbf{5}} \boldsymbol{]}$ (mol/L) | $t(\mathrm{~s})$ |
 | --- | --- |
-| | | 0.100 |  | |
-| --- |
-| | 0.0500 |  | |
-| | 0.0250 |  | |
-| | 0.0125 |  | |
-| |  |
- | $$\begin{array}{r} |
+|  | 0.100  |
+|  | 0.0500  |
+|  | 0.0250  |
+|  | 0.0125  |
+|  |  |
+| $$\begin{array}{r} |  |
 | 0 |  |
 | 100\left\{\begin{array}{ll} |  |
 | \Delta t=100 \mathrm{~s} ; | \frac{\left[\mathrm{N}_{2} \mathrm{O}_{5}\right]_{t=100}}{\left[\mathrm{~N}_{2} \mathrm{O}_{5}\right]_{t=0}}=\frac{0.050}{0.100}=\frac{1}{2} |
@@ -856,7 +841,7 @@ b. The integrated rate law shows how concentration depends on time. The integrat
 
 | | Order |  |  |
 | --- | --- | --- | --- |
-| \multirow[b]{2}{*}{Rate Law:} | Zero | First | Second |
+| Rate Law: | Zero | First | Second |
 | | Rate $=k$ | Rate $=k[\mathrm{~A}]$ | Rate $=k[\mathrm{~A}]^{2}$ |
 | Integrated Rate Law: | $[\mathrm{A}]=-k t+[\mathrm{A}]_{0}$ | $\ln [\mathrm{A}]=-k t+\ln [\mathrm{A}]_{0}$ | $\frac{1}{[\mathrm{~A}]}=k t+\frac{1}{[\mathrm{~A}]_{0}}$ |
 | Plot Needed to Give a Straight Line: Relationship of Rate Constant to the Slope of Straight Line: | [A] versus $t$ | $\ln [\mathrm{A}]$ versus $t$ | $\frac{1}{[\mathrm{~A}]}$ versus $t$ |
@@ -1576,12 +1561,8 @@ Chapter Twelve Chemical Kinetics
 was studied at $-10^{\circ} \mathrm{C}$. The following results were obtained where
 $$\text { Rate }=-\frac{\Delta\left[\mathrm{Cl}_{2}\right]}{\Delta t}$$
 
-| {$[\mathbf{N O}]_{\mathbf{0}}(\mathbf{m o l} / \mathbf{L})$} | {$\left[\mathbf{C l}_{\mathbf{2}}\right]_{\mathbf{0}}(\mathbf{m o l} / \mathbf{L})$} | | | --- | --- | --- | |
-| --- |
-| | Initial Rate |  |  | |
-| | $(\mathbf{m o l} / \mathbf{L} \cdot \mathbf{m i n})$ |  |  | |
-| |  |
- |  |  |
+| $[\mathrm{NO}]_{0}$ (mol/L) | $\left[\mathrm{Cl}_{2}\right]_{0}$ (mol/L) | Initial Rate (mol/L·min) |
+| --- | --- | --- |
 | 0.10 | 0.10 | 0.18 |
 | 0.10 | 0.20 | 0.36 |
 | 0.20 | 0.20 | 1.45 |
@@ -1612,11 +1593,10 @@ $$\text { Rate }=-\frac{\Delta[\mathrm{NOCl}]}{\Delta t}$$
 | {$[\mathbf{N O C l}]_{\mathbf{0}}$} |  |
 | --- | --- |
 | (molecules/cm |  |
-|  | | | Initial Rate |  | |
-| --- |
-| | (molecules/ $\mathbf{c m}^{\mathbf{3}} \cdot \mathbf{s}$ ) |  | |
-| |  |
- |  |
+|  |  Initial Rate  |
+|  | (molecules/ $\mathbf{c m}^{\mathbf{3}} \cdot \mathbf{s}$ )  |
+|  |  |
+|  |  |
 | $3.0 \times 10^{16}$ | $5.98 \times 10^{4}$ |
 | $2.0 \times 10^{16}$ | $2.66 \times 10^{4}$ |
 | $1.0 \times 10^{16}$ | $6.64 \times 10^{3}$ |
@@ -1631,11 +1611,10 @@ $$2 \mathrm{~N}_{2} \mathrm{O}_{5}(g) \longrightarrow 4 \mathrm{NO}_{2}(g)+\math
 | {$\left[\mathrm{N}_{2} \mathrm{O}_{5}\right]_{\mathbf{0}}$} |  |
 | --- | --- |
 | $(\mathbf{m o l} / \mathbf{L})$ |  |
-|  | | | Initial Rate |  | |
-| --- |
-| | $(\mathbf{m o l} / \mathbf{L} \cdot \mathbf{s})$ |  | |
-| |  |
- |  |
+|  |  Initial Rate  |
+|  | $(\mathbf{m o l} / \mathbf{L} \cdot \mathbf{s})$  |
+|  |  |
+|  |  |
 | 0.0750 | $8.90 \times 10^{-4}$ |
 | 0.190 | $2.26 \times 10^{-3}$ |
 | 0.275 | $3.26 \times 10^{-3}$ |
@@ -1648,15 +1627,13 @@ Defining the rate as $-\Delta\left[\mathrm{N}_{2} \mathrm{O}_{5}\right] / \Delta
 | {$[\mathrm{Hb}]_{\mathbf{0}}$} |  |  |
 | --- | --- | --- |
 | $(\boldsymbol{\mu} \mathbf{m o l} / \mathbf{L})$ |  |  |
-|  | | | {$[\mathbf{C O}]_{\mathbf{0}}$} |  |  | |
-| --- |
-| | $(\boldsymbol{\mu} \mathbf{m o l} / \mathbf{L})$ |  |  | |
-| |  |
- | | | Initial Rate |  |  | |
-| --- |
-| | $(\boldsymbol{\mu} \mathbf{m o l} / \mathbf{L} \cdot \mathbf{s})$ |  |  | |
-| |  |
- |  |  |
+|  |  | {$[\mathbf{C O}]_{\mathbf{0}}$}   |
+|  | $(\boldsymbol{\mu} \mathbf{m o l} / \mathbf{L})$ |  |
+|  |  |  |
+|  |  | Initial Rate   |
+|  | $(\boldsymbol{\mu} \mathbf{m o l} / \mathbf{L} \cdot \mathbf{s})$ |  |
+|  |  |  |
+|  |  |  |
 | 2.21 | 1.00 | 0.619 |
 | 4.42 | 1.00 | 1.24 |
 | 4.42 | 3.00 | 3.71 |
@@ -1674,15 +1651,13 @@ $$\begin{array}{l}
 | {$\left[\mathbf{C l O}_{\mathbf{2}}\right]_{\mathbf{0}}$} |  |  |
 | --- | --- | --- |
 | $\mathbf{( m o l / L )}$ |  |  |
-|  | | | {$\left[\mathbf{O H}^{-}\right]_{\mathbf{0}}$} |  |  | |
-| --- |
-| | $\mathbf{( m o l / L )}$ |  |  | |
-| |  |
- | | | Initial Rate |  |  | |
-| --- |
-| | $\mathbf{( m o l / L} \cdot \mathbf{s})$ |  |  | |
-| |  |
- |  |  |
+|  |  | {$\left[\mathbf{O H}^{-}\right]_{\mathbf{0}}$}   |
+|  | $\mathbf{( m o l / L )}$ |  |
+|  |  |  |
+|  |  | Initial Rate   |
+|  | $\mathbf{( m o l / L} \cdot \mathbf{s})$ |  |
+|  |  |  |
+|  |  |  |
 | 0.0500 | 0.100 | $5.75 \times 10^{-2}$ |
 | 0.100 | 0.100 | $2.30 \times 10^{-1}$ |
 | 0.100 | 0.0500 | $1.15 \times 10^{-1}$ |
@@ -1828,11 +1803,10 @@ It takes 120 . s for $1.00 M \mathrm{PH}_{3}$ to decrease to $0.250 M$. How much
 | {$[\mathbf{A B}]_{\mathbf{0}}$} |  |
 | --- | --- |
 | $\mathbf{( m o l / L )}$ |  |
-|  | | | Initial Rate |  | |
-| --- |
-| | $\mathbf{( m o l / L} \cdot \mathbf{s})$ |  | |
-| |  |
- |  |
+|  |  Initial Rate  |
+|  | $\mathbf{( m o l / L} \cdot \mathbf{s})$  |
+|  |  |
+|  |  |
 | 0.200 | $3.20 \times 10^{-3}$ |
 | 0.400 | $1.28 \times 10^{-2}$ |
 | 0.600 | $2.88 \times 10^{-2}$ |
@@ -1958,7 +1932,7 @@ Catalysts
 $$\begin{array}{rlr}
 \mathrm{O}_{3}(g)+\mathrm{NO}(g) & \longrightarrow \mathrm{NO}_{2}(g)+\mathrm{O}_{2}(g) & \text { Slow } \\
 \mathrm{NO}_{2}(g)+\mathrm{O}(g) & \longrightarrow \mathrm{NO}(g)+\mathrm{O}_{2}(g) & \text { Fast } \\
-\cline { 2 - 3 } \text { Overall reaction } & \mathrm{O}_{3}(g)+\mathrm{O}(g) & \longrightarrow 2 \mathrm{O}_{2}(g)
+\text { Overall reaction } & \mathrm{O}_{3}(g)+\mathrm{O}(g) & \longrightarrow 2 \mathrm{O}_{2}(g)
 \end{array}$$
 a. Which species is a catalyst?
 b. Which species is an intermediate?
@@ -2004,15 +1978,13 @@ $$\text { Rate }=-\frac{\Delta\left[\mathrm{O}_{2}\right]}{\Delta t}$$
 | {$[\mathbf{N O}]_{\mathbf{0}}$} |  |  |
 | --- | --- | --- |
 | (molecules/cm ${ }^{\mathbf{3}}$ ) |  |  |
-|  | | | {$\left[\mathbf{O}_{\mathbf{2}}\right]_{\mathbf{0}}$} |  |  | |
-| --- |
-| | (molecules/cm ${ }^{\mathbf{3}}$ ) |  |  | |
-| |  |
- | | | Initial Rate |  |  | |
-| --- |
-| | (molecules/cm ${ }^{\mathbf{3}} \cdot \mathbf{s}$ ) |  |  | |
-| |  |
- |  |  |
+|  |  | {$\left[\mathbf{O}_{\mathbf{2}}\right]_{\mathbf{0}}$}   |
+|  | (molecules/cm ${ }^{\mathbf{3}}$ ) |  |
+|  |  |  |
+|  |  | Initial Rate   |
+|  | (molecules/cm ${ }^{\mathbf{3}} \cdot \mathbf{s}$ ) |  |
+|  |  |  |
+|  |  |  |
 | $1.00 \times 10^{18}$ | $1.00 \times 10^{18}$ | $2.00 \times 10^{16}$ |
 | $3.00 \times 10^{18}$ | $1.00 \times 10^{18}$ | $1.80 \times 10^{17}$ |
 | $2.50 \times 10^{18}$ | $2.50 \times 10^{18}$ | $3.13 \times 10^{17}$ |
@@ -2124,11 +2096,10 @@ was studied by performing two experiments. In the first experiment the rate of d
 | Time |  |
 | --- | --- |
 | $\mathbf{( m s )}$ |  |
-|  | | | {$[\mathbf{N O}]$} |  | |
-| --- |
-| | $\mathbf{( m o l e c u l e s / \mathbf { c m } ^ { \mathbf { 3 } } )}$ |  | |
-| |  |
- |  |
+|  |  {$[\mathbf{N O}]$}  |
+|  | $\mathbf{( m o l e c u l e s / \mathbf { c m } ^ { \mathbf { 3 } } )}$  |
+|  |  |
+|  |  |
 | 0 | $6.0 \times 10^{8}$ |
 | $100 \pm 1$ | $5.0 \times 10^{8}$ |
 | $500 \pm 1$ | $2.4 \times 10^{8}$ |
@@ -2141,11 +2112,10 @@ In the second experiment [NO] was held constant at $2.0 \times 10^{14}$ molecule
 | Time |  |
 | --- | --- |
 | $\mathbf{( m s )}$ |  |
-|  | | | {$\left[\mathbf{O}_{\mathbf{3}}\right]$} |  | |
-| --- |
-| | $\mathbf{( m o l e c u l e s / \mathbf { c m } ^ { \mathbf { 3 } } )}$ |  | |
-| |  |
- |  |
+|  |  {$\left[\mathbf{O}_{\mathbf{3}}\right]$}  |
+|  | $\mathbf{( m o l e c u l e s / \mathbf { c m } ^ { \mathbf { 3 } } )}$  |
+|  |  |
+|  |  |
 | 0 | $1.0 \times 10^{10}$ |
 | $50 \pm 1$ | $8.4 \times 10^{9}$ |
 | $100 \pm 1$ | $7.0 \times 10^{9}$ |
@@ -2274,15 +2244,13 @@ The kinetics of this reaction were studied by following the decay of the concent
 | {$\left[\mathbf{I}^{-}\right]_{\mathbf{0}}$} |  |  |
 | --- | --- | --- |
 | $\mathbf{m o l} / \mathbf{L}$ |  |  |
-|  | | | {$\left[\mathbf{H}^{+}\right]_{\mathbf{0}}$} |  |  | |
-| --- |
-| | $\mathbf{( m o l / L )}$ |  |  | |
-| |  |
- | | | Slope |  |  | |
-| --- |
-| | $\left(\mathbf{m i n}^{-\mathbf{1}}\right)$ |  |  | |
-| |  |
- |  |  |
+|  |  | {$\left[\mathbf{H}^{+}\right]_{\mathbf{0}}$}   |
+|  | $\mathbf{( m o l / L )}$ |  |
+|  |  |  |
+|  |  | Slope   |
+|  | $\left(\mathbf{m i n}^{-\mathbf{1}}\right)$ |  |
+|  |  |  |
+|  |  |  |
 | 0.1000 | 0.0400 | -0.120 |
 | 0.3000 | 0.0400 | -0.360 |
 | 0.4000 | 0.0400 | -0.480 |

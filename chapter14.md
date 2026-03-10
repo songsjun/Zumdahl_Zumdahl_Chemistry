@@ -1741,18 +1741,8 @@ The acid-base properties of aqueous solutions of various salts are summarized in
 
 Further aspects of acid strengths are discussed in Section 20.7.
 
-| H-X Bond | | | --- | --- | --- | |
-| --- |
-| | Bond |  |  | |
-| | Strength |  |  | |
-| | (kJ/mol) |  |  | |
-| |  |
- | | | Acid |  |  | |
-| --- |
-| | Strength |  |  | |
-| | in Water |  |  | |
-| |  |
- |  |  |
+| H-X Bond | Bond Strength (kJ/mol) | Acid Strength in Water |
+| --- | --- | --- |
 | H-F | 565 | Weak |
 | H-Cl | 427 | Strong |
 | H-Br | 363 | Strong |
@@ -1799,13 +1789,9 @@ A compound containing the $\mathrm{H}-\mathrm{O}-\mathrm{X}$ group will produce 
 | $\mathrm{HNO}_{2}$ | $\mathrm{H}-\mathrm{O}-\mathrm{N}-\mathrm{O}$ | $4.0 \times 10^{-4}$ |
 
 
-|  Acid  | | | --- | --- | --- | --- | |
-| --- |
-| | Electronegativity |  |  |  | |
-| | of $\mathbf{X}$ |  |  |  | |
-| |  |
-} |  |  |  |
-| HOCl | Cl | 3.0 | $\boldsymbol{K}_{\mathrm{a}}$ for Acid |
+| Acid | X | Electronegativity of $\mathbf{X}$ | $\boldsymbol{K}_{\mathrm{a}}$ for Acid |
+| --- | --- | --- | --- |
+| HOCl | Cl | 3.0 |  |
 | HOBr | Br | 2.8 | $4 \times 10^{-8}$ |
 | HOI | I | 2.5 | $2 \times 10^{-9}$ |
 | $\mathrm{HOCH}_{3}$ | $\mathrm{CH}_{3}$ | 2.3 (for carbon in $\mathrm{CH}_{3}$ ) | $2 \times 10^{-11}$ |
@@ -2343,16 +2329,12 @@ f. $\mathrm{pOH}=9.60$
 
 44. Fill in the missing information in the following table.
 
-| | pH | pOH | [ $\mathrm{H}^{+}$] | [ $\mathrm{OH}^{-}$] | Acidic, Basic, or Neutral? |
+|  | pH | pOH | [ $\mathrm{H}^{+}$] | [ $\mathrm{OH}^{-}$] | Acidic, Basic, or Neutral? |
 | --- | --- | --- | --- | --- | --- |
 | Solution a | 9.63 | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ |
 | Solution b | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ | $\underline{3.9 \times 10^{-6} M}$ | $\_\_\_\_$ |
 | Solution c | $\_\_\_\_$ | $\_\_\_\_$ | $\underline{0.027 M}$ | $\_\_\_\_$ | $\_\_\_\_$ |
-| Solution d | $\_\_\_\_$ | | | $\_\_\_\_$ |  |  |  |  |  | |
-| --- |
-| | 12.2 |  |  |  |  |  | |
-| |  |
- | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ |  |  |
+| Solution d | $\_\_\_\_$ | 12.2 | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ |
 
 45. The pH of a sample of gastric juice in a person's stomach is 2.1 . Calculate the $\mathrm{pOH},\left[\mathrm{H}^{+}\right]$, and $\left[\mathrm{OH}^{-}\right]$for this sample. Is gastric juice acidic or basic?
 46. The pOH of a sample of baking soda dissolved in water is 5.74 at $25^{\circ} \mathrm{C}$. Calculate the $\mathrm{pH},\left[\mathrm{H}^{+}\right]$, and [ $\mathrm{OH}^{-}$] for this sample. Is the solution acidic or basic?

@@ -215,24 +215,16 @@ Sodium reacts violently with chlorine.
 
 | Reaction | Comment |
 | --- | --- |
-| $$\begin{array}{l} |  |
-| 2 \mathrm{M}+\mathrm{X}_{2} \rightarrow 2 \mathrm{MX} |  |
-| 4 \mathrm{Li}+\mathrm{O}_{2} \rightarrow 2 \mathrm{Li}_{2} \mathrm{O} |  |
-| 2 \mathrm{Na}+\mathrm{O}_{2} \rightarrow \mathrm{Na}_{2} \mathrm{O}_{2} |  |
-| \mathrm{M}+\mathrm{O}_{2} \rightarrow \mathrm{MO}_{2} |  |
-| 2 \mathrm{M}+\mathrm{S} \rightarrow \mathrm{M}_{2} \mathrm{~S} |  |
-| 6 \mathrm{Li}+\mathrm{N}_{2} \rightarrow 2 \mathrm{Li}_{3} \mathrm{~N} |  |
-| 12 \mathrm{M}+\mathrm{P}_{4} \rightarrow 4 \mathrm{M}_{3} \mathrm{P} |  |
-| 2 \mathrm{M}+\mathrm{H}_{2} \rightarrow 2 \mathrm{MH} |  |
-| 2 \mathrm{M}+2 \mathrm{H}_{2} \mathrm{O} \rightarrow 2 \mathrm{MOH}+\mathrm{H}_{2} |  |
-| 2 \mathrm{M}+2 \mathrm{H}^{+} \rightarrow 2 \mathrm{M}^{+}+\mathrm{H}_{2} |  |
-| \end{array}$$ | | | $\mathrm{X}_{2}=$ any halogen molecule Excess oxygen |  | |
-| --- |
-| | $\mathrm{M}=\mathrm{K}, \mathrm{Rb}$, or Cs |  | |
-| | Li only |  | |
-| | Violent reaction! |  | |
-| |  |
- |  |
+| $2 \mathrm{M}+\mathrm{X}_{2} \rightarrow 2 \mathrm{MX}$ | $\mathrm{X}_{2}=$ any halogen molecule |
+| $4 \mathrm{Li}+\mathrm{O}_{2} \rightarrow 2 \mathrm{Li}_{2} \mathrm{O}$ |  |
+| $2 \mathrm{Na}+\mathrm{O}_{2} \rightarrow \mathrm{Na}_{2} \mathrm{O}_{2}$ |  |
+| $\mathrm{M}+\mathrm{O}_{2} \rightarrow \mathrm{MO}_{2}$ | $\mathrm{M}=\mathrm{K}, \mathrm{Rb}, \mathrm{Cs}$; excess oxygen |
+| $2 \mathrm{M}+\mathrm{S} \rightarrow \mathrm{M}_{2} \mathrm{~S}$ |  |
+| $6 \mathrm{Li}+\mathrm{N}_{2} \rightarrow 2 \mathrm{Li}_{3} \mathrm{~N}$ | Li only |
+| $12 \mathrm{M}+\mathrm{P}_{4} \rightarrow 4 \mathrm{M}_{3} \mathrm{P}$ |  |
+| $2 \mathrm{M}+\mathrm{H}_{2} \rightarrow 2 \mathrm{MH}$ |  |
+| $2 \mathrm{M}+2 \mathrm{H}_{2} \mathrm{O} \rightarrow 2 \mathrm{MOH}+\mathrm{H}_{2}$ | Violent reaction! |
+| $2 \mathrm{M}+2 \mathrm{H}^{+} \rightarrow 2 \mathrm{M}^{+}+\mathrm{H}_{2}$ |  |
 
 
 The alkali metal ions are very important for the proper functioning of biologic systems, such as nerves and muscles, and $\mathrm{Na}^{+}$and $\mathrm{K}^{+}$ions are present in all body cells and fluids. In human blood plasma the concentrations are
@@ -332,7 +324,7 @@ $$\mathrm{M}(s)+2 \mathrm{H}_{2} \mathrm{O}(l) \longrightarrow \mathrm{M}^{2+}(a
 
 Calcium, strontium, and barium react vigorously at $25^{\circ} \mathrm{C}$. The less easily oxidized beryllium and magnesium show no observable reaction with water at $25^{\circ} \mathrm{C}$, although magnesium reacts with boiling water. Table 19.7 summarizes various properties, sources, and preparations of the alkaline earth metals.
 
-| \multirow[b]{2}{*}{Element} | \multirow[b]{2}{*}{Radius of $\mathrm{M}^{2+}$ (pm)} | Ionization Energy (kJ/mol) | \multirow[b]{2}{*}{$\mathscr{E}^{\circ}(\mathrm{V})$ for $\mathbf{M}^{\mathbf{2 +}} \boldsymbol{+} \mathbf{2 \mathbf { e } ^ { - }} \boldsymbol{\rightarrow} \mathbf{M}$} | \multirow[b]{2}{*}{Source} | \multirow[b]{2}{*}{Method of Preparation} |  |
+| Element | Radius of $\mathrm{M}^{2+}$ (pm) | Ionization Energy (kJ/mol) | $\mathscr{E}^{\circ}(\mathrm{V})$ for $\mathbf{M}^{\mathbf{2 +}} \boldsymbol{+} \mathbf{2 \mathbf { e } ^ { - }} \boldsymbol{\rightarrow} \mathbf{M}$ | Source | Method of Preparation |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | |  | First | Second |  |  |  |
 | Beryllium | ~30 | 900 | 1760 | -1.70 | Beryl ( $\mathrm{Be}_{3} \mathrm{Al}_{2} \mathrm{Si}_{6} \mathrm{O}_{18}$ ) | Electrolysis of molten $\mathrm{BeCl}_{2}$ |
@@ -509,12 +501,8 @@ Although graphite is thermodynamically more stable than diamond, the transformat
 
 Fullerenes have been discovered recently by geologists in ancient rocks in Russia.
 
-| Bond | | | --- | --- | |
-| --- |
-| | Bond Energy |  | |
-| | $\mathbf{( k J} / \mathbf{m o l})$ |  | |
-| |  |
- |  |
+| Bond | Bond Energy $\mathbf{(kJ/mol)}$ |
+| --- | --- |
 | $\mathrm{C}-\mathrm{C}$ | 347 |
 | $\mathrm{Si}-\mathrm{Si}$ | 340 |
 | $\mathrm{Si}-\mathrm{O}$ | 452 |

@@ -68,14 +68,11 @@ Chapter Twenty-One Transition Metals and Coordination Chemistry
 | | Y | Zr | Nb | Mo | Tc | Ru | Rh | Pd | Ag | Cd |
 | | La | Hf | Ta | W | Re | Os | Ir | Pt | Au | Hg |
 | | Ac | Rf | Db | Sg | Bh | Hs | Mt | Ds | Rg | Uub |
-| \multirow{2{*}{}} |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
 | |  |  |  |  |  |  |  |  |  |  |
 | Pm | Sm | Eu | Gd | Tb | Dy | Ho | Er | Tm | Yb | Lu |
 | Np | Pu | Am | Cm | Bk | Cf | Es | Fm | Md | No | Lr |
 
-chemical behavior of these elements as they do for the representative elements (the A groups), so we will not use them.
-
-As a class, the transition metals behave as typical metals, possessing metallic luster and relatively high electrical and thermal conductivities. Silver is the best conductor of heat and electric current. However, copper is a close second, which explains copper's wide use in the electrical systems of homes and factories.
 chemical behavior of these elements as they do for the representative elements (the A groups), so we will not use them.
 
 As a class, the transition metals behave as typical metals, possessing metallic luster and relatively high electrical and thermal conductivities. Silver is the best conductor of heat and electric current. However, copper is a close second, which explains copper's wide use in the electrical systems of homes and factories.
@@ -272,11 +269,10 @@ Titanium dioxide, a cheap and plentiful material, may prove to be worth its weig
 | --- | --- |
 | State of |  |
 | Vanadium |  |
-|  | | | Species in Aqueous |  | |
-| --- |
-| | Solution |  | |
-| |  |
- |  |
+|  |  Species in Aqueous  |
+|  | Solution  |
+|  |  |
+|  |  |
 | +5 | $\mathrm{VO}_{2}{ }^{+}($yellow $)$ |
 | +4 | $\mathrm{VO}^{2+}($ blue $)$ |
 | +3 | $\mathrm{~V}^{3+}($ aq $)$ (blue-green) |
@@ -287,12 +283,11 @@ Titanium dioxide, a cheap and plentiful material, may prove to be worth its weig
 | --- | --- |
 | State of |  |
 | Chromium |  |
-|  | | | Examples of |  | |
-| --- |
-| | Compounds |  | |
-| | $\mathbf{( X =}$ halogen) |  | |
-| |  |
- |  |
+|  |  Examples of  |
+|  | Compounds  |
+|  | $\mathbf{( X =}$ halogen)  |
+|  |  |
+|  |  |
 | +2 | $\mathrm{CrX}_{2}$ |
 | +3 | $\mathrm{CrX}_{3}$ |
 |  | $\mathrm{Cr}_{2} \mathrm{O}_{3}$ (green) |
@@ -361,11 +356,10 @@ However, the bicycle that results is worth all these difficulties. One woman des
 | --- | --- |
 | State of |  |
 | Manganese |  |
-|  | | | Examples of |  | |
-| --- |
-| | Compounds |  | |
-| |  |
- |  |
+|  |  Examples of  |
+|  | Compounds  |
+|  |  |
+|  |  |
 | +2 | $\mathrm{Mn}(\mathrm{OH})_{2}$ (pink) |
 |  | $\mathrm{MnS}($ salmon $)$ |
 |  | $\mathrm{MnSO}_{4}$ (reddish) |
@@ -406,11 +400,10 @@ Nickel in compounds is almost exclusively in the +2 oxidation state. Aqueous sol
 | Oxidation |  |
 | --- | --- |
 | State |  |
-|  | | | Examples of |  | |
-| --- |
-| | Compounds |  | |
-| |  |
- |  |
+|  |  Examples of  |
+|  | Compounds  |
+|  |  |
+|  |  |
 | +2 | $\mathrm{CoSO}_{4}($ dark blue $)$ |
 |  | {$\left[\mathrm{Co}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right] \mathrm{Cl}_{2}$} |
 |  | $($ pink $)$ |
@@ -431,11 +424,10 @@ Nickel in compounds is almost exclusively in the +2 oxidation state. Aqueous sol
 | --- | --- |
 | State of |  |
 | Nickel |  |
-|  | | | Examples of |  | |
-| --- |
-| | Compounds |  | |
-| |  |
- |  |
+|  |  Examples of  |
+|  | Compounds  |
+|  |  |
+|  |  |
 | +2 | $\mathrm{NiCl}_{2}($ yellow $)$ |
 |  | {$\left[\mathrm{Ni}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right] \mathrm{Cl}_{2}$} |
 |  | $($ green $)$ |
@@ -454,31 +446,12 @@ Nickel in compounds is almost exclusively in the +2 oxidation state. Aqueous sol
 
 Copper roofs and bronze statues, such as the Statue of Liberty, turn green in air because $\mathrm{Cu}_{3}(\mathrm{OH})_{4} \mathrm{SO}_{4}$ and $\mathrm{Cu}_{4}(\mathrm{OH})_{6} \mathrm{SO}_{4}$ form.
 
-| | | --- | --- | |
-| --- |
-| | TABLE 21.11 |  | |
-| | Compounds of Copper |  | |
-| |  |
- | | | Typical |  | |
-| --- |
-| | Comidation |  | |
-| | State of |  | |
-| | Copper |  | |
-| |  |
- |  |
-| +1 | | | Examples of |  | |
-| --- |
-| | Compounds |  | |
-| |  |
- |  |
-| | $\mathrm{Cu}_{2} \mathrm{O}$ (red) |
-| +2 | $\mathrm{Cu}_{2} \mathrm{~S}$ (black) |
-|  | CuCl (white) |
-|  | CuO (black) |
-|  | $\mathrm{CuSO} \mathrm{O}_{4} \cdot 5 \mathrm{H}_{2} \mathrm{O}$ (blue) |
-|  | $\mathrm{CuCl} \mathrm{l}_{2} \cdot 2 \mathrm{H}_{2} \mathrm{O}$ (green) |
-|  | {$\left[\mathrm{Cu}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right]\left(\mathrm{NO}_{3}\right)_{2}$} |
-|  | $($ blue $)$ |
+TABLE 21.11 Compounds of Copper
+
+| Typical Oxidation State of Copper | Examples of Compounds |
+| --- | --- |
+| +1 | $\mathrm{Cu}_{2} \mathrm{O}$ (red); $\mathrm{Cu}_{2} \mathrm{S}$ (black); $\mathrm{CuCl}$ (white) |
+| +2 | $\mathrm{CuO}$ (black); $\mathrm{CuSO}_{4} \cdot 5 \mathrm{H}_{2} \mathrm{O}$ (blue); $\mathrm{CuCl}_{2} \cdot 2 \mathrm{H}_{2} \mathrm{O}$ (green); $\left[\mathrm{Cu}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right]\left(\mathrm{NO}_{3}\right)_{2}$ (blue) |
 
 
 | Alloy | Composition (\% by mass in parentheses) |
@@ -544,12 +517,11 @@ FIGURE 21.6
 | --- | --- |
 | Unidentate/monodentate | $\mathrm{NH}_{3} \mathrm{NO}_{2}{ }^{-}$(nitrite) |
 | Bidentate | Oxalate |
-| Polydentate | | | Diethylenetriamine (dien) |  | |
-| --- |
-| | Three coordinating atoms Ethylenediaminetetraacetate (EDTA) |  | |
-| | Six coordinating atoms |  | |
-| |  |
- |  |
+| Polydentate |  Diethylenetriamine (dien)  |
+|  | Three coordinating atoms Ethylenediaminetetraacetate (EDTA)  |
+|  | Six coordinating atoms  |
+|  |  |
+|  |  |
 
 
 FIGURE 21.7
@@ -574,28 +546,16 @@ The coordination of EDTA with a $2+$ metal ion.
 | Cyano | $\mathrm{CN}^{-}$ |
 
 
-| | | --- | --- | |
-| --- |
-| | TABLE 21.15 |  | |
-| | for Some Metal lons in Anionic |  | |
-| | Complex lons |  | |
-| |  |
- | | | Latin Names Used |  | |
-| --- |
-| | Metal |  | |
-| |  |
- |  |
-| Iron | | | Name in an |  | |
-| --- |
-| | Anionic Complex |  | |
-| |  |
- |  |
-| Copper | Ferrate |
-| Lead | Cuprate |
-| Silver | Plumbate |
-| Gold | Argentate |
-| Tin | Aurate |
-|  | Stannate |
+TABLE 21.15 Latin Names Used for Some Metal Ions in Anionic Complex Ions
+
+| Metal | Name in an Anionic Complex |
+| --- | --- |
+| Iron | Ferrate |
+| Copper | Cuprate |
+| Lead | Plumbate |
+| Silver | Argentate |
+| Gold | Aurate |
+| Tin | Stannate |
 
 
 Sample Exercise 21.1
@@ -1223,15 +1183,10 @@ Chapter Twenty-One Transition Metals and Coordination Chemistry
 
 | Method | Examples |
 | --- | --- |
-| Precipitation of a salt | $$\begin{array}{l} |
-| \mathrm{Cu}^{2+}(a q)+\mathrm{S}^{2-}(a q) \longrightarrow \mathrm{CuS}(s) |  |
-| \mathrm{Cu}^{+}(a q)+\mathrm{HCN}(a q) \longrightarrow \mathrm{CuCN}(s)+\mathrm{H}^{+}(a q) |  |
-| \end{array}$$ |  |
-|  | $\left\{\begin{array}{l}\mathrm{Au}^{+}(a q)+\mathrm{Fe}^{2+}(a q) \longrightarrow \mathrm{Au}(s)+\mathrm{Fe}^{3+}(a q) \\ \mathrm{Cu}^{2+}(a q)+\mathrm{Fe}(s) \longrightarrow \mathrm{Cu}(s)+\mathrm{Fe}^{2+}(a q) \\ \mathrm{Ni}^{2+}(a q)+\mathrm{H}_{2}(g) \longrightarrow \mathrm{Ni}(s)+2 \mathrm{H}^{+}(a q)\end{array}\right.$ |
-| $\left\{\begin{array}{l}\mathrm{Cu}^{2+}(a q)+2 \mathrm{e}^{-} \longrightarrow \mathrm{Cu}(s) \\ \mathrm{Al}^{3+}(a q)+3 \mathrm{e}^{-} \longrightarrow \mathrm{Al}(s)\end{array}\right.$ |  |
-| |  |
-| \multirow[t]{2}{*}{Reduction plus precipitation} | $2 \mathrm{Cu}^{2+}(a q)+2 \mathrm{Cl}^{-}(a q)+\mathrm{H}_{2} \mathrm{SO}_{3}(a q)+\mathrm{H}_{2} \mathrm{O}(l) \longrightarrow$ |
-| | $2 \mathrm{CuCl}(s)+3 \mathrm{H}^{+}(a q)+\mathrm{HSO}_{4}{ }^{-}(a q)$ |
+| Precipitation of a salt | $\mathrm{Cu}^{2+}(a q)+\mathrm{S}^{2-}(a q) \longrightarrow \mathrm{CuS}(s)$; $\mathrm{Cu}^{+}(a q)+\mathrm{HCN}(a q) \longrightarrow \mathrm{CuCN}(s)+\mathrm{H}^{+}(a q)$ |
+| Reduction | $\mathrm{Au}^{+}(a q)+\mathrm{Fe}^{2+}(a q) \longrightarrow \mathrm{Au}(s)+\mathrm{Fe}^{3+}(a q)$; $\mathrm{Cu}^{2+}(a q)+\mathrm{Fe}(s) \longrightarrow \mathrm{Cu}(s)+\mathrm{Fe}^{2+}(a q)$; $\mathrm{Ni}^{2+}(a q)+\mathrm{H}_{2}(g) \longrightarrow \mathrm{Ni}(s)+2 \mathrm{H}^{+}(a q)$ |
+| Electrolytic reduction | $\mathrm{Cu}^{2+}(a q)+2 \mathrm{e}^{-} \longrightarrow \mathrm{Cu}(s)$; $\mathrm{Al}^{3+}(a q)+3 \mathrm{e}^{-} \longrightarrow \mathrm{Al}(s)$ |
+| Reduction plus precipitation | $2 \mathrm{Cu}^{2+}(a q)+2 \mathrm{Cl}^{-}(a q)+\mathrm{H}_{2} \mathrm{SO}_{3}(a q)+\mathrm{H}_{2} \mathrm{O}(l) \longrightarrow 2 \mathrm{CuCl}(s)+3 \mathrm{H}^{+}(a q)+\mathrm{HSO}_{4}{ }^{-}(a q)$ |
 
 
 Formation of a complex ion also occurs in the cyanidation process for the recovery of gold. However, since the gold is present in the ore as particles of metal, it must first be oxidized by oxygen to produce $\mathrm{Au}^{+}$, which then reacts with $\mathrm{CN}^{-}$to form the soluble $\mathrm{Au}(\mathrm{CN})_{2}{ }^{-}$species. Thus, in this case, the leaching process involves a combination of oxidation and complexation.
@@ -1583,16 +1538,8 @@ b. What is the oxidation state of Mo in each of the compounds mentioned above?
 21. What is the lanthanide contraction? How does the lanthanide contraction affect the properties of the $4 d$ and $5 d$ transition metals?
 22. We expect the atomic radius to increase down a group in the periodic table. Can you suggest why the atomic radius of hafnium breaks this rule? (See the following data.)
 
-| Element | | | --- | --- | --- | --- | |
-| --- |
-| | Atomic |  |  |  | |
-| | Radius $(\AA)$ |  |  |  | |
-| |  |
- | Element | | | Atomic |  |  |  | |
-| --- |
-| | Radius $(\AA)$ |  |  |  | |
-| |  |
- |  |  |  |
+| Element | Atomic Radius $(\AA)$ | Element | Atomic Radius $(\AA)$ |
+| --- | --- | --- | --- |
 | Sc | 1.57 | Ti | 1.477 |
 | Y | 1.693 | Zr | 1.593 |
 | La | 1.915 | Hf | 1.476 |

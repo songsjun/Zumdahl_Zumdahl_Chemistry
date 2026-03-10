@@ -320,22 +320,10 @@ See Exercises 6.35 through 6.38.
 6.2 Enthalpy and Calorimetry
 237
 
-| | | --- | --- | |
-| --- |
-| | TABLE 6.1 |  | |
-| | Capacities of Some Common |  | |
-| | Substances |  | |
-| |  |
- | | | The Specific Heat |  | |
-| --- |
-| |  |
- |  |
-| Substance | | | Specific Heat |  | |
-| --- |
-| | Capacity |  | |
-| | $\left(\mathbf{J} /{ }^{\circ} \mathbf{C} \cdot \mathbf{g}\right)$ |  | |
-| |  |
- |  |
+TABLE 6.1 The Specific Heat Capacities of Some Common Substances
+
+| Substance | Specific Heat Capacity $\left(\mathbf{J} /{ }^{\circ} \mathbf{C} \cdot \mathbf{g}\right)$ |
+| --- | --- |
 | $\mathrm{H}_{2} \mathrm{O}(l)$ | 4.18 |
 | $\mathrm{H}_{2} \mathrm{O}(s)$ | 2.03 |
 | $\mathrm{Al}(s)$ | 0.89 |
@@ -1005,30 +993,14 @@ As gasoline became more important, new ways were sought to increase the yield of
 254
 Chapter Six Thermochemistry
 
-| | | --- | --- | |
-| --- |
-| | TABLE 6.4 Uses of the Various |  | |
-| | Petroleum Fractions |  | |
-| |  |
- |  |
-| | | Petroleum Fraction |  | |
-| --- |
-| | in Terms of Numbers |  | |
-| | of Carbon Atoms |  | |
-| |  |
- | Major Uses |
+TABLE 6.4 Uses of the Various Petroleum Fractions
+
+| Petroleum Fraction in Terms of Numbers of Carbon Atoms | Major Uses |
+| --- | --- |
 | $\mathrm{C}_{5}-\mathrm{C}_{10}$ | Gasoline |
 | $\mathrm{C}_{10}-\mathrm{C}_{18}$ | Kerosene |
-| $\mathrm{C}_{15}-\mathrm{C}_{25}$ | | | Jet fuel |  | |
-| --- |
-| | Diesel fuel |  | |
-| | Heating oil |  | |
-| | Lubricating |  | |
-| | oil |  | |
-| | Asphalt |  | |
-| |  |
- |  |
-| $>\mathrm{C}_{25}$ |  |
+| $\mathrm{C}_{15}-\mathrm{C}_{25}$ | Jet fuel, diesel fuel, heating oil |
+| $>\mathrm{C}_{25}$ | Lubricating oil, asphalt |
 
 
 Coal has variable composition depending on both its age and location.
@@ -1045,7 +1017,7 @@ Coal is an important and plentiful fuel in the United States, currently furnishi
 Effects of Carbon Dioxide on Climate
 The earth receives a tremendous quantity of radiant energy from the sun, about $30 \%$ of which is reflected back into space by the earth's atmosphere. The remaining energy passes through the atmosphere to the earth's surface. Some of this energy is absorbed by plants for photosynthesis and some by the oceans to evaporate water, but most of it is absorbed by soil, rocks, and water, increasing the temperature of the earth's surface. This energy is in turn radiated from the heated surface mainly as infrared radiation, often called heat radiation.
 
-| \multirow[b]{2}{*}{Type of Coal} | Mass Percent of Each Element |  |  |  |  |
+| Type of Coal | Mass Percent of Each Element |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | | C | H | 0 | N | S |
 | Lignite | 71 | 4 | 23 | 1 | 1 |

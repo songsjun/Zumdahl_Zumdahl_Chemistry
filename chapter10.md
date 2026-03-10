@@ -59,29 +59,13 @@ We will proceed in our study of liquids and solids by first considering the prop
 426
 Chapter Ten Liquids and Solids
 
-| | | --- | --- | |
-| --- |
-| | TABLE $\mathbf{1 0 . 1}$ |  | |
-| | Three States of Water |  | |
-| |  |
- | | | Densities of the |  | |
-| --- |
-| | Density |  | |
-| | $\left(\mathbf{g} / \mathbf{c m}^{\mathbf{3}}\right)$ |  | |
-| |  |
- |  |
-| State |  |
-| | | Solid $\left(0^{\circ} \mathrm{C}\right.$, |  | |
-| --- |
-| | $1 \mathrm{~atm})$ |  | |
-| |  |
- | 0.9168 |
-| Liquid $\left(25^{\circ} \mathrm{C}\right.$, |  |
-| $1 \mathrm{~atm})$ |  |
-|  |  |
-| Gas $\left(400^{\circ} \mathrm{C}\right.$, |  |
-| $1 \mathrm{~atm})$ |  |
-|  |  |
+TABLE $\mathbf{1 0 . 1}$ Densities of the Three States of Water
+
+| State | Density $\left(\mathbf{g} / \mathbf{c m}^{\mathbf{3}}\right)$ |
+| --- | --- |
+| Solid $\left(0^{\circ} \mathrm{C}, 1 \mathrm{~atm}\right)$ | 0.9168 |
+| Liquid $\left(25^{\circ} \mathrm{C}, 1 \mathrm{~atm}\right)$ |  |
+| Gas $\left(400^{\circ} \mathrm{C}, 1 \mathrm{~atm}\right)$ |  |
 
 
 Intermolecular forces were introduced in Chapter 5 to explain nonideal gas behavior.
@@ -322,7 +306,7 @@ Examples of three types of crystalline solids. Only part of the structure is sho
 436
 Chapter Ten Liquids and Solids
 
-|  | Atomic Solids | \multirow[b]{2}{*}{Molecular Solids} | \multirow[b]{2}{*}{Ionic Solids} |  |  |
+|  | Atomic Solids | Molecular Solids | Ionic Solids |  |  |
 | --- | --- | --- | --- | --- | --- |
 | | Metallic | Network | Group 8A |  |  |
 | Components That Occupy the Lattice Points: | Metal atoms | Nonmetal atoms | Group 8A atoms | Discrete molecules | Ions |
@@ -606,7 +590,7 @@ Chapter Ten Liquids and Solids
 
 | TABLE 10.5 Compositions of Some Common Types of Glass |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \multirow[b]{2}{*}{Type of Glass} | Percentages of Various Components |  |  |  |  |  |  |
+| Type of Glass | Percentages of Various Components |  |  |  |  |  |  |
 | | $\mathbf{S i O}_{\mathbf{2}}$ | CaO | $\mathrm{Na}_{2} \mathrm{O}$ | $\boldsymbol{B}_{\mathbf{2}} \mathbf{O}_{\mathbf{3}}$ | $\mathrm{Al}_{2} \mathrm{O}_{3}$ | $\boldsymbol{K}_{\mathbf{2}} \mathbf{O}$ | MgO |
 | Window (soda-lime glass) | 72 | 11 | 13 | - | 0.3 | 3.8 | - |
 | Cookware (aluminosilicate glass) | 55 | 15 | - | - | 20 | - | 10 |
@@ -859,19 +843,12 @@ See Exercises 10.61 through 10.68.
 
 In this chapter we have considered various types of solids. Table 10.7 summarizes these types of solids and some of their properties.
 
-| \multirow[t]{2}{*}{Type of Solid:} | Atomic | \multirow[t]{2}{*}{Molecular} | \multirow[t]{2}{*}{Ionic} |  |  |
+| Type of Solid | Atomic Network | Metallic | Molecular (Group 8A/Nonpolar) | Molecular (Polar) | Ionic |
 | --- | --- | --- | --- | --- | --- |
-| | Network | Metallic | Group 8A |  |  |
-| Structural Unit: | Atom | Atom | Atom | Molecule | Ion |
-| Type of Bonding: | Directional covalent bonds | Nondirectional covalent bonds involving electrons that are delocalized throughout the crystal | London dispersion forces | | | Polar molecules: dipole-dipole interactions |  |  |  |  |  | |
-| --- |
-| | Nonpolar molecules: London dispersion forces |  |  |  |  |  | |
-| |  |
- | Ionic |  |  |  |  |
-| \multirow[t]{3}{*}{Typical Properties:} | Hard | Wide range of hardness |  | Soft | Hard |
-| | High melting point | Wide range of melting points | Very low melting point | Low melting point | High melting point |
-| | Insulator | Conductor |  | Insulator | Insulator |
-| Examples: | Diamond | Silver Iron Brass | Argon(s) | Ice (solid $\mathrm{H}_{2} \mathrm{O}$ ) Dry ice (solid $\mathrm{CO}_{2}$ ) | Sodium chloride Calcium fluoride |
+| Structural Unit | Atom | Atom | Atom/Molecule | Molecule | Ion |
+| Type of Bonding | Directional covalent bonds | Nondirectional covalent bonds involving electrons that are delocalized throughout the crystal | Nonpolar molecules: London dispersion forces | Polar molecules: dipole-dipole interactions | Ionic |
+| Typical Properties | Hard; high melting point; insulator | Wide range of hardness and melting points; conductor | Very low melting point; insulator | Low melting point; insulator | Hard; high melting point; insulator |
+| Examples | Diamond | Silver, iron, brass | Argon(s), dry ice (solid $\mathrm{CO}_{2}$) | Ice (solid $\mathrm{H}_{2} \mathrm{O}$) | Sodium chloride, calcium fluoride |
 
 ---
 
@@ -1629,7 +1606,7 @@ d. It also appears that copper must display a mixture of oxidation states for a 
 Phase Changes and Phase Diagrams
 79. Plot the following data and determine $\Delta H_{\text {vap }}$ for magnesium and lithium. In which metal is the bonding stronger?
 
-| \multirow[b]{2}{*}{Vapor Pressure (mm Hg)} | Temperature ( ${ }^{\circ} \mathrm{C}$ ) |  |
+| Vapor Pressure (mm Hg) | Temperature ( ${ }^{\circ} \mathrm{C}$ ) |  |
 | --- | --- | --- |
 | | Li | $\boldsymbol{M g}$ |
 | 1. | 750. | 620. |

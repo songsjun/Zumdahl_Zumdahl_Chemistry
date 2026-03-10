@@ -831,20 +831,8 @@ The hydrogen bonding among HF molecules in liquid hydrogen fluoride.
 
 When $\mathrm{H}_{2} \mathrm{O}$ molecules cluster around an ion, an ordering effect occurs, and $\Delta S_{\text {hyd }}^{\circ}$ is negative.
 
-| HX | | | --- | --- | --- | --- | |
-| --- |
-| | Melting |  |  |  | |
-| | Point $\left({ }^{\circ} \mathbf{C}\right)$ |  |  |  | |
-| |  |
- | | | Boiling |  |  |  | |
-| --- |
-| | Point $\left({ }^{\circ} \mathbf{C}\right)$ |  |  |  | |
-| |  |
- | | | H-X Bond |  |  |  | |
-| --- |
-| | Energy $(\mathbf{k J} / \mathbf{m o l})$ |  |  |  | |
-| |  |
- |  |  |  |
+| HX | Melting Point $\left({ }^{\circ} \mathbf{C}\right)$ | Boiling Point $\left({ }^{\circ} \mathbf{C}\right)$ | H-X Bond Energy $(\mathbf{kJ}/\mathbf{mol})$ |
+| --- | --- | --- | --- |
 | HF | -83 | 20 | 565 |
 | HCl | -114 | -85 | 427 |
 | HBr | -87 | -67 | 363 |

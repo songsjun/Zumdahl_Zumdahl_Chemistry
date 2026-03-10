@@ -142,18 +142,8 @@ Graphing is reviewed in Appendix 1.3.
 FIGURE 5.5
 Plotting Boyle's data from Table 5.1. (a) A plot of $P$ versus $V$ shows that the volume doubles as the pressure is halved. (b) A plot of $V$ versus $1 / P$ gives a straight line. The slope of this line equals the value of the constant $k$.
 
-| Volume |  |  |
+| Volume $\left(\mathbf{i n}^{\mathbf{3}}\right)$ | Pressure $(\mathbf{i n}\ \mathbf{H g})$ | Pressure × Volume $\left(\mathbf{i n}\ \mathbf{H g} \times \mathbf{i n}^{\mathbf{3}}\right)$ |
 | --- | --- | --- |
-| $\left(\mathbf{i n}^{\mathbf{3}}\right)$ |  |  |
-|  | | | Pressure |  |  | |
-| --- |
-| | $($ in $\mathbf{H g})$ |  |  | |
-| |  |
- | | | Pressure × Volume |  |  | |
-| --- |
-| | $\left(\right.$ in $\left.\mathbf{H g} \times \mathbf{i n}^{\mathbf{3}}\right)$ |  |  | |
-| |  |
- |  |  |
 | 117.5 | 12.0 | $14.1 \times 10^{2}$ |
 | 87.2 | 16.0 | $14.0 \times 10^{2}$ |
 | 70.7 | 20.0 | $14.1 \times 10^{2}$ |
@@ -442,10 +432,10 @@ $$\frac{V_{1}}{T_{1}}=\frac{n R}{P}=\frac{V_{2}}{T_{2}} \quad \text { or } \quad
 189
 
 Sample Exercise 5．9 Ideal Gas Law IV
-The problem in Sample Exercise 5.8 could be described as a＂Charles＇s law problem，＂ whereas the problem in Sample Exercise 5.7 might be called a＂Boyle＇s law problem．＂In both cases，however，we started with the ideal gas law．The real advantage of using the ideal gas law is that it applies to virtually any problem dealing with gases and is easy to remember．
-Reality Check：Is the answer sensible？In this case the temperature increased（at constant pressure），so the volume should increase．Thus the answer makes sense．
+The problem in Sample Exercise 5.8 could be described as a "Charles's law problem," whereas the problem in Sample Exercise 5.7 might be called a "Boyle's law problem." In both cases, however, we started with the ideal gas law. The real advantage of using the ideal gas law is that it applies to virtually any problem dealing with gases and is easy to remember.
+Reality Check: Is the answer sensible? In this case the temperature increased (at constant pressure), so the volume should increase. Thus the answer makes sense.
 
-See Exercises 5.45 and 5．46．
+See Exercises 5.45 and 5.46.
 Thus
 We are given
 $$\begin{array}{ll}
@@ -456,20 +446,11 @@ V_{1}=3.8 \mathrm{~L} & V_{2}=?
 Thus
 $$V_{2}=\frac{T_{2} V_{1}}{T_{1}}=\frac{(359 \mathrm{~K})(3.8 \mathrm{~L})}{278 \mathrm{~K}}=4.9 \mathrm{~L}$$
 
-Reality Check：Is the answer sensible？In this case the temperature increased（at constant per se．
+Reality Check: Is the answer sensible? In this case the temperature increased (at constant pressure), so the volume should increase.
 
-See Exercises 5.45 and 5．46．
-The problem in Sample Exercise 5.8 could be described as a＂Charles＇s law problem，＂增的 $V_{2} $V_{2}=\frac{T_{2} V_{1}}{T_{1}}=\frac{(359 \mathrm{~K})(3.8 \mathrm{~L})}{278 \mathrm{~K}}=4$$
-Reality Check：Is the answer sensible？In this case the temp
-pressure），so the volume should increase．Thus the answer ＂ ＂ Prede Exercise 5.8 could be described as a＂Charles＇s law problem，＂
-Sample Exercise 5.7 might be called a＂Boyle＇s law problem．＂In
-started with the ideal gas law．The real advantage of using the ideal
-virtually any problem dealing with gases and is easy to remember．
-－的
+See Exercises 5.45 and 5.46.
 
-A
-
-A sample of diborane gas $\left(\mathrm{B}_{2} \mathrm{H}_{6}\right)$ ，a substance that bursts into flame when exposed to air， has a pressure of 345 torr at a temperature of $-15^{\circ} \mathrm{C}$ and a volume of 3.48 L ．If condi－ tions are changed so that the temperature is $36^{\circ} \mathrm{C}$ and the pressure is 468 torr，what will be the volume of the sample？
+A sample of diborane gas $\left(\mathrm{B}_{2} \mathrm{H}_{6}\right)$, a substance that bursts into flame when exposed to air, has a pressure of 345 torr at a temperature of $-15^{\circ} \mathrm{C}$ and a volume of 3.48 L. If conditions are changed so that the temperature is $36^{\circ} \mathrm{C}$ and the pressure is 468 torr, what will be the volume of the sample?
 Solution
 Visualization：Changes in Gas Volume，Pressure，and Concentration
 
@@ -552,17 +533,10 @@ $$V=\frac{n R T}{P}=\frac{(1.000 \mathrm{mot})(0.08206 \mathrm{~L} \cdot \mathrm
 5.4 Gas Stoichiometry
 191
 
-| | | --- | --- | |
-| --- |
-| | TABLE 5.2 Molar Volumes for |  | |
-| | Various Gases at $\mathbf{0}^{\circ} \mathbf{C}$ and $\mathbf{1} \mathbf{a t m}$ |  | |
-| |  |
- |  |
-| Gas | | | Molar |  | |
-| --- |
-| | Volume $(\mathbf{L})$ |  | |
-| |  |
- |  |
+TABLE 5.2 Molar Volumes for Various Gases at $\mathbf{0}^{\circ} \mathbf{C}$ and $\mathbf{1} \mathbf{a t m}$
+
+| Gas | Molar Volume $(\mathbf{L})$ |
+| --- | --- |
 | Oxygen $\left(\mathrm{O}_{2}\right)$ | 22.397 |
 | Nitrogen $\left(\mathrm{N}_{2}\right)$ | 22.402 |
 | Hydrogen $\left(\mathrm{H}_{2}\right)$ | 22.433 |
@@ -1058,7 +1032,6 @@ A plot of the relative number of $\mathrm{O}_{2}$ molecules that have a given ve
 
 Calculate the root mean square velocity for the atoms in a sample of helium gas at $25^{\circ} \mathrm{C}$.
 
-\section*{-}
 S.
 
 The formula for root mean square velocity is ( In this case $T$
@@ -1365,7 +1338,7 @@ $$\begin{aligned}
 \mathrm{NO}_{2}(g) & \longrightarrow \mathrm{NO}(g)+\mathrm{O}(g) \\
 \mathrm{O}(g)+\mathrm{O}_{2}(g) & \longrightarrow \mathrm{O}_{3}(g) \\
 \mathrm{NO}(g)+\frac{1}{2} \mathrm{O}_{2}(g) & \longrightarrow \mathrm{NO}_{2}(g) \\
-\cline { 2 - 2 } \frac{3}{2} \mathrm{O}_{2}(g) & \longrightarrow \mathrm{O}_{3}(g)
+\frac{3}{2} \mathrm{O}_{2}(g) & \longrightarrow \mathrm{O}_{3}(g)
 \end{aligned}$$
 
 Note that the $\mathrm{NO}_{2}$ molecules assist in the formation of ozone without being themselves used up. The ozone formed then leads to the formation of OH and other pollutants.

@@ -500,7 +500,6 @@ must be satisfied, where each $N$ represents the number of molecules of each typ
 
 
 **Initial Conditions**
-\captionsetup{labelformat=empty}
 
 $9 \odot$ molecules
 $12 \odot$ molecules
@@ -733,18 +732,12 @@ $$\begin{aligned}
 
 Now we have all the equilibrium concentrations defined in terms of the initial concentrations and the change $x$ :
 
-| Initial |  |  |
+| Initial Concentration $(\mathbf{mol}/\mathbf{L})$ | Change $(\mathbf{mol}/\mathbf{L})$ | Equilibrium Concentration $(\mathbf{mol}/\mathbf{L})$ |
 | --- | --- | --- |
-| Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  |
-|  | Change $(\mathbf{m o l} / \mathbf{L})$ | | | Equilibrium |  |  | |
-| --- |
-| | Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  | |
-| |  |
- |  |  |
 | $[\mathrm{CO}]_{0}=1.000$ | $-x$ | $1.000-x$ |
-| {$\left[\mathrm{H}_{2} \mathrm{O}\right]_{0}=1.000$} | $-x$ | $1.000-x$ |
-| {$\left[\mathrm{CO}_{2}\right]_{0}=1.000$} | $+x$ | $1.000+x$ |
-| {$\left[\mathrm{H}_{2}\right]_{0}=1.000$} | $+x$ | $1.000+x$ |
+| $\left[\mathrm{H}_{2} \mathrm{O}\right]_{0}=1.000$ | $-x$ | $1.000-x$ |
+| $\left[\mathrm{CO}_{2}\right]_{0}=1.000$ | $+x$ | $1.000+x$ |
+| $\left[\mathrm{H}_{2}\right]_{0}=1.000$ | $+x$ | $1.000+x$ |
 
 
 Note that the sign of $x$ is determined by the direction of the shift. In this example, the system shifts to the right, so the product concentrations increase and the reactant concentrations decrease. Also note that because the coefficients in the balanced equation are all 1 , the magnitude of the change is the same for all species.
@@ -811,17 +804,11 @@ x \mathrm{~mol} / \mathrm{L}+x \mathrm{~mol} / \mathrm{L} & \longrightarrow 2 x 
 
 Now the equilibrium concentrations can be expressed in terms of $x$ :
 
-| Initial |  |  |
+| Initial Concentration $(\mathbf{mol}/\mathbf{L})$ | Change $(\mathbf{mol}/\mathbf{L})$ | Equilibrium Concentration $(\mathbf{mol}/\mathbf{L})$ |
 | --- | --- | --- |
-| Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  |
-|  | Change $(\mathbf{m o l} / \mathbf{L})$ | | | Equilibrium |  |  | |
-| --- |
-| | Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  | |
-| |  |
- |  |  |
-| $\left[\mathrm{H}_{2}\right]_{0}=2.000$ | $-x$ | {$\left[\mathrm{H}_{2}\right]=2.000-x$} |
-| {$\left[\mathrm{~F}_{2}\right]_{0}=2.000$} | $-x$ | {$\left[\mathrm{~F}_{2}\right]=2.000-x$} |
-| {$[\mathrm{HF}]_{0}=2.000$} | $+2 x$ | {$[\mathrm{HF}]=2.000+2 x$} |
+| $\left[\mathrm{H}_{2}\right]_{0}=2.000$ | $-x$ | $\left[\mathrm{H}_{2}\right]=2.000-x$ |
+| $\left[\mathrm{F}_{2}\right]_{0}=2.000$ | $-x$ | $\left[\mathrm{F}_{2}\right]=2.000-x$ |
+| $[\mathrm{HF}]_{0}=2.000$ | $+2x$ | $[\mathrm{HF}]=2.000+2x$ |
 
 
 These concentrations can be represented in a shorthand table as follows:
@@ -1066,7 +1053,7 @@ It is important to understand the factors that control the position of a chemica
 
 |  |  Total Pressure  |  |  |
 | --- | --- | --- | --- |
-| \cline { 2 - 4 } Temperature $\left({ }^{\circ} \mathbf{C}\right)$ | $\mathbf{3 0 0} \boldsymbol{a t m}$ | $\mathbf{4 0 0} \boldsymbol{a} \boldsymbol{t m}$ | $\mathbf{5 0 0} \boldsymbol{a t m}$ |
+| Temperature $\left({ }^{\circ} \mathbf{C}\right)$ | $\mathbf{3 0 0} \boldsymbol{a t m}$ | $\mathbf{4 0 0} \boldsymbol{a} \boldsymbol{t m}$ | $\mathbf{5 0 0} \boldsymbol{a t m}$ |
 | 400 | $48 \% \mathrm{NH}_{3}$ | $55 \% \mathrm{NH}_{3}$ | $61 \% \mathrm{NH}_{3}$ |
 | 500 | $26 \% \mathrm{NH}_{3}$ | $32 \% \mathrm{NH}_{3}$ | $38 \% \mathrm{NH}_{3}$ |
 | 600 | $13 \% \mathrm{NH}_{3}$ | $17 \% \mathrm{NH}_{3}$ | $21 \% \mathrm{NH}_{3}$ |

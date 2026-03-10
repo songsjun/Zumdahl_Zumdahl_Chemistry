@@ -94,6 +94,22 @@
     max-width: 900px;
     scroll-behavior: smooth;
   }
+  #controls {
+    margin-bottom: 14px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 13px;
+    color: #4b5563;
+  }
+  #controls label {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    user-select: none;
+  }
+  #controls input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+  }
   @media (min-width: 1400px) {
     #main { padding: 40px 80px 80px; }
   }
@@ -136,6 +152,27 @@
     border: none;
     border-top: 1px solid var(--border);
     margin: 24px 0;
+  }
+  #content .scan-fallback {
+    margin: 14px 0 6px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: #f9fafb;
+    padding: 6px 10px;
+  }
+  #content .scan-fallback summary {
+    cursor: pointer;
+    color: #374151;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 13px;
+  }
+  #content .scan-fallback img {
+    width: 100%;
+    max-width: 760px;
+    display: block;
+    margin: 10px auto 6px;
+    border: 1px solid #c7cdd6;
+    background: #fff;
   }
 
   /* Blockquotes */
@@ -237,6 +274,12 @@
 </div>
 
 <div id="main">
+  <div id="controls">
+    <label>
+      <input type="checkbox" id="toggle-scan" />
+      Show Original Scan On Figure Pages
+    </label>
+  </div>
   <div id="content">
     <div id="loading">
       <div class="spinner"></div>
@@ -270,6 +313,44 @@ const chapters = [
   { num: 21, title: 'Transition Metals and Coordination Chemistry' },
   { num: 22, title: 'Organic and Biological Molecules' },
 ];
+const chapterRanges = {
+  1: { start: 1, end: 38 },
+  2: { start: 39, end: 76 },
+  3: { start: 77, end: 126 },
+  4: { start: 127, end: 178 },
+  5: { start: 179, end: 228 },
+  6: { start: 229, end: 274 },
+  7: { start: 275, end: 328 },
+  8: { start: 329, end: 390 },
+  9: { start: 391, end: 424 },
+  10: { start: 425, end: 484 },
+  11: { start: 485, end: 526 },
+  12: { start: 527, end: 578 },
+  13: { start: 579, end: 622 },
+  14: { start: 623, end: 680 },
+  15: { start: 681, end: 748 },
+  16: { start: 749, end: 790 },
+  17: { start: 791, end: 840 },
+  18: { start: 841, end: 874 },
+  19: { start: 875, end: 900 },
+  20: { start: 901, end: 942 },
+  21: { start: 943, end: 996 },
+  22: { start: 997, end: 1057 },
+};
+const PDF_PAGE_OFFSET = 24;
+const scanToggleEl = document.getElementById('toggle-scan');
+const SHOW_SCAN_KEY = 'chemistry_show_scan_fallback';
+let showScanFallback = localStorage.getItem(SHOW_SCAN_KEY) !== '0';
+scanToggleEl.checked = showScanFallback;
+scanToggleEl.addEventListener('change', () => {
+  showScanFallback = scanToggleEl.checked;
+  localStorage.setItem(SHOW_SCAN_KEY, showScanFallback ? '1' : '0');
+  const active = document.querySelector('.chapter-link.active');
+  if (active) {
+    const num = parseInt(active.dataset.num, 10);
+    if (Number.isInteger(num)) loadChapter(num);
+  }
+});
 
 const basePath = (() => {
   let p = window.location.pathname;
@@ -359,6 +440,28 @@ function preprocessMath(text) {
   return text;
 }
 
+function needsScanFallback(pageMd) {
+  const hasFigureWord = /\bFIGURE\b|\bFigure\b/.test(pageMd);
+  const hasImageMarkup = pageMd.includes('![') || /<img\b/i.test(pageMd);
+  return hasFigureWord && !hasImageMarkup;
+}
+
+function withScanFallback(md, chapterNum) {
+  if (!showScanFallback) return md;
+  const range = chapterRanges[chapterNum];
+  if (!range) return md;
+
+  const sections = md.split(/\n\n---\n\n/);
+  return sections.map((section, idx) => {
+    if (!needsScanFallback(section)) return section;
+    const pdfPage = range.start + PDF_PAGE_OFFSET + idx;
+    const pageId = String(pdfPage).padStart(4, '0');
+    const scanPath = `${basePath}../Chemistry_images/page-${pageId}.png`;
+    const fallback = `<div class="scan-fallback"><details><summary>Original scan: page-${pageId}</summary><img loading="lazy" src="${scanPath}" alt="Original scan page-${pageId}"></details></div>`;
+    return `${section}\n\n${fallback}`;
+  }).join('\n\n---\n\n');
+}
+
 function showWelcome() {
   const contentEl = document.getElementById('content');
   let tocHtml = '';
@@ -389,6 +492,7 @@ async function loadChapter(num) {
     if (!resp.ok) throw new Error(`Failed to load ${file}`);
     let md = await resp.text();
 
+    md = withScanFallback(md, num);
     md = preprocessMath(md);
     const shielded = shieldMath(md);
     let html = marked.parse(shielded.text);

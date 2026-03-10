@@ -590,21 +590,17 @@ n & =1,2,3, \ldots \\
 m_{\ell} & =-\ell, \ldots 0, \ldots+\ell
 \end{aligned}$$
 
-| | | --- | --- | --- | --- | --- | --- | |
-| --- |
-| | TABLE 7.1 |  |  |  |  |  | |
-| | The Angular Momentum Quantum Numbers and |  |  |  |  |  | |
-| |  |
- |  |  |  |  |  |
-| Corresponding Letters Used to Designate Atomic Orbitals |  |  |  |  |  |
+TABLE 7.1 The Angular Momentum Quantum Numbers and Corresponding Letters Used to Designate Atomic Orbitals
+
 | Value of $\ell$ | 0 | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- | --- |
 | Letter Used | $s$ | $p$ | $d$ | $f$ | $g$ |
 
 
 | $\boldsymbol{n}$ | $\ell$ | Orbital Designation | $\boldsymbol{m}_{\ell}$ | Number of Orbitals |
 | --- | --- | --- | --- | --- |
 | 1 | 0 | $1 s$ | 0 | 1 |
-| \multirow[t]{2}{*}{2} | 0 | $2 s$ | 0 | 1 |
+| 2 | 0 | $2 s$ | 0 | 1 |
 | | 1 | $2 p$ | $-1,0,+1$ | 3 |
 |  | 0 | $3 s$ | 0 | 1 |
 | | 1 | $3 p$ | $-1,0,1$ | 3 |
@@ -789,9 +785,9 @@ Mendeleev was a versatile genius who was interested in many fields of science. H
 
 | | GRUPPE 1. $\mathbf{R}^{\mathbf{2}} \mathbf{0}$ | GRUPPE II. R0 | GRUPPE III. $\mathrm{R}^{2} \mathrm{O}^{3}$ | GRUPPE IV. RH ${ }^{\mathbf{4}}$ RO ${ }^{2}$ | GRUPPE V. R H $^{\mathbf{3}} \mathrm{R}^{2} \mathrm{O}^{5}$ | GRUPPE VI. $\mathrm{RH}^{2} \mathrm{RO}^{3}$ | GRUPPE VII RH $\mathrm{R}^{2} \mathrm{O}^{7}$ | GRUPPE VIII. RO ${ }^{4}$ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| I |  |  |  |  |  |  |  | \multirow[b]{4}{*}{$\mathrm{Fe}=56, \mathrm{C}_{\mathrm{o}}=59$, $\mathrm{Ni}=59, \mathrm{Cu}=63$.} |
+| I |  |  |  |  |  |  |  | $\mathrm{Fe}=56, \mathrm{C}_{\mathrm{o}}=59$, $\mathrm{Ni}=59, \mathrm{Cu}=63$. |
 | | $H=1 \mathrm{Li}=7$ | $\mathrm{Be}=9,4$ | $B=11$ | $\mathrm{C}=12$ | $\mathrm{N}=14$ | $0=16$ | $F=19$ |  |
-| 3 | $\mathrm{Na}=23$ | $\mathrm{Mg}=24$ |  |  | \multirow[t]{2}{*}{$\mathrm{P}=31$} | $\mathrm{s}=32$ | $\mathrm{Cl}=35,5$ |  |
+| 3 | $\mathrm{Na}=23$ | $\mathrm{Mg}=24$ |  |  | $\mathrm{P}=31$ | $\mathrm{s}=32$ | $\mathrm{Cl}=35,5$ |  |
 | 4 | $\mathrm{K}=39$ |  | $A I=27,3$ -= 44 | $\mathrm{Si}=28 \mathrm{Ti}=48$ |  | $\mathrm{Cr}=52$ | $\mathrm{Mn}=55$ |  |
 | 5 | ( $\mathrm{Cu}=63$ ) | $\mathrm{Zn}=65$ | -=68 | -=72 | As $=75$ | $\mathrm{se}=78$ | $\mathrm{Br}=80$ |  |
 | 6 | $\mathrm{Rb}=85$ | $\mathrm{sr}=87$ | ? $\mathrm{Yt}=88$ | $\mathrm{Z} r=90$ | $\mathrm{Nb}=94$ | $\mathrm{M}_{\mathrm{o}}=96$ | -=100 | $$\begin{array}{l} |
@@ -881,12 +877,8 @@ in the scientific community, the name seaborgium was adopted.
 
 Names for the elements beyond 111 have not been decided, and these elements are represented on many periodic tables with three letters that symbolize their atomic numbers. More traditional names will no doubt be assigned in due time (hopefully with a minimum of controversy).
 
-| | | --- | --- | --- | |
-| --- |
-| | Atomic |  |  | |
-| | Number |  |  | |
-| |  |
- | Name | Symbol |
+| Atomic Number | Name | Symbol |
+| --- | --- | --- |
 | 104 | Rutherfordium | Rf |
 | 105 | Dubium | Db |
 | 106 | Seaborgium | Sg |
@@ -1238,12 +1230,8 @@ In contrast to the nitrogen atom, the oxygen atom can add one electron to form t
 7.12 Periodic Trends in Atomic Properties
 313
 
-| Atom | | | --- | --- | |
-| --- |
-| | Electron Affinity |  | |
-| | $\mathbf{( k J / m o l )}$ |  | |
-| |  |
- |  |
+| Atom | Electron Affinity $\mathbf{( k J / m o l )}$ |
+| --- | --- |
 | F | -327.8 |
 | Cl | -348.7 |
 | Br | -324.5 |
@@ -1377,22 +1365,13 @@ This order is observed experimentally for direct reactions between the solid alk
 318
 Chapter Seven Atomic Structure and Periodicity
 
-| | | --- | --- | |
-| --- |
-| | TABLE 7.9 |  | |
-| | for $\mathrm{Li}^{+}, \mathrm{Na}^{+}$, and $\mathrm{K}^{+}$lons |  | |
-| |  |
- |  |
-| | | | Hydration Energies |  | |
-| --- |
-| | Hydration Energy |  | |
-| | $(\mathbf{k J} / \mathbf{m o l})$ |  | |
-| |  |
- |  |
-| lon | -510 |
-| $\mathrm{Li}^{+}$ | -402 |
-| $\mathrm{Na}^{+}$ | -314 |
-| $\mathrm{~K}^{+}$ |  |
+TABLE 7.9 Hydration Energies for $\mathrm{Li}^{+}, \mathrm{Na}^{+}$, and $\mathrm{K}^{+}$ Ions
+
+| Ion | Hydration Energy $(\mathbf{k J} / \mathbf{m o l})$ |
+| --- | --- |
+| $\mathrm{Li}^{+}$ | -510 |
+| $\mathrm{Na}^{+}$ | -402 |
+| $\mathrm{K}^{+}$ | -314 |
 
 
 Key Terms

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chemistry Page Review</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      background: #eef1f5;
+      color: #111;
+    }
+    #meta {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: #f8fafc;
+      color: #1f2937;
+      border-bottom: 1px solid #d1d5db;
+      padding: 10px 14px;
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    #meta .path {
+      font-family: ui-monospace, Menlo, monospace;
+      color: #4b5563;
+    }
+    #meta label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      user-select: none;
+    }
+    #wrap {
+      max-width: 1440px;
+      margin: 0 auto;
+      min-height: 100vh;
+      padding: 18px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+    .panel {
+      background: #fff;
+      border: 1px solid #d7dce3;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+      padding: 20px 24px 28px;
+      overflow: auto;
+    }
+    .panel h2 {
+      margin: 0 0 10px;
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-size: 15px;
+      color: #374151;
+      letter-spacing: .2px;
+    }
+    #scan-panel img {
+      width: 100%;
+      height: auto;
+      border: 1px solid #c7cdd6;
+      background: #fff;
+      display: block;
+    }
+    #content p { line-height: 1.65; margin: 10px 0; }
+    #content h1 { font-size: 28px; border-bottom: 2px solid #333; padding-bottom: 8px; }
+    #content h2 { font-size: 22px; margin-top: 24px; }
+    #content h3 { font-size: 18px; margin-top: 18px; }
+    #content table { border-collapse: collapse; margin: 14px auto; font-size: 14px; }
+    #content th, #content td { border: 1px solid #666; padding: 5px 10px; text-align: center; }
+    #content th { background: #f0f0f0; }
+    #content pre { white-space: pre-wrap; border: 1px solid #ccc; padding: 10px; background: #fafafa; }
+    .katex-display { overflow-x: auto; }
+    #error { color: #b00020; font-family: ui-monospace, Menlo, monospace; }
+    @media (max-width: 980px) {
+      #wrap { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div id="meta">
+    <strong>Chemistry Page Review</strong>
+    <span class="path" id="meta-path">Loading...</span>
+    <label><input type="checkbox" id="toggle-scan" checked>Show Original Scan</label>
+  </div>
+  <div id="wrap">
+    <div class="panel">
+      <h2>Rendered Markdown</h2>
+      <div id="error"></div>
+      <div id="content"></div>
+    </div>
+    <div class="panel" id="scan-panel">
+      <h2>Original Scan</h2>
+      <img id="scan-image" alt="Original page scan" loading="eager" />
+    </div>
+  </div>
+
+<script>
+function qp(name) {
+  return new URLSearchParams(window.location.search).get(name);
+}
+
+function convertTabular(text) {
+  return text.replace(/\\begin\{tabular\}\{[^}]*\}([\s\S]*?)\\end\{tabular\}/g, (match, body) => {
+    let rows = body.replace(/\\hline/g, '').trim();
+    let rowArr = rows.split(/\\\\\s*/).filter(r => r.trim());
+    let html = '<table>\n';
+    rowArr.forEach((row, i) => {
+      let cells = row.split('&').map(c => c.trim());
+      let tag = i === 0 ? 'th' : 'td';
+      html += '<tr>';
+      cells.forEach(cell => {
+        cell = cell.replace(/\\\(/g, '$').replace(/\\\)/g, '$');
+        html += `<${tag}>${cell}</${tag}>`;
+      });
+      html += '</tr>\n';
+    });
+    html += '</table>';
+    return html;
+  });
+}
+
+function shieldMath(text) {
+  const mathSegments = [];
+  let idx = 0;
+
+  text = text.replace(/\$\$([\s\S]*?)\$\$/g, (match) => {
+    const placeholder = `%%MATH_DISPLAY_${idx}%%`;
+    mathSegments[idx] = match;
+    idx++;
+    return placeholder;
+  });
+
+  text = text.replace(/(?<!\$)\$(?!\$)((?:[^$\\]|\\.)+?)\$(?!\$)/g, (match) => {
+    const placeholder = `%%MATH_INLINE_${idx}%%`;
+    mathSegments[idx] = match;
+    idx++;
+    return placeholder;
+  });
+
+  return { text, mathSegments };
+}
+
+function restoreMath(html, mathSegments) {
+  for (let i = 0; i < mathSegments.length; i++) {
+    html = html.replace(`%%MATH_DISPLAY_${i}%%`, mathSegments[i]);
+    html = html.replace(`%%MATH_INLINE_${i}%%`, mathSegments[i]);
+  }
+  return html;
+}
+
+(async function init() {
+  const p = (qp('p') || '').padStart(4, '0');
+  const mdUrl = `../Chemistry_mathpix/page-${p}.md`;
+  const imgUrl = `../Chemistry_images/page-${p}.png`;
+
+  document.getElementById('meta-path').textContent = `page-${p} | md=${mdUrl} | img=${imgUrl}`;
+  const scanPanel = document.getElementById('scan-panel');
+  const scanToggle = document.getElementById('toggle-scan');
+  const scanImage = document.getElementById('scan-image');
+  scanImage.src = imgUrl;
+  scanToggle.addEventListener('change', () => {
+    scanPanel.style.display = scanToggle.checked ? 'block' : 'none';
+  });
+
+  try {
+    const resp = await fetch(mdUrl);
+    if (!resp.ok) throw new Error(`Cannot fetch ${mdUrl}: ${resp.status}`);
+
+    let md = await resp.text();
+    md = convertTabular(md);
+    const shielded = shieldMath(md);
+    let html = marked.parse(shielded.text);
+    html = restoreMath(html, shielded.mathSegments);
+
+    document.getElementById('content').innerHTML = html;
+
+    renderMathInElement(document.getElementById('content'), {
+      delimiters: [
+        { left: '$$', right: '$$', display: true },
+        { left: '$', right: '$', display: false },
+        { left: '\\[', right: '\\]', display: true },
+        { left: '\\(', right: '\\)', display: false }
+      ],
+      throwOnError: false,
+      trust: true,
+      strict: false
+    });
+  } catch (e) {
+    document.getElementById('error').textContent = String(e);
+  }
+})();
+</script>
+</body>
+</html>

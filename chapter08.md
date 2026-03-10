@@ -431,18 +431,12 @@ Since the sum of these five processes yields the desired overall reaction, the s
 
 | Process | Energy Change (kJ) |
 | --- | --- |
-| | | $\operatorname{Li(s) \rightarrow \operatorname{Li}(g) \mathrm{Li}(g) \rightarrow \mathrm{Li}^{+}(g)+\mathrm{e}^{-} \frac{1}{2} \mathrm{~F}_{2}(g) \rightarrow \mathrm{F}(g)$ |  | |
-| --- |
-| | $\mathrm{F}(g)+\mathrm{e}^{-} \rightarrow \mathrm{F}^{-}(g)$ |  | |
-| | $\underline{\mathrm{Li}^{+}(g)+\mathrm{F}^{-}(g) \rightarrow \operatorname{LiF}(s)}$ |  | |
-| | Overall: $\quad \operatorname{Li}(s)+\frac{1}{2} \mathrm{~F}_{2}(g) \rightarrow \operatorname{LiF}(s)$ |  | |
-| |  |
-} | 161 |
-| | 520 |
-| | 77 |
-| | -328 |
-| | -1047 |
-| | -617 kJ (per mole of LiF) |
+| $\operatorname{Li}(s) \rightarrow \operatorname{Li}(g)$ | 161 |
+| $\operatorname{Li}(g) \rightarrow \mathrm{Li}^{+}(g)+\mathrm{e}^{-}$ | 520 |
+| $\frac{1}{2} \mathrm{~F}_{2}(g) \rightarrow \mathrm{F}(g)$ | 77 |
+| $\mathrm{F}(g)+\mathrm{e}^{-} \rightarrow \mathrm{F}^{-}(g)$ | -328 |
+| $\mathrm{Li}^{+}(g)+\mathrm{F}^{-}(g) \rightarrow \operatorname{LiF}(s)$ | -1047 |
+| Overall: $\operatorname{Li}(s)+\frac{1}{2} \mathrm{~F}_{2}(g) \rightarrow \operatorname{LiF}(s)$ | -617 kJ (per mole of LiF) |
 
 
 This process is summarized by the energy diagram in Fig. 8.9. Note that the formation of solid lithium fluoride from its elements is highly exothermic, mainly because of the very large negative lattice energy. A great deal of energy is released when the ions combine to form the solid. In fact, note that the energy released when an electron is added to a fluorine atom to form the $\mathrm{F}^{-}$ion ( $328 \mathrm{~kJ} / \mathrm{mol}$ ) is not enough to remove an electron from lithium $(520 \mathrm{~kJ} / \mathrm{mol})$. That is, when a metallic lithium atom reacts with a nonmetallic fluorine atom to form separated ions,
@@ -656,12 +650,8 @@ Although a $\mathrm{C}-\mathrm{H}$ bond is broken in each case, the energy requi
 
 from experimental measurements of the energy required to break the $\mathrm{C}-\mathrm{H}$ bond in the following molecules:
 
-| Molecule | | | --- | --- | |
-| --- |
-| | Measured C-H Bond |  | |
-| | Energy (kJ/mol) |  | |
-| |  |
- |  |
+| Molecule | Measured C-H Bond Energy (kJ/mol) |
+| --- | --- |
 | $\mathrm{HCBr}_{3}$ | 380 |
 | $\mathrm{HCCl}_{3}$ | 380 |
 | $\mathrm{HCF}_{3}$ | 430 |
@@ -875,34 +865,14 @@ f. $\mathrm{NO}^{+}$
 Solution
 In each case we apply the three steps for writing Lewis structures. Recall that lines are used to indicate shared electron pairs and that dots are used to indicate nonbonding pairs (lone pairs). We have the following tabulated results:
 
-| | Total Valence Electrons | Draw Single Bonds | Calculate Number of Electrons Remaining | Use Remaining Electrons to Achieve Noble Gas Configurations | Check Number of Electrons |
+| Species | Total Valence Electrons | Draw Single Bonds | Electrons Remaining | Use Remaining Electrons to Achieve Noble Gas Configurations | Check Number of Electrons |
 | --- | --- | --- | --- | --- | --- |
-| a. HF | $1+7=8$ | H-F | 6 | H-F: | | | H, 2 |  |  |  |  |  | |
-| --- |
-| | F, 8 |  |  |  |  |  | |
-| |  |
- |  |  |  |  |  |
+| a. HF | $1+7=8$ | H-F | 6 | H-F: | H, 2; F, 8 |
 | b. $\mathrm{N}_{2}$ | $5+5=10$ | $\mathrm{N}-\mathrm{N}$ | 8 | : $\mathrm{N} \equiv \mathrm{N}$ : | N, 8 |
-| c. $\mathrm{NH}_{3}$ | $5+3(1)=8$ |  | 2 |  | | | H, 2 |  |  |  |  |  | |
-| --- |
-| | N, 8 |  |  |  |  |  | |
-| |  |
- |  |  |  |  |  |
-| d. $\mathrm{CH}_{4}$ | $4+4(1)=8$ |  | 0 |  | | | H, 2 |  |  |  |  |  | |
-| --- |
-| | C, 8 |  |  |  |  |  | |
-| |  |
- |  |  |  |  |  |
-| e. $\mathrm{CF}_{4}$ | $4+4(7)=32$ |  | 24 |  | | | F, 8 |  |  |  |  |  | |
-| --- |
-| | C, 8 |  |  |  |  |  | |
-| |  |
- |  |  |  |  |  |
-| f. $\mathrm{NO}^{+}$ | $5+6-1=10$ | $\mathrm{N}-\mathrm{O}$ | 8 | $[: \mathrm{N} \equiv \mathrm{O}:]^{+}$ | | | N, 8 |  |  |  |  |  | |
-| --- |
-| | O, 8 |  |  |  |  |  | |
-| |  |
- |  |  |  |  |  |
+| c. $\mathrm{NH}_{3}$ | $5+3(1)=8$ | N bonded to 3 H | 2 | one lone pair on N | H, 2; N, 8 |
+| d. $\mathrm{CH}_{4}$ | $4+4(1)=8$ | C bonded to 4 H | 0 | no lone pairs on C | H, 2; C, 8 |
+| e. $\mathrm{CF}_{4}$ | $4+4(7)=32$ | C bonded to 4 F | 24 | three lone pairs on each F | F, 8; C, 8 |
+| f. $\mathrm{NO}^{+}$ | $5+6-1=10$ | $\mathrm{N}-\mathrm{O}$ | 8 | $[: \mathrm{N} \equiv \mathrm{O}:]^{+}$ | N, 8; O, 8 |
 
 
 See Exercises 8.67 and 8.68.
@@ -1812,16 +1782,8 @@ Magnesium oxide exists as $\mathrm{Mg}^{2+} \mathrm{O}^{2-}$ and not as $\mathrm
 49. $\operatorname{LiI}(s)$ has a heat of formation of $-272 \mathrm{~kJ} / \mathrm{mol}$ and a lattice energy of $-753 \mathrm{~kJ} / \mathrm{mol}$. The ionization energy of $\operatorname{Li}(g)$ is 520 . $\mathrm{kJ} / \mathrm{mol}$, the bond energy of $\mathrm{I}_{2}(g)$ is $151 \mathrm{~kJ} / \mathrm{mol}$, and the electron affinity of $\mathrm{I}(g)$ is $-295 \mathrm{~kJ} / \mathrm{mol}$. Use these data to determine the heat of sublimation of $\mathrm{Li}(s)$.
 50. Use the following data to estimate $\Delta H$ for the reaction $\mathrm{S}^{-}(g)+ \mathrm{e}^{-} \rightarrow \mathrm{S}^{2-}(g)$. Include an estimate of uncertainty.
 
-|  | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{f}}^{\circ}$ | | | --- | --- | --- | --- | --- | |
-| --- |
-| | Lattice |  |  |  |  | |
-| | Energy |  |  |  |  | |
-| |  |
- | I.E. of $\mathbf{M}$ | | | $\boldsymbol{\Delta} \boldsymbol{H}_{\text {sub }}$ |  |  |  |  | |
-| --- |
-| | of $\mathbf{M}$ |  |  |  |  | |
-| |  |
- |  |  |  |  |
+| Compound | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{f}}^{\circ}$ (kJ/mol) | Lattice Energy (kJ/mol) | I.E. of $\mathbf{M}$ (kJ/mol) | $\boldsymbol{\Delta} \boldsymbol{H}_{\text {sub }}$ of $\mathbf{M}$ (kJ/mol) |
+| --- | --- | --- | --- | --- |
 | $\mathrm{Na}_{2} \mathrm{~S}$ | -365 | -2203 | 495 | 109 |
 | $\mathrm{~K}_{2} \mathrm{~S}$ | -381 | -2052 | 419 | 90 |
 | $\mathrm{Rb}_{2} \mathrm{~S}$ | -361 | -1949 | 409 | 82 |
@@ -1835,12 +1797,8 @@ $$\begin{aligned}
 Assume that all values are known to $\pm 1 \mathrm{~kJ} / \mathrm{mol}$.
 51. Rationalize the following lattice energy values:
 
-| Compound | | | --- | --- | |
-| --- |
-| | Lattice Energy |  | |
-| | (kJ/mol) |  | |
-| |  |
- |  |
+| Compound | Lattice Energy (kJ/mol) |
+| --- | --- |
 | CaSe | -2862 |
 | $\mathrm{Na}_{2} \mathrm{Se}$ | -2130 |
 | CaTe | -2721 |

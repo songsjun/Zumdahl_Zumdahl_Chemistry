@@ -314,7 +314,7 @@ The mineral stibnite contains $\mathrm{Sb}_{2} \mathrm{~S}_{3}$.
 
 The symbol $G$ for free energy honors Josiah Willard Gibbs (1839-1903), who was professor of mathematical physics at Yale University from 1871 to 1903. He laid the foundations of many areas of thermodynamics, particularly as they apply to chemistry.
 
-| Signs of Entropy Changes | \multirow[b]{2}{*}{Process Spontaneous?} |  |  |
+| Signs of Entropy Changes | Process Spontaneous? |  |  |
 | --- | --- | --- | --- |
 | $\boldsymbol{\Delta} \boldsymbol{S}_{\text {sys }}$ | $\boldsymbol{\Delta} \boldsymbol{S}_{\text {surr }}$ | $\boldsymbol{\Delta} \boldsymbol{S}_{\text {univ }}$ |  |
 | + | + | + | Yes |
@@ -1547,12 +1547,8 @@ What will happen to the ratio of partial pressure of $\mathrm{PCl}_{5}$ to parti
 Additional Exercises
 787
 
-| | | | --- | --- | --- | |
-| --- |
-| | Boiling Point |  |  | |
-| | $(\mathbf{1}$ atm $)$ |  |  | |
-| |  |
- | $\boldsymbol{\Delta H}_{\text {vap }}$ |  |
+| Substance | Boiling Point $(\mathbf{1}\ \mathbf{atm})$ | $\boldsymbol{\Delta H}_{\text {vap }}$ |
+| --- | --- | --- |
 | Methane | 112 K | $8.20 \mathrm{~kJ} / \mathrm{mol}$ |
 | Hexane | 342 K | $28.9 \mathrm{~kJ} / \mathrm{mol}$ |
 

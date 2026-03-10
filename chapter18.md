@@ -69,18 +69,8 @@ The following are some important observations concerning radioactive decay:
 
 $\alpha$-particle production involves a change in $A$ for the decaying nucleus; $\beta$-particle production has no effect on $A$.
 
-| Number of |  |  |  |
+| Number of Protons | Number of Neutrons | Number of Stable Nuclides | Examples |
 | --- | --- | --- | --- |
-| Protons |  |  |  |
-|  | | | Number of |  |  |  | |
-| --- |
-| | Neutrons |  |  |  | |
-| |  |
- | | | Number of |  |  |  | |
-| --- |
-| | Stable Nuclides |  |  |  | |
-| |  |
- | Examples |  |  |
 | Even | Even | 168 | ${ }_{6}^{12} \mathrm{C},{ }_{8}^{16} \mathrm{O}$ |
 | Even | Odd | 57 | ${ }_{6}^{13} \mathrm{C},{ }_{22}^{47} \mathrm{Ti}$ |
 | Odd | Even | 50 | ${ }_{9}^{9} \mathrm{~F},{ }_{11}^{33} \mathrm{Na}$ |
@@ -1079,14 +1069,8 @@ Energy Changes in Nuclear Reactions
 Additional Exercises
 871
 
-| Atom or |  |
+| Atom or Particle | Atomic Mass |
 | --- | --- |
-| Particle |  |
-|  | | | Atomic |  | |
-| --- |
-| | Mass |  | |
-| |  |
- |  |
 | Neutron | $1.67493 \times 10^{-24} \mathrm{~g}$ |
 | Proton | $1.67262 \times 10^{-24} \mathrm{~g}$ |
 | Electron | $9.10939 \times 10^{-28} \mathrm{~g}$ |

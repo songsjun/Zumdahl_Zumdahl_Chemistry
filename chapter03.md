@@ -1541,7 +1541,7 @@ Atomic Masses and the Mass Spectrometer
 | Isotope | Mass (amu) | Abundance |
 | --- | --- | --- |
 | ${ }^{28} \mathrm{Si}$ | 27.98 |  |
-| \cline { 2 - 2 }${ }^{29} \mathrm{Si}$ |  | $4.70 \%$ |
+| ${ }^{29} \mathrm{Si}$ |  | $4.70 \%$ |
 | ${ }^{32} \mathrm{Si}$ | 29.97 | $3.09 \%$ |
 
 31. The mass spectrum of bromine ( $\mathrm{Br}_{2}$ ) consists of three peaks with the following characteristics:
@@ -1611,7 +1611,7 @@ d. dinitrogen tetroxide
 
 | Mass of Sample | Moles of Sample | Molecules in Sample | Total Atoms in Sample |
 | --- | --- | --- | --- |
-| \multirow[t]{4}{*}{$4.24 \mathrm{~g} \mathrm{C}_{6} \mathrm{H}_{6}$} | $0.224 \mathrm{~mol \mathrm{H}_{2} \mathrm{O}$ |  |  |
+| $4.24 \mathrm{~g} \mathrm{C}_{6} \mathrm{H}_{6}$ | $0.224 \mathrm{~mol \mathrm{H}_{2} \mathrm{O}$ |  |  |
 | $\_\_\_\_$} | $2.71 \times 10^{22$ molecules $\mathrm{CO}_{2}$ |  |  |
 | $\_\_\_\_$} | $\_\_\_\_$ |  |  |
 | |  |  |  |

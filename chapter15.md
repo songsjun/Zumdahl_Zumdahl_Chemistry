@@ -592,12 +592,12 @@ Because $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ is a weak acid, we assum
 
 For solution $A$ (since the solution volume is 1.0 L , the number of moles equals the molarity), the following calculations apply:
 
-|  | $\mathrm{H}^{+}$ | + | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}$ | $\longrightarrow$ |
-| --- | --- | --- | --- | --- |
-$\quad$| $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ |
-| --- |
-| Before reaction: |
-$\quad 0.010 M \quad 5.00 M / 3.00 M / 3.01 M$
+$$\mathrm{H}^{+}(a q)+\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}^{-}(a q)\longrightarrow \mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}(a q)$$
+
+| Quantity | $\mathrm{H}^{+}$ | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}^{-}$ | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ |
+| --- | --- | --- | --- |
+| Before reaction | 0.010 M | 5.00 M | 3.00 M |
+| After reaction | 0 | 4.99 M | 3.01 M |
 
 ---
 
@@ -793,7 +793,7 @@ F. 150.0 mL (total) of $0.100 M \mathrm{NaOH}$ has been added.
 
 The stoichiometric calculations for the titration reaction are as follows:
 
-| | $\mathrm{H}^{+}$ | + | $\mathrm{OH}^{-}$ | ⟶ | $\mathrm{H}_{2} \mathrm{O}$ |
+|  | $\mathrm{H}^{+}$ | + | $\mathrm{OH}^{-}$ | ⟶ | $\mathrm{H}_{2} \mathrm{O}$ |
 | --- | --- | --- | --- | --- | --- |
 | Before reaction: | $$\begin{array}{l} |  |  |  |  |
 | 50.0 \mathrm{~mL} \times 0.200 M |  |  |  |  |  |
@@ -805,15 +805,14 @@ The stoichiometric calculations for the titration reaction are as follows:
 | After reaction: | $$\begin{array}{l} |  |  |  |  |
 | 10.0-10.0 |  |  |  |  |  |
 | =0 \mathrm{mmol} |  |  |  |  |  |
-| \end{array}$$ |  | | | $$\begin{array}{c} |  |  |  |  |  | |
-| --- |
-| | 15.0-10.0 |  |  |  |  |  | |
-| | =5.0 \mathrm{mmol} |  |  |  |  |  | |
-| | \uparrow |  |  |  |  |  | |
-| | \end{array}$$ |  |  |  |  |  | |
-| | Excess $\mathrm{OH}^{-}$added |  |  |  |  |  | |
-| |  |
- |  |  |  |  |  |
+| \end{array}$$ |  |  |  | $$\begin{array}{c} |     |
+|  | 15.0-10.0 |  |  |  |  |
+|  | =5.0 \mathrm{mmol} |  |  |  |  |
+|  | \uparrow |  |  |  |  |
+|  | \end{array}$$ |  |  |  |  |
+|  | Excess $\mathrm{OH}^{-}$added |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ---
 
@@ -880,7 +879,7 @@ The strong base $\mathrm{OH}^{-}$will react with the strongest proton donor, whi
 
 The Stoichiometry Problem
 
-| | $\mathrm{OH}^{-}$ | $+$ | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ | ⟶ | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}$ | $+$ | $\mathrm{H}_{2} \mathrm{O}$ |
+|  | $\mathrm{OH}^{-}$ | $+$ | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ | ⟶ | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}$ | $+$ | $\mathrm{H}_{2} \mathrm{O}$ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Before reaction: | $$\begin{array}{l} |  |  |  |  |  |  |
 | 10 \mathrm{~mL} \times 0.10 \mathrm{M} |  |  |  |  |  |  |  |
@@ -889,15 +888,14 @@ The Stoichiometry Problem
 | 50.0 \mathrm{~mL} \times 0.10 \mathrm{M} |  |  |  |  |  |  |  |
 | \quad=5.0 \mathrm{mmol} |  |  |  |  |  |  |  |
 | \end{array}$$ |  | 0 mmol |  |  |  |  |  |
-| After reaction: | | | $$\begin{array}{l} |  |  |  |  |  |  |  | |
-| --- |
-| | 1.0-1.0 |  |  |  |  |  |  |  | |
-| | =0 \mathrm{mmol} |  |  |  |  |  |  |  | |
-| | \end{array}$$ |  |  |  |  |  |  |  | |
-| | ↑ |  |  |  |  |  |  |  | |
-| | Limiting reactant |  |  |  |  |  |  |  | |
-| |  |
- |  | $$\begin{array}{l} |  |  |  |  |  |
+| After reaction: |  |  | $$\begin{array}{l} |  |  |  |    |
+|  | 1.0-1.0 |  |  |  |  |  |  |
+|  | =0 \mathrm{mmol} |  |  |  |  |  |  |
+|  | \end{array}$$ |  |  |  |  |  |  |
+|  | ↑ |  |  |  |  |  |  |
+|  | Limiting reactant |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | $$\begin{array}{l} |  |  |  |  |  |  |
 | 5.0-1.0 |  |  |  |  |  |  |  |
 | \quad=4.0 \mathrm{mmol} |  |  |  |  |  |  |  |
 | \end{array}$$ |  | 1.0 mmol ↑ the reaction |  |  |  |  |  |
@@ -927,12 +925,11 @@ We follow the usual steps to complete the equilibrium calculations:
 
 | Initial Concentration |  | Equilibrium Concentration |
 | --- | --- | --- |
-| | | $$\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]_{0}=\frac{4.0 \mathrm{mmol}}{(50.0+10.0) \mathrm{mL}}=\frac{4.0}{60.0}$$ |  |  | |
-| --- |
-| | $\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}\right]_{0}=\frac{1.0 \mathrm{mmol}}{(50.0+10.0) \mathrm{mL}}=\frac{1.0}{60.0}$ |  |  | |
-| | $\left[\mathrm{H}^{+}\right]_{0} \approx 0$ |  |  | |
-| |  |
- | $$\xrightarrow[\text { dissociates }]{\substack{x \mathrm{mmol} / \mathrm{mL} \\ \mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}}}$$ | $$\begin{array}{l} |
+|  |  | $$\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]_{0}=\frac{4.0 \mathrm{mmol}}{(50.0+10.0) \mathrm{mL}}=\frac{4.0}{60.0}$$   |
+|  | $\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}\right]_{0}=\frac{1.0 \mathrm{mmol}}{(50.0+10.0) \mathrm{mL}}=\frac{1.0}{60.0}$ |  |
+|  | $\left[\mathrm{H}^{+}\right]_{0} \approx 0$ |  |
+|  |  |  |
+| $$\xrightarrow[\text { dissociates }]{\substack{x \mathrm{mmol} / \mathrm{mL} \\ \mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}}}$$ | $$\begin{array}{l} |  |
 | {\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]=\frac{4.0}{60.0}-x} |  |  |
 | {\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}^{-}\right]=\frac{1.0}{60.0}+x} |  |  |
 | {\left[\mathrm{H}^{+}\right]=x} |  |  |
@@ -1257,18 +1254,16 @@ The stoichiometry problem. We represent the monoprotic acid as HA. The stoichiom
 | --- | --- | --- | --- | --- | --- | --- |
 | Before |  |  |  |  |  |  |
 | reaction: |  |  |  |  |  |  |
-|  | 2.00 mmol |  | | | $20.0 \mathrm{~mL} \times 0.0500 M$ |  |  |  |  |  |  | |
-| --- |
-| | $=1.00 \mathrm{mmol}$ |  |  |  |  |  |  | |
-| |  |
- |  | 0 mmol |  |  |  |  |
+|  | 2.00 mmol |  |  |  | $20.0 \mathrm{~mL} \times 0.0500 M$ |      |
+|  | $=1.00 \mathrm{mmol}$ |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  | 0 mmol |  |  |  |  |  |
 | After |  |  |  |  |  |  |
 | reaction $:$ |  |  |  |  |  |  |
-|  | | | $2.00-1.00$ |  |  |  |  |  |  | |
-| --- |
-| | $=1.00 \mathrm{mmol}$ |  |  |  |  |  |  | |
-| |  |
- | $1.00-1.00=0$ |  |  |  |  |  |
+|  |  |  | $2.00-1.00$ |  |  |    |
+|  | $=1.00 \mathrm{mmol}$ |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| $1.00-1.00=0$ |  |  |  |  |  |  |
 |  |  |  |  | 1.00 mmol |  |  |
 
 
@@ -1505,7 +1500,7 @@ $$\mathrm{pH}=\mathrm{p} K_{\mathrm{a}}+\log \left(\frac{1}{10}\right)=\mathrm{p
 15.5 Acid-Base Indicators
 715
 
-| \multirow[b]{3}{*}{Crystal Violet} | pH |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Crystal Violet | pH |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | $\begin{array}{lllllllllllll | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13\end{array}$} |  |  |  |
 | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1774,11 +1769,10 @@ The concentrations are as follows:
 | $$\begin{array}{l} |  |  |
 | {\left[\mathrm{Cu}^{2+}\right]_{0}=0} |  |  |
 | {\left[\mathrm{IO}_{3}^{-}\right]_{0}=0} |  |  |
-| \end{array}$$ | | | $x \mathrm{~mol} / \mathrm{L}$ dissolves |  |  | |
-| --- |
-| | to reach equilibrium |  |  | |
-| |  |
- | $$\begin{aligned} |  |
+| \end{array}$$ |  | $x \mathrm{~mol} / \mathrm{L}$ dissolves   |
+|  | to reach equilibrium |  |
+|  |  |  |
+| $$\begin{aligned} |  |  |
 | {\left[\mathrm{Cu}^{2+}\right] } | =x |  |
 | {\left[\mathrm{IO}_{3}^{-}\right] } | =2 x |  |
 | \end{aligned}$$ |  |  |
@@ -1828,12 +1822,8 @@ Chapter Fifteen Applications of Aqueous Equilibria
 
 A potassium chromate solution being added to aqueous silver nitrate, forming silver chromate.
 
-| Salt | $\boldsymbol{K}_{\mathbf{s p}}$ | | | --- | --- | --- | |
-| --- |
-| | Calculated |  |  | |
-| | Solubility $\mathbf{( m o l / L )}$ |  |  | |
-| |  |
- |  |  |
+| Salt | $K_{\mathrm{sp}}$ | Calculated Solubility (mol/L) |
+| --- | --- | --- |
 | CuS | $8.5 \times 10^{-45}$ | $9.2 \times 10^{-23}$ |
 | $\mathrm{Ag}_{2} \mathrm{~S}$ | $1.6 \times 10^{-49}$ | $3.4 \times 10^{-17}$ |
 | $\mathrm{Bi}_{2} \mathrm{~S}_{3}$ | $1.1 \times 10^{-73}$ | $1.0 \times 10^{-15}$ |
@@ -2025,14 +2015,10 @@ $$\operatorname{PbI}_{2}(s) \rightleftharpoons \mathrm{Pb}^{2+}(a q)+2 \mathrm{I
 
 The concentrations are as follows:
 
-|  Initial  | | | --- | --- | --- | |
-| --- |
-| | Equilibrium |  |  | |
-| | Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  | |
-| |  |
-} |  |  |
-| $\left[\mathrm{Pb}^{2+}\right]_{0}=0$ | $x \mathrm{~mol} / \mathrm{L}$ | {$\left[\mathrm{Pb}^{2+}\right]=x$} |
-| {$\left[\mathrm{I}^{-}\right]_{0}=3.33 \times 10^{-2}$} | $\xrightarrow[\text { dissolves }]{\mathrm{PbI}_{2}(s)}$ | {$\left[\mathrm{I}^{-}\right]=3.33 \times 10^{-2}+2 x$} |
+| Species | Initial concentration $(\mathrm{mol} / \mathrm{L})$ | Equilibrium concentration $(\mathrm{mol} / \mathrm{L})$ |
+| --- | --- | --- |
+| $\mathrm{Pb}^{2+}$ | $\left[\mathrm{Pb}^{2+}\right]_{0}=0$ | $\left[\mathrm{Pb}^{2+}\right]=x$ |
+| $\mathrm{I}^{-}$ | $\left[\mathrm{I}^{-}\right]_{0}=3.33 \times 10^{-2}$ | $\left[\mathrm{I}^{-}\right]=3.33 \times 10^{-2}+2x$ |
 
 
 Substituting into the expression for $K_{\mathrm{sp}}$ gives
@@ -2082,14 +2068,10 @@ $$\begin{array}{c}
 K_{\mathrm{sp}}=\left[\mathrm{Mg}^{2+}\right]\left[\mathrm{F}^{-}\right]^{2}=6.4 \times 10^{-9}
 \end{array}$$
 
-|  Initial  | | | --- | --- | --- | |
-| --- |
-| | Equilibrium |  |  | |
-| | Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  | |
-| |  |
-} |  |  |
-| $\left[\mathrm{Mg}^{2+}\right]_{0}=0$ | $x \mathrm{~mol} / \mathrm{L}$ | {$\left[\mathrm{Mg}^{2+}\right]=x$} |
-| {$\left[\mathrm{~F}^{-}\right]_{0}=5.50 \times 10^{-2}$} | $\xrightarrow[\text { dissolves }]{\mathrm{MgF}_{2}(s)}$ | {$\left[\mathrm{F}^{-}\right]=5.50 \times 10^{-2}+2 x$} |
+| Species | Initial concentration $(\mathrm{mol} / \mathrm{L})$ | Equilibrium concentration $(\mathrm{mol} / \mathrm{L})$ |
+| --- | --- | --- |
+| $\mathrm{Mg}^{2+}$ | $\left[\mathrm{Mg}^{2+}\right]_{0}=0$ | $\left[\mathrm{Mg}^{2+}\right]=x$ |
+| $\mathrm{F}^{-}$ | $\left[\mathrm{F}^{-}\right]_{0}=5.50 \times 10^{-2}$ | $\left[\mathrm{F}^{-}\right]=5.50 \times 10^{-2}+2x$ |
 
 $$\begin{aligned}
 K_{\mathrm{sp}} & =6.4 \times 10^{-9}=\left[\mathrm{Mg}^{2+}\right]\left[\mathrm{F}^{-}\right]^{2} \\

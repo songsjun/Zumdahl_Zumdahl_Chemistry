@@ -381,16 +381,8 @@ Exact numbers never limit the number of significant figures in a calculation.
 
 Exponential notation is reviewed in Appendix 1.1.
 
-| Trial | | | --- | --- | --- | |
-| --- |
-| | Volume Shown by |  |  | |
-| | Graduated Cylinder |  |  | |
-| |  |
- | | | Volume Shown |  |  | |
-| --- |
-| | by the Buret |  |  | |
-| |  |
- |  |  |
+| Trial | Volume Shown by Graduated Cylinder | Volume Shown by the Buret |
+| --- | --- | --- |
 | 1 | 25 mL | 26.54 mL |
 | 2 | 25 mL | 26.51 mL |
 | 3 | 25 mL | 26.60 mL |
@@ -491,12 +483,10 @@ Chapter One Chemical Foundations
 
 This number must be rounded to two significant figures.
 
-| | | --- | --- | |
-| --- |
-| | TABLE 1.4 |  | |
-| | Equivalents |  | |
-| |  |
- | English-Metric |
+TABLE 1.4 Equivalents
+
+| Quantity | English-Metric |
+| --- | --- |
 | Length | $1 \mathrm{~m}=1.094 \mathrm{yd}$ |
 |  | $2.54 \mathrm{~cm}=1 \mathrm{in}$ |
 | Mass | $1 \mathrm{~kg}=2.205 \mathrm{lb}$ |

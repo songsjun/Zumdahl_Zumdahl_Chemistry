@@ -1221,16 +1221,8 @@ Concentration of Solutions
 26. An aqueous antifreeze solution is $40.0 \%$ ethylene glycol ( $\mathrm{C}_{2} \mathrm{H}_{6} \mathrm{O}_{2}$ ) by mass. The density of the solution is $1.05 \mathrm{~g} / \mathrm{cm}^{3}$.Calculate the molality, molarity, and mole fraction of the ethylene glycol.
 27. Common commercial acids and bases are aqueous solutions with the following properties:
 
-|  | | | --- | --- | --- | |
-| --- |
-| | Density |  |  | |
-| | $\mathbf{( g / c m}$ |  |  | |
-| |  |
- | | | Mass Percent |  |  | |
-| --- |
-| | of Solute |  |  | |
-| |  |
- |  |  |
+| Reagent | Density $(\mathbf{g}/\mathbf{cm}^{3})$ | Mass Percent of Solute |
+| --- | --- | --- |
 | Hydrochloric acid | 1.19 | 38 |
 | Nitric acid | 1.42 | 70. |
 | Sulfuric acid | 1.84 | 95 |
@@ -1333,12 +1325,8 @@ d. a solution of methanol in water with $\chi_{\mathrm{CH}_{3} \mathrm{OH}}=0.2$
 Chapter Eleven Properties of Solutions
 56. The vapor pressures of several solutions of water-propanol $\left(\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{CH}_{2} \mathrm{OH}\right)$ were determined at various compositions, with the following data collected at $45^{\circ} \mathrm{C}$ :
 
-| $\chi_{\mathbf{H}_{\mathbf{2}} \mathbf{O}}$ | | | --- | --- | |
-| --- |
-| | Vapor pressure |  | |
-| | (torr) |  | |
-| |  |
- |  |
+| $\chi_{\mathbf{H}_{\mathbf{2}} \mathbf{O}}$ | Vapor pressure (torr) |
+| --- | --- |
 | 0 | 74.0 |
 | 0.15 | 77.3 |
 | 0.37 | 80.2 |

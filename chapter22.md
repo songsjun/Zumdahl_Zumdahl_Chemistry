@@ -1000,16 +1000,8 @@ Made in USA.
 ww.coppertone.com
 21621-C
 
-| | | --- | --- | |
-| --- |
-| | General Name |  | |
-| | of Sugar |  | |
-| |  |
- | | | Number of |  | |
-| --- |
-| | Carbon Atoms |  | |
-| |  |
- |  |
+| General Name of Sugar | Number of Carbon Atoms |
+| --- | --- |
 | Triose | 3 |
 | Tetrose | 4 |
 | Pentose | 5 |

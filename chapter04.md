@@ -318,7 +318,7 @@ $\_\_\_\_$
 $\_\_\_\_$
 Typical blood serum is about 0.14 M NaCl . What volume of blood contains 1.0 mg NaCl ?
 
-\section*{Solution \\ Solution}
+Solution
 
 We must first determine the number of moles represented by 1.0 mg NaCl (molar mass $=$
 $$\begin{array}{l}
@@ -988,11 +988,8 @@ TABLE 4.2 Rules for Assigning Oxidation States
 | - An atom in an element is zero | Element: 0 | $\mathrm{Na}(s), \mathrm{O}_{2}(g), \mathrm{O}_{3}(g), \mathrm{Hg}(l)$ |
 | - A monatomic ion is the same as its charge | Monatomic ion: charge of ion | $\mathrm{Na}^{+}, \mathrm{Cl}^{-}$ |
 | - Fluorine is -1 in its compounds | Fluorine: -1 | $\mathrm{HF}, \mathrm{PF}_{3}$ |
-| | | - Oxygen is usually -2 in its compounds |  |  | |
-| --- |
-| | Exception: peroxides (containing $\mathrm{O}_{2}{ }^{2-}$ ) in which oxygen is -1 |  |  | |
-| |  |
- | Oxygen: -2 | $\mathrm{H}_{2} \mathrm{O}, \mathrm{CO}_{2}$ |
+| - Oxygen is usually -2 in its compounds | Oxygen: -2 | $\mathrm{H}_{2} \mathrm{O}, \mathrm{CO}_{2}$ |
+| Exception: peroxides (containing $\mathrm{O}_{2}{ }^{2-}$ ) in which oxygen is -1 | Oxygen in peroxides: -1 | $\mathrm{H}_{2} \mathrm{O}_{2}, \mathrm{Na}_{2} \mathrm{O}_{2}$ |
 | - Hydrogen is +1 in its covalent compounds | Hydrogen: +1 | $\mathrm{H}_{2} \mathrm{O}, \mathrm{HCl}, \mathrm{NH}_{3}$ |
 
 ---
