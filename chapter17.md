@@ -1,58 +1,5 @@
 # Chapter 17: Electrochemistry
 
-Marathon Problem
-789
-
-equilibrium with pure solid silver carbonate is $6.23 \times 10^{-3}$ torr at $25^{\circ} \mathrm{C}$, calculate the partial pressure of $\mathrm{CO}_{2}$ necessary to prevent decomposition of $\mathrm{Ag}_{2} \mathrm{CO}_{3}$ at $110 .{ }^{\circ} \mathrm{C}$. Hint: Manipulate the equation in Exercise 67.
-92. Carbon tetrachloride ( $\mathrm{CCl}_{4}$ ) and benzene ( $\mathrm{C}_{6} \mathrm{H}_{6}$ ) form ideal solutions. Consider an equimolar solution of $\mathrm{CCl}_{4}$ and $\mathrm{C}_{6} \mathrm{H}_{6}$ at $25^{\circ} \mathrm{C}$. The vapor above the solution is collected and condensed. Using the following data, determine the composition in mole fraction of the condensed vapor.
-
-| Substance | $\boldsymbol{\Delta} \boldsymbol{G}_{\mathbf{f}}^{\circ}$ |
-| --- | --- |
-| \hline $\mathrm{C}_{6} \mathrm{H}_{6}(l)$ | $124.50 \mathrm{~kJ} / \mathrm{mol}$ |
-| $\mathrm{C}_{6} \mathrm{H}_{6}(g)$ | $129.66 \mathrm{~kJ} / \mathrm{mol}$ |
-| $\mathrm{CCl}_{4}(l)$ | $-65.21 \mathrm{~kJ} / \mathrm{mol}$ |
-| $\mathrm{CCl}_{4}(g)$ | $-60.59 \mathrm{~kJ} / \mathrm{mol}$ |
-
-93. Some nonelectrolyte solute (molar mass $=142 \mathrm{~g} / \mathrm{mol}$ ) was dissolved in $150 . \mathrm{mL}$ of a solvent (density $=0.879 \mathrm{~g} / \mathrm{cm}^{3}$ ). The elevated boiling point of the solution was 355.4 K . What mass of solute was dissolved in the solvent? For the solvent, the enthalpy of vaporization is $33.90 \mathrm{~kJ} / \mathrm{mol}$, the entropy of vaporization is $95.95 \mathrm{~J} / \mathrm{K} \cdot \mathrm{mol}$, and the boiling-point elevation constant is $2.5 \mathrm{~K} \cdot \mathrm{~kg} / \mathrm{mol}$.
-94. You have a $1.00-\mathrm{L}$ sample of hot water $\left(90.0^{\circ} \mathrm{C}\right)$ sitting open in a $25.0^{\circ} \mathrm{C}$ room. Eventually the water cools to $250^{\circ} \mathrm{C}$ while the temperature of the room remains unchanged. Calculate $\Delta S_{\text {surr }}$ for this process. Assume the density of water is $1.00 \mathrm{~g} / \mathrm{cm}^{3}$ over this temperature range, and the heat capacity of water is constant over this temperature range and equal to $75.4 \mathrm{~J} / \mathrm{K} \cdot \mathrm{mol}$.
-95. Consider a weak acid, HX . If a $0.10 M$ solution of HX has a pH of 5.83 at $25^{\circ} \mathrm{C}$, what is $\Delta G^{\circ}$ for the acid's dissociation reaction at $25^{\circ} \mathrm{C}$ ?
-96. Sodium chloride is added to water (at $25^{\circ} \mathrm{C}$ ) until it is saturated. Calculate the $\mathrm{Cl}^{-}$concentration in such a solution.
-
-| Species | $\boldsymbol{\Delta} \boldsymbol{G}^{\boldsymbol{\circ}} \mathbf{( k J / m o l )}$ |
-| --- | --- |
-| \hline $\mathrm{NaCl}(s)$ | -384 |
-| $\mathrm{Na}^{+}(a q)$ | -262 |
-| $\mathrm{Cl}^{-}(a q)$ | -131 |
-
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-97. For the equilibrium
-$$\mathrm{A}(g)+2 \mathrm{~B}(g) \rightleftharpoons \mathrm{C}(g)$$
-the initial concentrations are $[\mathrm{A}]=[\mathrm{B}]=[\mathrm{C}]=0.100 \mathrm{~atm}$. Once equilibrium has been established, it is found that $[\mathrm{C}]=$ 0.040 atm . What is $\Delta G^{\circ}$ for this reaction at $25^{\circ} \mathrm{C}$ ?
-98. What is the pH of a $0.125 M$ solution of the weak base B if $\Delta H^{\circ}=-28.0 \mathrm{~kJ}$ and $\Delta S^{\circ}=-175 \mathrm{~J} / \mathrm{K}$ for the following equilibrium reaction at $25^{\circ} \mathrm{C}$ ?
-$$\mathrm{B}(a q)+\mathrm{H}_{2} \mathrm{O}(l) \leftrightharpoons \mathrm{BH}^{+}(a q)+\mathrm{OH}^{-}(a q)$$
-
-Marathon Problem
-This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-99. Impure nickel, refined by smelting sulfide ores in a blast furnace, can be converted into metal from $99.90 \%$ to $99.99 \%$ purity by the Mond process. The primary reaction involved in the Mond process is
-$$\mathrm{Ni}(s)+4 \mathrm{CO}(g) \rightleftharpoons \mathrm{Ni}(\mathrm{CO})_{4}(g)$$
-a. Without referring to Appendix 4, predict the sign of $\Delta S^{\circ}$ for the above reaction. Explain.
-b. The spontaneity of the above reaction is temperature dependent. Predict the sign of $\Delta S_{\text {surr }}$ for this reaction. Explain.
-c. For $\mathrm{Ni}(\mathrm{CO})_{4}(g), \Delta H_{\mathrm{f}}^{\circ}=-607 \mathrm{~kJ} / \mathrm{mol}$ and $S^{\circ}=417 \mathrm{~J} / \mathrm{K} \cdot$ mol at 298 K . Using these values and data in Appendix 4, calculate $\Delta H^{\circ}$ and $\Delta S^{\circ}$ for the above reaction.
-d. Calculate the temperature at which $\Delta G^{\circ}=0(K=1)$ for the above reaction, assuming that $\Delta H^{\circ}$ and $\Delta S^{\circ}$ do not depend on temperature.
-e. The first step of the Mond process involves equilibrating impure nickel with $\mathrm{CO}(g)$ and $\mathrm{Ni}(\mathrm{CO})_{4}(g)$ at about $50^{\circ} \mathrm{C}$. The purpose of this step is to convert as much nickel as possible into the gas phase. Calculate the equilibrium constant for the above reaction at $50 .{ }^{\circ} \mathrm{C}$.
-f. In the second step of the Mond process, the gaseous $\mathrm{Ni}(\mathrm{CO})_{4}$ is isolated and heated to $227^{\circ} \mathrm{C}$. The purpose of this step is to deposit as much nickel as possible as pure solid (the reverse of the above reaction). Calculate the equilibrium constant for the above reaction at $227^{\circ} \mathrm{C}$.
-g. Why is temperature increased for the second step of the Mond process?
-h. The Mond process relies on the volatility of $\mathrm{Ni}(\mathrm{CO})_{4}$ for its success. Only pressures and temperatures at which $\mathrm{Ni}(\mathrm{CO})_{4}$ is a gas are useful. A recently developed variation of the Mond process carries out the first step at higher pressures and a temperature of $152^{\circ} \mathrm{C}$. Estimate the maximum pressure of $\mathrm{Ni}(\mathrm{CO})_{4}(g)$ that can be attained before the gas will liquefy at $152^{\circ} \mathrm{C}$. The boiling point for $\mathrm{Ni}(\mathrm{CO})_{4}$ is $42^{\circ} \mathrm{C}$ and the enthalpy of vaporization is $29.0 \mathrm{~kJ} / \mathrm{mol}$.
-[Hint: The phase change reaction and the corresponding equilibrium expression are
-$$\mathrm{Ni}(\mathrm{CO})_{4}(l) \rightleftharpoons \mathrm{Ni}(\mathrm{CO})_{4}(g) \quad K=P_{\mathrm{Ni}(\mathrm{CO})_{4}}$$
-$\mathrm{Ni}(\mathrm{CO})_{4}(g)$ will liquefy when the pressure of $\mathrm{Ni}(\mathrm{CO})_{4}$ is greater than the $K$ value.]
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 17
 Electrochemistry
 
@@ -245,37 +192,37 @@ The $\mathscr{E}^{\circ}$ values corresponding to reduction half-reactions with 
 Combining two half-reactions to obtain a balanced oxidation-reduction reaction often requires two manipulations:
 1. One of the reduction half-reactions must be reversed (since redox reactions must involve a substance being oxidized and a substance being reduced). The half-reaction with the largest positive potential will run as written (as a reduction), and the other
 
-| \hline Half-Reaction | $\mathscr{E}^{\circ}(\mathrm{V})$ | Half-Reaction | $\mathscr{E}^{\circ}(\mathrm{V})$ |
+| Half-Reaction | $\mathscr{E}^{\circ}(\mathrm{V})$ | Half-Reaction | $\mathscr{E}^{\circ}(\mathrm{V})$ |
 | --- | --- | --- | --- |
-| \hline $\mathrm{F}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{~F}^{-}$ | 2.87 | $\mathrm{O}_{2}+2 \mathrm{H}_{2} \mathrm{O}+4 \mathrm{e}^{-} \rightarrow 4 \mathrm{OH}^{-}$ | 0.40 |
-| \hline $\mathrm{Ag}^{2+}+\mathrm{e}^{-} \rightarrow \mathrm{Ag}^{+}$ | 1.99 | $\mathrm{Cu}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Cu}$ | 0.34 |
-| \hline $\mathrm{Co}^{3-}+\mathrm{e}^{-} \rightarrow \mathrm{Co}^{2-}$ | 1.82 | $\mathrm{Hg}_{2} \mathrm{Cl}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{Hg}+2 \mathrm{Cl}^{-}$ | 0.27 |
-| \hline $\mathrm{H}_{2} \mathrm{O}_{2}+2 \mathrm{H}^{-}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{H}_{2} \mathrm{O}$ | 1.78 | $\mathrm{AgCl}+\mathrm{e}^{-} \rightarrow \mathrm{Ag}+\mathrm{Cl}^{-}$ | 0.22 |
-| \hline $\mathrm{Ce}^{4+}+\mathrm{e}^{-} \rightarrow \mathrm{Ce}^{3+}$ | 1.70 | $\mathrm{SO}_{4}{ }^{2-}+4 \mathrm{H}^{+}+2 \mathrm{e}^{-} \rightarrow \mathrm{H}_{2} \mathrm{SO}_{3}+\mathrm{H}_{2} \mathrm{O}$ | 0.20 |
-| \hline $\mathrm{PbO}_{2}+4 \mathrm{H}^{+}+\mathrm{SO}_{4}{ }^{2-}+2 \mathrm{e}^{-} \rightarrow \mathrm{PbSO}_{4}+2 \mathrm{H}_{2} \mathrm{O}$ | 1.69 | $\mathrm{Cu}^{2+}+\mathrm{e}^{-} \rightarrow \mathrm{Cu}^{+}$ | 0.16 |
-| \hline $\mathrm{MnO}_{4}^{-}+4 \mathrm{H}^{+}+3 \mathrm{e}^{-} \rightarrow \mathrm{MnO}_{2}+2 \mathrm{H}_{2} \mathrm{O}$ | 1.68 | $2 \mathrm{H}^{+}+2 \mathrm{e}^{-} \rightarrow \mathrm{H}_{2}$ | 0.00 |
-| \hline $2 \mathrm{e}^{-}+2 \mathrm{H}^{+}+\mathrm{IO}_{4}{ }^{-} \rightarrow \mathrm{IO}_{3}{ }^{-}+\mathrm{H}_{2} \mathrm{O}$ | 1.60 | $\mathrm{Fe}^{3+}+3 \mathrm{e}^{-} \rightarrow \mathrm{Fe}$ | -0.036 |
-| \hline $\mathrm{MnO}_{4}^{-}+8 \mathrm{H}^{+}+5 \mathrm{e}^{-} \rightarrow \mathrm{Mn}^{2+}+4 \mathrm{H}_{2} \mathrm{O}$ | 1.51 | $\mathrm{Pb}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Pb}$ | -0.13 |
-| \hline $\mathrm{Au}^{3+}+3 \mathrm{e}^{-} \rightarrow \mathrm{Au}$ | 1.50 | $\mathrm{Sn}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Sn}$ | -0.14 |
-| \hline $\mathrm{PbO}_{2}+4 \mathrm{H}^{+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Pb}^{2+}+2 \mathrm{H}_{2} \mathrm{O}$ | 1.46 | $\mathrm{Ni}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Ni}$ | -0.23 |
-| \hline $\mathrm{Cl}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{Cl}^{-}$ | 1.36 | $\mathrm{PbSO}_{4}+2 \mathrm{e}^{-} \rightarrow \mathrm{Pb}+\mathrm{SO}_{4}{ }^{2-}$ | -0.35 |
-| \hline $\mathrm{Cr}_{2} \mathrm{O}_{7}{ }^{2-}+14 \mathrm{H}^{+}+6 \mathrm{e}^{-} \rightarrow 2 \mathrm{Cr}^{3+}+7 \mathrm{H}_{2} \mathrm{O}$ | 1.33 | $\mathrm{Cd}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Cd}$ | -0.40 |
-| \hline $\mathrm{O}_{2}+4 \mathrm{H}^{+}+4 \mathrm{e}^{-} \rightarrow 2 \mathrm{H}_{2} \mathrm{O}$ | 1.23 | $\mathrm{Fe}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Fe}$ | -0.44 |
-| \hline $\mathrm{MnO}_{2}+4 \mathrm{H}^{+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Mn}^{2+}+2 \mathrm{H}_{2} \mathrm{O}$ | 1.21 | $\mathrm{Cr}^{3+}+\mathrm{e}^{-} \rightarrow \mathrm{Cr}^{2+}$ | -0.50 |
-| \hline $\mathrm{IO}_{3}{ }^{-}+6 \mathrm{H}^{+}+5 \mathrm{e}^{-} \rightarrow \frac{1}{2} \mathrm{I}_{2}+3 \mathrm{H}_{2} \mathrm{O}$ | 1.20 | $\mathrm{Cr}^{3+}+3 \mathrm{e}^{-} \rightarrow \mathrm{Cr}$ | -0.73 |
-| \hline $\mathrm{Br}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{Br}^{-}$ | 1.09 | $\mathrm{Zn}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Zn}$ | -0.76 |
-| \hline $\mathrm{VO}_{2}{ }^{+}+2 \mathrm{H}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{VO}^{2+}+\mathrm{H}_{2} \mathrm{O}$ | 1.00 | $2 \mathrm{H}_{2} \mathrm{O}+2 \mathrm{e}^{-} \rightarrow \mathrm{H}_{2}+2 \mathrm{OH}^{-}$ | -0.83 |
-| \hline $\mathrm{AuCl}_{4}^{-}+3 \mathrm{e}^{-} \rightarrow \mathrm{Au}+4 \mathrm{Cl}^{-}$ | 0.99 | $\mathrm{Mn}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Mn}$ | -1.18 |
-| \hline $\mathrm{NO}_{3}^{-}+4 \mathrm{H}^{+}+3 \mathrm{e}^{-} \rightarrow \mathrm{NO}+2 \mathrm{H}_{2} \mathrm{O}$ | 0.96 | $\mathrm{Al}^{3+}+3 \mathrm{e}^{-} \rightarrow \mathrm{Al}$ | -1.66 |
-| \hline $\mathrm{ClO}_{2}+\mathrm{e}^{-} \rightarrow \mathrm{ClO}_{2}{ }^{-}$ | 0.954 | $\mathrm{H}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{H}^{-}$ | -2.23 |
-| \hline $2 \mathrm{Hg}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Hg}_{2}{ }^{2+}$ | 0.91 | $\mathrm{Mg}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Mg}$ | -2.37 |
-| \hline $\mathrm{Ag}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{Ag}$ | 0.80 | $\mathrm{La}^{3+}+3 \mathrm{e}^{-} \rightarrow \mathrm{La}$ | -2.37 |
-| \hline $\mathrm{Hg}_{2}{ }^{2+}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{Hg}$ | 0.80 | $\mathrm{Na}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{Na}$ | -2.71 |
-| \hline $\mathrm{Fe}^{3+}+\mathrm{e}^{-} \rightarrow \mathrm{Fe}^{2+}$ | 0.77 | $\mathrm{Ca}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Ca}$ | -2.76 |
-| \hline $\mathrm{O}_{2}+2 \mathrm{H}^{+}+2 \mathrm{e}^{-} \rightarrow \mathrm{H}_{2} \mathrm{O}_{2}$ | 0.68 | $\mathrm{Ba}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Ba}$ | -2.90 |
-| \hline $\mathrm{MnO}_{4}{ }^{-}+\mathrm{e}^{-} \rightarrow \mathrm{MnO}_{4}{ }^{2-}$ | 0.56 | $\mathrm{K}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{K}$ | -2.92 |
-| \hline $\mathrm{I}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{I}^{-}$ | 0.54 | $\mathrm{Li}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{Li}$ | -3.05 |
-| \hline $\mathrm{Cu}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{Cu}$ | 0.52 |  |  |
+| $\mathrm{F}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{~F}^{-}$ | 2.87 | $\mathrm{O}_{2}+2 \mathrm{H}_{2} \mathrm{O}+4 \mathrm{e}^{-} \rightarrow 4 \mathrm{OH}^{-}$ | 0.40 |
+| $\mathrm{Ag}^{2+}+\mathrm{e}^{-} \rightarrow \mathrm{Ag}^{+}$ | 1.99 | $\mathrm{Cu}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Cu}$ | 0.34 |
+| $\mathrm{Co}^{3-}+\mathrm{e}^{-} \rightarrow \mathrm{Co}^{2-}$ | 1.82 | $\mathrm{Hg}_{2} \mathrm{Cl}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{Hg}+2 \mathrm{Cl}^{-}$ | 0.27 |
+| $\mathrm{H}_{2} \mathrm{O}_{2}+2 \mathrm{H}^{-}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{H}_{2} \mathrm{O}$ | 1.78 | $\mathrm{AgCl}+\mathrm{e}^{-} \rightarrow \mathrm{Ag}+\mathrm{Cl}^{-}$ | 0.22 |
+| $\mathrm{Ce}^{4+}+\mathrm{e}^{-} \rightarrow \mathrm{Ce}^{3+}$ | 1.70 | $\mathrm{SO}_{4}{ }^{2-}+4 \mathrm{H}^{+}+2 \mathrm{e}^{-} \rightarrow \mathrm{H}_{2} \mathrm{SO}_{3}+\mathrm{H}_{2} \mathrm{O}$ | 0.20 |
+| $\mathrm{PbO}_{2}+4 \mathrm{H}^{+}+\mathrm{SO}_{4}{ }^{2-}+2 \mathrm{e}^{-} \rightarrow \mathrm{PbSO}_{4}+2 \mathrm{H}_{2} \mathrm{O}$ | 1.69 | $\mathrm{Cu}^{2+}+\mathrm{e}^{-} \rightarrow \mathrm{Cu}^{+}$ | 0.16 |
+| $\mathrm{MnO}_{4}^{-}+4 \mathrm{H}^{+}+3 \mathrm{e}^{-} \rightarrow \mathrm{MnO}_{2}+2 \mathrm{H}_{2} \mathrm{O}$ | 1.68 | $2 \mathrm{H}^{+}+2 \mathrm{e}^{-} \rightarrow \mathrm{H}_{2}$ | 0.00 |
+| $2 \mathrm{e}^{-}+2 \mathrm{H}^{+}+\mathrm{IO}_{4}{ }^{-} \rightarrow \mathrm{IO}_{3}{ }^{-}+\mathrm{H}_{2} \mathrm{O}$ | 1.60 | $\mathrm{Fe}^{3+}+3 \mathrm{e}^{-} \rightarrow \mathrm{Fe}$ | -0.036 |
+| $\mathrm{MnO}_{4}^{-}+8 \mathrm{H}^{+}+5 \mathrm{e}^{-} \rightarrow \mathrm{Mn}^{2+}+4 \mathrm{H}_{2} \mathrm{O}$ | 1.51 | $\mathrm{Pb}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Pb}$ | -0.13 |
+| $\mathrm{Au}^{3+}+3 \mathrm{e}^{-} \rightarrow \mathrm{Au}$ | 1.50 | $\mathrm{Sn}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Sn}$ | -0.14 |
+| $\mathrm{PbO}_{2}+4 \mathrm{H}^{+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Pb}^{2+}+2 \mathrm{H}_{2} \mathrm{O}$ | 1.46 | $\mathrm{Ni}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Ni}$ | -0.23 |
+| $\mathrm{Cl}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{Cl}^{-}$ | 1.36 | $\mathrm{PbSO}_{4}+2 \mathrm{e}^{-} \rightarrow \mathrm{Pb}+\mathrm{SO}_{4}{ }^{2-}$ | -0.35 |
+| $\mathrm{Cr}_{2} \mathrm{O}_{7}{ }^{2-}+14 \mathrm{H}^{+}+6 \mathrm{e}^{-} \rightarrow 2 \mathrm{Cr}^{3+}+7 \mathrm{H}_{2} \mathrm{O}$ | 1.33 | $\mathrm{Cd}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Cd}$ | -0.40 |
+| $\mathrm{O}_{2}+4 \mathrm{H}^{+}+4 \mathrm{e}^{-} \rightarrow 2 \mathrm{H}_{2} \mathrm{O}$ | 1.23 | $\mathrm{Fe}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Fe}$ | -0.44 |
+| $\mathrm{MnO}_{2}+4 \mathrm{H}^{+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Mn}^{2+}+2 \mathrm{H}_{2} \mathrm{O}$ | 1.21 | $\mathrm{Cr}^{3+}+\mathrm{e}^{-} \rightarrow \mathrm{Cr}^{2+}$ | -0.50 |
+| $\mathrm{IO}_{3}{ }^{-}+6 \mathrm{H}^{+}+5 \mathrm{e}^{-} \rightarrow \frac{1}{2} \mathrm{I}_{2}+3 \mathrm{H}_{2} \mathrm{O}$ | 1.20 | $\mathrm{Cr}^{3+}+3 \mathrm{e}^{-} \rightarrow \mathrm{Cr}$ | -0.73 |
+| $\mathrm{Br}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{Br}^{-}$ | 1.09 | $\mathrm{Zn}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Zn}$ | -0.76 |
+| $\mathrm{VO}_{2}{ }^{+}+2 \mathrm{H}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{VO}^{2+}+\mathrm{H}_{2} \mathrm{O}$ | 1.00 | $2 \mathrm{H}_{2} \mathrm{O}+2 \mathrm{e}^{-} \rightarrow \mathrm{H}_{2}+2 \mathrm{OH}^{-}$ | -0.83 |
+| $\mathrm{AuCl}_{4}^{-}+3 \mathrm{e}^{-} \rightarrow \mathrm{Au}+4 \mathrm{Cl}^{-}$ | 0.99 | $\mathrm{Mn}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Mn}$ | -1.18 |
+| $\mathrm{NO}_{3}^{-}+4 \mathrm{H}^{+}+3 \mathrm{e}^{-} \rightarrow \mathrm{NO}+2 \mathrm{H}_{2} \mathrm{O}$ | 0.96 | $\mathrm{Al}^{3+}+3 \mathrm{e}^{-} \rightarrow \mathrm{Al}$ | -1.66 |
+| $\mathrm{ClO}_{2}+\mathrm{e}^{-} \rightarrow \mathrm{ClO}_{2}{ }^{-}$ | 0.954 | $\mathrm{H}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{H}^{-}$ | -2.23 |
+| $2 \mathrm{Hg}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Hg}_{2}{ }^{2+}$ | 0.91 | $\mathrm{Mg}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Mg}$ | -2.37 |
+| $\mathrm{Ag}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{Ag}$ | 0.80 | $\mathrm{La}^{3+}+3 \mathrm{e}^{-} \rightarrow \mathrm{La}$ | -2.37 |
+| $\mathrm{Hg}_{2}{ }^{2+}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{Hg}$ | 0.80 | $\mathrm{Na}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{Na}$ | -2.71 |
+| $\mathrm{Fe}^{3+}+\mathrm{e}^{-} \rightarrow \mathrm{Fe}^{2+}$ | 0.77 | $\mathrm{Ca}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Ca}$ | -2.76 |
+| $\mathrm{O}_{2}+2 \mathrm{H}^{+}+2 \mathrm{e}^{-} \rightarrow \mathrm{H}_{2} \mathrm{O}_{2}$ | 0.68 | $\mathrm{Ba}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{Ba}$ | -2.90 |
+| $\mathrm{MnO}_{4}{ }^{-}+\mathrm{e}^{-} \rightarrow \mathrm{MnO}_{4}{ }^{2-}$ | 0.56 | $\mathrm{K}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{K}$ | -2.92 |
+| $\mathrm{I}_{2}+2 \mathrm{e}^{-} \rightarrow 2 \mathrm{I}^{-}$ | 0.54 | $\mathrm{Li}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{Li}$ | -3.05 |
+| $\mathrm{Cu}^{+}+\mathrm{e}^{-} \rightarrow \mathrm{Cu}$ | 0.52 |  |  |
 
 ---
 
@@ -745,7 +692,7 @@ The balanced cell reaction is obtained by reversing reaction (2) and multiplying
 | $2 \times$ reaction (1) | $2 \mathrm{VO}_{2}{ }^{+}+4 \mathrm{H}^{+}+2 \mathrm{e}^{-}$ | $\longrightarrow 2 \mathrm{VO}^{2+}+2 \mathrm{H}_{2} \mathrm{O}$ | $\mathscr{E}^{\circ}$ (cathode) |
 | --- | --- | --- | --- |
 | Reaction (2) reversed | Zn | $=1.00 \mathrm{~V}$ |  |
-| \hline Cell reaction: | $2 \mathrm{VO}_{2}{ }^{+}(a q)+4 \mathrm{H}^{+}(a q)+\mathrm{Zn}(s)$ | $\longrightarrow 2 \mathrm{VO}^{2+}+2 \mathrm{e}^{-}$ | $-\mathscr{E}^{\circ}$ (anode) $+2 \mathrm{H}_{2} \mathrm{O}(l)+\mathrm{Zn}^{2+}(a q)$ |
+| Cell reaction: | $2 \mathrm{VO}_{2}{ }^{+}(a q)+4 \mathrm{H}^{+}(a q)+\mathrm{Zn}(s)$ | $\longrightarrow 2 \mathrm{VO}^{2+}+2 \mathrm{e}^{-}$ | $-\mathscr{E}^{\circ}$ (anode) $+2 \mathrm{H}_{2} \mathrm{O}(l)+\mathrm{Zn}^{2+}(a q)$ |
  $\mathscr{E}_{\text {cell }}=1.76 \mathrm{~V}$
 
 Since the cell contains components at concentrations other than $1 M$, we must use the Nernst equation, where $n=2$ (since two electrons are transferred), to calculate the cell potential. At $25^{\circ} \mathrm{C}$ we can use the equation
@@ -773,7 +720,7 @@ A glass electrode contains a reference solution of dilute hydrochloric acid in c
 
 | Cations | Anions |
 | --- | --- |
-| \hline $\mathrm{H}^{+}$ | $\mathrm{Br}^{-}$ |
+| $\mathrm{H}^{+}$ | $\mathrm{Br}^{-}$ |
 | $\mathrm{Cd}^{2+}$ | $\mathrm{Cl}^{-}$ |
 | $\mathrm{Ca}^{2+}$ | $\mathrm{CN}^{-}$ |
 | $\mathrm{Cu}^{2+}$ | $\mathrm{F}^{-}$ |
@@ -822,7 +769,7 @@ To obtain the balanced reaction, we must reverse reaction (2), multiply it by 2 
 | Reaction (1) | $\mathrm{S}_{4} \mathrm{O}_{6}{ }^{2-}+2 \mathrm{e}^{-}$ | $\longrightarrow 2 \mathrm{~S}_{2} \mathrm{O}_{3}{ }^{2-}$ | $\mathscr{E}^{\circ}$ (cathode) | $=0.17 \mathrm{~V}$ |
 | --- | --- | --- | --- | --- |
 | $2 \times$ reaction (2) reversed | $2\left(\mathrm{Cr}^{2+} \longrightarrow \mathrm{Cr}^{3+}+\mathrm{e}^{-}\right)$ | $-\mathscr{C}^{\circ}$ (anode) | $=-(-0.50) \mathrm{V}$ |  |
-| \hline Cell reaction: | $2 \mathrm{Cr}^{2+}(a q)+\mathrm{S}_{4} \mathrm{O}_{6}{ }^{2-}(a q)$ | $\longrightarrow 2 \mathrm{Cr}^{3+}(a q)+2 \mathrm{~S}_{2} \mathrm{O}_{3}{ }^{2-}(a q)$ | $\mathscr{C}^{\circ}$ | $=0.67 \mathrm{~V}$ |
+| Cell reaction: | $2 \mathrm{Cr}^{2+}(a q)+\mathrm{S}_{4} \mathrm{O}_{6}{ }^{2-}(a q)$ | $\longrightarrow 2 \mathrm{Cr}^{3+}(a q)+2 \mathrm{~S}_{2} \mathrm{O}_{3}{ }^{2-}(a q)$ | $\mathscr{C}^{\circ}$ | $=0.67 \mathrm{~V}$ |
 
 
 The blue solution contains $\mathrm{Cr}^{2+}$ ions, and the green solution contains $\mathrm{Cr}^{3+}$ ions.
@@ -1154,7 +1101,7 @@ We have seen that hydrogen and oxygen combine spontaneously to form water and th
 | Anode reaction: | $2 \mathrm{H}_{2} \mathrm{O} \longrightarrow \mathrm{O}_{2}+4 \mathrm{H}^{+}+4 \mathrm{e}^{-}$ | $-\mathscr{C}^{\circ}=-1.23 \mathrm{~V}$ |
 | --- | --- | --- |
 | Cathode reaction: | $4 \mathrm{H}_{2} \mathrm{O}+4 \mathrm{e}^{-} \longrightarrow 2 \mathrm{H}_{2}+4 \mathrm{OH}^{-}$ | $\mathscr{C}^{\circ}=-0.83 \mathrm{~V}$ |
-| \hline Net reaction: | $6 \mathrm{H}_{2} \mathrm{O} \longrightarrow 2 \mathrm{H}_{2}+\mathrm{O}_{2}+\underbrace{4\left(\mathrm{H}^{+}+\mathrm{OH}^{-}\right)}_{4 \mathrm{H}_{2} \mathrm{O}}$ | $\mathscr{C}^{\circ}=-2.06 \mathrm{~V}$ |
+| Net reaction: | $6 \mathrm{H}_{2} \mathrm{O} \longrightarrow 2 \mathrm{H}_{2}+\mathrm{O}_{2}+\underbrace{4\left(\mathrm{H}^{+}+\mathrm{OH}^{-}\right)}_{4 \mathrm{H}_{2} \mathrm{O}}$ | $\mathscr{C}^{\circ}=-2.06 \mathrm{~V}$ |
 
 or
 $$2 \mathrm{H}_{2} \mathrm{O} \longrightarrow 2 \mathrm{H}_{2}+\mathrm{O}_{2}$$
@@ -2109,12 +2056,12 @@ b. Calculate the value of the equilibrium constant, $K$, for the titration react
 c. Calculate $\mathscr{E}_{\text {cell }}$ at the halfway point in the titration.
 129. The table below lists the cell potentials for the 10 possible galvanic cells assembled from the metals A, B, C, D, and E, and their respective $1.00 M 2+$ ions in solution. Using the data in the table, establish a standard reduction potential table similar to Table 17.1 in the text. Assign a reduction potential of 0.00 V to the half-reaction that falls in the middle of the series. You should get two different tables. Explain why, and discuss what you could do to determine which table is correct.
 
-| \hline | A(s) in $\mathrm{A}^{2+}(\mathrm{aq})$ | $\mathrm{B}(s)$ in $\mathrm{B}^{2+}(a q)$ | $\mathrm{C}(s)$ in $\mathrm{C}^{2+}(\mathrm{aq})$ | $\mathrm{D}(s)$ in $\mathrm{D}^{2+}(a q)$ |
+| | A(s) in $\mathrm{A}^{2+}(\mathrm{aq})$ | $\mathrm{B}(s)$ in $\mathrm{B}^{2+}(a q)$ | $\mathrm{C}(s)$ in $\mathrm{C}^{2+}(\mathrm{aq})$ | $\mathrm{D}(s)$ in $\mathrm{D}^{2+}(a q)$ |
 | --- | --- | --- | --- | --- |
-| \hline $\mathrm{E}(s)$ in $\mathrm{E}^{2+}(a q)$ | 0.28 V | 0.81 V | 0.13 V | 1.00 V |
-| \hline $\mathrm{D}(s)$ in $\mathrm{D}^{2+}(a q)$ | 0.72 V | 0.19 V | 1.13 V | - |
-| \hline $\mathrm{C}(s)$ in $\mathrm{C}^{2+}(a q)$ | 0.41 V | 0.94 V | - | - |
-| \hline $\mathrm{B}(s)$ in $\mathrm{B}^{2+}(a q)$ | 0.53 V | - | - | - |
+| $\mathrm{E}(s)$ in $\mathrm{E}^{2+}(a q)$ | 0.28 V | 0.81 V | 0.13 V | 1.00 V |
+| $\mathrm{D}(s)$ in $\mathrm{D}^{2+}(a q)$ | 0.72 V | 0.19 V | 1.13 V | - |
+| $\mathrm{C}(s)$ in $\mathrm{C}^{2+}(a q)$ | 0.41 V | 0.94 V | - | - |
+| $\mathrm{B}(s)$ in $\mathrm{B}^{2+}(a q)$ | 0.53 V | - | - | - |
 
 
 Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

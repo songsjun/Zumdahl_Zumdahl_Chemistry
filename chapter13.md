@@ -1,29 +1,5 @@
 # Chapter 13: Chemical Equilibrium
 
-Marathon Problem
-577
-
-Experiment 2: $[\mathrm{Y}]_{0}=4.5 \mathrm{M}$
-
-| {$\left[\mathbf{C H}_{\mathbf{3}} \mathbf{X} \mathbf{~ ( m o l /} \mathbf{L}\right.$ ) } | Time (h) |
-| --- | --- |
-| \hline $4.50 \times 10^{-3}$ | 0 |
-| $1.70 \times 10^{-3}$ | 1.0 |
-| $4.19 \times 10^{-4}$ | 2.5 |
-| $1.11 \times 10^{-4}$ | 4.0 |
-| $2.81 \times 10^{-5}$ | 5.5 |
-
-
-Experiments also were run at $85^{\circ} \mathrm{C}$. The value of the rate constant at $85^{\circ} \mathrm{C}$ was found to be $7.88 \times 10^{8}$ (with the time in units of hours), where $\left[\mathrm{CH}_{3} \mathrm{X}\right]_{0}=1.0 \times 10^{-2} M$ and $[\mathrm{Y}]_{0}=3.0 M$.
-a. Determine the rate law and the value of $k$ for this reaction at $25^{\circ} \mathrm{C}$.
-b. Determine the half-life at $85^{\circ} \mathrm{C}$.
-c. Determine $E_{\mathrm{a}}$ for the reaction.
-d. Given that the C-X bond energy is known to be about 325 $\mathrm{kJ} / \mathrm{mol}$, suggest a mechanism that explains the results in parts a and c .
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 13
 Chemical Equilibrium
 
@@ -255,10 +231,10 @@ Each set of equilibrium concentrations is called an equilibrium position. It is 
 Sample Exercise 13.3 Equilibrium Positions
 The following results were collected for two experiments involving the reaction at $600^{\circ} \mathrm{C}$ between gaseous sulfur dioxide and oxygen to form gaseous sulfur trioxide:
 
-| \hline Experiment 1 | Experiment 2 |  |  |
+| Experiment 1 | Experiment 2 |  |  |
 | --- | --- | --- | --- |
-| \hline Initial | Equilibrium | Initial | Equilibrium |
-| \hline $$\begin{array}{l} |  |  |  |
+| Initial | Equilibrium | Initial | Equilibrium |
+| $$\begin{array}{l} |  |  |  |
 | {\left[\mathrm{SO}_{2}\right]_{0}=2.00 \mathrm{M}} |  |  |  |
 | {\left[\mathrm{O}_{2}\right]_{0}=1.50 \mathrm{M}} |  |  |  |
 | {\left[\mathrm{SO}_{3}\right]_{0}=3.00 \mathrm{M}} |  |  |  |
@@ -293,10 +269,10 @@ Chapter Thirteen Chemical Equilibrium
 The ideal gas equation was discussed in Section 5.3.
 $K$ involves concentrations; $K_{\mathrm{p}}$ involves pressures. In some books, the symbol $K_{\mathrm{C}}$ is used instead of $K$.
 
-| \hline TABLE 13.1 $\mathbf{2 N H}_{\mathbf{3}} \boldsymbol{(} \boldsymbol{g} \boldsymbol{)}$ | Results of Three Experiments for the Reaction $\mathbf{N}_{\mathbf{2}}(\boldsymbol{g}) \boldsymbol{+} \mathbf{3 H}_{\mathbf{2}}(\boldsymbol{g}) \rightleftharpoons$ |  |  |
+| TABLE 13.1 $\mathbf{2 N H}_{\mathbf{3}} \boldsymbol{(} \boldsymbol{g} \boldsymbol{)}$ | Results of Three Experiments for the Reaction $\mathbf{N}_{\mathbf{2}}(\boldsymbol{g}) \boldsymbol{+} \mathbf{3 H}_{\mathbf{2}}(\boldsymbol{g}) \rightleftharpoons$ |  |  |
 | --- | --- | --- | --- |
-| \hline Experiment | Initial Concentrations | Equilibrium Concentrations | $K=\frac{\left[\mathrm{NH}_{3}\right]^{\mathbf{2}}}{\left[\mathrm{N}_{2}\right]\left[\mathrm{H}_{2}\right]^{\mathbf{3}}}$ |
-| \hline I | $$\begin{array}{l} |  |  |
+| Experiment | Initial Concentrations | Equilibrium Concentrations | $K=\frac{\left[\mathrm{NH}_{3}\right]^{\mathbf{2}}}{\left[\mathrm{N}_{2}\right]\left[\mathrm{H}_{2}\right]^{\mathbf{3}}}$ |
+| I | $$\begin{array}{l} |  |  |
 | {\left[\mathrm{N}_{2}\right]_{0}=1.000 M} |  |  |  |
 | {\left[\mathrm{H}_{2}\right]_{0}=1.000 M} |  |  |  |
 | {\left[\mathrm{NH}_{3}\right]_{0}=0} |  |  |  |
@@ -305,7 +281,7 @@ $K$ involves concentrations; $K_{\mathrm{p}}$ involves pressures. In some books,
 | {\left[\mathrm{H}_{2}\right]=0.763 M} |  |  |  |
 | {\left[\mathrm{NH}_{3}\right]=0.157 M} |  |  |  |
 | \end{array}$$ | $K=6.02 \times 10^{-2}$ |  |  |
-| \hline II | $$\begin{array}{l} |  |  |
+| II | $$\begin{array}{l} |  |  |
 | {\left[\mathrm{N}_{2}\right]_{0}=0} |  |  |  |
 | {\left[\mathrm{H}_{2}\right]_{0}=0} |  |  |  |
 | {\left[\mathrm{NH}_{3}\right]_{0}=1.000 M} |  |  |  |
@@ -314,7 +290,7 @@ $K$ involves concentrations; $K_{\mathrm{p}}$ involves pressures. In some books,
 | {\left[\mathrm{H}_{2}\right]=1.197 M} |  |  |  |
 | {\left[\mathrm{NH}_{3}\right]=0.203 M} |  |  |  |
 | \end{array}$$ | $K=6.02 \times 10^{-2}$ |  |  |
-| \hline III | $$\begin{array}{l} |  |  |
+| III | $$\begin{array}{l} |  |  |
 | {\left[\mathrm{N}_{2}\right]_{0}=2.00 \mathrm{M}} |  |  |  |
 | {\left[\mathrm{H}_{2}\right]_{0}=1.00 \mathrm{M}} |  |  |  |
 | {\left[\mathrm{NH}_{3}\right]_{0}=3.00 \mathrm{M}} |  |  |  |
@@ -551,12 +527,12 @@ Chapter Thirteen Chemical Equilibrium
 
 observed ratio is smaller than 16, we must increase the numerator and decrease the denominator: The system needs to move to the right (toward more products) to achieve equilibrium. That is, more than 5 of the original reactant molecules must disappear to reach equilibrium for this system. How can we find the correct number? Since we do not know the number of molecules that need to disappear to reach equilibrium, let's call this number $x$. Now we can set up a table similar to the one we used earlier:
 
-| \hline Initial Conditions | Equilibrium Conditions |  |  |  |
+| Initial Conditions | Equilibrium Conditions |  |  |  |
 | --- | --- | --- | --- | --- |
-| \hline 9 | $x$ | disappear | $9-x$ |  |
-| \hline 12 | $x$ | disappear | $12-x$ | molecules |
-| \hline 0 | $x$ | form | $x$ |  |
-| \hline 0 | $x$ | form | $x$ |  |
+| 9 | $x$ | disappear | $9-x$ |  |
+| 12 | $x$ | disappear | $12-x$ | molecules |
+| 0 | $x$ | form | $x$ |  |
+| 0 | $x$ | form | $x$ |  |
 
 
 For the system to be at equilibrium, we know that the following ratio must be satisfied:
@@ -760,12 +736,12 @@ Now we have all the equilibrium concentrations defined in terms of the initial c
 | Initial |  |  |
 | --- | --- | --- |
 | Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  |
-| \end{tabular} | Change $(\mathbf{m o l} / \mathbf{L})$ | | | Equilibrium |  |  | |
+|  | Change $(\mathbf{m o l} / \mathbf{L})$ | | | Equilibrium |  |  | |
 | --- |
 | | Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline$[\mathrm{CO}]_{0}=1.000$ | $-x$ | $1.000-x$ |
+| $[\mathrm{CO}]_{0}=1.000$ | $-x$ | $1.000-x$ |
 | {$\left[\mathrm{H}_{2} \mathrm{O}\right]_{0}=1.000$} | $-x$ | $1.000-x$ |
 | {$\left[\mathrm{CO}_{2}\right]_{0}=1.000$} | $+x$ | $1.000+x$ |
 | {$\left[\mathrm{H}_{2}\right]_{0}=1.000$} | $+x$ | $1.000+x$ |
@@ -838,12 +814,12 @@ Now the equilibrium concentrations can be expressed in terms of $x$ :
 | Initial |  |  |
 | --- | --- | --- |
 | Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  |
-| \end{tabular} | Change $(\mathbf{m o l} / \mathbf{L})$ | | | Equilibrium |  |  | |
+|  | Change $(\mathbf{m o l} / \mathbf{L})$ | | | Equilibrium |  |  | |
 | --- |
 | | Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline$\left[\mathrm{H}_{2}\right]_{0}=2.000$ | $-x$ | {$\left[\mathrm{H}_{2}\right]=2.000-x$} |
+| $\left[\mathrm{H}_{2}\right]_{0}=2.000$ | $-x$ | {$\left[\mathrm{H}_{2}\right]=2.000-x$} |
 | {$\left[\mathrm{~F}_{2}\right]_{0}=2.000$} | $-x$ | {$\left[\mathrm{~F}_{2}\right]=2.000-x$} |
 | {$[\mathrm{HF}]_{0}=2.000$} | $+2 x$ | {$[\mathrm{HF}]=2.000+2 x$} |
 
@@ -1091,7 +1067,7 @@ It is important to understand the factors that control the position of a chemica
 |  |  Total Pressure  |  |  |
 | --- | --- | --- | --- |
 | \cline { 2 - 4 } Temperature $\left({ }^{\circ} \mathbf{C}\right)$ | $\mathbf{3 0 0} \boldsymbol{a t m}$ | $\mathbf{4 0 0} \boldsymbol{a} \boldsymbol{t m}$ | $\mathbf{5 0 0} \boldsymbol{a t m}$ |
-| \hline 400 | $48 \% \mathrm{NH}_{3}$ | $55 \% \mathrm{NH}_{3}$ | $61 \% \mathrm{NH}_{3}$ |
+| 400 | $48 \% \mathrm{NH}_{3}$ | $55 \% \mathrm{NH}_{3}$ | $61 \% \mathrm{NH}_{3}$ |
 | 500 | $26 \% \mathrm{NH}_{3}$ | $32 \% \mathrm{NH}_{3}$ | $38 \% \mathrm{NH}_{3}$ |
 | 600 | $13 \% \mathrm{NH}_{3}$ | $17 \% \mathrm{NH}_{3}$ | $21 \% \mathrm{NH}_{3}$ |
 
@@ -1130,9 +1106,9 @@ $$K=\frac{\left[\mathrm{NH}_{3}\right]^{2}}{\left[\mathrm{~N}_{2}\right]\left[\m
 As expected, $Q$ is less than $K$ because the concentration of $\mathrm{N}_{2}$ was increased.
 The system will shift to the right to come to the new equilibrium position. Rather than do the calculations, we simply summarize the results:
 
-| \hline Equilibrium Position I |  | Equilibrium Position II |
+| Equilibrium Position I |  | Equilibrium Position II |
 | --- | --- | --- |
-| \hline$\left[\mathrm{N}_{2}\right]=0.399 M$ |  | {$\left[\mathrm{~N}_{2}\right]=1.348 M$} |
+| $\left[\mathrm{N}_{2}\right]=0.399 M$ |  | {$\left[\mathrm{~N}_{2}\right]=1.348 M$} |
 | {$\left[\mathrm{H}_{2}\right]=1.197 M$} | $\xlongequal[\text { of } \mathrm{N}_{2} \text { added }]{1.000 \mathrm{~mol} / \mathrm{L}}$ | {$\left[\mathrm{H}_{2}\right]=1.044 M$} |
 | {$\left[\mathrm{NH}_{3}\right]=0.202 M$} |  | {$\left[\mathrm{NH}_{3}\right]=0.304 M$} |
 
@@ -1260,7 +1236,7 @@ Chapter Thirteen Chemical Equilibrium
 
 | Temperature $(\mathbf{K})$ | $\boldsymbol{K}$ |
 | --- | --- |
-| \hline 500 | 90 |
+| 500 | 90 |
 | 600 | 3 |
 | 700 | 0.3 |
 | 800 | 0.04 |
@@ -1269,17 +1245,17 @@ Chapter Thirteen Chemical Equilibrium
 
 Sample Exercise 13.15
 
-| \hline Change | Shift |
+| Change | Shift |
 | --- | --- |
-| \hline Addition of $\mathrm{N}_{2} \mathrm{O}_{4}(g)$ | Right |
-| \hline Addition of $\mathrm{NO}_{2}(g)$ | Left |
-| \hline Removal of $\mathrm{N}_{2} \mathrm{O}_{4}(g)$ | Left |
-| \hline Removal of $\mathrm{NO}_{2}(g)$ | Right |
-| \hline Addition of $\mathrm{He}(g)$ | None |
-| \hline Decrease container volume | Left |
-| \hline Increase container volume | Right |
-| \hline Increase temperature | Right |
-| \hline Decrease temperature | Left |
+| Addition of $\mathrm{N}_{2} \mathrm{O}_{4}(g)$ | Right |
+| Addition of $\mathrm{NO}_{2}(g)$ | Left |
+| Removal of $\mathrm{N}_{2} \mathrm{O}_{4}(g)$ | Left |
+| Removal of $\mathrm{NO}_{2}(g)$ | Right |
+| Addition of $\mathrm{He}(g)$ | None |
+| Decrease container volume | Left |
+| Increase container volume | Right |
+| Increase temperature | Right |
+| Decrease temperature | Left |
 
 
 Key Terms

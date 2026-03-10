@@ -1,17 +1,5 @@
 # Chapter 3: Stoichiometry
 
-Marathon Problem
-75
-b. Knowing some history of chemistry, you tell Dalton that if he determines the volumes of the gases reacted at constant temperature and pressure, he need not assume simplest formulas. You collect the following data:
-
-6 volumes gas $\mathrm{A}+1$ volume gas $\mathrm{B} \rightarrow 4$ volumes product 1 volume gas $\mathrm{B}+4$ volumes gas $\mathrm{C} \rightarrow 4$ volumes product 3 volumes gas $\mathrm{A}+2$ volumes gas $\mathrm{C} \rightarrow 6$ volumes product
-
-Write the simplest balanced equations, and find the actual relative masses of the elements. Explain your reasoning.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 3
 Stoichiometry
 
@@ -209,15 +197,15 @@ Thus the mole is defined such that a sample of a natural element with a mass equ
 3.3 The Mole
 83
 
-| \hline TABLE 3.1 Comparison of $\mathbf{1$ Mole Samples of Various Elements} |  |  |
+| TABLE 3.1 Comparison of $\mathbf{1$ Mole Samples of Various Elements} |  |  |
 | --- | --- | --- |
-| \hline Element | Number of Atoms Present | Mass of Sample (g) |
-| \hline Aluminum | $6.022 \times 10^{23}$ | 26.98 |
-| \hline Copper | $6.022 \times 10^{23}$ | 63.55 |
-| \hline Iron | $6.022 \times 10^{23}$ | 55.85 |
-| \hline Sulfur | $6.022 \times 10^{23}$ | 32.07 |
-| \hline Iodine | $6.022 \times 10^{23}$ | 126.9 |
-| \hline Mercury | $6.022 \times 10^{23}$ | 200.6 |
+| Element | Number of Atoms Present | Mass of Sample (g) |
+| Aluminum | $6.022 \times 10^{23}$ | 26.98 |
+| Copper | $6.022 \times 10^{23}$ | 63.55 |
+| Iron | $6.022 \times 10^{23}$ | 55.85 |
+| Sulfur | $6.022 \times 10^{23}$ | 32.07 |
+| Iodine | $6.022 \times 10^{23}$ | 126.9 |
+| Mercury | $6.022 \times 10^{23}$ | 200.6 |
 
 also fixes the relationship between the atomic mass unit and the gram. Since $6.022 \times 10^{23}$ atoms of carbon (each with a mass of 12 amu ) have a mass of 12 g , then
 $$\left(6.022 \times 10^{23} \mathrm{atoms}\right)\left(\frac{12 \mathrm{amu}}{\mathrm{atom}}\right)=12 \mathrm{~g}$$
@@ -795,7 +783,7 @@ To summarize, we have
 
 | Reactants | Products |
 | --- | --- |
-| \hline 1 C | 1 C |
+| 1 C | 1 C |
 | 4 H | 4 H |
 | 4 O | 4 O |
 
@@ -804,14 +792,14 @@ To summarize, we have
 98
 Chapter Three Stoichiometry
 
-| \hline Reactants | Products |
+| Reactants | Products |
 | --- | --- |
-| \hline $\mathrm{CH}_{4}(g)+2 \mathrm{O}_{2}(g)$ | ⟶ |
-| \hline 1 molecule +2 molecules | ⟶ |
-| \hline 1 mole +2 moles | ⟶ |
-| \hline $6.022 \times 10^{23}$ molecules $+2\left(6.022 \times 10^{23}\right.$ molecules $)$ | $\longrightarrow \quad 6.022 \times 10^{23}$ molecules $+2\left(6.022 \times 10^{23}\right.$ molecules $)$ |
-| \hline $16 \mathrm{~g}+2(32 \mathrm{~g})$ | $44 \mathrm{~g}+2(18 \mathrm{~g})$ |
-| \hline 80 g reactants | ⟶ |
+| $\mathrm{CH}_{4}(g)+2 \mathrm{O}_{2}(g)$ | ⟶ |
+| 1 molecule +2 molecules | ⟶ |
+| 1 mole +2 moles | ⟶ |
+| $6.022 \times 10^{23}$ molecules $+2\left(6.022 \times 10^{23}\right.$ molecules $)$ | $\longrightarrow \quad 6.022 \times 10^{23}$ molecules $+2\left(6.022 \times 10^{23}\right.$ molecules $)$ |
+| $16 \mathrm{~g}+2(32 \mathrm{~g})$ | $44 \mathrm{~g}+2(18 \mathrm{~g})$ |
+| 80 g reactants | ⟶ |
 
 
 Visualization: Oxygen, Hydrogen, Soap Bubbles, and Balloons
@@ -826,7 +814,7 @@ The reactants and products in a specific reaction must be identified by experime
 
 | State | Symbol |
 | --- | --- |
-| \hline Solid | $(s)$ |
+| Solid | $(s)$ |
 | Liquid | $(l)$ |
 | Gas | $(g)$ |
 | Dissolved in water (in aqueous solution) | $(a q)$ |
@@ -1539,20 +1527,20 @@ Atomic Masses and the Mass Spectrometer
 27. An element consists of $1.40 \%$ of an isotope with mass 203.973 amu, $24.10 \%$ of an isotope with mass 205.9745 amu, $22.10 \%$ of an isotope with mass 206.9759 amu , and $52.40 \%$ of an isotope with mass 207.9766 amu. Calculate the average atomic mass and identify the element.
 28. An element "X" has five major isotopes, which are listed below along with their abundances. What is the element?
 
-| \hline Isotope | Percent Natural Abundance | Atomic Mass |
+| Isotope | Percent Natural Abundance | Atomic Mass |
 | --- | --- | --- |
-| \hline ${ }^{46} \mathrm{X}$ | 8.00\% | 45.95269 |
-| \hline ${ }^{47} \mathrm{X}$ | 7.30\% | 46.951764 |
-| \hline ${ }^{48} \mathrm{X}$ | 73.80\% | 47.947947 |
-| \hline ${ }^{49} \mathrm{X}$ | 5.50\% | 48.947841 |
-| \hline ${ }^{50} \mathrm{X}$ | 5.40\% | 49.944792 |
+| ${ }^{46} \mathrm{X}$ | 8.00\% | 45.95269 |
+| ${ }^{47} \mathrm{X}$ | 7.30\% | 46.951764 |
+| ${ }^{48} \mathrm{X}$ | 73.80\% | 47.947947 |
+| ${ }^{49} \mathrm{X}$ | 5.50\% | 48.947841 |
+| ${ }^{50} \mathrm{X}$ | 5.40\% | 49.944792 |
 
 29. The element rhenium (Re) has two naturally occurring isotopes, ${ }^{185} \mathrm{Re}$ and ${ }^{187} \mathrm{Re}$, with an average atomic mass of 186.207 amu. Rhenium is $62.60 \%{ }^{187} \mathrm{Re}$, and the atomic mass of ${ }^{187} \mathrm{Re}$ is 186.956 amu. Calculate the mass of ${ }^{185} \mathrm{Re}$.
 30. Assume silicon has three major isotopes in nature as shown in the table below. Fill in the missing information.
 
 | Isotope | Mass (amu) | Abundance |
 | --- | --- | --- |
-| \hline${ }^{28} \mathrm{Si}$ | 27.98 |  |
+| ${ }^{28} \mathrm{Si}$ | 27.98 |  |
 | \cline { 2 - 2 }${ }^{29} \mathrm{Si}$ |  | $4.70 \%$ |
 | ${ }^{32} \mathrm{Si}$ | 29.97 | $3.09 \%$ |
 
@@ -1560,7 +1548,7 @@ Atomic Masses and the Mass Spectrometer
 
 | Mass (amu) | Relative Size |
 | --- | --- |
-| \hline 157.84 | 0.2534 |
+| 157.84 | 0.2534 |
 | 159.84 | 0.5000 |
 | 161.84 | 0.2466 |
 
@@ -1621,14 +1609,14 @@ b. magnesium nitride
 d. dinitrogen tetroxide
 56. Complete the following table.
 
-| \hline Mass of Sample | Moles of Sample | Molecules in Sample | Total Atoms in Sample |
+| Mass of Sample | Moles of Sample | Molecules in Sample | Total Atoms in Sample |
 | --- | --- | --- | --- |
-| \hline \multirow[t]{4}{*}{$4.24 \mathrm{~g} \mathrm{C}_{6} \mathrm{H}_{6}$} | \multirow{4}{*}{$0.224 \mathrm{~mol} \mathrm{H}_{2} \mathrm{O}$ |  |  |
+| \multirow[t]{4}{*}{$4.24 \mathrm{~g} \mathrm{C}_{6} \mathrm{H}_{6}$} | \multirow{4}{*}{$0.224 \mathrm{~mol} \mathrm{H}_{2} \mathrm{O}$ |  |  |
 | $\_\_\_\_$} | \multirow{4}{*}{$2.71 \times 10^{22}$ molecules $\mathrm{CO}_{2}$ |  |  |
 | $\_\_\_\_$} | $\_\_\_\_$ |  |  |
-| \hline |  |  |  |
-| \hline |  |  | $\_\_\_\_$ |
-| \hline |  |  |  |
+| |  |  |  |
+| |  |  | $\_\_\_\_$ |
+| |  |  |  |
 
 57. Aspartame is an artificial sweetener that is 160 times sweeter than sucrose (table sugar) when dissolved in water. It is marketed
 
@@ -1966,3 +1954,18 @@ b. 47.9 grams of substance $B$ contains 5.36 grams of hydrogen and 42.5 grams of
 c. When 10.0 grams of $C$ is burned in excess oxygen, 33.8 grams of carbon dioxide and 6.92 grams of water are produced. A mass spectrum of substance $C$ shows a parent molecular ion with a mass-to-charge ratio of 26 .
 d. Substance $D$ is the hydroxide of the metal in substance $A$.
 *Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.
+
+---
+
+Marathon Problems
+125
+146. Consider the following balanced chemical equation:
+$$\mathrm{A}+5 \mathrm{~B} \longrightarrow 3 \mathrm{C}+4 \mathrm{D}$$
+a. Equal masses of A and B are reacted. Complete each of the following with either "A is the limiting reactant because
+$\_\_\_\_$ "; "B is the limiting reactant because $\_\_\_\_$ "; or "we cannot determine the limiting reactant because $\_\_\_\_$ ".
+i. If the molar mass of A is greater than the molar mass of B, then
+ii. If the molar mass of B is greater than the molar mass of A, then
+b. The products of the reaction are carbon dioxide (C) and water (D). Compound A has the same molar mass as carbon dioxide. Compound B is a diatomic molecule. Identify compound B and support your answer.
+c. Compound A is a hydrocarbon that is $81.71 \%$ carbon by mass. Determine its empirical and molecular formulas.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

@@ -1,23 +1,5 @@
 # Chapter 12: Chemical Kinetics
 
-Marathon Problem
-525
-
-Marathon Problem*
-This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-103. Using the following information, identify the strong electrolyte whose general formula is
-$$\mathrm{M}_{x}(\mathrm{~A})_{y} \cdot z \mathrm{H}_{2} \mathrm{O}$$
-
-Ignore the effect of interionic attractions in the solution.
-a. $\mathrm{A}^{n-}$ is a common oxyanion. When 30.0 mg of the anhydrous sodium salt containing this oxyanion $\left(\mathrm{Na}_{n} \mathrm{~A}\right.$, where $n=1,2$, or 3) is reduced, 15.26 mL of $0.02313 M$ reducing agent is required to react completely with the $\mathrm{Na}_{n} \mathrm{~A}$ present. Assume a $1: 1$ mole ratio in the reaction.
-b. The cation is derived from a silvery white metal that is relatively expensive. The metal itself crystallizes in a body-centered cubic unit cell and has an atomic radius of 198.4 pm . The solid, pure metal has a density of $5.243 \mathrm{~g} / \mathrm{cm}^{3}$. The oxidation number of M in the strong electrolyte in question is +3 .
-c. When 33.45 mg of the compound is present (dissolved) in 10.0 mL of aqueous solution at $25^{\circ} \mathrm{C}$, the solution has an osmotic pressure of 558 torr.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-*This Marathon Problem was developed by James H. Burness, Penn State University, York Campus. Reprinted with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.
-
----
-
 12
 Chemical Kinetics
 
@@ -86,18 +68,18 @@ $$\begin{aligned}
 FIGURE 12.1
 Starting with a flask of nitrogen dioxide at $300^{\circ} \mathrm{C}$, the concentrations of nitrogen dioxide, nitric oxide, and oxygen are plotted versus time.
 
-| \hline \multirow[b]{2}{*}{Time ( ± 1 s)} | Concentration (mol/L) |  |  |
+| \multirow[b]{2}{*}{Time ( ± 1 s)} | Concentration (mol/L) |  |  |
 | --- | --- | --- | --- |
-| \hline | $\mathbf{N O}_{\mathbf{2}}$ | NO | $\boldsymbol{O}_{\mathbf{2}}$ |
-| \hline 0 | 0.0100 | 0 | 0 |
-| \hline 50 | 0.0079 | 0.0021 | 0.0011 |
-| \hline 100 | 0.0065 | 0.0035 | 0.0018 |
-| \hline 150 | 0.0055 | 0.0045 | 0.0023 |
-| \hline 200 | 0.0048 | 0.0052 | 0.0026 |
-| \hline 250 | 0.0043 | 0.0057 | 0.0029 |
-| \hline 300 | 0.0038 | 0.0062 | 0.0031 |
-| \hline 350 | 0.0034 | 0.0066 | 0.0033 |
-| \hline 400 | 0.0031 | 0.0069 | 0.0035 |
+| | $\mathbf{N O}_{\mathbf{2}}$ | NO | $\boldsymbol{O}_{\mathbf{2}}$ |
+| 0 | 0.0100 | 0 | 0 |
+| 50 | 0.0079 | 0.0021 | 0.0011 |
+| 100 | 0.0065 | 0.0035 | 0.0018 |
+| 150 | 0.0055 | 0.0045 | 0.0023 |
+| 200 | 0.0048 | 0.0052 | 0.0026 |
+| 250 | 0.0043 | 0.0057 | 0.0029 |
+| 300 | 0.0038 | 0.0062 | 0.0031 |
+| 350 | 0.0034 | 0.0066 | 0.0033 |
+| 400 | 0.0031 | 0.0069 | 0.0035 |
 
 ---
 
@@ -111,7 +93,7 @@ Appendix 1.3 reviews slopes of straight lines.
 
 | $\frac{\Delta\left[\mathbf{N O}_{\mathbf{2}}\right]}{\Delta \boldsymbol{t}}$ | Time Period $(\mathbf{s})$ |
 | --- | --- |
-| \hline $4.2 \times 10^{-5}$ | $0 \rightarrow 50$ |
+| $4.2 \times 10^{-5}$ | $0 \rightarrow 50$ |
 | $2.8 \times 10^{-5}$ | $50 \rightarrow 100$ |
 | $2.0 \times 10^{-5}$ | $100 \rightarrow 150$ |
 | $1.4 \times 10^{-5}$ | $150 \rightarrow 200$ |
@@ -257,20 +239,20 @@ Why are we interested in determining the rate law for a reaction? How does it he
 534
 Chapter Twelve Chemical Kinetics
 
-| \hline TABLE 12.3 Concentration/ Time Data for the Reaction $\mathbf{2 N_{\mathbf{2}} \mathbf{O}_{\mathbf{5}}(\boldsymbol{s o l n}) \rightarrow \mathbf{4 N O}(\boldsymbol{s o l n})+ \mathbf{O}_{\mathbf{2}}(\boldsymbol{g})$ (at $\mathbf{4 5 ^ { \circ }} \mathbf{C}$ )} |  |
+| TABLE 12.3 Concentration/ Time Data for the Reaction $\mathbf{2 N_{\mathbf{2}} \mathbf{O}_{\mathbf{5}}(\boldsymbol{s o l n}) \rightarrow \mathbf{4 N O}(\boldsymbol{s o l n})+ \mathbf{O}_{\mathbf{2}}(\boldsymbol{g})$ (at $\mathbf{4 5 ^ { \circ }} \mathbf{C}$ )} |  |
 | --- | --- |
-| \hline [ $\mathrm{N}_{2} \mathrm{O}_{5}$ ] (mol/L) | Time (s) |
-| \hline 1.00 | 0 |
-| \hline 0.88 | 200 |
-| \hline 0.78 | 400 |
-| \hline 0.69 | 600 |
-| \hline 0.61 | 800 |
-| \hline 0.54 | 1000 |
-| \hline 0.48 | 1200 |
-| \hline 0.43 | 1400 |
-| \hline 0.38 | 1600 |
-| \hline 0.34 | 1800 |
-| \hline 0.30 | 2000 |
+| [ $\mathrm{N}_{2} \mathrm{O}_{5}$ ] (mol/L) | Time (s) |
+| 1.00 | 0 |
+| 0.88 | 200 |
+| 0.78 | 400 |
+| 0.69 | 600 |
+| 0.61 | 800 |
+| 0.54 | 1000 |
+| 0.48 | 1200 |
+| 0.43 | 1400 |
+| 0.38 | 1600 |
+| 0.34 | 1800 |
+| 0.30 | 2000 |
 
 which the reaction occurs. Most chemical reactions do not take place in a single step but result from a series of sequential steps. To understand a chemical reaction, we must learn what these steps are. For example, a chemist who is designing an insecticide may study the reactions involved in the process of insect growth to see what type of molecule might interrupt this series of reactions. Or an industrial chemist may be trying to make a given reaction occur faster. To accomplish this, he or she must know which step is slowest, because it is that step that must be speeded up. Thus a chemist is usually not interested in a rate law for its own sake but because of what it reveals about the steps by which a reaction occurs. We will develop a process for finding the reaction steps in this chapter.
 
@@ -293,7 +275,7 @@ Evaluation of the reaction rates at concentrations of $\mathrm{N}_{2} \mathrm{O}
 
 | {$\left[\mathbf{N}_{\mathbf{2}} \mathbf{O}_{\mathbf{5}}\right]$} | Rate $(\mathbf{m o l} / \mathbf{L} \cdot \mathbf{s})$ |
 | --- | --- |
-| \hline $0.90 M$ | $5.4 \times 10^{-4}$ |
+| $0.90 M$ | $5.4 \times 10^{-4}$ |
 | $0.45 M$ | $2.7 \times 10^{-4}$ |
 
 ---
@@ -344,18 +326,18 @@ Overall reaction order is the sum of the orders for the various reactants.
 | | Initial |  |  |  | |
 | | Concentration |  |  |  | |
 | | of $\mathbf{N H}_{\mathbf{4}}{ }^{+}$ |  |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Initial |  |  |  | |
 | --- |
 | | Concentration |  |  |  | |
 | | of $\mathbf{N H}_{\mathbf{2}}{ }^{-}$ |  |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Initial |  |  |  | |
 | --- |
 | | Rate $(\mathbf{m o l} / \mathbf{L} \cdot \mathbf{s})$ |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |
-| \hline 1 | 0.100 M | 0.0050 M | $1.35 \times 10^{-7}$ |
+| 1 | 0.100 M | 0.0050 M | $1.35 \times 10^{-7}$ |
 | 2 | 0.100 M | 0.010 M | $2.70 \times 10^{-7}$ |
 | 3 | 0.200 M | 0.010 M | $5.40 \times 10^{-7}$ |
 
@@ -432,12 +414,12 @@ Thus $m$ is equal to 1 .
 TABLE 12.5 The Results from Four Experiments to Study the Reaction
 $\mathbf{B r O}_{\mathbf{3}}^{-} \boldsymbol{(} \mathbf{a q} \boldsymbol{)} \boldsymbol{+} \mathbf{5 B r}^{-} \boldsymbol{(} \mathbf{a q} \boldsymbol{)} \boldsymbol{+} \mathbf{6} \mathbf{H}^{+} \boldsymbol{(} \mathbf{a q} \boldsymbol{)} \boldsymbol{\rightarrow} \mathbf{3 B r}_{\mathbf{2}} \boldsymbol{(} \boldsymbol{I} \boldsymbol{)} \boldsymbol{+} \mathbf{3 H}_{\mathbf{2}} \mathbf{O}(\boldsymbol{I})$
 
-| \hline Experiment | Initial Concentration of $\mathrm{BrO}_{3}{ }^{-}$ (mol/L) | Initial Concentration of $\mathrm{Br}^{-}$ (mol/L) | Initial Concentration of $\mathbf{H}^{+}$ (mol/L) | Measured Initial Rate (mol/L ⋅ s) |
+| Experiment | Initial Concentration of $\mathrm{BrO}_{3}{ }^{-}$ (mol/L) | Initial Concentration of $\mathrm{Br}^{-}$ (mol/L) | Initial Concentration of $\mathbf{H}^{+}$ (mol/L) | Measured Initial Rate (mol/L ⋅ s) |
 | --- | --- | --- | --- | --- |
-| \hline 1 | 0.10 | 0.10 | 0.10 | $8.0 \times 10^{-4}$ |
-| \hline 2 | 0.20 | 0.10 | 0.10 | $1.6 \times 10^{-3}$ |
-| \hline 3 | 0.20 | 0.20 | 0.10 | $3.2 \times 10^{-3}$ |
-| \hline 4 | 0.10 | 0.10 | 0.20 | $3.2 \times 10^{-3}$ |
+| 1 | 0.10 | 0.10 | 0.10 | $8.0 \times 10^{-4}$ |
+| 2 | 0.20 | 0.10 | 0.10 | $1.6 \times 10^{-3}$ |
+| 3 | 0.20 | 0.20 | 0.10 | $3.2 \times 10^{-3}$ |
+| 4 | 0.10 | 0.10 | 0.20 | $3.2 \times 10^{-3}$ |
 
 ---
 
@@ -537,7 +519,7 @@ The following results were collected:
 
 | $\boldsymbol{\operatorname { l n }}\left[\mathbf{N}_{\mathbf{2}} \mathbf{O}_{\mathbf{5}}\right]$ | Time $(\mathbf{s})$ |
 | --- | --- |
-| \hline-2.303 | 0 |
+| -2.303 | 0 |
 | -2.649 | 50 |
 | -2.996 | 100 |
 | -3.689 | 200 |
@@ -547,7 +529,7 @@ The following results were collected:
 
 | {$\left[\mathbf{N}_{\mathbf{2}} \mathbf{O}_{\mathbf{5}}\right](\mathbf{m o l} / \mathbf{L})$} | Time $(\mathbf{s})$ |
 | --- | --- |
-| \hline 0.1000 | 0 |
+| 0.1000 | 0 |
 | 0.0707 | 50 |
 | 0.0500 | 100 |
 | 0.0250 | 200 |
@@ -603,14 +585,14 @@ See Exercise 12.31.
 Half-Life of a First-Order Reaction
 The time required for a reactant to reach half its original concentration is called the halflife of a reactant and is designated by the symbol $t_{1 / 2}$. For example, we can calculate the half-life of the decomposition reaction discussed in Sample Exercise 12.2. The data plotted in Fig. 12.5 show that the half-life for this reaction is 100 seconds. We can see this by considering the following numbers:
 
-| \hline $\boldsymbol{[} \mathbf{N}_{\mathbf{2}} \mathbf{O}_{\mathbf{5}} \boldsymbol{]}$ (mol/L) | $t(\mathrm{~s})$ |
+| $\boldsymbol{[} \mathbf{N}_{\mathbf{2}} \mathbf{O}_{\mathbf{5}} \boldsymbol{]}$ (mol/L) | $t(\mathrm{~s})$ |
 | --- | --- |
-| \hline | | 0.100 |  | |
+| | | 0.100 |  | |
 | --- |
 | | 0.0500 |  | |
 | | 0.0250 |  | |
 | | 0.0125 |  | |
-| | \end{tabular} |
+| |  |
  | $$\begin{array}{r} |
 | 0 |  |
 | 100\left\{\begin{array}{ll} |  |
@@ -730,7 +712,7 @@ The following data were collected for this reaction at a given temperature:
 
 | {$\left[\mathbf{C}_{\mathbf{4}} \mathbf{H}_{\mathbf{6}}\right] \mathbf{( m o l / L )}$} | Time $\mathbf{(} \mathbf{\pm} \mathbf{1} \mathbf{~ s} \mathbf{)}$ |
 | --- | --- |
-| \hline 0.01000 | 0 |
+| 0.01000 | 0 |
 | 0.00625 | 1000 |
 | 0.00476 | 1800 |
 | 0.00370 | 2800 |
@@ -748,8 +730,8 @@ a. To decide whether the rate law for this reaction is first order or second ord
 
 |  | $\frac{\mathbf{1}}{\boldsymbol{t}(\mathbf{s})}$ | {$\left[\mathbf{C}_{\mathbf{4}} \mathbf{H}_{\mathbf{6}}\right]$} |
 | --- | --- | --- |
-| \hline 0 | 100 | $\mathbf{I n}\left[\mathbf{C}_{\mathbf{4}} \mathbf{H}_{\mathbf{4}}\right]$ |
-| \hline 1000 | 160 | -4.605 |
+| 0 | 100 | $\mathbf{I n}\left[\mathbf{C}_{\mathbf{4}} \mathbf{H}_{\mathbf{4}}\right]$ |
+| 1000 | 160 | -4.605 |
 | 1800 | 210 | -5.075 |
 | 2800 | 270 | -5.348 |
 | 3600 | 320 | -5.599 |
@@ -872,14 +854,14 @@ b. The integrated rate law shows how concentration depends on time. The integrat
 4. The most common method for experimentally determining the differential rate law is the method of initial rates. In this method several experiments are run at different initial concentrations and the instantaneous rates are determined for each at the same value of $t$ (as close to $t=0$ as possible). The point is to evaluate the rate before the concentrations change significantly from the initial values. From a comparison of the initial rates and the initial concentrations the dependence of the rate on the concentrations of various reactants can be obtained-that is, the order in each reactant can be determined.
 5. To experimentally determine the integrated rate law for a reaction, concentrations are measured at various values of $t$ as the reaction proceeds. Then the job is to see which integrated rate law correctly fits the data. Typically this is done visually by ascertaining which type of plot gives a straight line. A summary for one-reactant reactions is given in Table 12.6. Once the correct straight-line plot is found, the correct integrated rate law can be chosen and the value of $k$ obtained from the slope. Also, the (differential) rate law for the reaction can then be written.
 
-| \hline | Order |  |  |
+| | Order |  |  |
 | --- | --- | --- | --- |
-| \hline \multirow[b]{2}{*}{Rate Law:} | Zero | First | Second |
-| \hline | Rate $=k$ | Rate $=k[\mathrm{~A}]$ | Rate $=k[\mathrm{~A}]^{2}$ |
-| \hline Integrated Rate Law: | $[\mathrm{A}]=-k t+[\mathrm{A}]_{0}$ | $\ln [\mathrm{A}]=-k t+\ln [\mathrm{A}]_{0}$ | $\frac{1}{[\mathrm{~A}]}=k t+\frac{1}{[\mathrm{~A}]_{0}}$ |
-| \hline Plot Needed to Give a Straight Line: Relationship of Rate Constant to the Slope of Straight Line: | [A] versus $t$ | $\ln [\mathrm{A}]$ versus $t$ | $\frac{1}{[\mathrm{~A}]}$ versus $t$ |
-| \hline | Slope $=-k$ | Slope $=-k$ | Slope $=k$ |
-| \hline Half-Life: | Slope $=-k$ |  |  |
+| \multirow[b]{2}{*}{Rate Law:} | Zero | First | Second |
+| | Rate $=k$ | Rate $=k[\mathrm{~A}]$ | Rate $=k[\mathrm{~A}]^{2}$ |
+| Integrated Rate Law: | $[\mathrm{A}]=-k t+[\mathrm{A}]_{0}$ | $\ln [\mathrm{A}]=-k t+\ln [\mathrm{A}]_{0}$ | $\frac{1}{[\mathrm{~A}]}=k t+\frac{1}{[\mathrm{~A}]_{0}}$ |
+| Plot Needed to Give a Straight Line: Relationship of Rate Constant to the Slope of Straight Line: | [A] versus $t$ | $\ln [\mathrm{A}]$ versus $t$ | $\frac{1}{[\mathrm{~A}]}$ versus $t$ |
+| | Slope $=-k$ | Slope $=-k$ | Slope $=k$ |
+| Half-Life: | Slope $=-k$ |  |  |
 | $t_{1 / 2}=\frac{[\mathrm{A}]_{0}}{2 k}$ | $t_{1 / 2}=\frac{0.693}{k}$ | $t_{1 / 2}=\frac{1}{k[\mathrm{~A}]_{0}}$ |  |
 
 ---
@@ -933,13 +915,13 @@ A unimolecular elementary step is always first order, a bimolecular step is alwa
 
 A reaction is only as fast as its slowest step.
 
-| \hline Elementary Step | Molecularity | Rate Law |
+| Elementary Step | Molecularity | Rate Law |
 | --- | --- | --- |
-| \hline A → products | Unimolecular | Rate $=k[\mathrm{~A}]$ |
-| \hline $\mathrm{A}+\mathrm{A} \rightarrow$ products (2A → products) | Bimolecular | Rate $=k[\mathrm{~A}]^{2}$ |
-| \hline $\mathrm{A}+\mathrm{B} \rightarrow$ products | Bimolecular | Rate $=k[\mathrm{~A}][\mathrm{B}]$ |
-| \hline $\mathrm{A}+\mathrm{A}+\mathrm{B} \rightarrow$ products ( $2 \mathrm{~A}+\mathrm{B} \rightarrow$ products) | Termolecular | Rate $=k[\mathrm{~A}]^{2}[\mathrm{~B}]$ |
-| \hline $\mathrm{A}+\mathrm{B}+\mathrm{C} \rightarrow$ products | Termolecular | Rate $=k[\mathrm{~A}][\mathrm{B}][\mathrm{C}]$ |
+| A → products | Unimolecular | Rate $=k[\mathrm{~A}]$ |
+| $\mathrm{A}+\mathrm{A} \rightarrow$ products (2A → products) | Bimolecular | Rate $=k[\mathrm{~A}]^{2}$ |
+| $\mathrm{A}+\mathrm{B} \rightarrow$ products | Bimolecular | Rate $=k[\mathrm{~A}][\mathrm{B}]$ |
+| $\mathrm{A}+\mathrm{A}+\mathrm{B} \rightarrow$ products ( $2 \mathrm{~A}+\mathrm{B} \rightarrow$ products) | Termolecular | Rate $=k[\mathrm{~A}]^{2}[\mathrm{~B}]$ |
+| $\mathrm{A}+\mathrm{B}+\mathrm{C} \rightarrow$ products | Termolecular | Rate $=k[\mathrm{~A}][\mathrm{B}][\mathrm{C}]$ |
 
 
 Each of these two reactions is called an elementary step, a reaction whose rate law can be written from its molecularity. Molecularity is defined as the number of species that must collide to produce the reaction indicated by that step. A reaction involving one molecule is called a unimolecular step. Reactions involving the collision of two and three species are termed bimolecular and termolecular, respectively. Termolecular steps are quite rare, because the probability of three molecules colliding simultaneously is very small. Examples of these three types of elementary steps and the corresponding rate laws are shown in Table 12.7. Note from Table 12.7 that the rate law for an elementary step follows directly from the molecularity of that step. For example, for a bimolecular step the rate law is always second order, either of the form $k[\mathrm{~A}]^{2}$ for a step with a single reactant or of the form $k[\mathrm{~A}][\mathrm{B}]$ for a step involving two reactants.
@@ -1117,7 +1099,7 @@ was studied at several temperatures, and the following values of $k$ were obtain
 
 | $\boldsymbol{k}\left(\mathbf{s}^{\mathbf{- 1}}\right)$ | $\boldsymbol{T}\left({ }^{\mathbf{0}} \mathbf{C}\right)$ |
 | --- | --- |
-| \hline $2.0 \times 10^{-5}$ | 20 |
+| $2.0 \times 10^{-5}$ | 20 |
 | $7.3 \times 10^{-5}$ | 30 |
 | $2.7 \times 10^{-4}$ | 40 |
 | $9.1 \times 10^{-4}$ | 50 |
@@ -1128,13 +1110,13 @@ Calculate the value of $E_{\mathrm{a}}$ for this reaction.
 Solution
 To obtain the value of $E_{\mathrm{a}}$, we need to construct a plot of $\ln (k)$ versus $1 / T$. First, we must calculate values of $\ln (k)$ and $1 / T$, as shown below:
 
-| \hline $\boldsymbol{T}\left({ }^{\circ} \mathrm{C}\right)$ | $\boldsymbol{T} \boldsymbol{(} \mathbf{K} \boldsymbol{)}$ | 1/T (K) | $\boldsymbol{k}\left(\mathbf{s}^{\mathbf{- 1}}\right)$ | In(k) |
+| $\boldsymbol{T}\left({ }^{\circ} \mathrm{C}\right)$ | $\boldsymbol{T} \boldsymbol{(} \mathbf{K} \boldsymbol{)}$ | 1/T (K) | $\boldsymbol{k}\left(\mathbf{s}^{\mathbf{- 1}}\right)$ | In(k) |
 | --- | --- | --- | --- | --- |
-| \hline 20 | 293 | $3.41 \times 10^{-3}$ | $2.0 \times 10^{-5}$ | -10.82 |
-| \hline 30 | 303 | $3.30 \times 10^{-3}$ | $7.3 \times 10^{-5}$ | -9.53 |
-| \hline 40 | 313 | $3.19 \times 10^{-3}$ | $2.7 \times 10^{-4}$ | -8.22 |
-| \hline 50 | 323 | $3.10 \times 10^{-3}$ | $9.1 \times 10^{-4}$ | -7.00 |
-| \hline 60 | 333 | $3.00 \times 10^{-3}$ | $2.9 \times 10^{-3}$ | -5.84 |
+| 20 | 293 | $3.41 \times 10^{-3}$ | $2.0 \times 10^{-5}$ | -10.82 |
+| 30 | 303 | $3.30 \times 10^{-3}$ | $7.3 \times 10^{-5}$ | -9.53 |
+| 40 | 313 | $3.19 \times 10^{-3}$ | $2.7 \times 10^{-4}$ | -8.22 |
+| 50 | 323 | $3.10 \times 10^{-3}$ | $9.1 \times 10^{-4}$ | -7.00 |
+| 60 | 333 | $3.00 \times 10^{-3}$ | $2.9 \times 10^{-3}$ | -5.84 |
 
 ---
 
@@ -1191,7 +1173,7 @@ The relevant data are shown in the following table:
 
 | $\boldsymbol{k}(\mathbf{L} / \mathbf{m o l} \cdot \mathbf{s})$ | $\boldsymbol{T}\left({ }^{\circ} \mathbf{C}\right)$ | $\boldsymbol{T}(\mathbf{K})$ |
 | --- | --- | --- |
-| \hline $1.1=k_{1}$ | 550 | $823=T_{1}$ |
+| $1.1=k_{1}$ | 550 | $823=T_{1}$ |
 | $6.4=k_{2}$ | 625 | $898=T_{2}$ |
 
 
@@ -1555,7 +1537,7 @@ The following data were collected for the concentration of $\mathrm{H}_{2} \math
 
 | Time $(\mathbf{s})$ | {$\left[\mathbf{H}_{\mathbf{2}} \mathbf{O}_{\mathbf{2}}\right](\mathbf{m o l} / \mathbf{L})$} |
 | --- | --- |
-| \hline 0 | 1.000 |
+| 0 | 1.000 |
 | $2.16 \times 10^{4}$ | 0.500 |
 | $4.32 \times 10^{4}$ | 0.250 |
 
@@ -1598,9 +1580,9 @@ $$\text { Rate }=-\frac{\Delta\left[\mathrm{Cl}_{2}\right]}{\Delta t}$$
 | --- |
 | | Initial Rate |  |  | |
 | | $(\mathbf{m o l} / \mathbf{L} \cdot \mathbf{m i n})$ |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline 0.10 | 0.10 | 0.18 |
+| 0.10 | 0.10 | 0.18 |
 | 0.10 | 0.20 | 0.36 |
 | 0.20 | 0.20 | 1.45 |
 
@@ -1611,13 +1593,13 @@ $$2 \mathrm{I}^{-}(a q)+\mathrm{S}_{2} \mathrm{O}_{8}{ }^{2-}(a q) \longrightarr
 was studied at $25^{\circ} \mathrm{C}$. The following results were obtained where
 $$\text { Rate }=-\frac{\Delta\left[\mathrm{S}_{2} \mathrm{O}_{8}{ }^{2-}\right]}{\Delta t}$$
 
-| \hline $\left[\mathrm{I}^{-}\right]_{0}$ (mol/L) | $\left[\mathrm{S}_{2} \mathrm{O}_{8}{ }^{2-}\right]_{0}$ (mol/L) | Initial Rate ( $\mathrm{mol} / \mathrm{L} \cdot \mathrm{s}$ ) |
+| $\left[\mathrm{I}^{-}\right]_{0}$ (mol/L) | $\left[\mathrm{S}_{2} \mathrm{O}_{8}{ }^{2-}\right]_{0}$ (mol/L) | Initial Rate ( $\mathrm{mol} / \mathrm{L} \cdot \mathrm{s}$ ) |
 | --- | --- | --- |
-| \hline 0.080 | 0.040 | $12.5 \times 10^{-6}$ |
-| \hline 0.040 | 0.040 | $6.25 \times 10^{-6}$ |
-| \hline 0.080 | 0.020 | $6.25 \times 10^{-6}$ |
-| \hline 0.032 | 0.040 | $5.00 \times 10^{-6}$ |
-| \hline 0.060 | 0.030 | $7.00 \times 10^{-6}$ |
+| 0.080 | 0.040 | $12.5 \times 10^{-6}$ |
+| 0.040 | 0.040 | $6.25 \times 10^{-6}$ |
+| 0.080 | 0.020 | $6.25 \times 10^{-6}$ |
+| 0.032 | 0.040 | $5.00 \times 10^{-6}$ |
+| 0.060 | 0.030 | $7.00 \times 10^{-6}$ |
 
 a. Determine the rate law.
 b. Calculate a value for the rate constant for each experiment and an average value for the rate constant.
@@ -1630,12 +1612,12 @@ $$\text { Rate }=-\frac{\Delta[\mathrm{NOCl}]}{\Delta t}$$
 | {$[\mathbf{N O C l}]_{\mathbf{0}}$} |  |
 | --- | --- |
 | (molecules/cm |  |
-| \end{tabular} | | | Initial Rate |  | |
+|  | | | Initial Rate |  | |
 | --- |
 | | (molecules/ $\mathbf{c m}^{\mathbf{3}} \cdot \mathbf{s}$ ) |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline $3.0 \times 10^{16}$ | $5.98 \times 10^{4}$ |
+| $3.0 \times 10^{16}$ | $5.98 \times 10^{4}$ |
 | $2.0 \times 10^{16}$ | $2.66 \times 10^{4}$ |
 | $1.0 \times 10^{16}$ | $6.64 \times 10^{3}$ |
 | $4.0 \times 10^{16}$ | $1.06 \times 10^{5}$ |
@@ -1649,12 +1631,12 @@ $$2 \mathrm{~N}_{2} \mathrm{O}_{5}(g) \longrightarrow 4 \mathrm{NO}_{2}(g)+\math
 | {$\left[\mathrm{N}_{2} \mathrm{O}_{5}\right]_{\mathbf{0}}$} |  |
 | --- | --- |
 | $(\mathbf{m o l} / \mathbf{L})$ |  |
-| \end{tabular} | | | Initial Rate |  | |
+|  | | | Initial Rate |  | |
 | --- |
 | | $(\mathbf{m o l} / \mathbf{L} \cdot \mathbf{s})$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline 0.0750 | $8.90 \times 10^{-4}$ |
+| 0.0750 | $8.90 \times 10^{-4}$ |
 | 0.190 | $2.26 \times 10^{-3}$ |
 | 0.275 | $3.26 \times 10^{-3}$ |
 | 0.410 | $4.85 \times 10^{-3}$ |
@@ -1666,16 +1648,16 @@ Defining the rate as $-\Delta\left[\mathrm{N}_{2} \mathrm{O}_{5}\right] / \Delta
 | {$[\mathrm{Hb}]_{\mathbf{0}}$} |  |  |
 | --- | --- | --- |
 | $(\boldsymbol{\mu} \mathbf{m o l} / \mathbf{L})$ |  |  |
-| \end{tabular} | | | {$[\mathbf{C O}]_{\mathbf{0}}$} |  |  | |
+|  | | | {$[\mathbf{C O}]_{\mathbf{0}}$} |  |  | |
 | --- |
 | | $(\boldsymbol{\mu} \mathbf{m o l} / \mathbf{L})$ |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Initial Rate |  |  | |
 | --- |
 | | $(\boldsymbol{\mu} \mathbf{m o l} / \mathbf{L} \cdot \mathbf{s})$ |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline 2.21 | 1.00 | 0.619 |
+| 2.21 | 1.00 | 0.619 |
 | 4.42 | 1.00 | 1.24 |
 | 4.42 | 3.00 | 3.71 |
 
@@ -1692,16 +1674,16 @@ $$\begin{array}{l}
 | {$\left[\mathbf{C l O}_{\mathbf{2}}\right]_{\mathbf{0}}$} |  |  |
 | --- | --- | --- |
 | $\mathbf{( m o l / L )}$ |  |  |
-| \end{tabular} | | | {$\left[\mathbf{O H}^{-}\right]_{\mathbf{0}}$} |  |  | |
+|  | | | {$\left[\mathbf{O H}^{-}\right]_{\mathbf{0}}$} |  |  | |
 | --- |
 | | $\mathbf{( m o l / L )}$ |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Initial Rate |  |  | |
 | --- |
 | | $\mathbf{( m o l / L} \cdot \mathbf{s})$ |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline 0.0500 | 0.100 | $5.75 \times 10^{-2}$ |
+| 0.0500 | 0.100 | $5.75 \times 10^{-2}$ |
 | 0.100 | 0.100 | $2.30 \times 10^{-1}$ |
 | 0.100 | 0.0500 | $1.15 \times 10^{-1}$ |
 
@@ -1718,7 +1700,7 @@ Integrated Rate Laws
 
 | Time $(\mathbf{s})$ | {$\left[\mathbf{H}_{\mathbf{2}} \mathbf{O}_{\mathbf{2}}\right](\mathbf{m o l} / \mathbf{L})$} |
 | --- | --- |
-| \hline 0 | 1.00 |
+| 0 | 1.00 |
 | $120 \pm 1$ | 0.91 |
 | $300 \pm 1$ | 0.78 |
 | $600 \pm 1$ | 0.59 |
@@ -1745,7 +1727,7 @@ depends only on the concentration of nitrogen dioxide below $225^{\circ} \mathrm
 
 | Time $\mathbf{( s )}$ | {$\left[\mathbf{N O}_{\mathbf{2}}\right] \mathbf{( m o l / L )}$} |
 | --- | --- |
-| \hline 0 | 0.500 |
+| 0 | 0.500 |
 | $1.20 \times 10^{3}$ | 0.444 |
 | $3.00 \times 10^{3}$ | 0.381 |
 | $4.50 \times 10^{3}$ | 0.340 |
@@ -1774,7 +1756,7 @@ The pressure of $\mathrm{C}_{2} \mathrm{H}_{5} \mathrm{OH}$ was measured as a fu
 
 | Time $(\mathbf{s})$ | $\boldsymbol{P}_{\mathbf{C}_{\mathbf{2}} \mathbf{H}_{\mathbf{5}} \mathbf{O H}}(\mathbf{t o r r})$ |
 | --- | --- |
-| \hline 0 | 250. |
+| 0 | 250. |
 | 100. | 237 |
 | 200. | 224 |
 | 300. | 211 |
@@ -1794,7 +1776,7 @@ was studied at 500 K , and the following data were obtained:
 
 | Time $\mathbf{( s )}$ | {$\left[\mathbf{C}_{\mathbf{4}} \mathbf{H}_{\mathbf{6}}\right] \mathbf{( m o l / L )}$} |
 | --- | --- |
-| \hline 195 | $1.6 \times 10^{-2}$ |
+| 195 | $1.6 \times 10^{-2}$ |
 | 604 | $1.5 \times 10^{-2}$ |
 | 1246 | $1.3 \times 10^{-2}$ |
 | 2180 | $1.1 \times 10^{-2}$ |
@@ -1811,7 +1793,7 @@ a. In the first set of experiments, $\mathrm{NO}_{2}$ was in large excess, at a 
 
 | Time $(\mathbf{s})$ | [O] $\left(\mathbf{a t o m s} / \mathbf{c m}^{\mathbf{3}}\right)$ |
 | --- | --- |
-| \hline 0 | $5.0 \times 10^{9}$ |
+| 0 | $5.0 \times 10^{9}$ |
 | $1.0 \times 10^{-2}$ | $1.9 \times 10^{9}$ |
 | $2.0 \times 10^{-2}$ | $6.8 \times 10^{8}$ |
 | $3.0 \times 10^{-2}$ | $2.5 \times 10^{8}$ |
@@ -1846,12 +1828,12 @@ It takes 120 . s for $1.00 M \mathrm{PH}_{3}$ to decrease to $0.250 M$. How much
 | {$[\mathbf{A B}]_{\mathbf{0}}$} |  |
 | --- | --- |
 | $\mathbf{( m o l / L )}$ |  |
-| \end{tabular} | | | Initial Rate |  | |
+|  | | | Initial Rate |  | |
 | --- |
 | | $\mathbf{( m o l / L} \cdot \mathbf{s})$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline 0.200 | $3.20 \times 10^{-3}$ |
+| 0.200 | $3.20 \times 10^{-3}$ |
 | 0.400 | $1.28 \times 10^{-2}$ |
 | 0.600 | $2.88 \times 10^{-2}$ |
 
@@ -1942,7 +1924,7 @@ has the following temperature dependence:
 
 | $\boldsymbol{T}(\boldsymbol{K})$ | $\boldsymbol{k}\left(\mathbf{s}^{\mathbf{- 1}}\right)$ |
 | --- | --- |
-| \hline 338 | $4.9 \times 10^{-3}$ |
+| 338 | $4.9 \times 10^{-3}$ |
 | 318 | $5.0 \times 10^{-4}$ |
 | 298 | $3.5 \times 10^{-5}$ |
 
@@ -1994,7 +1976,7 @@ is $2.1 \mathrm{~kJ} / \mathrm{mol}$. Which is the more effective catalyst for t
 
 | Surface | $\boldsymbol{E}_{\mathbf{a}}(\mathbf{k J} / \mathbf{m o l})$ |
 | --- | --- |
-| \hline W | 163 |
+| W | 163 |
 | Os | 197 |
 
 
@@ -2022,16 +2004,16 @@ $$\text { Rate }=-\frac{\Delta\left[\mathrm{O}_{2}\right]}{\Delta t}$$
 | {$[\mathbf{N O}]_{\mathbf{0}}$} |  |  |
 | --- | --- | --- |
 | (molecules/cm ${ }^{\mathbf{3}}$ ) |  |  |
-| \end{tabular} | | | {$\left[\mathbf{O}_{\mathbf{2}}\right]_{\mathbf{0}}$} |  |  | |
+|  | | | {$\left[\mathbf{O}_{\mathbf{2}}\right]_{\mathbf{0}}$} |  |  | |
 | --- |
 | | (molecules/cm ${ }^{\mathbf{3}}$ ) |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Initial Rate |  |  | |
 | --- |
 | | (molecules/cm ${ }^{\mathbf{3}} \cdot \mathbf{s}$ ) |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline $1.00 \times 10^{18}$ | $1.00 \times 10^{18}$ | $2.00 \times 10^{16}$ |
+| $1.00 \times 10^{18}$ | $1.00 \times 10^{18}$ | $2.00 \times 10^{16}$ |
 | $3.00 \times 10^{18}$ | $1.00 \times 10^{18}$ | $1.80 \times 10^{17}$ |
 | $2.50 \times 10^{18}$ | $2.50 \times 10^{18}$ | $3.13 \times 10^{17}$ |
 
@@ -2039,9 +2021,9 @@ $$\text { Rate }=-\frac{\Delta\left[\mathrm{O}_{2}\right]}{\Delta t}$$
 What would be the initial rate for an experiment where $[\mathrm{NO}]_{0}=6.21 \times 10^{18}$ molecules $/ \mathrm{cm}^{3}$ and $\left[\mathrm{O}_{2}\right]_{0}=7.36 \times 10^{18}$ molecules $/ \mathrm{cm}^{3}$ ?
 72. Sulfuryl chloride ( $\mathrm{SO}_{2} \mathrm{Cl}_{2}$ ) decomposes to sulfur dioxide ( $\mathrm{SO}_{2}$ ) and chlorine $\left(\mathrm{Cl}_{2}\right)$ by reaction in the gas phase. The following pressure data were obtained when a sample containing $5.00 \times 10^{-2}$ mol sulfuryl chloride was heated to 600 K in a $5.00 \times 10^{-1}$ L container.
 
-| \hline Time (hours): | 0.00 | 1.00 | 2.00 | 4.00 | 8.00 | 16.00 |
+| Time (hours): | 0.00 | 1.00 | 2.00 | 4.00 | 8.00 | 16.00 |
 | --- | --- | --- | --- | --- | --- | --- |
-| \hline $\boldsymbol{P}_{\mathbf{S O}_{\mathbf{2}} \mathbf{C l}_{\mathbf{2}}}$ (atm): | 4.93 | 4.26 | 3.52 | 2.53 | 1.30 | 0.34 |
+| $\boldsymbol{P}_{\mathbf{S O}_{\mathbf{2}} \mathbf{C l}_{\mathbf{2}}}$ (atm): | 4.93 | 4.26 | 3.52 | 2.53 | 1.30 | 0.34 |
 
 
 Defining the rate as $-\frac{\Delta\left[\mathrm{SO}_{2} \mathrm{Cl}_{2}\right]}{\Delta t}$,
@@ -2053,13 +2035,13 @@ $$2 \mathrm{~N}_{2} \mathrm{O}_{5}(g) \longrightarrow 4 \mathrm{NO}_{2}(g)+\math
 the following data were collected, where
 $$\text { Rate }=-\frac{\Delta\left[\mathrm{N}_{2} \mathrm{O}_{5}\right]}{\Delta t}$$
 
-| \hline Time (s) | $\boldsymbol{T} \boldsymbol{=} \mathbf{3 3 8} \boldsymbol{K}$ [ $\mathrm{N}_{2} \mathrm{O}_{5}$ ] | $\boldsymbol{T} \boldsymbol{=} \mathbf{3 1 8} \boldsymbol{K}$ [ $\mathrm{N}_{2} \mathrm{O}_{5}$ ] |
+| Time (s) | $\boldsymbol{T} \boldsymbol{=} \mathbf{3 3 8} \boldsymbol{K}$ [ $\mathrm{N}_{2} \mathrm{O}_{5}$ ] | $\boldsymbol{T} \boldsymbol{=} \mathbf{3 1 8} \boldsymbol{K}$ [ $\mathrm{N}_{2} \mathrm{O}_{5}$ ] |
 | --- | --- | --- |
-| \hline 0 | $1.00 \times 10^{-1} M$ | $1.00 \times 10^{-1} M$ |
-| \hline 100. | $6.14 \times 10^{-2} M$ | $9.54 \times 10^{-2} M$ |
-| \hline 300. | $2.33 \times 10^{-2} M$ | $8.63 \times 10^{-2} M$ |
-| \hline 600. | $5.41 \times 10^{-3} M$ | $7.43 \times 10^{-2} M$ |
-| \hline 900. | $1.26 \times 10^{-3} M$ | $6.39 \times 10^{-2} M$ |
+| 0 | $1.00 \times 10^{-1} M$ | $1.00 \times 10^{-1} M$ |
+| 100. | $6.14 \times 10^{-2} M$ | $9.54 \times 10^{-2} M$ |
+| 300. | $2.33 \times 10^{-2} M$ | $8.63 \times 10^{-2} M$ |
+| 600. | $5.41 \times 10^{-3} M$ | $7.43 \times 10^{-2} M$ |
+| 900. | $1.26 \times 10^{-3} M$ | $6.39 \times 10^{-2} M$ |
 
 
 Calculate $E_{\mathrm{a}}$ for this reaction.
@@ -2069,7 +2051,7 @@ are as follows:
 
 | $\boldsymbol{T}(\mathbf{K})$ | $\boldsymbol{k}(\mathbf{L} / \mathbf{m o l} \cdot \mathbf{s})$ |
 | --- | --- |
-| \hline 195 | $1.08 \times 10^{9}$ |
+| 195 | $1.08 \times 10^{9}$ |
 | 230. | $2.95 \times 10^{9}$ |
 | 260. | $5.42 \times 10^{9}$ |
 | 298 | $12.0 \times 10^{9}$ |
@@ -2109,15 +2091,15 @@ $$\mathrm{I}^{-}(a q)+\mathrm{OCl}^{-}(a q) \longrightarrow \mathrm{IO}^{-}(a q)
 
 The following data were obtained:
 
-| \hline $\left[\mathrm{I}^{-}\right]_{0}$ (mol/L) | $\left[\mathrm{OCl}^{-}\right]_{0}$ (mol/L) | $\left[\mathrm{OH}^{-}\right]_{0}$ (mol/L) | Initial Rate (mol/L ⋅ s) |
+| $\left[\mathrm{I}^{-}\right]_{0}$ (mol/L) | $\left[\mathrm{OCl}^{-}\right]_{0}$ (mol/L) | $\left[\mathrm{OH}^{-}\right]_{0}$ (mol/L) | Initial Rate (mol/L ⋅ s) |
 | --- | --- | --- | --- |
-| \hline 0.0013 | 0.012 | 0.10 | $9.4 \times 10^{-3}$ |
-| \hline 0.0026 | 0.012 | 0.10 | $18.7 \times 10^{-3}$ |
-| \hline 0.0013 | 0.0060 | 0.10 | $4.7 \times 10^{-3}$ |
-| \hline 0.0013 | 0.018 | 0.10 | $14.0 \times 10^{-3}$ |
-| \hline 0.0013 | 0.012 | 0.050 | $18.7 \times 10^{-3}$ |
-| \hline 0.0013 | 0.012 | 0.20 | $4.7 \times 10^{-3}$ |
-| \hline 0.0013 | 0.018 | 0.20 | $7.0 \times 10^{-3}$ |
+| 0.0013 | 0.012 | 0.10 | $9.4 \times 10^{-3}$ |
+| 0.0026 | 0.012 | 0.10 | $18.7 \times 10^{-3}$ |
+| 0.0013 | 0.0060 | 0.10 | $4.7 \times 10^{-3}$ |
+| 0.0013 | 0.018 | 0.10 | $14.0 \times 10^{-3}$ |
+| 0.0013 | 0.012 | 0.050 | $18.7 \times 10^{-3}$ |
+| 0.0013 | 0.012 | 0.20 | $4.7 \times 10^{-3}$ |
+| 0.0013 | 0.018 | 0.20 | $7.0 \times 10^{-3}$ |
 
 
 Determine the rate law and the value of the rate constant for this reaction.
@@ -2142,12 +2124,12 @@ was studied by performing two experiments. In the first experiment the rate of d
 | Time |  |
 | --- | --- |
 | $\mathbf{( m s )}$ |  |
-| \end{tabular} | | | {$[\mathbf{N O}]$} |  | |
+|  | | | {$[\mathbf{N O}]$} |  | |
 | --- |
 | | $\mathbf{( m o l e c u l e s / \mathbf { c m } ^ { \mathbf { 3 } } )}$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline 0 | $6.0 \times 10^{8}$ |
+| 0 | $6.0 \times 10^{8}$ |
 | $100 \pm 1$ | $5.0 \times 10^{8}$ |
 | $500 \pm 1$ | $2.4 \times 10^{8}$ |
 | $700 \pm 1$ | $1.7 \times 10^{8}$ |
@@ -2159,12 +2141,12 @@ In the second experiment [NO] was held constant at $2.0 \times 10^{14}$ molecule
 | Time |  |
 | --- | --- |
 | $\mathbf{( m s )}$ |  |
-| \end{tabular} | | | {$\left[\mathbf{O}_{\mathbf{3}}\right]$} |  | |
+|  | | | {$\left[\mathbf{O}_{\mathbf{3}}\right]$} |  | |
 | --- |
 | | $\mathbf{( m o l e c u l e s / \mathbf { c m } ^ { \mathbf { 3 } } )}$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline 0 | $1.0 \times 10^{10}$ |
+| 0 | $1.0 \times 10^{10}$ |
 | $50 \pm 1$ | $8.4 \times 10^{9}$ |
 | $100 \pm 1$ | $7.0 \times 10^{9}$ |
 | $200 \pm 1$ | $4.9 \times 10^{9}$ |
@@ -2200,15 +2182,15 @@ The rate constant at 273 K is $2.3 \times 10^{-12} \mathrm{~L} / \mathrm{mol} \c
 85. The following data were collected in two studies of the reaction
 $$2 \mathrm{~A}+\mathrm{B} \longrightarrow \mathrm{C}+\mathrm{D}$$
 
-| \hline Time (s) | Experiment 1 [A] $(\mathbf{m o l} / \mathbf{L}) \times \mathbf{1 0}^{\mathbf{- 2}}$ | Experiment 2 [A] $(\mathbf{m o l} / \mathbf{L}) \times \mathbf{1 0}^{\mathbf{- 2}}$ |
+| Time (s) | Experiment 1 [A] $(\mathbf{m o l} / \mathbf{L}) \times \mathbf{1 0}^{\mathbf{- 2}}$ | Experiment 2 [A] $(\mathbf{m o l} / \mathbf{L}) \times \mathbf{1 0}^{\mathbf{- 2}}$ |
 | --- | --- | --- |
-| \hline 0 | 10.0 | 10.0 |
-| \hline 20. | 6.67 | 5.00 |
-| \hline 40. | 5.00 | 3.33 |
-| \hline 60. | 4.00 | 2.50 |
-| \hline 80. | 3.33 | 2.00 |
-| \hline 100. | 2.86 | 1.67 |
-| \hline 120. | 2.50 | 1.43 |
+| 0 | 10.0 | 10.0 |
+| 20. | 6.67 | 5.00 |
+| 40. | 5.00 | 3.33 |
+| 60. | 4.00 | 2.50 |
+| 80. | 3.33 | 2.00 |
+| 100. | 2.86 | 1.67 |
+| 120. | 2.50 | 1.43 |
 
 
 In experiment $1,[\mathrm{~B}]_{0}=5.0 \mathrm{M}$.
@@ -2219,13 +2201,13 @@ b. Give the rate law and value for $k$ for this reaction.
 86. The following data were collected in two studies of the reaction
 $$2 \mathrm{H}_{2}(g)+2 \mathrm{NO}(g) \longrightarrow \mathrm{N}_{2}(g)+2 \mathrm{H}_{2} \mathrm{O}(g)$$
 
-| \hline Time (s) | Experiment 1 [ $\mathrm{H}_{2}$ ] $(\mathrm{mol} / \mathrm{L})$ | Experiment 2 [ $\mathbf{H}_{\mathbf{2}}$ ] $(\mathrm{mol} / \mathrm{L})$ |
+| Time (s) | Experiment 1 [ $\mathrm{H}_{2}$ ] $(\mathrm{mol} / \mathrm{L})$ | Experiment 2 [ $\mathbf{H}_{\mathbf{2}}$ ] $(\mathrm{mol} / \mathrm{L})$ |
 | --- | --- | --- |
-| \hline 0. | $1.0 \times 10^{-2}$ | $1.0 \times 10^{-2}$ |
-| \hline 10. | $8.4 \times 10^{-3}$ | $5.0 \times 10^{-3}$ |
-| \hline 20. | $7.1 \times 10^{-3}$ | $2.5 \times 10^{-3}$ |
-| \hline 30. | ? | $1.3 \times 10^{-3}$ |
-| \hline 40. | $5.0 \times 10^{-3}$ | $6.3 \times 10^{-4}$ |
+| 0. | $1.0 \times 10^{-2}$ | $1.0 \times 10^{-2}$ |
+| 10. | $8.4 \times 10^{-3}$ | $5.0 \times 10^{-3}$ |
+| 20. | $7.1 \times 10^{-3}$ | $2.5 \times 10^{-3}$ |
+| 30. | ? | $1.3 \times 10^{-3}$ |
+| 40. | $5.0 \times 10^{-3}$ | $6.3 \times 10^{-4}$ |
 
 
 In experiment $1,[\mathrm{NO}]_{0}=10.0 M$.
@@ -2244,7 +2226,7 @@ $$[\mathrm{A}]_{0}=2.0 M \quad[\mathrm{~B}]_{0}=1.0 \times 10^{-3} M \quad[\math
 
 | {$[\mathbf{B}](\mathbf{m o l} / \mathbf{L})$} | Time $(\mathbf{s})$ |
 | --- | --- |
-| \hline $2.7 \times 10^{-4}$ | $1.0 \times 10^{5}$ |
+| $2.7 \times 10^{-4}$ | $1.0 \times 10^{5}$ |
 | $1.6 \times 10^{-4}$ | $2.0 \times 10^{5}$ |
 | $1.1 \times 10^{-4}$ | $3.0 \times 10^{5}$ |
 | $8.5 \times 10^{-5}$ | $4.0 \times 10^{5}$ |
@@ -2262,7 +2244,7 @@ Chapter Twelve Chemical Kinetics
 
 | {$[\mathbf{A}] \mathbf{( m o l / L )}$} | Time $\mathbf{( s )}$ |
 | --- | --- |
-| \hline $8.9 \times 10^{-3}$ | 1.0 |
+| $8.9 \times 10^{-3}$ | 1.0 |
 | $7.1 \times 10^{-3}$ | 3.0 |
 | $5.5 \times 10^{-3}$ | 5.0 |
 | $3.8 \times 10^{-3}$ | 8.0 |
@@ -2275,7 +2257,7 @@ $$[\mathrm{A}]_{0}=10.0 M \quad[\mathrm{~B}]_{0}=5.0 M \quad[\mathrm{C}]_{0}=5.0
 
 | {$[\mathbf{C} \mathbf{~} \mathbf{~ ( m o l / L ) ~}$} | Time $\mathbf{( s )}$ |
 | --- | --- |
-| \hline 0.43 | $1.0 \times 10^{-2}$ |
+| 0.43 | $1.0 \times 10^{-2}$ |
 | 0.36 | $2.0 \times 10^{-2}$ |
 | 0.29 | $3.0 \times 10^{-2}$ |
 | 0.22 | $4.0 \times 10^{-2}$ |
@@ -2292,16 +2274,16 @@ The kinetics of this reaction were studied by following the decay of the concent
 | {$\left[\mathbf{I}^{-}\right]_{\mathbf{0}}$} |  |  |
 | --- | --- | --- |
 | $\mathbf{m o l} / \mathbf{L}$ |  |  |
-| \end{tabular} | | | {$\left[\mathbf{H}^{+}\right]_{\mathbf{0}}$} |  |  | |
+|  | | | {$\left[\mathbf{H}^{+}\right]_{\mathbf{0}}$} |  |  | |
 | --- |
 | | $\mathbf{( m o l / L )}$ |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Slope |  |  | |
 | --- |
 | | $\left(\mathbf{m i n}^{-\mathbf{1}}\right)$ |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline 0.1000 | 0.0400 | -0.120 |
+| 0.1000 | 0.0400 | -0.120 |
 | 0.3000 | 0.0400 | -0.360 |
 | 0.4000 | 0.0400 | -0.480 |
 | 0.0750 | 0.0200 | -0.0760 |
@@ -2341,9 +2323,33 @@ Experiment 1: $[\mathrm{Y}]_{0}=3.0 \mathrm{M}$
 
 | {$\left[\mathbf{C H}_{\mathbf{3}} \mathbf{X}\right](\mathbf{m o l} / \mathbf{L})$} | Time $(\mathbf{h})$ |
 | --- | --- |
-| \hline $7.08 \times 10^{-3}$ | 1.0 |
+| $7.08 \times 10^{-3}$ | 1.0 |
 | $4.52 \times 10^{-3}$ | 1.5 |
 | $2.23 \times 10^{-3}$ | 2.3 |
 | $4.76 \times 10^{-4}$ | 4.0 |
 | $8.44 \times 10^{-5}$ | 5.7 |
 | $2.75 \times 10^{-5}$ | 7.0 |
+
+---
+
+Marathon Problem
+577
+
+Experiment 2: $[\mathrm{Y}]_{0}=4.5 \mathrm{M}$
+
+| {$\left[\mathbf{C H}_{\mathbf{3}} \mathbf{X} \mathbf{~ ( m o l /} \mathbf{L}\right.$ ) } | Time (h) |
+| --- | --- |
+| $4.50 \times 10^{-3}$ | 0 |
+| $1.70 \times 10^{-3}$ | 1.0 |
+| $4.19 \times 10^{-4}$ | 2.5 |
+| $1.11 \times 10^{-4}$ | 4.0 |
+| $2.81 \times 10^{-5}$ | 5.5 |
+
+
+Experiments also were run at $85^{\circ} \mathrm{C}$. The value of the rate constant at $85^{\circ} \mathrm{C}$ was found to be $7.88 \times 10^{8}$ (with the time in units of hours), where $\left[\mathrm{CH}_{3} \mathrm{X}\right]_{0}=1.0 \times 10^{-2} M$ and $[\mathrm{Y}]_{0}=3.0 M$.
+a. Determine the rate law and the value of $k$ for this reaction at $25^{\circ} \mathrm{C}$.
+b. Determine the half-life at $85^{\circ} \mathrm{C}$.
+c. Determine $E_{\mathrm{a}}$ for the reaction.
+d. Given that the C-X bond energy is known to be about 325 $\mathrm{kJ} / \mathrm{mol}$, suggest a mechanism that explains the results in parts a and c .
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

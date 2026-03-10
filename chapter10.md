@@ -1,55 +1,5 @@
 # Chapter 10: Liquids and Solids
 
-Integrative Problems
-423
-75. A flask containing gaseous $\mathrm{N}_{2}$ is irradiated with $25-\mathrm{nm}$ light.
-a. Using the following information, indicate what species can form in the flask during irradiation.
-$$\begin{array}{ll}
-\mathrm{N}_{2}(g) \longrightarrow 2 \mathrm{~N}(g) & \Delta H=941 \mathrm{~kJ} / \mathrm{mol} \\
-\mathrm{~N}_{2}(g) \longrightarrow \mathrm{N}_{2}^{+}(g)+\mathrm{e}^{-} & \Delta H=1501 \mathrm{~kJ} / \mathrm{mol} \\
-\mathrm{~N}(g) \longrightarrow \mathrm{N}^{+}(g)+\mathrm{e}^{-} & \Delta H=1402 \mathrm{~kJ} / \mathrm{mol}
-\end{array}$$
-b. What range of wavelengths will produce atomic nitrogen in the flask but will not produce any ions?
-c. Explain why the first ionization energy of $\mathrm{N}_{2}(1501 \mathrm{~kJ} / \mathrm{mol})$ is greater than the first ionization energy of atomic nitrogen ( $1402 \mathrm{~kJ} / \mathrm{mol}$ ).
-76. As compared with CO and $\mathrm{O}_{2}, \mathrm{CS}$ and $\mathrm{S}_{2}$ are very unstable molecules. Give an explanation based on the relative abilities of the sulfur and oxygen atoms to form $\pi$ bonds.
-77. Values of measured bond energies may vary greatly depending on the molecule studied. Consider the following reactions:
-$$\begin{array}{rlr}
-\mathrm{NCl}_{3}(g) \longrightarrow \mathrm{NCl}_{2}(g)+\mathrm{Cl}(g) & \Delta H=375 \mathrm{~kJ} / \mathrm{mol} \\
-\mathrm{ONCl}(g) \longrightarrow \mathrm{NO}(g)+\mathrm{Cl}(g) & \Delta H=158 \mathrm{~kJ} / \mathrm{mol}
-\end{array}$$
-
-Rationalize the difference in the values of $\Delta H$ for these reactions, even though each reaction appears to involve only the breaking of one $\mathrm{N}-\mathrm{Cl}$ bond. (Hint: Consider the bond order of the NO bond in ONCl and in NO.)
-78. Use the MO model to explain the bonding in $\mathrm{BeH}_{2}$. When constructing the MO energy-level diagram, assume that the Be's 1s electrons are not involved in bond formation.
-79. Carbon monoxide (CO) forms bonds to a variety of metals and metal ions. Its ability to bond to iron in hemoglobin is the reason that CO is so toxic. The bond carbon monoxide forms to metals is through the carbon atom:
-$$\mathrm{M}-\mathrm{C} \equiv \mathrm{O}$$
-a. On the basis of electronegativities, would you expect the carbon atom or the oxygen atom to form bonds to metals?
-b. Assign formal charges to the atoms in CO. Which atom would you expect to bond to a metal on this basis?
-c. In the MO model, bonding MOs place more electron density near the more electronegative atom. (See the HF molecule, Figs. 9.43 and 9.44.) Antibonding MOs place more electron density near the less electronegative atom in the diatomic molecule. Use the MO model to predict which atom of carbon monoxide should form bonds to metals.
-80. Arrange the following from lowest to highest ionization energy: $\mathrm{O}, \mathrm{O}_{2}, \mathrm{O}_{2}^{-}, \mathrm{O}_{2}^{+}$. Explain your answer.
-81. Use the MO model to determine which of the following has the smallest ionization energy: $\mathrm{N}_{2}, \mathrm{O}_{2}, \mathrm{~N}_{2}{ }^{2-}, \mathrm{N}_{2}{ }^{-}, \mathrm{O}_{2}{ }^{+}$, Explain your answer.
-82. Given that the ionization energy of $\mathrm{F}_{2}^{-}$is 290 kJ , do the following:
-a. Calculate the bond energy of $\mathrm{F}_{2}{ }^{-}$. You will need to look up the bond energy of $\mathrm{F}_{2}$ and ionization energy of $\mathrm{F}^{-}$.
-b. Explain the difference in bond energy between $\mathrm{F}_{2}^{-}$and $\mathrm{F}_{2}$ using MO theory.
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-83. As the head engineer of your starship in charge of the warp drive, you notice that the supply of dilithium is critically low. While searching for a replacement fuel, you discover some diboron, $\mathrm{B}_{2}$.
-a. What is the bond order in $\mathrm{Li}_{2}$ and $\mathrm{B}_{2}$ ?
-b. How many electrons must be removed from $\mathrm{B}_{2}$ to make it isoelectronic with $\mathrm{Li}_{2}$ so that it might be used in the warp drive?
-c. The reaction to make $\mathrm{B}_{2}$ isoelectronic with $\mathrm{Li}_{2}$ is generalized (where $n=$ number of electrons determined in part $b$ ) as follows:
-$$\mathrm{B}_{2} \rightarrow \mathrm{~B}_{2}^{n+}+n \mathrm{e}^{-} \quad \Delta H=6455 \mathrm{~kJ} / \mathrm{mol}$$
-
-How much energy is needed to ionize 1.5 kg of $\mathrm{B}_{2}$ to the desired isoelectronic species?
-84. An unusual category of acids known as superacids, which are defined as any acid stronger than $100 \%$ sulfuric acid, can be prepared by seemingly simple reactions similar to the one below. In this example, the reaction of anhydrous HF with $\mathrm{SbF}_{5}$ produces the superacid $\left[\mathrm{H}_{2} \mathrm{~F}\right]^{+}\left[\mathrm{SbF}_{6}\right]^{-}$:
-$$2 \mathrm{HF}(l)+\mathrm{SbF}_{5}(l) \rightarrow\left[\mathrm{H}_{2} \mathrm{~F}\right]^{+}\left[\mathrm{SbF}_{6}\right]^{-}(l)$$
-a. What are the molecular structures of all species in this reaction? What are the hybridizations of the central atoms in each species?
-b. What mass of $\left[\mathrm{H}_{2} \mathrm{~F}\right]^{+}\left[\mathrm{SbF}_{6}\right]^{-}$can be prepared when 2.93 mL of anhydrous HF (density $=0.975 \mathrm{~g} / \mathrm{mL}$ ) and 10.0 mL of $\mathrm{SbF}_{5}$ (density $=3.10 \mathrm{~g} / \mathrm{mL}$ ) are allowed to react?
-85. Determine the molecular structure and hybridization of the central atom X in the polyatomic ion $\mathrm{XY}_{3}{ }^{+}$given the following information: A neutral atom of $X$ contains 36 electrons, and the element Y makes an anion with a 1 - charge, which has the electron configuration $1 s^{2} 2 s^{2} 2 p^{6}$.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 10 Liquids and Solids
 
 Contents
@@ -109,29 +59,29 @@ We will proceed in our study of liquids and solids by first considering the prop
 426
 Chapter Ten Liquids and Solids
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | TABLE $\mathbf{1 0 . 1}$ |  | |
 | | Three States of Water |  | |
-| | \end{tabular} |
+| |  |
  | | | Densities of the |  | |
 | --- |
 | | Density |  | |
 | | $\left(\mathbf{g} / \mathbf{c m}^{\mathbf{3}}\right)$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline State |  |
-| \hline | | Solid $\left(0^{\circ} \mathrm{C}\right.$, |  | |
+| State |  |
+| | | Solid $\left(0^{\circ} \mathrm{C}\right.$, |  | |
 | --- |
 | | $1 \mathrm{~atm})$ |  | |
-| | \end{tabular} |
+| |  |
  | 0.9168 |
 | Liquid $\left(25^{\circ} \mathrm{C}\right.$, |  |
 | $1 \mathrm{~atm})$ |  |
-| \end{tabular} |  |
+|  |  |
 | Gas $\left(400^{\circ} \mathrm{C}\right.$, |  |
 | $1 \mathrm{~atm})$ |  |
-| \end{tabular} |  |
+|  |  |
 
 
 Intermolecular forces were introduced in Chapter 5 to explain nonideal gas behavior.
@@ -194,7 +144,7 @@ Boiling point will be defined precisely in Section 10.8.
 
 | Element | Freezing Point $\left({ }^{\circ} \mathbf{C}\right)$ |
 | --- | --- |
-| \hline Helium* | -269.7 |
+| Helium* | -269.7 |
 | Neon | -248.6 |
 | Argon | -189.4 |
 | Krypton | -157.3 |
@@ -372,11 +322,11 @@ Examples of three types of crystalline solids. Only part of the structure is sho
 436
 Chapter Ten Liquids and Solids
 
-| \hline \multirow{2}{*}{} | Atomic Solids | \multirow[b]{2}{*}{Molecular Solids} | \multirow[b]{2}{*}{Ionic Solids} |  |  |
+| \multirow{2}{*}{} | Atomic Solids | \multirow[b]{2}{*}{Molecular Solids} | \multirow[b]{2}{*}{Ionic Solids} |  |  |
 | --- | --- | --- | --- | --- | --- |
-| \hline | Metallic | Network | Group 8A |  |  |
-| \hline Components That Occupy the Lattice Points: | Metal atoms | Nonmetal atoms | Group 8A atoms | Discrete molecules | Ions |
-| \hline Bonding: | Delocalized covalent | Directional covalent (leading to giant molecules) | London dispersion forces | Dipole-dipole and/or London dispersion forces | Ionic |
+| | Metallic | Network | Group 8A |  |  |
+| Components That Occupy the Lattice Points: | Metal atoms | Nonmetal atoms | Group 8A atoms | Discrete molecules | Ions |
+| Bonding: | Delocalized covalent | Directional covalent (leading to giant molecules) | London dispersion forces | Dipole-dipole and/or London dispersion forces | Ionic |
 
 
 The internal forces in a solid determine the properties of the solid.
@@ -571,7 +521,7 @@ The structures of diamond and graphite. In each case only a small part of the en
 
 | Brand of Tubing | $\boldsymbol{\%} \mathbf{C}$ | $\boldsymbol{\%} \mathbf{S i}$ | $\boldsymbol{\%} \mathbf{M n}$ | $\boldsymbol{\%} \mathbf{M o}$ | $\boldsymbol{\%} \mathbf{C r}$ |
 | --- | --- | --- | --- | --- | --- |
-| \hline Reynolds | 0.25 | 0.25 | 1.3 | 0.20 | - |
+| Reynolds | 0.25 | 0.25 | 1.3 | 0.20 | - |
 | Columbus | 0.25 | 0.30 | 0.65 | 0.20 | 1.0 |
 
 
@@ -654,14 +604,14 @@ Two-dimensional representations of (a) a quartz crystal and (b) a quartz glass.
 448
 Chapter Ten Liquids and Solids
 
-| \hline TABLE 10.5 Compositions of Some Common Types of Glass |  |  |  |  |  |  |  |
+| TABLE 10.5 Compositions of Some Common Types of Glass |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline \multirow[b]{2}{*}{Type of Glass} | Percentages of Various Components |  |  |  |  |  |  |
-| \hline | $\mathbf{S i O}_{\mathbf{2}}$ | CaO | $\mathrm{Na}_{2} \mathrm{O}$ | $\boldsymbol{B}_{\mathbf{2}} \mathbf{O}_{\mathbf{3}}$ | $\mathrm{Al}_{2} \mathrm{O}_{3}$ | $\boldsymbol{K}_{\mathbf{2}} \mathbf{O}$ | MgO |
-| \hline Window (soda-lime glass) | 72 | 11 | 13 | - | 0.3 | 3.8 | - |
-| \hline Cookware (aluminosilicate glass) | 55 | 15 | - | - | 20 | - | 10 |
-| \hline Heat-resistant (borosilicate glass) | 76 | 3 | 5 | 13 | 2 | 0.5 | - |
-| \hline Optical | 69 | 12 | 6 | 0.3 | - | 12 | - |
+| \multirow[b]{2}{*}{Type of Glass} | Percentages of Various Components |  |  |  |  |  |  |
+| | $\mathbf{S i O}_{\mathbf{2}}$ | CaO | $\mathrm{Na}_{2} \mathrm{O}$ | $\boldsymbol{B}_{\mathbf{2}} \mathbf{O}_{\mathbf{3}}$ | $\mathrm{Al}_{2} \mathrm{O}_{3}$ | $\boldsymbol{K}_{\mathbf{2}} \mathbf{O}$ | MgO |
+| Window (soda-lime glass) | 72 | 11 | 13 | - | 0.3 | 3.8 | - |
+| Cookware (aluminosilicate glass) | 55 | 15 | - | - | 20 | - | 10 |
+| Heat-resistant (borosilicate glass) | 76 | 3 | 5 | 13 | 2 | 0.5 | - |
+| Optical | 69 | 12 | 6 | 0.3 | - | 12 | - |
 
 
 A glass pitcher being manufactured.
@@ -830,12 +780,12 @@ This detector looks like a very promising addition to our arsenal of security de
 
 When explosive compounds bind to these V-shaped cantilevers, the microscopic structures, which are about the width of a hair, bend and produce a signal.
 
-| \hline TABLE 10.6 Comparison of Atomic Separations Within Molecules (Covalent Bonds) and Between Molecules (Intermolecular Interactions) |  |  |
+| TABLE 10.6 Comparison of Atomic Separations Within Molecules (Covalent Bonds) and Between Molecules (Intermolecular Interactions) |  |  |
 | --- | --- | --- |
-| \hline Solid | Distance Between Atoms in Molecule* | Closest Distance Between Molecules in the Solid |
-| \hline $\mathrm{P}_{4}$ | 220 pm | 380 pm |
-| \hline $\mathrm{S}_{8}$ | 206 pm | 370 pm |
-| \hline $\mathrm{Cl}_{2}$ | 199 pm | 360 pm |
+| Solid | Distance Between Atoms in Molecule* | Closest Distance Between Molecules in the Solid |
+| $\mathrm{P}_{4}$ | 220 pm | 380 pm |
+| $\mathrm{S}_{8}$ | 206 pm | 370 pm |
+| $\mathrm{Cl}_{2}$ | 199 pm | 360 pm |
 
 *The shorter distances within the molecules indicate stronger bonding.
 
@@ -909,19 +859,19 @@ See Exercises 10.61 through 10.68.
 
 In this chapter we have considered various types of solids. Table 10.7 summarizes these types of solids and some of their properties.
 
-| \hline \multirow[t]{2}{*}{Type of Solid:} | Atomic | \multirow[t]{2}{*}{Molecular} | \multirow[t]{2}{*}{Ionic} |  |  |
+| \multirow[t]{2}{*}{Type of Solid:} | Atomic | \multirow[t]{2}{*}{Molecular} | \multirow[t]{2}{*}{Ionic} |  |  |
 | --- | --- | --- | --- | --- | --- |
-| \hline | Network | Metallic | Group 8A |  |  |
-| \hline Structural Unit: | Atom | Atom | Atom | Molecule | Ion |
-| \hline Type of Bonding: | Directional covalent bonds | Nondirectional covalent bonds involving electrons that are delocalized throughout the crystal | London dispersion forces | | | Polar molecules: dipole-dipole interactions |  |  |  |  |  | |
+| | Network | Metallic | Group 8A |  |  |
+| Structural Unit: | Atom | Atom | Atom | Molecule | Ion |
+| Type of Bonding: | Directional covalent bonds | Nondirectional covalent bonds involving electrons that are delocalized throughout the crystal | London dispersion forces | | | Polar molecules: dipole-dipole interactions |  |  |  |  |  | |
 | --- |
 | | Nonpolar molecules: London dispersion forces |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  | Ionic |  |  |  |  |
-| \hline \multirow[t]{3}{*}{Typical Properties:} | Hard | Wide range of hardness |  | Soft | Hard |
-| \hline | High melting point | Wide range of melting points | Very low melting point | Low melting point | High melting point |
-| \hline | Insulator | Conductor |  | Insulator | Insulator |
-| \hline Examples: | Diamond | Silver Iron Brass | Argon(s) | Ice (solid $\mathrm{H}_{2} \mathrm{O}$ ) Dry ice (solid $\mathrm{CO}_{2}$ ) | Sodium chloride Calcium fluoride |
+| \multirow[t]{3}{*}{Typical Properties:} | Hard | Wide range of hardness |  | Soft | Hard |
+| | High melting point | Wide range of melting points | Very low melting point | Low melting point | High melting point |
+| | Insulator | Conductor |  | Insulator | Insulator |
+| Examples: | Diamond | Silver Iron Brass | Argon(s) | Ice (solid $\mathrm{H}_{2} \mathrm{O}$ ) Dry ice (solid $\mathrm{CO}_{2}$ ) | Sodium chloride Calcium fluoride |
 
 ---
 
@@ -990,7 +940,7 @@ TABLE 10.8 The Vapor Pressure of Water as a Function of Temperature
 
 | $\boldsymbol{T}\left({ }^{\circ} \mathbf{C}\right)$ | $\boldsymbol{P}$ (torr) |
 | --- | --- |
-| \hline 0.0 | 4.579 |
+| 0.0 | 4.579 |
 | 10.0 | 9.209 |
 | 20.0 | 17.535 |
 | 25.0 | 23.756 |
@@ -1115,17 +1065,17 @@ heating curve. At this temperature, called the melting point, all the added ener
 
 The temperature remains constant until the solid has completely changed to liquid; then it begins to increase again. At $100^{\circ} \mathrm{C}$ the liquid water reaches its boiling point, and the temperature then remains constant as the added energy is used to vaporize the liquid. When the liquid is completely changed to vapor, the temperature again begins to rise. Note that changes of state are physical changes; although intermolecular forces have been overcome, no chemical bonds have been broken. If the water vapor were heated to much higher temperatures, the water molecules would break down into the individual atoms. This would
 
-| \hline TABLE 10.9 Melting Points and Enthalpies of Fusion for Several Representative Solids |  |  |
+| TABLE 10.9 Melting Points and Enthalpies of Fusion for Several Representative Solids |  |  |
 | --- | --- | --- |
-| \hline Compound | Melting Point $\left({ }^{\circ} \mathrm{C}\right)$ | Enthalpy of Fusion (kJ/mol) |
-| \hline $\mathrm{O}_{2}$ | -218 | 0.45 |
-| \hline HCl | -114 | 1.99 |
-| \hline HI | -51 | 2.87 |
-| \hline $\mathrm{CCl}_{4}$ | -23 | 2.51 |
-| \hline $\mathrm{CHCl}_{3}$ | -64 | 9.20 |
-| \hline $\mathrm{H}_{2} \mathrm{O}$ | 0 | 6.02 |
-| \hline NaF | 992 | 29.3 |
-| \hline NaCl | 801 | 30.2 |
+| Compound | Melting Point $\left({ }^{\circ} \mathrm{C}\right)$ | Enthalpy of Fusion (kJ/mol) |
+| $\mathrm{O}_{2}$ | -218 | 0.45 |
+| HCl | -114 | 1.99 |
+| HI | -51 | 2.87 |
+| $\mathrm{CCl}_{4}$ | -23 | 2.51 |
+| $\mathrm{CHCl}_{3}$ | -64 | 9.20 |
+| $\mathrm{H}_{2} \mathrm{O}$ | 0 | 6.02 |
+| NaF | 992 | 29.3 |
+| NaCl | 801 | 30.2 |
 
 ---
 
@@ -1252,17 +1202,17 @@ under ordinary conditions of temperature and pressure. However, diamond becomes 
 
 A carbon dioxide fire extinguisher.
 
-| \hline Location | Feet Above Sea Level | $\boldsymbol{P}_{\text {atm }}$ (torr) | Boiling Point $\left({ }^{\circ} \mathrm{C}\right)$ |
+| Location | Feet Above Sea Level | $\boldsymbol{P}_{\text {atm }}$ (torr) | Boiling Point $\left({ }^{\circ} \mathrm{C}\right)$ |
 | --- | --- | --- | --- |
-| \hline Top of Mt. Everest, Tibet | 29,028 | 240 | 70 |
-| \hline Top of Mt. McKinley, Alaska | 20,320 | 340 | 79 |
-| \hline Top of Mt. Whitney, Calif. | 14,494 | 430 | 85 |
-| \hline Leadville, Colo. | 10,150 | 510 | 89 |
-| \hline Top of Mt. Washington, N.H. | 6,293 | 590 | 93 |
-| \hline Boulder, Colo. | 5,430 | 610 | 94 |
-| \hline Madison, Wis. | 900 | 730 | 99 |
-| \hline New York City, N.Y. | 10 | 760 | 100 |
-| \hline Death Valley, Calif. | -282 | 770 | 100.3 |
+| Top of Mt. Everest, Tibet | 29,028 | 240 | 70 |
+| Top of Mt. McKinley, Alaska | 20,320 | 340 | 79 |
+| Top of Mt. Whitney, Calif. | 14,494 | 430 | 85 |
+| Leadville, Colo. | 10,150 | 510 | 89 |
+| Top of Mt. Washington, N.H. | 6,293 | 590 | 93 |
+| Boulder, Colo. | 5,430 | 610 | 94 |
+| Madison, Wis. | 900 | 730 | 99 |
+| New York City, N.Y. | 10 | 760 | 100 |
+| Death Valley, Calif. | -282 | 770 | 100.3 |
 
 
 The Phase Diagram for Carbon Dioxide
@@ -1679,26 +1629,26 @@ d. It also appears that copper must display a mixture of oxidation states for a 
 Phase Changes and Phase Diagrams
 79. Plot the following data and determine $\Delta H_{\text {vap }}$ for magnesium and lithium. In which metal is the bonding stronger?
 
-| \hline \multirow[b]{2}{*}{Vapor Pressure (mm Hg)} | Temperature ( ${ }^{\circ} \mathrm{C}$ ) |  |
+| \multirow[b]{2}{*}{Vapor Pressure (mm Hg)} | Temperature ( ${ }^{\circ} \mathrm{C}$ ) |  |
 | --- | --- | --- |
-| \hline | Li | $\boldsymbol{M g}$ |
-| \hline 1. | 750. | 620. |
-| \hline 10. | 890. | 740. |
-| \hline 100. | 1080. | 900. |
-| \hline 400. | 1240. | 1040. |
-| \hline 760. | 1310. | 1110. |
+| | Li | $\boldsymbol{M g}$ |
+| 1. | 750. | 620. |
+| 10. | 890. | 740. |
+| 100. | 1080. | 900. |
+| 400. | 1240. | 1040. |
+| 760. | 1310. | 1110. |
 
 80. From the following data for liquid nitric acid, determine its heat of vaporization and normal boiling point.
 
-| \hline Temperature ( ${ }^{\circ} \mathrm{C}$ ) | Vapor Pressure (mm Hg) |
+| Temperature ( ${ }^{\circ} \mathrm{C}$ ) | Vapor Pressure (mm Hg) |
 | --- | --- |
-| \hline 0. | 14.4 |
-| \hline 10. | 26.6 |
-| \hline 20. | 47.9 |
-| \hline 30. | 81.3 |
-| \hline 40. | 133 |
-| \hline 50. | 208 |
-| \hline 80. | 670. |
+| 0. | 14.4 |
+| 10. | 26.6 |
+| 20. | 47.9 |
+| 30. | 81.3 |
+| 40. | 133 |
+| 50. | 208 |
+| 80. | 670. |
 
 81. In Breckenridge, Colorado, the typical atmospheric pressure is 520 . torr. What is the boiling point of water ( $\Delta H_{\text {vap }}=40.7 \mathrm{kJ} / \mathrm{mol}$ ) in Breckenridge?
 82. What pressure would have to be applied to steam at $350 .{ }^{\circ} \mathrm{C}$ to condense the steam to liquid water ( $\Delta H_{\text {vap }}=40.7 \mathrm{~kJ} / \mathrm{mol}$ )?
@@ -1706,12 +1656,12 @@ Phase Changes and Phase Diagrams
 84. The normal boiling point for acetone is $56.5^{\circ} \mathrm{C}$. At an elevation of 5300 ft the atmospheric pressure is 630 . torr. What would be the boiling point of acetone ( $\Delta H_{\text {vap }}=32.0 \mathrm{~kJ} / \mathrm{mol}$ ) at this elevation? What would be the vapor pressure of acetone at $25.0^{\circ} \mathrm{C}$ at this elevation?
 85. A substance, X , has the following properties:
 
-| \hline  | Specific Heat Capacities |  |  |
+| | Specific Heat Capacities |  |  |
 | --- | --- | --- | --- |
-| \hline $\Delta H_{\text {vap }}$ | $20 . \mathrm{kJ} / \mathrm{mol}$ | C(s) | $3.0 \mathrm{~J} / \mathrm{g} \cdot{ }^{\circ} \mathrm{C}$ |
-| \hline $\Delta H_{\text {fus }}$ | $5.0 \mathrm{~kJ} / \mathrm{mol}$ | C(l) | $2.5 \mathrm{~J} / \mathrm{g} \cdot{ }^{\circ} \mathrm{C}$ |
-| \hline bp | $75^{\circ} \mathrm{C}$ | $\mathrm{C}(g)$ | $1.0 \mathrm{~J} / \mathrm{g} \cdot{ }^{\circ} \mathrm{C}$ |
-| \hline mp | $-15^{\circ} \mathrm{C}$ |  |  |
+| $\Delta H_{\text {vap }}$ | $20 . \mathrm{kJ} / \mathrm{mol}$ | C(s) | $3.0 \mathrm{~J} / \mathrm{g} \cdot{ }^{\circ} \mathrm{C}$ |
+| $\Delta H_{\text {fus }}$ | $5.0 \mathrm{~kJ} / \mathrm{mol}$ | C(l) | $2.5 \mathrm{~J} / \mathrm{g} \cdot{ }^{\circ} \mathrm{C}$ |
+| bp | $75^{\circ} \mathrm{C}$ | $\mathrm{C}(g)$ | $1.0 \mathrm{~J} / \mathrm{g} \cdot{ }^{\circ} \mathrm{C}$ |
+| mp | $-15^{\circ} \mathrm{C}$ |  |  |
 
 
 Sketch a heating curve for substance X starting at $-50 .{ }^{\circ} \mathrm{C}$.
@@ -1763,16 +1713,16 @@ Additional Exercises
 97. Rationalize why chalk (calcium carbonate) has a higher melting point than motor oil (large compounds made from carbon and hydrogen), which has a higher melting point than water, which engages in relatively strong hydrogen-bonding interactions.
 98. Rationalize the differences in physical properties in terms of intermolecular forces for the following organic compounds. Compare the first three substances with each other, compare the last three with each other, and then compare all six. Can you account for any anomalies?
 
-| \hline | bp $\left({ }^{\circ} \mathrm{C}\right)$ | mp $\boldsymbol{(}{ }^{\circ} \mathrm{C} \boldsymbol{)}$ | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{v a p}} \boldsymbol{(} \mathbf{k J} \boldsymbol{/} \mathbf{m o l} \boldsymbol{)}$ |
+| | bp $\left({ }^{\circ} \mathrm{C}\right)$ | mp $\boldsymbol{(}{ }^{\circ} \mathrm{C} \boldsymbol{)}$ | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{v a p}} \boldsymbol{(} \mathbf{k J} \boldsymbol{/} \mathbf{m o l} \boldsymbol{)}$ |
 | --- | --- | --- | --- |
-| \hline Benzene, $\mathrm{C}_{6} \mathrm{H}_{6}$ | 80 | 6 | 33.9 |
-| \hline Naphthalene, $\mathrm{C}_{10} \mathrm{H}_{8}$ | 218 | 80 | 51.5 |
-| \hline Carbon tetrachloride | 76 | -23 | 31.8 |
-| \hline Acetone, |  |  |  |
+| Benzene, $\mathrm{C}_{6} \mathrm{H}_{6}$ | 80 | 6 | 33.9 |
+| Naphthalene, $\mathrm{C}_{10} \mathrm{H}_{8}$ | 218 | 80 | 51.5 |
+| Carbon tetrachloride | 76 | -23 | 31.8 |
+| Acetone, |  |  |  |
 | $$\mathrm{CH}_{3} \mathrm{COCH}_{3}$$ | 56 | -95 | 31.8 |
-| \hline Acetic acid, |  |  |  |
+| Acetic acid, |  |  |  |
 | $$\mathrm{CH}_{3} \mathrm{CO}_{2} \mathrm{H}$$ | 118 | 17 | 39.7 |
-| \hline Benzoic acid, |  |  |  |
+| Benzoic acid, |  |  |  |
 | $$\mathrm{C}_{6} \mathrm{H}_{5} \mathrm{CO}_{2} \mathrm{H}$$ | 249 | 122 | 68.2 |
 
 99. Consider the following vapor pressure versus temperature plot for three different substances $\mathrm{A}, \mathrm{B}$, and C .
@@ -1793,12 +1743,12 @@ and
 102. Boron nitride (BN) exists in two forms. The first is a slippery solid formed from the reaction of $\mathrm{BCl}_{3}$ with $\mathrm{NH}_{3}$, followed by heating in an ammonia atmosphere at $750^{\circ} \mathrm{C}$. Subjecting the first form of BN to a pressure of $85,000 \mathrm{~atm}$ at $1800^{\circ} \mathrm{C}$ produces a second form that is the second hardest substance known. Both forms of BN remain solids to $3000^{\circ} \mathrm{C}$. Suggest structures for the two forms of BN .
 103. Consider the following data concerning four different substances.
 
-| \hline Compound | Conducts Electricity as a Solid | Other Properties |
+| Compound | Conducts Electricity as a Solid | Other Properties |
 | --- | --- | --- |
-| \hline $\mathrm{B}_{2} \mathrm{H}_{6}$ | no | gas at $25^{\circ} \mathrm{C}$ |
-| \hline $\mathrm{SiO}_{2}$ | no | high mp |
-| \hline CsI | no | aqueous solution |
-| \hline W | yes | conducts electricity high mp |
+| $\mathrm{B}_{2} \mathrm{H}_{6}$ | no | gas at $25^{\circ} \mathrm{C}$ |
+| $\mathrm{SiO}_{2}$ | no | high mp |
+| CsI | no | aqueous solution |
+| W | yes | conducts electricity high mp |
 
 
 Label the four substances as either ionic, network, metallic, or molecular solids.
@@ -1827,7 +1777,7 @@ $$\mathrm{mp}=127^{\circ} \mathrm{C}$$
 Account for the large difference in the melting points of the two substances.
 111. Consider the following melting point data:
 
-| \hline Compound: | NaCl | $\mathrm{MgCl}_{2}$ | $\mathrm{AlCl}_{3}$ | $\mathrm{SiCl}_{4}$ | $\mathrm{PCl}_{3}$ | $\mathrm{SCl}_{2}$ | $\mathrm{Cl}_{2}$ |
+| Compound: | NaCl | $\mathrm{MgCl}_{2}$ | $\mathrm{AlCl}_{3}$ | $\mathrm{SiCl}_{4}$ | $\mathrm{PCl}_{3}$ | $\mathrm{SCl}_{2}$ | $\mathrm{Cl}_{2}$ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | mp $\left({ }^{\circ} \mathbf{C}\right):$ | 801 | 708 | 190 | -70 | -91 | -78 | -101 |
 | Compound: | NaF | $\mathrm{MgF}_{2}$ | $\mathrm{AlF}_{3}$ | $\mathrm{SiF}_{4}$ | $\mathrm{PF}_{5}$ | $\mathrm{SF}_{6}$ | $\mathrm{~F}_{2}$ |
@@ -1855,3 +1805,22 @@ These problems require the integration of multiple concepts to find the solution
 121. A $0.132-\mathrm{mol}$ sample of an unknown semiconducting material with the formula XY has a mass of 19.0 g . The element X has an electron configuration of $[\mathrm{Kr}] 5 s^{2} 4 d^{10}$. What is this semiconducting material? A small amount of the Y atoms in the semiconductor is replaced with an equivalent amount of atoms with and electron configuration of $[\mathrm{Ar}] 4 s^{2} 3 d^{10} 4 p^{5}$. Does this correspond to n-type or p-type doping?
 122. A metal burns in air at $600^{\circ} \mathrm{C}$ under high pressure to form an oxide with formula $\mathrm{MO}_{2}$. This compound is $23.72 \%$ oxygen by mass. The distance between touching atoms in a cubic closest packed crystal of this metal is 269.0 pm . What is this metal? What is its density?
 123. One method of preparing elemental mercury involves roasting cinnabar (HgS) in quicklime (CaO) at $600 .{ }^{\circ} \mathrm{C}$ followed by condensation of the mercury vapor. Given the heat of vaporization of mercury ( $296 \mathrm{~J} / \mathrm{g}$ ) and the vapor pressure of mercury at $25.0^{\circ} \mathrm{C}$ ( $2.56 \times 10^{-3}$ torr), what is the vapor pressure of the condensed mercury at $300 .{ }^{\circ} \mathrm{C}$ ? How many atoms of mercury are present in the mercury vapor at $300 .{ }^{\circ} \mathrm{C}$ if the reaction is conducted in a closed 15.0-L container?
+
+---
+
+Marathon Problem
+483
+
+Marathon Problem
+This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+124. General Zod has sold Lex Luthor what Zod claims to be a new copper-colored form of kryptonite, the only substance that can harm Superman. Lex, not believing in honor among thieves, decided to carry out some tests on the supposed kryptonite. From previous tests, Lex knew that kryptonite is a metal having a specific heat capacity of $0.082 \mathrm{~J} / \mathrm{g} \cdot{ }^{\circ} \mathrm{C}$, and a density of $9.2 \mathrm{~g} / \mathrm{cm}^{3}$.
+
+Lex Luthor's first experiment was an attempt to find the specific heat capacity of kryptonite. He dropped a $10 \mathrm{~g} \pm 3 \mathrm{~g}$ sample of the metal into a boiling water bath at a temperature of $100.0^{\circ} \mathrm{C} \pm 0.2^{\circ} \mathrm{C}$. He waited until the metal had reached the bath temperature and then quickly transferred it to $100 \mathrm{~g} \pm 3 \mathrm{~g}$ of water that was contained in a calorimeter at an initial temperature of $25.0^{\circ} \mathrm{C} \pm 0.2^{\circ} \mathrm{C}$. The final temperature of the metal and water was $25.2^{\circ} \mathrm{C}$. Based on these results, is it possible to distinguish between copper and kryptonite? Explain.
+
+When Lex found that his results from the first experiment were inconclusive, he decided to determine the density of the sample. He managed to steal a better balance and determined the mass of another portion of the purported kryptonite to be $4 \mathrm{~g} \pm 1 \mathrm{~g}$. He dropped this sample into water contained in a $25-\mathrm{mL}$ graduated cylinder and found that it displaced a volume of $0.42 \mathrm{~mL} \pm 0.02 \mathrm{~mL}$. Is the metal copper or kryptonite? Explain.
+
+Lex was finally forced to determine the crystal structure of the metal General Zod had given him. He found that the cubic unit cell contained 4 atoms and had an edge length of 600. pm. Explain how this information enabled Lex to identify the metal as copper or kryptonite.
+
+Will Lex be going after Superman with the kryptonite or seeking revenge on General Zod? What improvements could he have made in his experimental techniques to avoid performing the crystal structure determination?
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

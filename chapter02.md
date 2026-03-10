@@ -1,26 +1,5 @@
 # Chapter 2: Atoms, Molecules, and Ions
 
-Marathon Problem
-37
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-91. The U.S. trade deficit at the beginning of 2005 was $\$ 475,000,000$. If the wealthiest 1.00 percent of the U.S. population $(297,000,000)$ contributed an equal amount of money to bring the trade deficit to $\$ 0$, how many dollars would each person contribute? If one of these people were to pay their share in nickels only, how many nickels are needed? Another person living abroad at the time decides to pay in pounds sterling (£). How many pounds sterling does this person contribute (assume a conversion rate of $1 £=\$ 1.869$ )?
-92. The density of osmium is reported by one source to be 22610 $\mathrm{kg} / \mathrm{m}^{3}$. What is this density in $\mathrm{g} / \mathrm{cm}^{3}$ ? What is the mass of a block of osmium measuring $10.0 \mathrm{~cm} \times 8.0 \mathrm{~cm} \times 9.0 \mathrm{~cm}$ ?
-93. At the Amundsen-Scott South Pole base station in Antarctica, when the temperature is $-100.0^{\circ} \mathrm{F}$, researchers who live there can join the " 300 Club" by stepping into a sauna heated to $200.0^{\circ} \mathrm{F}$ then quickly running outside and around the pole that marks the South Pole. What are these temperatures in ${ }^{\circ} \mathrm{C}$ ? What are these temperatures in K ? If you measured the temperatures only in ${ }^{\circ} \mathrm{C}$ and K , can you become a member of the " 300 Club" (that is, is there a 300 .-degree difference between the temperature extremes when measured in ${ }^{\circ} \mathrm{C}$ and K ?)
-
-Marathon Problem*
-This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-94. A cylindrical bar of gold that is 1.5 in high and 0.25 in in diameter has a mass of 23.1984 g , as determined on an analytical balance. An empty graduated cylinder is weighed on a triple-beam balance and has a mass of 73.47 g . After pouring a small amount of a liquid into the graduated cylinder, the mass is 79.16 g . When the gold cylinder is placed in the graduated cylinder (the liquid covers the top of the gold cylinder), the volume indicated on the graduated cylinder is 8.5 mL . Assume that the temperature of the gold bar and the liquid are $86^{\circ} \mathrm{F}$. If the density of the liquid decreases by $1.0 \%$ for each $10 .{ }^{\circ} \mathrm{C}$ rise in temperature (over the range 0 to $50^{\circ} \mathrm{C}$ ), determine
-a. the density of the gold at $86^{\circ} \mathrm{F}$.
-b. the density of the liquid at $40 .{ }^{\circ} \mathrm{F}$.
-
-Note: Parts a and b can be answered independently.
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-*Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.
-
----
-
 2
 Atoms, Molecules, and lons
 
@@ -116,13 +95,13 @@ Chapter Two Atoms, Molecules, and lons
 
 But Dalton discovered another principle that convinced him even more of the existence of atoms. He noted, for example, that carbon and oxygen form two different compounds that contain different relative amounts of carbon and oxygen, as shown by the following data:
 
-| \hline | | | --- | --- | |
+| | | | --- | --- | |
 | --- |
 | | Mass of Oxygen That Combines |  | |
 | | with $\mathbf{1} \mathbf{g}$ of Carbon |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline Compound I | 1.33 g |
+| Compound I | 1.33 g |
 | Compound II | 2.66 g |
 
 
@@ -133,13 +112,13 @@ To make sure the significance of this observation is clear, in Sample Exercise 2
 Sample Exercise 2.1 Illustrating the Law of Multiple Proportions
 The following data were collected for several compounds of nitrogen and oxygen:
 
-| \hline | | | --- | --- | |
+| | | | --- | --- | |
 | --- |
 | | Mass of Nitrogen That Combines |  | |
 | | with $\mathbf{1} \mathbf{~ g}$ of Oxygen |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline Compound A | 1.750 g |
+| Compound A | 1.750 g |
 | Compound B | 0.8750 g |
 | Compound C | 0.4375 g |
 
@@ -270,19 +249,19 @@ Berzelius, Selenium, and Silicon
 
 Jöns Jakob Berzelius was probably the best experimental chemist of his generation and, given the crudeness of his laboratory equipment, maybe the best of all time. Unlike Lavoisier, who could afford to buy the best laboratory equipment available, Berzelius worked with minimal equipment in very plain sur-
 
-| \hline Comparison of Several of Berzelius's Atomic Masses with the Modern Values |  |  |
+| Comparison of Several of Berzelius's Atomic Masses with the Modern Values |  |  |
 | --- | --- | --- |
-| \hline \multirow[b]{2}{*}{Element} | Atomic Mass |  |
-| \hline | Berzelius's Value | Current Value |
-| \hline Chlorine | 35.41 | 35.45 |
-| \hline Copper | 63.00 | 63.55 |
-| \hline Hydrogen | 1.00 | 1.01 |
-| \hline Lead | 207.12 | 207.2 |
-| \hline Nitrogen | 14.05 | 14.01 |
-| \hline Oxygen | 16.00 | 16.00 |
-| \hline Potassium | 39.19 | 39.10 |
-| \hline Silver | 108.12 | 107.87 |
-| \hline Sulfur | 32.18 | 32.07 |
+| \multirow[b]{2}{*}{Element} | Atomic Mass |  |
+| | Berzelius's Value | Current Value |
+| Chlorine | 35.41 | 35.45 |
+| Copper | 63.00 | 63.55 |
+| Hydrogen | 1.00 | 1.01 |
+| Lead | 207.12 | 207.2 |
+| Nitrogen | 14.05 | 14.01 |
+| Oxygen | 16.00 | 16.00 |
+| Potassium | 39.19 | 39.10 |
+| Silver | 108.12 | 107.87 |
+| Sulfur | 32.18 | 32.07 |
 
 roundings. One of Berzelius's students described the Swedish chemist's workplace: "The laboratory consisted of two ordinary rooms with the very simplest arrangements; there were neither furnaces nor hoods, neither water system nor gas. Against the walls stood some closets with the chemicals, in the middle the mercury trough and the
 blast lamp table. Beside this was the sink consisting of a stone water holder with a stopcock and a pot standing under it. [Next door in the kitchen] stood a small heating furnace."
@@ -303,16 +282,16 @@ A cathode-ray tube. The fast-moving electrons excite the gas in the tube, causin
 2.4 Early Experiments to Characterize the Atom
 47
 
-| \hline The Alchemists' Symbols for Some Common Elements and Compounds |  |
+| The Alchemists' Symbols for Some Common Elements and Compounds |  |
 | --- | --- |
-| \hline Substance | Alchemists' Symbol |
-| \hline Silver | D) |
-| \hline Lead | 5 |
-| \hline Tin | 4 |
-| \hline Platinum |  |
-| \hline Sulfuric acid |  |
-| \hline Alcohol |  |
-| \hline Sea salt |  |
+| Substance | Alchemists' Symbol |
+| Silver | D) |
+| Lead | 5 |
+| Tin | 4 |
+| Platinum |  |
+| Sulfuric acid |  |
+| Alcohol |  |
+| Sea salt |  |
 
 health. Studies have shown that trace amounts of selenium in the diet may protect people from heart disease and cancer. One study based on data from 27 countries showed an inverse relationship between the cancer death rate and the selenium content of soil in a particular region (low cancer death rate in areas with high selenium content). Another research paper reported an inverse relationship between the selenium content of the blood and the incidence of breast cancer in women. A study reported in 1998 used the toenail clippings of 33,737 men to show that selenium seems to protect against prostate cancer. Selenium is also found in the heart muscle and may play an important role in proper heart
 
@@ -398,7 +377,7 @@ Two isotopes of sodium. Both have 11 protons and 11 electrons, but they differ i
 
 | Particle |  Mass  | Charge $^{*}$ |
 | --- | --- | --- |
-| \hline Electron | $9.11 \times 10^{-31} \mathrm{~kg}$ | $1-$ |
+| Electron | $9.11 \times 10^{-31} \mathrm{~kg}$ | $1-$ |
 | Proton | $1.67 \times 10^{-27} \mathrm{~kg}$ | $1+$ |
 | Neutron | $1.67 \times 10^{-27} \mathrm{~kg}$ | None |
 
@@ -495,11 +474,11 @@ Chapter Two Atoms, Molecules, and lons
 
 Chloride ion ( $\mathrm{Cl}^{-}$)
 
-| \hline Neutral chlorine atom (Cl) |  |
+| Neutral chlorine atom (Cl) |  |
 | --- | --- |
-| \hline 17+ | 17+ |
-| \hline 17 electrons |  |
-| \hline | 18 electrons |
+| 17+ | 17+ |
+| 17 electrons |  |
+| | 18 electrons |
 
 the 18 electrons produce a net 1 - charge; the chlorine has become an ion with a negative charge-an anion. The chloride ion is written as $\mathrm{Cl}^{-}$, and the process is represented as
 $$\mathrm{Cl}+\mathrm{e}^{-} \longrightarrow \mathrm{Cl}^{-}$$
@@ -545,18 +524,18 @@ Chapter Two Atoms, Molecules, and lons
 FIGURE 2.21
 The periodic table.
 
-| \hline Current Name | Original Name | Symbol |
+| Current Name | Original Name | Symbol |
 | --- | --- | --- |
-| \hline Antimony | Stibium | Sb |
-| \hline Copper | Cuprum | Cu |
-| \hline Iron | Ferrum | Fe |
-| \hline Lead | Plumbum | Pb |
-| \hline Mercury | Hydrargyrum | Hg |
-| \hline Potassium | Kalium | K |
-| \hline Silver | Argentum | Ag |
-| \hline Sodium | Natrium | Na |
-| \hline Tin | Stannum | Sn |
-| \hline Tungsten | Wolfram | W |
+| Antimony | Stibium | Sb |
+| Copper | Cuprum | Cu |
+| Iron | Ferrum | Fe |
+| Lead | Plumbum | Pb |
+| Mercury | Hydrargyrum | Hg |
+| Potassium | Kalium | K |
+| Silver | Argentum | Ag |
+| Sodium | Natrium | Na |
+| Tin | Stannum | Sn |
+| Tungsten | Wolfram | W |
 
 ---
 
@@ -598,19 +577,19 @@ A monatomic cation has the same name as its parent element.
 
 In formulas of ionic compounds, simple ions are represented by the element symbol: Cl means $\mathrm{Cl}^{-}$, Na means $\mathrm{Na}^{+}$, and so on.
 
-| \hline Cation | Name | Anion | Name |
+| Cation | Name | Anion | Name |
 | --- | --- | --- | --- |
-| \hline $\mathrm{H}^{+}$ | Hydrogen | $\mathrm{H}^{-}$ | Hydride |
-| \hline $\mathrm{Li}^{+}$ | Lithium | $\mathrm{F}^{-}$ | Fluoride |
-| \hline $\mathrm{Na}^{+}$ | Sodium | $\mathrm{Cl}^{-}$ | Chloride |
-| \hline $\mathrm{K}^{+}$ | Potassium | $\mathrm{Br}^{-}$ | Bromide |
-| \hline Cs ${ }^{+}$ | Cesium | $\mathrm{I}^{-}$ | Iodide |
-| \hline $\mathrm{Be}^{2+}$ | Beryllium | $\mathrm{O}^{2-}$ | Oxide |
-| \hline $\mathrm{Mg}^{2+}$ | Magnesium | $\mathrm{S}^{2-}$ | Sulfide |
-| \hline $\mathrm{Ca}^{2+}$ | Calcium | $\mathrm{N}^{3-}$ | Nitride |
-| \hline $\mathrm{Ba}^{2+}$ | Barium | $\mathrm{P}^{3-}$ | Phosphide |
-| \hline $\mathrm{Al}^{3+}$ | Aluminum |  |  |
-| \hline $\mathrm{Ag}^{+}$ | Silver |  |  |
+| $\mathrm{H}^{+}$ | Hydrogen | $\mathrm{H}^{-}$ | Hydride |
+| $\mathrm{Li}^{+}$ | Lithium | $\mathrm{F}^{-}$ | Fluoride |
+| $\mathrm{Na}^{+}$ | Sodium | $\mathrm{Cl}^{-}$ | Chloride |
+| $\mathrm{K}^{+}$ | Potassium | $\mathrm{Br}^{-}$ | Bromide |
+| Cs ${ }^{+}$ | Cesium | $\mathrm{I}^{-}$ | Iodide |
+| $\mathrm{Be}^{2+}$ | Beryllium | $\mathrm{O}^{2-}$ | Oxide |
+| $\mathrm{Mg}^{2+}$ | Magnesium | $\mathrm{S}^{2-}$ | Sulfide |
+| $\mathrm{Ca}^{2+}$ | Calcium | $\mathrm{N}^{3-}$ | Nitride |
+| $\mathrm{Ba}^{2+}$ | Barium | $\mathrm{P}^{3-}$ | Phosphide |
+| $\mathrm{Al}^{3+}$ | Aluminum |  |  |
+| $\mathrm{Ag}^{+}$ | Silver |  |  |
 
 
 Binary Ionic Compounds (Type I)
@@ -656,7 +635,7 @@ Visualization: Formation of Ionic Compounds
 
 | Ion | Systematic Name |
 | --- | --- |
-| \hline $\mathrm{Fe}^{3+}$ | Iron(III) |
+| $\mathrm{Fe}^{3+}$ | Iron(III) |
 | $\mathrm{Fe}^{2+}$ | Iron(II) |
 | $\mathrm{Cu}^{2+}$ | Copper(II) |
 | $\mathrm{Cu}^{+}$ | Copper(I) |
@@ -789,11 +768,11 @@ Gallium always forms $3+$ ions, so $3 \mathrm{I}^{-}$ions are required for charg
 Solution
 1.
 
-| \hline Formula | Name | Comments |
+| Formula | Name | Comments |
 | --- | --- | --- |
-| \hline a. $\mathrm{CoBr}_{2}$ | Cobalt(II) bromide | Cobalt is a transition metal; the compound name must have a Roman numeral. The two $\mathrm{Br}^{-}$ions must be balanced by a $\mathrm{Co}^{2+}$ ion. |
-| \hline b. $\mathrm{CaCl}_{2}$ | Calcium chloride | Calcium, an alkaline earth metal, forms only the $\mathrm{Ca}^{2+}$ ion. A Roman numeral is not necessary. |
-| \hline c. $\mathrm{Al}_{2} \mathrm{O}_{3}$ | Aluminum oxide | Aluminum forms only the $\mathrm{Al}^{3+}$ ion. A Roman numeral is not necessary. |
+| a. $\mathrm{CoBr}_{2}$ | Cobalt(II) bromide | Cobalt is a transition metal; the compound name must have a Roman numeral. The two $\mathrm{Br}^{-}$ions must be balanced by a $\mathrm{Co}^{2+}$ ion. |
+| b. $\mathrm{CaCl}_{2}$ | Calcium chloride | Calcium, an alkaline earth metal, forms only the $\mathrm{Ca}^{2+}$ ion. A Roman numeral is not necessary. |
+| c. $\mathrm{Al}_{2} \mathrm{O}_{3}$ | Aluminum oxide | Aluminum forms only the $\mathrm{Al}^{3+}$ ion. A Roman numeral is not necessary. |
 
 2.
 
@@ -803,12 +782,12 @@ The following flowchart is useful when you are naming binary ionic compounds:
 
 The common Type I and Type II ions are summarized in Fig. 2.22. Also shown in Fig. 2.22 are the common monatomic ions.
 
-| \hline | 8A |  |  |  |  |  |  |  |  |  |  |  |
+| | 8A |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline | 2A | \multirow{3}{*}{} | 3A | 4A | 5A | 6A | 7A |  |  |  |  |  |
-| \hline $\mathrm{Li}^{+}$ |  |  |  |  |  |  |  |  | $\mathrm{N}^{3-}$ | $\mathrm{O}^{2^{-}}$ | $\mathrm{F}^{-}$ |  |
-| \hline $\mathrm{Na}^{+}$ | $\mathrm{Mg}^{2+}$ |  |  |  |  |  | $\mathrm{Al}^{3+}$ |  |  | $\mathrm{S}^{2^{-}}$ | $\mathrm{Cl}^{-}$ |  |
-| \hline $\mathrm{K}^{+}$ | $\mathrm{Ca}^{2+}$ | $$\begin{array}{l|l} |  |  |  |  |  |  |  |  |  |  |
+| | 2A | \multirow{3}{*}{} | 3A | 4A | 5A | 6A | 7A |  |  |  |  |  |
+| $\mathrm{Li}^{+}$ |  |  |  |  |  |  |  |  | $\mathrm{N}^{3-}$ | $\mathrm{O}^{2^{-}}$ | $\mathrm{F}^{-}$ |  |
+| $\mathrm{Na}^{+}$ | $\mathrm{Mg}^{2+}$ |  |  |  |  |  | $\mathrm{Al}^{3+}$ |  |  | $\mathrm{S}^{2^{-}}$ | $\mathrm{Cl}^{-}$ |  |
+| $\mathrm{K}^{+}$ | $\mathrm{Ca}^{2+}$ | $$\begin{array}{l|l} |  |  |  |  |  |  |  |  |  |  |
 | \mathrm{Cr}^{2+} | \mathrm{Mn}^{2+} |  |  |  |  |  |  |  |  |  |  |  |
 | \mathrm{Cr}^{3+} | \mathrm{Mn}^{3+} |  |  |  |  |  |  |  |  |  |  |  |
 | \end{array}$$ | $$\begin{array}{l} |  |  |  |  |  |  |  |  |  |  |  |
@@ -821,18 +800,18 @@ The common Type I and Type II ions are summarized in Fig. 2.22. Also shown in Fi
 | \mathrm{Cu}^{+} |  |  |  |  |  |  |  |  |  |  |  |  |
 | \mathrm{Cu}^{2+} |  |  |  |  |  |  |  |  |  |  |  |  |
 | \end{array}$$ | $\mathrm{Zn}^{2+}$ |  |  |  |  | $\mathrm{Br}^{-}$ |  |  |  |  |  |  |
-| \hline $\mathrm{Rb}^{+}$ | $\mathrm{Sr}^{2+}$ |  |  |  | $\mathrm{Ag}^{+}$ | $\mathrm{Cd}^{2+}$ |  | $$\begin{array}{l} |  |  |  |  |
+| $\mathrm{Rb}^{+}$ | $\mathrm{Sr}^{2+}$ |  |  |  | $\mathrm{Ag}^{+}$ | $\mathrm{Cd}^{2+}$ |  | $$\begin{array}{l} |  |  |  |  |
 | \mathrm{Sn}^{2+} |  |  |  |  |  |  |  |  |  |  |  |  |
 | \mathrm{Sn}^{4+} |  |  |  |  |  |  |  |  |  |  |  |  |
 | \end{array}$$ |  |  | $\mathbf{I}^{\boldsymbol{-}}$ |  |  |  |  |  |  |  |  |  |
-| \hline $\mathrm{Cs}^{+}$ | $\mathrm{Ba}^{2+}$ |  |  |  |  | $$\begin{array}{l} |  |  |  |  |  |  |
+| $\mathrm{Cs}^{+}$ | $\mathrm{Ba}^{2+}$ |  |  |  |  | $$\begin{array}{l} |  |  |  |  |  |  |
 | \mathrm{Hg}_{2}^{2+} |  |  |  |  |  |  |  |  |  |  |  |  |
 | \mathrm{Hg}^{2+} |  |  |  |  |  |  |  |  |  |  |  |  |
 | \end{array}$$ |  | $$\begin{array}{l} |  |  |  |  |  |  |  |  |  |  |
 | \mathrm{Pb}^{2+} |  |  |  |  |  |  |  |  |  |  |  |  |
 | \mathrm{Pb}^{4+} |  |  |  |  |  |  |  |  |  |  |  |  |
 | \end{array}$$ |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline |  |  |  |  |  |  |  |  |  |  |  |  |
+| |  |  |  |  |  |  |  |  |  |  |  |  |
 
 □ Common Type I cations □ Common Type II cations □ Common monatomic anions
 
@@ -843,23 +822,23 @@ Chapter Two Atoms, Molecules, and lons
 
 Polyatomic ion formulas must be memorized.
 
-| \hline Ion | Name | Ion | Name |
+| Ion | Name | Ion | Name |
 | --- | --- | --- | --- |
-| \hline $\mathrm{Hg}_{2}{ }^{2+}$ | Mercury(I) | $\mathrm{NCS}^{-}$ | Thiocyanate |
-| \hline $\mathrm{NH}_{4}{ }^{+}$ | Ammonium | $\mathrm{CO}_{3}{ }^{2-}$ | Carbonate |
-| \hline $\mathrm{NO}_{2}{ }^{-}$ | Nitrite | $\mathrm{HCO}_{3}{ }^{-}$ | Hydrogen carbonate |
-| \hline $\mathrm{NO}_{3}{ }^{-}$ | Nitrate |  | (bicarbonate is a widely |
-| \hline $\mathrm{SO}_{3}{ }^{2-}$ | Sulfite |  | used common name) |
-| \hline $\mathrm{SO}_{4}{ }^{2-}$ | Sulfate | $\mathrm{ClO}^{-}$ | Hypochlorite |
-| \hline $\mathrm{HSO}_{4}{ }^{-}$ | Hydrogen sulfate | $\mathrm{ClO}_{2}{ }^{-}$ | Chlorite |
-| \hline | (bisulfate is a widely | $\mathrm{ClO}_{3}{ }^{-}$ | Chlorate |
-| \hline | used common name) | $\mathrm{ClO}_{4}{ }^{-}$ | Perchlorate |
-| \hline $\mathrm{OH}^{-}$ | Hydroxide | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}$ | Acetate |
-| \hline $\mathrm{CN}^{-}$ | Cyanide | $\mathrm{MnO}_{4}{ }^{-}$ | Permanganate |
-| \hline $\mathrm{PO}_{4}{ }^{3-}$ | Phosphate | $\mathrm{Cr}_{2} \mathrm{O}_{7}{ }^{2-}$ | Dichromate |
-| \hline $\mathrm{HPO}_{4}{ }^{2-}$ | Hydrogen phosphate | $\mathrm{CrO}_{4}{ }^{2-}$ | Chromate |
-| \hline $\mathrm{H}_{2} \mathrm{PO}_{4}{ }^{-}$ | Dihydrogen phosphate | $\mathrm{O}_{2}{ }^{2-}$ | Peroxide |
-| \hline |  | $\mathrm{C}_{2} \mathrm{O}_{4}{ }^{2-}$ | Oxalate |
+| $\mathrm{Hg}_{2}{ }^{2+}$ | Mercury(I) | $\mathrm{NCS}^{-}$ | Thiocyanate |
+| $\mathrm{NH}_{4}{ }^{+}$ | Ammonium | $\mathrm{CO}_{3}{ }^{2-}$ | Carbonate |
+| $\mathrm{NO}_{2}{ }^{-}$ | Nitrite | $\mathrm{HCO}_{3}{ }^{-}$ | Hydrogen carbonate |
+| $\mathrm{NO}_{3}{ }^{-}$ | Nitrate |  | (bicarbonate is a widely |
+| $\mathrm{SO}_{3}{ }^{2-}$ | Sulfite |  | used common name) |
+| $\mathrm{SO}_{4}{ }^{2-}$ | Sulfate | $\mathrm{ClO}^{-}$ | Hypochlorite |
+| $\mathrm{HSO}_{4}{ }^{-}$ | Hydrogen sulfate | $\mathrm{ClO}_{2}{ }^{-}$ | Chlorite |
+| | (bisulfate is a widely | $\mathrm{ClO}_{3}{ }^{-}$ | Chlorate |
+| | used common name) | $\mathrm{ClO}_{4}{ }^{-}$ | Perchlorate |
+| $\mathrm{OH}^{-}$ | Hydroxide | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}$ | Acetate |
+| $\mathrm{CN}^{-}$ | Cyanide | $\mathrm{MnO}_{4}{ }^{-}$ | Permanganate |
+| $\mathrm{PO}_{4}{ }^{3-}$ | Phosphate | $\mathrm{Cr}_{2} \mathrm{O}_{7}{ }^{2-}$ | Dichromate |
+| $\mathrm{HPO}_{4}{ }^{2-}$ | Hydrogen phosphate | $\mathrm{CrO}_{4}{ }^{2-}$ | Chromate |
+| $\mathrm{H}_{2} \mathrm{PO}_{4}{ }^{-}$ | Dihydrogen phosphate | $\mathrm{O}_{2}{ }^{2-}$ | Peroxide |
+| |  | $\mathrm{C}_{2} \mathrm{O}_{4}{ }^{2-}$ | Oxalate |
 
 
 Ionic Compounds with Polyatomic Ions
@@ -939,19 +918,19 @@ In the naming of binary covalent compounds, the following rules apply:
 64
 Chapter Two Atoms, Molecules, and lons
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | TABLE 2.6 |  | |
 | | Indicate Number in Chemical |  | |
 | | Names |  | |
-| | \end{tabular} |
+| |  |
  | | | Prefixes Used to |  | |
 | --- |
 | | Prefix |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline mono- | Number Indicated |
-| \hline di- | 1 |
+| mono- | Number Indicated |
+| di- | 1 |
 | tri- | 2 |
 | tetra- | 3 |
 | penta- | 4 |
@@ -1067,12 +1046,12 @@ Type I binary compound containing the $\mathrm{Li}^{+}$ and $\mathrm{O}_{2}{ }^{
 Not a binary compound. Contains the $\mathrm{Ti}^{4+}$ and $\mathrm{NO}_{3}{ }^{-}$ions. Titanium is a transition metal and requires a Roman numeral.
 2.
 
-| \hline Name | Chemical Formula | Comment |
+| Name | Chemical Formula | Comment |
 | --- | --- | --- |
-| \hline a. Vanadium(V) fluoride | $\mathrm{VF}_{5}$ | The compound contains $\mathrm{V}^{5+}$ ions and requires five $\mathrm{F}^{-}$ions for charge balance. |
-| \hline b. Dioxygen difluoride | $\mathrm{O}_{2} \mathrm{~F}_{2}$ | The prefix di-indicates two of each atom. |
-| \hline c. Rubidium peroxide | $\mathrm{Rb}_{2} \mathrm{O}_{2}$ | Because rubidium is in Group 1A, it forms only $1+$ ions. Thus two $\mathrm{Rb}^{+}$ ions are needed to balance the $2-$ charge on the peroxide ion ( $\mathrm{O}_{2}{ }^{2-}$ ). |
-| \hline d. Gallium oxide | $\mathrm{Ga}_{2} \mathrm{O}_{3}$ | Because gallium is in Group 3A, like aluminum, it forms only $3+$ ions. Two $\mathrm{Ga}^{3+}$ ions are required to balance the charge on three $\mathrm{O}^{2}-$ ions. |
+| a. Vanadium(V) fluoride | $\mathrm{VF}_{5}$ | The compound contains $\mathrm{V}^{5+}$ ions and requires five $\mathrm{F}^{-}$ions for charge balance. |
+| b. Dioxygen difluoride | $\mathrm{O}_{2} \mathrm{~F}_{2}$ | The prefix di-indicates two of each atom. |
+| c. Rubidium peroxide | $\mathrm{Rb}_{2} \mathrm{O}_{2}$ | Because rubidium is in Group 1A, it forms only $1+$ ions. Thus two $\mathrm{Rb}^{+}$ ions are needed to balance the $2-$ charge on the peroxide ion ( $\mathrm{O}_{2}{ }^{2-}$ ). |
+| d. Gallium oxide | $\mathrm{Ga}_{2} \mathrm{O}_{3}$ | Because gallium is in Group 3A, like aluminum, it forms only $3+$ ions. Two $\mathrm{Ga}^{3+}$ ions are required to balance the charge on three $\mathrm{O}^{2}-$ ions. |
 
 
 Acids
@@ -1089,18 +1068,18 @@ When the anion contains oxygen, the acidic name is formed from the root name of 
 For Review
 67
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | TABLE 2.7 |  | |
 | | That Do Not Contain Oxygen |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline Acid | | | Names of Acids* |  | |
+| Acid | | | Names of Acids* |  | |
 | --- |
 | | Name |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline HF | Hydrofluoric acid |
+| HF | Hydrofluoric acid |
 | HCl | Hydrochloric acid |
 | HBr | Hydrobromic acid |
 | HI | Hydroiodic acid |
@@ -1111,7 +1090,7 @@ For Review
 
 | Acid |  Name  |
 | --- | --- |
-| \hline $\mathrm{HNO}_{3}$ | Nitric acid |
+| $\mathrm{HNO}_{3}$ | Nitric acid |
 | $\mathrm{HNO}_{2}$ | Nitrous acid |
 | $\mathrm{H}_{2} \mathrm{SO}_{4}$ | Sulfuric acid |
 | $\mathrm{H}_{2} \mathrm{SO}_{3}$ | Sulfurous acid |
@@ -1274,7 +1253,7 @@ d. Cannot be determined without knowing the identity of the chemical.
 
 | Elements in Compound | Masses of Elements |
 | --- | --- |
-| \hline$X$ and $Y$ | $X=0.4 \mathrm{~g}, Y=4.2 \mathrm{~g}$ |
+| $X$ and $Y$ | $X=0.4 \mathrm{~g}, Y=4.2 \mathrm{~g}$ |
 | $Y$ and $Z$ | $Y=1.4 \mathrm{~g}, Z=1.0 \mathrm{~g}$ |
 | $X$ and $Y$ | $X=2.0 \mathrm{~g}, Y=7.0 \mathrm{~g}$ |
 
@@ -1342,11 +1321,11 @@ b. When a volume of $\mathrm{H}_{2}$ reacts with an equal volume of $\mathrm{Cl}
 28. Consider 100.0-g samples of two different compounds consisting only of carbon and oxygen. One compound contains 27.2 g of carbon and the other has 42.9 g of carbon. How can these data support the law of multiple proportions if 42.9 is not a multiple of 27.2? Show that these data support the law of multiple proportions.
 29. Early tables of atomic weights (masses) were generated by measuring the mass of a substance that reacts with 1.00 g of oxygen. Given the following data and taking the atomic mass of hydrogen as 1.00 , generate a table of relative atomic masses for oxygen, sodium, and magnesium.
 
-| \hline Element | Mass That Combines with $\mathbf{1 . 0 0 ~ g}$ Oxygen | Assumed Formula |
+| Element | Mass That Combines with $\mathbf{1 . 0 0 ~ g}$ Oxygen | Assumed Formula |
 | --- | --- | --- |
-| \hline Hydrogen | 0.126 g | HO |
-| \hline Sodium | 2.875 g | NaO |
-| \hline Magnesium | 1.500 g | MgO |
+| Hydrogen | 0.126 g | HO |
+| Sodium | 2.875 g | NaO |
+| Magnesium | 1.500 g | MgO |
 
 
 How do your values compare with those in the periodic table? How do you account for any differences?
@@ -1426,24 +1405,24 @@ f. number of protons $=29$, mass number 65
 48. What is the symbol of an ion with 16 protons, 18 neutrons, and 18 electrons? What is the symbol for an ion that has 16 protons, 16 neutrons, and 18 electrons?
 49. Complete the following table:
 
-| \hline Symbol | Number of Protons in Nucleus | Number of Neutrons in Nucleus | Number of Electrons | Net Charge |
+| Symbol | Number of Protons in Nucleus | Number of Neutrons in Nucleus | Number of Electrons | Net Charge |
 | --- | --- | --- | --- | --- |
-| \hline ${ _{92}^{238} \mathrm{U}$} |  |  |  |  |
-| \hline | 20 | 20 |  | 2+ |
-| \hline | 23 | 28 | 20 |  |
-| \hline ${ _{39}^{89} \mathrm{Y}$} |  |  |  |  |
-| \hline | 35 | 44 | 36 |  |
-| \hline | 15 | 16 |  | 3- |
+| ${ _{92}^{238} \mathrm{U}$} |  |  |  |  |
+| | 20 | 20 |  | 2+ |
+| | 23 | 28 | 20 |  |
+| ${ _{39}^{89} \mathrm{Y}$} |  |  |  |  |
+| | 35 | 44 | 36 |  |
+| | 15 | 16 |  | 3- |
 
 50.
 
-| \hline Symbol | Number of Protons in Nucleus | Number of Neutrons in Nucleus | Number of Electrons | Net Charge |
+| Symbol | Number of Protons in Nucleus | Number of Neutrons in Nucleus | Number of Electrons | Net Charge |
 | --- | --- | --- | --- | --- |
-| \hline ${ _{26}^{53} \mathrm{Fe}^{2+}$} |  |  |  |  |
-| \hline | 26 | 33 |  | 3+ |
-| \hline | 85 | 125 | 86 |  |
-| \hline | 13 | 14 | 10 |  |
-| \hline |  | 76 | 54 | 2- |
+| ${ _{26}^{53} \mathrm{Fe}^{2+}$} |  |  |  |  |
+| | 26 | 33 |  | 3+ |
+| | 85 | 125 | 86 |  |
+| | 13 | 14 | 10 |  |
+| |  | 76 | 54 | 2- |
 
 51. For each of the following sets of elements, label each as either noble gases, halogens, alkali metals, alkaline earth metals, or transition metals.
 a. $\mathrm{Ti}, \mathrm{Fe}, \mathrm{Ag}$
@@ -1733,3 +1712,15 @@ This problem is designed to incorporate several concepts and techniques into one
 0.172 g gas B reacts with 0.401 g gas C
 0.320 g gas A reacts with 0.374 g gas C
 a. Assuming simplest formulas ( $\mathrm{AB}, \mathrm{BC}$, and AC ), construct a table of relative masses for Dalton.
+
+---
+
+Marathon Problem
+75
+b. Knowing some history of chemistry, you tell Dalton that if he determines the volumes of the gases reacted at constant temperature and pressure, he need not assume simplest formulas. You collect the following data:
+
+6 volumes gas $\mathrm{A}+1$ volume gas $\mathrm{B} \rightarrow 4$ volumes product 1 volume gas $\mathrm{B}+4$ volumes gas $\mathrm{C} \rightarrow 4$ volumes product 3 volumes gas $\mathrm{A}+2$ volumes gas $\mathrm{C} \rightarrow 6$ volumes product
+
+Write the simplest balanced equations, and find the actual relative masses of the elements. Explain your reasoning.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

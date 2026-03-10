@@ -1,57 +1,5 @@
 # Chapter 20: The Representative Elements: Groups 5A Through 8A
 
-Marathon Problem
-899
-
-Calculate $\left[\mathrm{Pb}^{2+}\right]$ at equilibrium in a solution originally $0.0010 M$ in $\mathrm{Pb}^{2+}, 0.050 ~ M$ in $\mathrm{H}_{2} \mathrm{EDTA}^{2-}$, and buffered at $\mathrm{pH}=6.00$.
-74. The compounds $\mathrm{CCl}_{4}$ and $\mathrm{H}_{2} \mathrm{O}$ do not react with each other. On the other hand, silicon tetrachloride reacts with water according to the equation
-$$\mathrm{SiCl}_{4}(l)+2 \mathrm{H}_{2} \mathrm{O}(l) \longrightarrow \mathrm{SiO}_{2}(s)+4 \mathrm{HCl}(a q)$$
-
-Discuss the importance of thermodynamics and kinetics in the reactivity of water with $\mathrm{SiCl}_{4}$ as compared with its lack of reactivity with $\mathrm{CCl}_{4}$.
-75. One reason suggested to account for the instability of long chains of silicon atoms is that the decomposition involves the transition state shown below:
-
-The activation energy for such a process is $210 \mathrm{~kJ} / \mathrm{mol}$, which is less than either the $\mathrm{Si}-\mathrm{Si}$ or $\mathrm{Si}-\mathrm{H}$ energy. Why would a similar mechanism not be expected to be very important in the decomposition of long carbon chains?
-76. From the information on the temperature stability of white and gray tin given in this chapter, which form would you expect to have the more ordered structure?
-77. Lead forms compounds in the +2 and +4 oxidation states. All lead(II) halides are known (and are known to be ionic). Only $\mathrm{PbF}_{4}$ and $\mathrm{PbCl}_{4}$ are known among the possible lead(IV) halides. Presumably lead(IV) oxidizes bromide and iodide ions, producing the lead(II) halide and the free halogen:
-$$\mathrm{PbX}_{4} \longrightarrow \mathrm{PbX}_{2}+\mathrm{X}_{2}$$
-
-Suppose 25.00 g of a lead(IV) halide reacts to form 16.12 g of a lead(II) halide and the free halogen. Identify the halogen.
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-78. The heaviest member of the alkaline earth metals is radium (Ra), a naturally radioactive element discovered by Pierre and Marie Curie in 1898. Radium was initially isolated from the uranium ore pitchblende, in which it is present as approximately 1.0 g per 7.0 metric tons of pitchblende. How many atoms of radium can be isolated from $1.75 \times 10^{8} \mathrm{~g}$ of pitchblende ( 1 metric ton $=$ 1000 kg )? One of the early uses of radium was as an additive to paint so that watch dials coated with this paint would glow in the dark. The longest-lived isotope of radium has a half-life of $1.60 \times 10^{3}$ years. If an antique watch, manufactured in 1925, contains 15.0 mg of radium, how many atoms of radium will remain in 2025 ?
-79. Indium(III) phosphide is a semiconducting material that has been frequently used in lasers, light-emitting diodes (LED) and
-fiber-optic devices. This material can be synthesized at $900 . \mathrm{K}$ according to the following reaction:
-$$\mathrm{In}\left(\mathrm{CH}_{3}\right)_{3}(\mathrm{~g})+\mathrm{PH}_{3}(\mathrm{~g}) \longrightarrow \mathrm{InP}(\mathrm{~s})+3 \mathrm{CH}_{4}(\mathrm{~g})$$
-a. If 2.56 L of $\mathrm{In}\left(\mathrm{CH}_{3}\right)_{3}$ at 2.00 atm is allowed to react with 1.38 L of $\mathrm{PH}_{3}$ at 3.00 atm , what mass of $\operatorname{InP}(s)$ will be produced assuming the reaction is $87 \%$ efficient?
-b. When an electric current is passed through an optoelectronic device containing InP, the light emitted has an energy of $2.03 \times 10^{-19} \mathrm{~J}$. What is the wavelength of this light and is it visible to the human eye?
-c. The semiconducting properties of InP can be altered by doping. If a small number of phosphorus atoms are replaced by atoms with an electron configuration of $[\mathrm{Kr}] 5 s^{2} 4 d^{10} 5 p^{4}$, is this n-type or p-type doping?
-80. The chemistry of tin(II) fluoride is particularly complex and demonstrates a wide range of reactivities. For example, in aqueous solutions of tin(II) fluoride containing sodium fluoride, the predominant species is $\mathrm{SnF}_{3}{ }^{-}$.
-a. What is the molecular geometry of $\mathrm{SnF}_{3}{ }^{-}$and the hybridization of the tin atom?
-b. When tin(II) fluoride is crystallized from aqueous solutions containing sodium fluoride, one of the products is the polyatomic cluster $\mathrm{Na}_{4} \mathrm{Sn}_{3} \mathrm{~F}_{10}$. Write a balanced chemical reaction for the formation of $\mathrm{Na}_{4} \mathrm{Sn}_{3} \mathrm{~F}_{10}$ from tin(II) fluoride and NaF .
-c. Assuming complete conversion, what mass of $\mathrm{Na}_{4} \mathrm{Sn}_{3} \mathrm{~F}_{10}$ can be prepared by mixing 15.5 mL of $1.48 M$ tin(II) fluoride with 35.0 mL of $1.25 M \mathrm{NaF}$ ?
-
-Marathon Problem
-This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-81. Use the symbols of the elements described in the following clues to fill in the blanks that spell out the name of a famous American scientist. Although this scientist was better known as a physicist than as a chemist, the Philadelphia institute that bears his name does include a biochemistry research facility.
-(1) (2)
-(3)
-(4)
-(5)
-(6)
-(7)
-(1) The oxide of this alkaline earth metal is amphoteric.
-(2) You might be surprised to learn that a binary compound of sodium with this element has the formula $\mathrm{NaX}_{3}$, a compound used in airbags.
-(3) This alkali metal is radioactive.
-(4) This element is the alkali metal with the least negative standard reduction potential. Write its symbol in reverse order.
-(5) Potash is an oxide of this alkali metal.
-(6) This is the only alkali metal that reacts directly with nitrogen to make a binary compound with formula $\mathrm{M}_{3} \mathrm{~N}$.
-(7) This element is the first in Group 3A for which the +1 oxidation state is exhibited in stable compounds. Use only the second letter of its symbol.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 20
 The Representative Elements: Groups 5A Through 8A
 
@@ -88,12 +36,12 @@ As we proceed from Group 1A to Group 7A, the elements change from active metals 
 In this chapter we give an overview of the elements in Groups 5A through 8A, concentrating on the chemistry of the most important elements in these groups: nitrogen, phosphorus, oxygen, sulfur, and the halogens.
 5A
 
-| \hline N |
+| N |
 | --- |
-| \hline P |
-| \hline As |
-| \hline Sb |
-| \hline Bi |
+| P |
+| As |
+| Sb |
+| Bi |
 
 20.1 The Group 5A Elements
 
@@ -106,15 +54,15 @@ The Group 5A elements (with the valence-electron configuration $n s^{2} n p^{3}$
 902
 Chapter Twenty The Representative Elements: Groups 5A Through 8A
 
-| \hline Element | Electronegativity | Sources | Method of Preparation |
+| Element | Electronegativity | Sources | Method of Preparation |
 | --- | --- | --- | --- |
-| \hline Nitrogen | 3.0 | Air | Liquefaction of air |
-| \hline Phosphorus | 2.1 | Phosphate rock $\left(\mathrm{Ca}_{3}\left(\mathrm{PO}_{4}\right)_{2}\right)$ | $2 \mathrm{Ca}_{3}\left(\mathrm{PO}_{4}\right)_{2}+6 \mathrm{SiO}_{2} \rightarrow$ |
+| Nitrogen | 3.0 | Air | Liquefaction of air |
+| Phosphorus | 2.1 | Phosphate rock $\left(\mathrm{Ca}_{3}\left(\mathrm{PO}_{4}\right)_{2}\right)$ | $2 \mathrm{Ca}_{3}\left(\mathrm{PO}_{4}\right)_{2}+6 \mathrm{SiO}_{2} \rightarrow$ |
 | $$6 \mathrm{CaSiO}_{3}+\mathrm{P}_{4} \mathrm{O}_{10}$$ |  |  |  |
-| \hline |  | Fluorapatite $\left(\mathrm{Ca}_{5}\left(\mathrm{PO}_{4}\right)_{3} \mathrm{~F}\right)$ | $$\mathrm{P}_{4} \mathrm{O}_{10}+10 \mathrm{C} \rightarrow$$ |
-| \hline Arsenic | 2.0 | Arsenopyrite ( $\mathrm{Fe}_{3} \mathrm{As}_{2}, \mathrm{FeS}$ ) | Heating arsenopyrite in the absence of air |
-| \hline Antimony | 1.9 | Stibnite $\left(\mathrm{Sb}_{2} \mathrm{~S}_{3}\right)$ | Roasting $\mathrm{Sb}_{2} \mathrm{~S}_{3}$ in air to form $\mathrm{Sb}_{2} \mathrm{O}_{3}$ and then reduction with carbon |
-| \hline Bismuth | 1.9 | Bismite ( $\mathrm{Bi}_{2} \mathrm{O}_{3}$ ), bismuth glance ( $\mathrm{Bi}_{2} \mathrm{~S}_{3}$ ) | Roasting $\mathrm{Bi}_{2} \mathrm{~S}_{3}$ in air to form $\mathrm{Bi}_{2} \mathrm{O}_{3}$ and then reduction with carbon |
+| |  | Fluorapatite $\left(\mathrm{Ca}_{5}\left(\mathrm{PO}_{4}\right)_{3} \mathrm{~F}\right)$ | $$\mathrm{P}_{4} \mathrm{O}_{10}+10 \mathrm{C} \rightarrow$$ |
+| Arsenic | 2.0 | Arsenopyrite ( $\mathrm{Fe}_{3} \mathrm{As}_{2}, \mathrm{FeS}$ ) | Heating arsenopyrite in the absence of air |
+| Antimony | 1.9 | Stibnite $\left(\mathrm{Sb}_{2} \mathrm{~S}_{3}\right)$ | Roasting $\mathrm{Sb}_{2} \mathrm{~S}_{3}$ in air to form $\mathrm{Sb}_{2} \mathrm{O}_{3}$ and then reduction with carbon |
+| Bismuth | 1.9 | Bismite ( $\mathrm{Bi}_{2} \mathrm{O}_{3}$ ), bismuth glance ( $\mathrm{Bi}_{2} \mathrm{~S}_{3}$ ) | Roasting $\mathrm{Bi}_{2} \mathrm{~S}_{3}$ in air to form $\mathrm{Bi}_{2} \mathrm{O}_{3}$ and then reduction with carbon |
 
 
 Bismuth and antimony tend to be metallic, readily losing electrons to form cations. Although these elements have five valence electrons, so much energy is required to remove all five that no ionic compounds containing $\mathrm{Bi}^{5+}$ or $\mathrm{Sb}^{5+}$ ions are known. Three pentahalides ( $\mathrm{BiF}_{5}, \mathrm{SbCl}_{5}$, and $\mathrm{SbF}_{5}$ ) are known, but these are molecular rather than ionic compounds.
@@ -293,14 +241,14 @@ $$\Delta H=\left(21.1 \times 10^{3} \mathrm{~kJ}\right)-\left(26.1 \times 10^{3}
 
 The reaction is highly exothermic.
 
-| \hline Bonds Broken | Energy Required (kJ/mol) | Bonds Formed | Energy Released (kJ/mol) |
+| Bonds Broken | Energy Required (kJ/mol) | Bonds Formed | Energy Released (kJ/mol) |
 | --- | --- | --- | --- |
-| \hline $5 \times 4=20 \mathrm{~N}=\mathrm{O}$ | $20 \times 440=8.8 \times 10^{3}$ | $12 \times 2=24 \mathrm{O}-\mathrm{H}$ | $24 \times 467=1.12 \times 10^{4}$ |
-| \hline $5+4=9 \mathrm{~N}-\mathrm{N}$ | $9 \times 160=1.4 \times 10^{3}$ | $9 \mathrm{~N} \equiv \mathrm{~N}$ | $9 \times 941=8.5 \times 10^{3}$ |
-| \hline $4 \times 3=12 \mathrm{~N}-\mathrm{H}$ | $12 \times 391=4.7 \times 10^{3}$ | $4 \times 2=8 \mathrm{C}=\mathrm{O}$ | $8 \times 799=6.4 \times 10^{3}$ |
-| \hline $4 \times 3=12 \mathrm{C}-\mathrm{H}$ | $12 \times 413=5.0 \times 10^{3}$ |  |  |
-| \hline $4 \times 1=4 \mathrm{C}-\mathrm{N}$ | $4 \times 305=1.2 \times 10^{3}$ |  |  |
-| \hline | Total |  | Total |
+| $5 \times 4=20 \mathrm{~N}=\mathrm{O}$ | $20 \times 440=8.8 \times 10^{3}$ | $12 \times 2=24 \mathrm{O}-\mathrm{H}$ | $24 \times 467=1.12 \times 10^{4}$ |
+| $5+4=9 \mathrm{~N}-\mathrm{N}$ | $9 \times 160=1.4 \times 10^{3}$ | $9 \mathrm{~N} \equiv \mathrm{~N}$ | $9 \times 941=8.5 \times 10^{3}$ |
+| $4 \times 3=12 \mathrm{~N}-\mathrm{H}$ | $12 \times 391=4.7 \times 10^{3}$ | $4 \times 2=8 \mathrm{C}=\mathrm{O}$ | $8 \times 799=6.4 \times 10^{3}$ |
+| $4 \times 3=12 \mathrm{C}-\mathrm{H}$ | $12 \times 413=5.0 \times 10^{3}$ |  |  |
+| $4 \times 1=4 \mathrm{C}-\mathrm{N}$ | $4 \times 305=1.2 \times 10^{3}$ |  |  |
+| | Total |  | Total |
 
 
 See Exercise 20.19.
@@ -325,18 +273,18 @@ Nitrogen forms a series of oxides in which it has an oxidation state from +1 to 
 
 Dinitrogen monoxide $\left(\mathrm{N}_{2} \mathrm{O}\right)$, more commonly called nitrous oxide or "laughing gas," has an inebriating effect and has been used as a mild anesthetic by dentists. Because of its high solubility in fats, nitrous oxide is used widely as a propellant in aerosol cans of whipped cream. It is dissolved in the liquid in the can at high pressure and forms bubbles that produce foaming as the liquid is released from the can. A significant amount of $\mathrm{N}_{2} \mathrm{O}$ exists in the atmosphere, mostly produced by soil microorganisms, and its concentration
 
-| \hline TABLE 20.2 Some Common Nitrogen Compounds |  |  |  |
+| TABLE 20.2 Some Common Nitrogen Compounds |  |  |  |
 | --- | --- | --- | --- |
-| \hline Oxidation State of Nitrogen | Compound | Formula | Lewis Structure* |
-| \hline -3 | Ammonia | $\mathrm{NH}_{3}$ |  |
-| \hline -2 | Hydrazine | $\mathrm{N}_{2} \mathrm{H}_{4}$ |  |
-| \hline -1 | Hydroxylamine | $\mathrm{NH}_{2} \mathrm{OH}$ |  |
-| \hline 0 | Nitrogen | $\mathrm{N}_{2}$ | : $\mathrm{N}=\mathrm{N}$ : |
-| \hline +1 | Dinitrogen monoxide (nitrous oxide) | $\mathrm{N}_{2} \mathrm{O}$ |  |
-| \hline +2 | Nitrogen monoxide (nitric oxide) | NO |  |
-| \hline +3 | Dinitrogen trioxide | $\mathrm{N}_{2} \mathrm{O}_{3}$ |  |
-| \hline +4 | Nitrogen dioxide | $\mathrm{NO}_{2}$ |  |
-| \hline +5 | Nitric acid | $\mathrm{HNO}_{3}$ |  |
+| Oxidation State of Nitrogen | Compound | Formula | Lewis Structure* |
+| -3 | Ammonia | $\mathrm{NH}_{3}$ |  |
+| -2 | Hydrazine | $\mathrm{N}_{2} \mathrm{H}_{4}$ |  |
+| -1 | Hydroxylamine | $\mathrm{NH}_{2} \mathrm{OH}$ |  |
+| 0 | Nitrogen | $\mathrm{N}_{2}$ | : $\mathrm{N}=\mathrm{N}$ : |
+| +1 | Dinitrogen monoxide (nitrous oxide) | $\mathrm{N}_{2} \mathrm{O}$ |  |
+| +2 | Nitrogen monoxide (nitric oxide) | NO |  |
+| +3 | Dinitrogen trioxide | $\mathrm{N}_{2} \mathrm{O}_{3}$ |  |
+| +4 | Nitrogen dioxide | $\mathrm{NO}_{2}$ |  |
+| +5 | Nitric acid | $\mathrm{HNO}_{3}$ |  |
 
 *In some cases, additional resonance structures are needed to fully describe the electron distribution.
 
@@ -610,13 +558,13 @@ In recent years there has been a growing interest in the chemistry of selenium, 
 
 Polonium was discovered in 1898 by Marie and Pierre Curie in their search for the sources of radioactivity in pitchblende. Polonium has 27 isotopes and is highly toxic and very radioactive. It has been suggested that the isotope ${ }^{210} \mathrm{Po}$, a natural contaminant of tobacco and an $\alpha$-particle emitter (see Section 18.1), might be at least partly responsible for the incidence of cancer in smokers.
 
-| \hline Element | Electronegativity | Radius of $\mathbf{X}^{\mathbf{2 -}}$ (pm) | Source | Method of Preparation |
+| Element | Electronegativity | Radius of $\mathbf{X}^{\mathbf{2 -}}$ (pm) | Source | Method of Preparation |
 | --- | --- | --- | --- | --- |
-| \hline Oxygen | 3.5 | 140 | Air | Distillation from liquid air |
-| \hline Sulfur | 2.5 | 184 | Sulfur deposits | Melted with hot water and pumped to the surface |
-| \hline Selenium | 2.4 | 198 | Impurity in sulfide ores | Reduction of $\mathrm{H}_{2} \mathrm{SeO}_{4}$ with $\mathrm{SO}_{2}$ |
-| \hline Tellurium | 2.1 | 221 | Nagyagite (mixed sulfide and telluride) | Reduction of ore with $\mathrm{SO}_{2}$ |
-| \hline Polonium | 2.0 | 230 | Pitchblende |  |
+| Oxygen | 3.5 | 140 | Air | Distillation from liquid air |
+| Sulfur | 2.5 | 184 | Sulfur deposits | Melted with hot water and pumped to the surface |
+| Selenium | 2.4 | 198 | Impurity in sulfide ores | Reduction of $\mathrm{H}_{2} \mathrm{SeO}_{4}$ with $\mathrm{SO}_{2}$ |
+| Tellurium | 2.1 | 221 | Nagyagite (mixed sulfide and telluride) | Reduction of ore with $\mathrm{SO}_{2}$ |
+| Polonium | 2.0 | 230 | Pitchblende |  |
 
 ---
 
@@ -759,11 +707,11 @@ The preparation of sulfur trioxide provides an example of the compromise that of
 The prefix thio means "sulfur."
 | 7 A |
 | --- |
-| \hline F |
-| \hline Cl |
-| \hline Br |
-| \hline I |
-| \hline At |
+| F |
+| Cl |
+| Br |
+| I |
+| At |
 
 
 FIGURE 20.22
@@ -772,8 +720,8 @@ The structures of (a) $\mathrm{SF}_{4}$, (b) $\mathrm{SF}_{6}$, (c) $\mathrm{S}_
 | Oxidation |  |
 | --- | --- |
 | State of Sulfur |  |
-| \end{tabular} | Compounds |
-| \hline+6 | $\mathrm{SO}_{3}, \mathrm{H}_{2} \mathrm{SO}_{4}, \mathrm{SO}_{4}{ }^{2-}, \mathrm{SF}_{6}$ |
+|  | Compounds |
+| +6 | $\mathrm{SO}_{3}, \mathrm{H}_{2} \mathrm{SO}_{4}, \mathrm{SO}_{4}{ }^{2-}, \mathrm{SF}_{6}$ |
 | +4 | $\mathrm{SO}_{2}, \mathrm{HSO}_{3}{ }^{-}, \mathrm{SO}_{3}{ }^{2-}, \mathrm{SF}_{4}$ |
 | +2 | $\mathrm{SCl}_{2}$ |
 | 0 | $\mathrm{~S}_{8}$ and all other forms of |
@@ -811,14 +759,14 @@ In our coverage of the representative elements, we have progressed from groups o
 
 Chlorine, bromine, and iodine.
 
-| \hline TABLE 20.6 Trends in Selected Physical Properties of the Group 7A Elements |  |  |  |  |
+| TABLE 20.6 Trends in Selected Physical Properties of the Group 7A Elements |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| \hline Element | Electronegativity | Radius of $\mathbf{X}^{-}$(pm) | $\mathscr{E}^{\circ}(\mathrm{V})$ for $\mathbf{X}_{\mathbf{2}} \boldsymbol{+} \mathbf{2 e} \boldsymbol{\rightarrow} \mathbf{2 X}^{\boldsymbol{-}}$ | Bond Energy of $\mathbf{X}_{\mathbf{2}} \boldsymbol{(} \mathbf{k J} \boldsymbol{/} \mathbf{m o l} \boldsymbol{)}$ |
-| \hline Fluorine | 4.0 | 136 | 2.87 | 154 |
-| \hline Chlorine | 3.0 | 181 | 1.36 | 239 |
-| \hline Bromine | 2.8 | 185 | 1.09 | 193 |
-| \hline Iodine | 2.5 | 216 | 0.54 | 149 |
-| \hline Astatine | 2.2 | - | - | - |
+| Element | Electronegativity | Radius of $\mathbf{X}^{-}$(pm) | $\mathscr{E}^{\circ}(\mathrm{V})$ for $\mathbf{X}_{\mathbf{2}} \boldsymbol{+} \mathbf{2 e} \boldsymbol{\rightarrow} \mathbf{2 X}^{\boldsymbol{-}}$ | Bond Energy of $\mathbf{X}_{\mathbf{2}} \boldsymbol{(} \mathbf{k J} \boldsymbol{/} \mathbf{m o l} \boldsymbol{)}$ |
+| Fluorine | 4.0 | 136 | 2.87 | 154 |
+| Chlorine | 3.0 | 181 | 1.36 | 239 |
+| Bromine | 2.8 | 185 | 1.09 | 193 |
+| Iodine | 2.5 | 216 | 0.54 | 149 |
+| Astatine | 2.2 | - | - | - |
 
 
 Group 7A elements, the halogens (with the valence-electron configuration $n s^{2} n p^{5}$ ), are also all nonmetals whose properties generally vary smoothly going down the group. The only notable exceptions are the unexpectedly low values for the electron affinity of fluorine and the bond energy of the $F_{2}$ molecule (see Section 19.1). Table 20.6 summarizes the trends in some physical properties of the halogens.
@@ -835,13 +783,13 @@ $$\mathrm{H}_{2}(g)+\mathrm{X}_{2}(g) \longrightarrow 2 \mathrm{HX}(g)$$
 
 This reaction occurs with explosive vigor when fluorine and hydrogen are mixed. On the other hand, hydrogen and chlorine can coexist with little apparent reaction for relatively
 
-| \hline TABLE 20.7 Some Physical Properties, Sources, and Methods of Preparation for the Group 7A Elements |  |  |  |  |  |  |
+| TABLE 20.7 Some Physical Properties, Sources, and Methods of Preparation for the Group 7A Elements |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| \hline Element | Color and State | Percentage of Earth's Crust | Melting Point ( ${ }^{\circ} \mathrm{C}$ ) | Boiling Point ( ${ }^{\circ} \mathrm{C}$ ) | Sources | Method of Preparation |
-| \hline Fluorine | Pale yellow gas | 0.07 | -220 | -188 | Fluorospar ( $\mathrm{CaF}_{2}$ ), cryolite ( $\mathrm{Na}_{3} \mathrm{AlF}_{6}$ ), fluorapatite $\left(\mathrm{Ca}_{5}\left(\mathrm{PO}_{4}\right)_{3} \mathrm{~F}\right)$ | Electrolysis of molten $\mathrm{KHF}_{2}$ |
-| \hline Chlorine | Yellow-green gas | 0.14 | -101 | -34 | Rock salt ( NaCl ), halite ( NaCl ), sylvite ( KCl ) | Electrolysis of aqueous NaCl |
-| \hline Bromine | Red-brown liquid | $2.5 \times 10^{-4}$ | -7.3 | 59 | Seawater, brine wells | Oxidation of $\mathrm{Br}^{-}$by $\mathrm{Cl}_{2}$ |
-| \hline Iodine | Violet-black solid | $3 \times 10^{-5}$ | 113 | 184 | Seaweed, brine wells | Oxidation of $\mathrm{I}^{-}$ by electrolysis or $\mathrm{MnO}_{2}$ |
+| Element | Color and State | Percentage of Earth's Crust | Melting Point ( ${ }^{\circ} \mathrm{C}$ ) | Boiling Point ( ${ }^{\circ} \mathrm{C}$ ) | Sources | Method of Preparation |
+| Fluorine | Pale yellow gas | 0.07 | -220 | -188 | Fluorospar ( $\mathrm{CaF}_{2}$ ), cryolite ( $\mathrm{Na}_{3} \mathrm{AlF}_{6}$ ), fluorapatite $\left(\mathrm{Ca}_{5}\left(\mathrm{PO}_{4}\right)_{3} \mathrm{~F}\right)$ | Electrolysis of molten $\mathrm{KHF}_{2}$ |
+| Chlorine | Yellow-green gas | 0.14 | -101 | -34 | Rock salt ( NaCl ), halite ( NaCl ), sylvite ( KCl ) | Electrolysis of aqueous NaCl |
+| Bromine | Red-brown liquid | $2.5 \times 10^{-4}$ | -7.3 | 59 | Seawater, brine wells | Oxidation of $\mathrm{Br}^{-}$by $\mathrm{Cl}_{2}$ |
+| Iodine | Violet-black solid | $3 \times 10^{-5}$ | 113 | 184 | Seaweed, brine wells | Oxidation of $\mathrm{I}^{-}$ by electrolysis or $\mathrm{MnO}_{2}$ |
 
 ---
 
@@ -887,17 +835,17 @@ When $\mathrm{H}_{2} \mathrm{O}$ molecules cluster around an ion, an ordering ef
 | --- |
 | | Melting |  |  |  | |
 | | Point $\left({ }^{\circ} \mathbf{C}\right)$ |  |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Boiling |  |  |  | |
 | --- |
 | | Point $\left({ }^{\circ} \mathbf{C}\right)$ |  |  |  | |
-| | \end{tabular} |
+| |  |
  | | | H-X Bond |  |  |  | |
 | --- |
 | | Energy $(\mathbf{k J} / \mathbf{m o l})$ |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |
-| \hline HF | -83 | 20 | 565 |
+| HF | -83 | 20 | 565 |
 | HCl | -114 | -85 | 427 |
 | HBr | -87 | -67 | 363 |
 | HI | -51 | -35 | 295 |
@@ -937,8 +885,8 @@ This Steuben glass design was etched using hydrofluoric acid.
 
 | $\mathbf{X}^{-}(\mathbf{g}) \xrightarrow{\mathrm{H}_{2} \mathrm{O}} \mathbf{X}^{-}(\mathbf{a q})$ |  |  |
 | --- | --- | --- |
-| \hline $\mathbf{X}^{-}$ | $\boldsymbol{\Delta} \boldsymbol{H}^{\circ}(\mathbf{k J} / \mathbf{m o l})$ | $\boldsymbol{\Delta} \boldsymbol{S}^{\circ}(\mathbf{J} / \mathbf{K} \cdot \mathbf{m o l})$ |
-| \hline $\mathrm{F}^{-}$ | -510 | -159 |
+| $\mathbf{X}^{-}$ | $\boldsymbol{\Delta} \boldsymbol{H}^{\circ}(\mathbf{k J} / \mathbf{m o l})$ | $\boldsymbol{\Delta} \boldsymbol{S}^{\circ}(\mathbf{J} / \mathbf{K} \cdot \mathbf{m o l})$ |
+| $\mathrm{F}^{-}$ | -510 | -159 |
 | $\mathrm{Cl}^{-}$ | -366 | -96 |
 | $\mathrm{Br}^{-}$ | -334 | -81 |
 | $\mathrm{I}^{-}$ | -291 | -64 |
@@ -958,12 +906,12 @@ All the halogens except fluorine combine with various numbers of oxygen atoms to
 
 The only member of the chlorine series that has been obtained in the pure state is perchloric acid $\left(\mathrm{HOClO}_{3}\right)$, a strong acid and powerful oxidizing agent. Because perchloric acid reacts explosively with many organic materials, it must be handled with great caution. The other oxyacids of chlorine are known only in solution, although salts containing their anions are well known (Fig. 20.24).
 
-| \hline Oxidation State of Halogen | Fluorine | Chlorine | Bromine | lodine* | General Name of Acids | General Name of Salts |
+| Oxidation State of Halogen | Fluorine | Chlorine | Bromine | lodine* | General Name of Acids | General Name of Salts |
 | --- | --- | --- | --- | --- | --- | --- |
-| \hline +1 | HOF | HOCl | HOBr | HOI | Hypohalous acid | Hypohalites, MOX |
-| \hline +3 | ** | HOClO | ** | ** | Halous acid | Halites, $\mathrm{MXO}_{2}$ |
-| \hline +5 | ** | $\mathrm{HOClO}_{2}$ | $\mathrm{HOBrO}_{2}$ | $\mathrm{HOIO}_{2}$ | Halic acid | Halates, $\mathrm{MXO}_{3}$ |
-| \hline +7 | ** | $\mathrm{HOClO}_{3}$ | $\mathrm{HOBrO}_{3}$ | $\mathrm{HOIO}_{3}$ | Perhalic acid | Perhalates, $\mathrm{MXO}_{4}$ |
+| +1 | HOF | HOCl | HOBr | HOI | Hypohalous acid | Hypohalites, MOX |
+| +3 | ** | HOClO | ** | ** | Halous acid | Halites, $\mathrm{MXO}_{2}$ |
+| +5 | ** | $\mathrm{HOClO}_{2}$ | $\mathrm{HOBrO}_{2}$ | $\mathrm{HOIO}_{2}$ | Halic acid | Halates, $\mathrm{MXO}_{3}$ |
+| +7 | ** | $\mathrm{HOClO}_{3}$ | $\mathrm{HOBrO}_{3}$ | $\mathrm{HOIO}_{3}$ | Perhalic acid | Perhalates, $\mathrm{MXO}_{4}$ |
 
 *Iodine also forms $\mathrm{H}_{4} \mathrm{I}_{2} \mathrm{O}_{9}$ (mesodiperiodic acid) and $\mathrm{H}_{5} \mathrm{IO}_{6}$ (paraperiodic acid).
 **Compound is unknown.
@@ -1006,28 +954,28 @@ See Exercise 20.37.
 930
 Chapter Twenty The Representative Elements: Groups 5A Through 8A
 
-| \hline Compounds with Group 3A Nonmetals | Compounds with Group 4A Nonmetals | Compounds with Group 5A Nonmetals | Compounds with Group 6A Nonmetals | Compounds with Group 7A Nonmetals |
+| Compounds with Group 3A Nonmetals | Compounds with Group 4A Nonmetals | Compounds with Group 5A Nonmetals | Compounds with Group 6A Nonmetals | Compounds with Group 7A Nonmetals |
 | --- | --- | --- | --- | --- |
-| \hline $\mathrm{BX}_{3}(\mathrm{X}=\mathrm{F}, \mathrm{Cl}, \mathrm{Br}, \mathrm{I})$ | $\mathrm{CX}_{4}(\mathrm{X}=\mathrm{F}, \mathrm{Cl}, \mathrm{Br}, \mathrm{I})$ | $\mathrm{NX}_{3}(\mathrm{X}=\mathrm{F}, \mathrm{Cl}, \mathrm{Br}, \mathrm{I})$ | $\mathrm{OF}_{2}$ | ICl |
-| \hline $\mathrm{BF}_{4}{ }^{-}$ |  | $\mathrm{N}_{2} \mathrm{~F}_{4}$ | $\mathrm{O}_{2} \mathrm{~F}_{2}$ | IBr |
-| \hline | $\mathrm{SiF}_{4}$ |  | $\mathrm{OCl}_{2}$ | BrF |
-| \hline | $\mathrm{SiF}_{6}{ }^{2-}$ | $\mathrm{PX}_{3}(\mathrm{X}=\mathrm{F}, \mathrm{Cl}, \mathrm{Br}, \mathrm{I})$ | $\mathrm{OBr}_{2}$ | BrCl |
-| \hline | $\mathrm{SiCl}_{4}$ | $\mathrm{PF}_{5}$ |  | ClF |
-| \hline |  | $\mathrm{PCl}_{5}$ | $\mathrm{SF}_{2}$ |  |
-| \hline | $\mathrm{GeF}_{4}$ | $\mathrm{PBr}_{5}$ | $\mathrm{SCl}_{2}$ | $\mathrm{ClF}_{3}$ |
-| \hline | $\mathrm{GeF}_{6}{ }^{2-}$ |  | $\mathrm{S}_{2} \mathrm{~F}_{2}$ | $\mathrm{BrF}_{3}$ |
-| \hline | $\mathrm{GeCl}_{4}$ | $\mathrm{AsF}_{3}$ | $\mathrm{S}_{2} \mathrm{Cl}_{2}$ | $\mathrm{ICl}_{3}$ |
-| \hline |  | $\mathrm{AsF}_{5}$ | $\mathrm{SF}_{4}$ | $\mathrm{IF}_{3}$ |
-| \hline |  | $\mathrm{SbF}_{3}$ | $\mathrm{SF}_{6}$ | $\mathrm{ClF}_{5}$ |
-| \hline |  | $\mathrm{SbF}_{5}$ |  | $\mathrm{BrF}_{5}$ |
-| \hline |  |  | $\mathrm{SeF}_{4}$ | $\mathrm{IF}_{5}$ |
-| \hline |  |  | $\mathrm{SeF}_{6}$ |  |
-| \hline |  |  | $\mathrm{SeCl}_{2}$ | $\mathrm{IF}_{7}$ |
-| \hline |  |  | $\mathrm{TeF}_{4}$ |  |
-| \hline |  |  | $\mathrm{TeF}_{6}$ |  |
-| \hline |  |  | $\mathrm{TeCl}_{4}$ |  |
-| \hline |  |  | $\mathrm{TeBr}_{4}$ |  |
-| \hline |  |  | $\mathrm{TeI}_{4}$ |  |
+| $\mathrm{BX}_{3}(\mathrm{X}=\mathrm{F}, \mathrm{Cl}, \mathrm{Br}, \mathrm{I})$ | $\mathrm{CX}_{4}(\mathrm{X}=\mathrm{F}, \mathrm{Cl}, \mathrm{Br}, \mathrm{I})$ | $\mathrm{NX}_{3}(\mathrm{X}=\mathrm{F}, \mathrm{Cl}, \mathrm{Br}, \mathrm{I})$ | $\mathrm{OF}_{2}$ | ICl |
+| $\mathrm{BF}_{4}{ }^{-}$ |  | $\mathrm{N}_{2} \mathrm{~F}_{4}$ | $\mathrm{O}_{2} \mathrm{~F}_{2}$ | IBr |
+| | $\mathrm{SiF}_{4}$ |  | $\mathrm{OCl}_{2}$ | BrF |
+| | $\mathrm{SiF}_{6}{ }^{2-}$ | $\mathrm{PX}_{3}(\mathrm{X}=\mathrm{F}, \mathrm{Cl}, \mathrm{Br}, \mathrm{I})$ | $\mathrm{OBr}_{2}$ | BrCl |
+| | $\mathrm{SiCl}_{4}$ | $\mathrm{PF}_{5}$ |  | ClF |
+| |  | $\mathrm{PCl}_{5}$ | $\mathrm{SF}_{2}$ |  |
+| | $\mathrm{GeF}_{4}$ | $\mathrm{PBr}_{5}$ | $\mathrm{SCl}_{2}$ | $\mathrm{ClF}_{3}$ |
+| | $\mathrm{GeF}_{6}{ }^{2-}$ |  | $\mathrm{S}_{2} \mathrm{~F}_{2}$ | $\mathrm{BrF}_{3}$ |
+| | $\mathrm{GeCl}_{4}$ | $\mathrm{AsF}_{3}$ | $\mathrm{S}_{2} \mathrm{Cl}_{2}$ | $\mathrm{ICl}_{3}$ |
+| |  | $\mathrm{AsF}_{5}$ | $\mathrm{SF}_{4}$ | $\mathrm{IF}_{3}$ |
+| |  | $\mathrm{SbF}_{3}$ | $\mathrm{SF}_{6}$ | $\mathrm{ClF}_{5}$ |
+| |  | $\mathrm{SbF}_{5}$ |  | $\mathrm{BrF}_{5}$ |
+| |  |  | $\mathrm{SeF}_{4}$ | $\mathrm{IF}_{5}$ |
+| |  |  | $\mathrm{SeF}_{6}$ |  |
+| |  |  | $\mathrm{SeCl}_{2}$ | $\mathrm{IF}_{7}$ |
+| |  |  | $\mathrm{TeF}_{4}$ |  |
+| |  |  | $\mathrm{TeF}_{6}$ |  |
+| |  |  | $\mathrm{TeCl}_{4}$ |  |
+| |  |  | $\mathrm{TeBr}_{4}$ |  |
+| |  |  | $\mathrm{TeI}_{4}$ |  |
 
 
 FIGURE 20.25
@@ -1492,3 +1440,52 @@ Note that molecular iodine is a product of this reaction. Adding a starch indica
 $$\mathrm{I}_{2}+2 \mathrm{~S}_{2} \mathrm{O}_{3}^{2-} \longrightarrow 2 \mathrm{I}^{-}+\mathrm{S}_{4} \mathrm{O}_{6}^{2-}$$
 
 The dark blue-black color disappears, when all of the $\mathrm{I}_{2}$ has reacted. This is the endpoint of the titration.
+
+---
+
+Marathon Problem
+941
+
+Consider starting with a $10.0-\mathrm{mL}$ sample of a saturated calcium iodate solution. Upon titrating, you find that 14.9 mL of $0.100 M \mathrm{Na}_{2} \mathrm{~S}_{2} \mathrm{O}_{3}$ is required to reach the end point of the titration. Calculate $K_{\mathrm{sp}}$ for $\mathrm{Ca}\left(\mathrm{IO}_{3}\right)_{2}$.
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+73. Although nitrogen trifluoride $\left(\mathrm{NF}_{3}\right)$ is a thermally stable compound, nitrogen triiodide $\left(\mathrm{NI}_{3}\right)$ is known to be a highly explosive material. $\mathrm{NI}_{3}$ can be synthesized according to the equation
+$$\mathrm{BN}(s)+3 \mathrm{IF}(g) \longrightarrow \mathrm{BF}_{3}(g)+\mathrm{NI}_{3}(g)$$
+a. What is the enthalpy of formation for $\mathrm{NI}_{3}(s)$ given the enthalpy of reaction $(-307 \mathrm{~kJ})$ and the enthalpies of formation for $\mathrm{BN}(s)(-254 \mathrm{~kJ} / \mathrm{mol}), \mathrm{IF}(g)(-96 \mathrm{~kJ} / \mathrm{mol})$, and $\mathrm{BF}_{3}(g)(-1136 \mathrm{kJ} / \mathrm{mol}$ )?
+b. It is reported that when the synthesis of $\mathrm{NI}_{3}$ is conducted using 4 mol IF for every 1 mol BN , one of the by-products isolated is $\left[\mathrm{IF}_{2}\right]^{+}\left[\mathrm{BF}_{4}\right]^{-}$. What are the molecular geometries of the species in this by-product? What are the hybridizations of the central atoms in each species in the by-product?
+74. While selenic acid has the formula $\mathrm{H}_{2} \mathrm{SeO}_{4}$ and thus is directly related to sulfuric acid, telluric acid is best visualized as $\mathrm{H}_{6} \mathrm{TeO}_{6}$ or $\mathrm{Te}(\mathrm{OH})_{6}$.
+a. What is the oxidation state of tellurium in $\mathrm{Te}(\mathrm{OH})_{6}$ ?
+b. Despite its structural differences with sulfuric and selenic acid, telluric acid is a diprotic acid with $\mathrm{p} K_{\mathrm{a} 1}=7.68$ and $\mathrm{p} K_{\mathrm{a} 2}=$ 11.29. Telluric acid can be prepared by hydrolysis of tellurium hexafluoride according to the equation
+$$\mathrm{TeF}_{6}(g)+6 \mathrm{H}_{2} \mathrm{O}(l) \longrightarrow \mathrm{Te}(\mathrm{OH})_{6}(a q)+6 \mathrm{HF}(a q)$$
+
+Tellurium hexafluoride can be prepared by the reaction of elemental tellurium with fluorine gas:
+$$\mathrm{Te}(s)+3 \mathrm{~F}_{2}(g) \longrightarrow \mathrm{TeF}_{6}(g)$$
+
+If a cubic block of tellurium (density $=6.240 \mathrm{~g} / \mathrm{cm}^{3}$ ) measuring 0.545 cm on edge is allowed to react with 2.34 L of fluorine gas at 1.06 atm and $25^{\circ} \mathrm{C}$, what is the pH of a solution of $\mathrm{Te}(\mathrm{OH})_{6}$ formed by dissolving the isolated $\mathrm{TeF}_{6}(g)$ in 115 mL of water?
+
+Marathon Problem
+This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+75. Captain Kirk has set a trap for the Klingons who are threatening an innocent planet. He has sent small groups of fighter rockets to sites that are invisible to Klingon radar and put a decoy in the
+open. He calls this the "fishhook" strategy. Mr. Spock has sent a coded message to the chemists on the fighters to tell the ships what to do next. The outline of the message is
+
+| $\overline{(1)}$ | $\overline{(2)}$ | $\overline{(3)}$ | $\overline{(4)}$ | $\overline{(5)}$ | $\overline{(6)}$ |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| $\overline{(7)}$ | - | $\overline{(8)}$ | $\overline{(9)}$ | $\overline{(10)}$ | $\overline{(11)}$ | $\overline{(12)}$ | $\overline{(10)}$ |
+$\frac{\overline{(11)}}{(11)}$
+
+Fill in the blanks of the message using the following clues.
+(1) Symbol of the halogen whose hydride has the second highest boiling point in the series of HX compounds that are hydrogen halides.
+(2) Symbol of the halogen that is the only hydrogen halide, HX, that is a weak acid in aqueous solution.
+(3) Symbol of the element whose existence on the sun was known before its existence on earth was discovered.
+(4) Symbol of the element whose presence can interfere with the qualitative analysis for $\mathrm{Pb}^{2+}, \mathrm{Hg}_{2}{ }^{2+}$, and $\mathrm{Ag}^{+}$. When chloride ions are added to an aqueous solution of this metal ion, a white precipitate forms with formula MOCl .
+(5) Symbol of the Group 6A element that, like selenium, is a semiconductor.
+(6) Symbol for the element known in rhombic and monoclinic forms.
+(7) Symbol for the element that exists as diatomic molecules in a yellow-green gas when not combined with another element; its silver, lead, and mercury(I) salts are white and insoluble in water.
+(8) Symbol for the most abundant element in and near the earth's crust.
+(9) Symbol for the element that seems to give some protection against cancer when a diet rich in this element is consumed.
+(10) Symbol for the only noble gas besides xenon that has been shown to form compounds under some circumstances (write the symbol backward and split the letters as shown).
+(11) Symbol for the toxic element that, like phosphorus and antimony, forms tetrameric molecules when uncombined with other elements (split the letters of the symbol as shown).
+(12) Symbol for the element that occurs as an inert component of air but is a very prominent part of fertilizers and explosives.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

@@ -1,58 +1,5 @@
 # Chapter 22: Organic and Biological Molecules
 
-Marathon Problem
-995
-b. Based on your answer to part a, which is the stronger oxidizing agent, $\mathrm{Co}^{3+}$ or $\mathrm{Co}(\mathrm{en})_{3}{ }^{3+}$ ?
-c. Use the crystal field model to rationalize the result in part b.
-78. Henry Taube, 1983 Nobel Prize winner in chemistry, has studied the mechanisms of the oxidation-reduction reactions of transition metal complexes. In one experiment he and his students studied the following reaction:
-$$\begin{aligned}
-\mathrm{Cr}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}{ }^{2+}(a q)+ & \mathrm{Co}\left(\mathrm{NH}_{3}\right)_{5} \mathrm{Cl}^{2+}(a q) \\
-& \longrightarrow \mathrm{Cr}(\mathrm{III}) \text { complexes }+\mathrm{Co}(\mathrm{II}) \text { complexes }
-\end{aligned}$$
-
-Chromium(III) and cobalt(III) complexes are substitutionally inert (no exchange of ligands) under conditions of the experiment. Chromium(II) and cobalt(II) complexes can exchange ligands very rapidly. One of the products of the reaction is $\mathrm{Cr}\left(\mathrm{H}_{2} \mathrm{O}\right)_{5} \mathrm{Cl}^{2+}$. Is this consistent with the reaction proceeding through formation of $\left(\mathrm{H}_{2} \mathrm{O}\right)_{5} \mathrm{Cr}-\mathrm{Cl}-\mathrm{Co}\left(\mathrm{NH}_{3}\right)_{5}$ as an intermediate? Explain.
-79. Chelating ligands often form more stable complex ions than the corresponding monodentate ligands with the same donor atoms. For example,
-$$\begin{array}{rll}
-\mathrm{Ni}^{2+}(a q)+6 \mathrm{NH}_{3}(a q) & \rightleftharpoons \mathrm{Ni}\left(\mathrm{NH}_{3}\right)_{6}{ }^{2+}(a q) & K=3.2 \times 10^{8} \\
-\mathrm{Ni}^{2+}(a q)+3 \mathrm{en}(a q) & \rightleftharpoons \mathrm{Ni}(\mathrm{en})_{3}{ }^{2+}(a q) & K=1.6 \times 10^{18} \\
-\mathrm{Ni}^{2+}(a q)+\operatorname{penten}(a q) & \rightleftharpoons \mathrm{Ni}(\text { penten})^{2+}(a q) & K=2.0 \times 10^{19}
-\end{array}$$
-where en is ethylenediamine and penten is
-
-This increased stability is called the chelate effect. Based on bond energies, would you expect the enthalpy changes for the above reactions to be very different? What is the order (from least favorable to most favorable) of the entropy changes for the above reactions? How do the values of the formation constants correlate with $\Delta S^{\circ}$ ? How can this be used to explain the chelate effect?
-80. Qualitatively draw the crystal field splitting of the $d$ orbitals in a trigonal planar complex ion. (Let the $z$ axis be perpendicular to the plane of the complex.)
-81. Qualitatively draw the crystal field splitting for a trigonal bipyramidal complex ion. (Let the $z$ axis be perpendicular to the trigonal plane.)
-82. Sketch a $d$-orbital energy diagram for the following.
-a. a linear complex with ligands on the $x$ axis
-b. a linear complex with ligands on the $y$ axis
-83. Sketch and explain the most likely pattern for the crystal field diagram for the complex ion trans-diamminetetracyanonickelate(II), where $\mathrm{CN}^{-}$produces a much stronger crystal field than $\mathrm{NH}_{3}$. Explain completely and label the $d$ orbitals in your diagram. Assume the $\mathrm{NH}_{3}$ ligands lie on the axis.
-84. a. Calculate the molar solubility of AgBr in pure water. $K_{\mathrm{sp}}$ for AgBr is $5.0 \times 10^{-13}$.
-b. Calculate the molar solubility of AgBr in $3.0 M \mathrm{NH}_{3}$. The overall formation constant for $\mathrm{Ag}\left(\mathrm{NH}_{3}\right)_{2}{ }^{+}$is $1.7 \times 10^{7}$, that is, $\mathrm{Ag}^{+}(a q)+2 \mathrm{NH}_{3}(a q) \longrightarrow \mathrm{Ag}\left(\mathrm{NH}_{3}\right)_{2}{ }^{+}(a q) \quad K=1.7 \times 10^{7}$.
-c. Compare the calculated solubilities from parts a and b . Explain any differences.
-d. What mass of AgBr will dissolve in 250.0 mL of $3.0 M \mathrm{NH}_{3}$ ?
-e. What effect does adding $\mathrm{HNO}_{3}$ have on the solubilities calculated in parts $a$ and $b$ ?
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-85. The ferrate ion, $\mathrm{FeO}_{4}{ }^{2-}$, is such a powerful oxidizing agent that in acidic solution, aqueous ammonia is reduced to elemental nitrogen along with the formation of the iron(III) ion.
-a. What is the oxidation state of iron in $\mathrm{FeO}_{4}{ }^{2-}$, and what is the electron configuration of iron in this polyatomic ion?
-b. If 25.0 mL of a $0.243 M \mathrm{FeO}_{4}{ }^{2-}$ solution is allowed to react with 55.0 mL of 1.45 M aqueous ammonia, what volume of nitrogen gas can form at $25^{\circ} \mathrm{C}$ and 1.50 atm ?
-86. a. In the absorption spectrum of the complex ion $\left[\mathrm{Cr}(\mathrm{NCS})_{6}\right]^{3-}$, there is a band corresponding to the absorption of a photon of light with an energy of $1.75 \times 10^{4} \mathrm{~cm}^{-1}$. Given $1 \mathrm{~cm}^{-1}= 1.986 \times 10^{-23} \mathrm{~J}$, what is the wavelength of this photon?
-b. The $\mathrm{Cr}-\mathrm{N}-\mathrm{C}$ bond angle in $\left[\mathrm{Cr}(\mathrm{NCS})_{6}\right]^{3-}$ is predicted to be $180^{\circ}$. What is the hybridization of the N atom in the $\mathrm{NCS}^{-}$ ligand when a Lewis acid-base reaction occurs between $\mathrm{Cr}^{3+}$ and $\mathrm{NCS}^{-}$that would give a $180^{\circ} \mathrm{Cr}-\mathrm{N}-\mathrm{C}$ bond angle? $\left[\mathrm{Cr}(\mathrm{NCS})_{6}\right]^{3-}$ undergoes substitution by ethylenediammine (en) according to the equation
-$$\left[\mathrm{Cr}(\mathrm{NCS})_{6}\right]^{3-}+2 \mathrm{en} \longrightarrow\left[\mathrm{Cr}(\mathrm{NCS})_{2}(\mathrm{en})_{2}\right]^{+}+4 \mathrm{NCS}^{-}$$
-
-Does $\left[\mathrm{Cr}(\mathrm{NCS})_{2}(\mathrm{en})_{2}\right]^{+}$exhibit geometric isomerism? Does $\left[\mathrm{Cr}(\mathrm{NCS})_{2}(\mathrm{en})_{2}\right]^{+}$exhibit optical isomerism?
-
-Marathon Problem
-This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-87. There are three salts that contain complex ions of chromium and have the molecular formula $\mathrm{CrCl}_{3} \cdot 6 \mathrm{H}_{2} \mathrm{O}$. Treating 0.27 g of the first salt with a strong dehydrating agent resulted in a mass loss of 0.036 g . Treating 270 mg of the second salt with the same dehydrating agent resulted in a mass loss of 18 mg . The third salt did not lose any mass when treated with the same dehydrating agent. Addition of excess aqueous silver nitrate to $100.0-\mathrm{mL}$ portions of $0.100 M$ solutions of each salt resulted in the formation of different masses of silver chloride; one solution yielded 1430 mg AgCl ; another, 2870 mg AgCl ; the third, 4300 mg AgCl . Two of the salts are green and one is violet.
-
-Suggest probable structural formulas for these salts, defending your answer on the basis of the preceding observations. State which salt is most likely to be violet. Would a study of the magnetic properties of the salts be helpful in determining the structural formulas? Explain.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 22
 Organic and Biological Molecules
 
@@ -139,18 +86,18 @@ Butane and all succeeding members of the alkanes exhibit structural isomerism. R
 FIGURE 22.4
 (a) Normal butane (abbreviated $n$-butane). (b) The branched isomer of butane (called isobutane).
 
-| \hline Name | Formula | Molar Mass | Melting Point ( ${ }^{\circ} \mathrm{C}$ ) | Boiling Point ( ${ }^{\circ} \mathrm{C}$ ) | Number of Structural Isomers |
+| Name | Formula | Molar Mass | Melting Point ( ${ }^{\circ} \mathrm{C}$ ) | Boiling Point ( ${ }^{\circ} \mathrm{C}$ ) | Number of Structural Isomers |
 | --- | --- | --- | --- | --- | --- |
-| \hline Methane | $\mathrm{CH}_{4}$ | 16 | -182 | -162 | 1 |
-| \hline Ethane | $\mathrm{C}_{2} \mathrm{H}_{6}$ | 30 | -183 | -89 | 1 |
-| \hline Propane | $\mathrm{C}_{3} \mathrm{H}_{8}$ | 44 | -187 | -42 | 1 |
-| \hline Butane | $\mathrm{C}_{4} \mathrm{H}_{10}$ | 58 | -138 | 0 | 2 |
-| \hline Pentane | $\mathrm{C}_{5} \mathrm{H}_{12}$ | 72 | -130 | 36 | 3 |
-| \hline Hexane | $\mathrm{C}_{6} \mathrm{H}_{14}$ | 86 | -95 | 68 | 5 |
-| \hline Heptane | $\mathrm{C}_{7} \mathrm{H}_{16}$ | 100 | -91 | 98 | 9 |
-| \hline Octane | $\mathrm{C}_{8} \mathrm{H}_{18}$ | 114 | -57 | 126 | 18 |
-| \hline Nonane | $\mathrm{C}_{9} \mathrm{H}_{20}$ | 128 | -54 | 151 | 35 |
-| \hline Decane | $\mathrm{C}_{10} \mathrm{H}_{22}$ | 142 | -30 | 174 | 75 |
+| Methane | $\mathrm{CH}_{4}$ | 16 | -182 | -162 | 1 |
+| Ethane | $\mathrm{C}_{2} \mathrm{H}_{6}$ | 30 | -183 | -89 | 1 |
+| Propane | $\mathrm{C}_{3} \mathrm{H}_{8}$ | 44 | -187 | -42 | 1 |
+| Butane | $\mathrm{C}_{4} \mathrm{H}_{10}$ | 58 | -138 | 0 | 2 |
+| Pentane | $\mathrm{C}_{5} \mathrm{H}_{12}$ | 72 | -130 | 36 | 3 |
+| Hexane | $\mathrm{C}_{6} \mathrm{H}_{14}$ | 86 | -95 | 68 | 5 |
+| Heptane | $\mathrm{C}_{7} \mathrm{H}_{16}$ | 100 | -91 | 98 | 9 |
+| Octane | $\mathrm{C}_{8} \mathrm{H}_{18}$ | 114 | -57 | 126 | 18 |
+| Nonane | $\mathrm{C}_{9} \mathrm{H}_{20}$ | 128 | -54 | 151 | 35 |
+| Decane | $\mathrm{C}_{10} \mathrm{H}_{22}$ | 142 | -30 | 174 | 75 |
 
 but different bonds. For example, butane can exist as a straight-chain molecule (normal butane, or $n$-butane) or with a branched-chain structure (called isobutane), as shown in Fig. 22.4. Because of their different structures, these molecules exhibit different properties. For example, the boiling point of $n$-butane is $-0.5^{\circ} \mathrm{C}$, whereas that of isobutane is $-12^{\circ} \mathrm{C}$.
 
@@ -452,12 +399,12 @@ Secondary alcohol (two R groups)
 
 Tertiary alcohol (three R groups)
 
-| \hline Structural Formula | Name | Use of Effect |
+| Structural Formula | Name | Use of Effect |
 | --- | --- | --- |
-| \hline | Naphthalene | Formerly used in mothballs |
-| \hline | Anthracene | Dyes |
-| \hline | Phenanthrene | Dyes, explosives, and synthesis of drugs |
-| \hline | 3,4-Benzpyrene | Active carcinogen found in smoke and smog |
+| | Naphthalene | Formerly used in mothballs |
+| | Anthracene | Dyes |
+| | Phenanthrene | Dyes, explosives, and synthesis of drugs |
+| | 3,4-Benzpyrene | Active carcinogen found in smoke and smog |
 
 22.4 Hydrocarbon Derivatives
 
@@ -477,17 +424,17 @@ Although there are many important alcohols, the simplest ones, methanol and etha
 
 A winemaker drawing off a glass of wine in a modern wine cellar.
 
-| \hline TABLE 22.4 The Common Functional Groups |  |  |  |
+| TABLE 22.4 The Common Functional Groups |  |  |  |
 | --- | --- | --- | --- |
-| \hline Class | Functional Group | General Formula* | Example |
-| \hline Halohydrocarbons | -X (F, Cl, Br, I) | R-X | $\mathrm{CH}_{3} \mathrm{I}$ Iodomethane (methyl iodide) |
-| \hline Alcohols | $-\mathrm{OH}$ | $\mathrm{R}-\mathrm{OH}$ | $\mathrm{CH}_{3} \mathrm{OH}$ Methanol (methyl alcohol) |
-| \hline Ethers | -O- | $\mathrm{R}-\mathrm{O}-\mathrm{R}^{\prime}$ | $\mathrm{CH}_{3} \mathrm{OCH}_{3}$ Dimethyl ether |
-| \hline Aldehydes |  |  | $\mathrm{CH}_{2} \mathrm{O}$ Methanal (formaldehyde) |
-| \hline Ketones |  |  | $\mathrm{CH}_{3} \mathrm{COCH}_{3}$ Propanone (dimethyl ketone or acetone) |
-| \hline Carboxylic acids |  |  | $\mathrm{CH}_{3} \mathrm{COOH}$ Ethanoic acid (acetic acid) |
-| \hline Esters |  |  | $\mathrm{CH}_{3} \mathrm{COOCH}_{2} \mathrm{CH}_{3}$ Ethyl acetate |
-| \hline Amines | $-\mathrm{NH}_{2}$ | $\mathrm{R}-\mathrm{NH}_{2}$ | $\mathrm{CH}_{3} \mathrm{NH}_{2}$ Aminomethane (methylamine) |
+| Class | Functional Group | General Formula* | Example |
+| Halohydrocarbons | -X (F, Cl, Br, I) | R-X | $\mathrm{CH}_{3} \mathrm{I}$ Iodomethane (methyl iodide) |
+| Alcohols | $-\mathrm{OH}$ | $\mathrm{R}-\mathrm{OH}$ | $\mathrm{CH}_{3} \mathrm{OH}$ Methanol (methyl alcohol) |
+| Ethers | -O- | $\mathrm{R}-\mathrm{O}-\mathrm{R}^{\prime}$ | $\mathrm{CH}_{3} \mathrm{OCH}_{3}$ Dimethyl ether |
+| Aldehydes |  |  | $\mathrm{CH}_{2} \mathrm{O}$ Methanal (formaldehyde) |
+| Ketones |  |  | $\mathrm{CH}_{3} \mathrm{COCH}_{3}$ Propanone (dimethyl ketone or acetone) |
+| Carboxylic acids |  |  | $\mathrm{CH}_{3} \mathrm{COOH}$ Ethanoic acid (acetic acid) |
+| Esters |  |  | $\mathrm{CH}_{3} \mathrm{COOCH}_{2} \mathrm{CH}_{3}$ Ethyl acetate |
+| Amines | $-\mathrm{NH}_{2}$ | $\mathrm{R}-\mathrm{NH}_{2}$ | $\mathrm{CH}_{3} \mathrm{NH}_{2}$ Aminomethane (methylamine) |
 
 * R and $\mathrm{R}^{\prime}$ represent hydrocarbon fragments.
 (approximately 4 million tons annually in the United States) by the hydrogenation of carbon monoxide:
@@ -500,7 +447,7 @@ $$\underset{\text { Glucose }}{\mathrm{C}_{6} \mathrm{H}_{12} \mathrm{O}_{6}} \x
 
 | Formula | Systematic Name | Common Name |
 | --- | --- | --- |
-| \hline $\mathrm{CH}_{3} \mathrm{OH}$ | Methanol | Methyl alcohol |
+| $\mathrm{CH}_{3} \mathrm{OH}$ | Methanol | Methyl alcohol |
 | $\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{OH}$ | Ethanol | Ethyl alcohol |
 | $\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{CH}_{2} \mathrm{OH}$ | 1-Propanol | $n$-Propyl alcohol |
 | $\mathrm{CH}_{3} \mathrm{CHCH}_{3}$ | 2-Propanol | Isopropyl alcohol |
@@ -634,14 +581,14 @@ The general formulas for primary, secondary, and tertiary amines. $\mathrm{R}, \
 
 The soybeans on the left are coated with a red acrylic polymer to delay soybean emergence. This allows farmers to plant their crops more efficiently.
 
-| \hline Formula | Common Name | Type |
+| Formula | Common Name | Type |
 | --- | --- | --- |
-| \hline $\mathrm{CH}_{3} \mathrm{NH}_{2}$ | Methylamine | Primary |
-| \hline $\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{NH}_{2}$ | Ethylamine | Primary |
-| \hline $\left(\mathrm{CH}_{3}\right)_{2} \mathrm{NH}$ | Dimethylamine | Secondary |
-| \hline $\left(\mathrm{CH}_{3}\right)_{3} \mathrm{~N}$ | Trimethylamine | Tertiary |
-| \hline | Aniline | Primary |
-| \hline | Diphenylamine | Secondary |
+| $\mathrm{CH}_{3} \mathrm{NH}_{2}$ | Methylamine | Primary |
+| $\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{NH}_{2}$ | Ethylamine | Primary |
+| $\left(\mathrm{CH}_{3}\right)_{2} \mathrm{NH}$ | Dimethylamine | Secondary |
+| $\left(\mathrm{CH}_{3}\right)_{3} \mathrm{~N}$ | Trimethylamine | Tertiary |
+| | Aniline | Primary |
+| | Diphenylamine | Secondary |
 
 22.5 Polymers
 
@@ -723,17 +670,17 @@ Repetition of this process thousands of times creates a long-chain polymer. Term
 1020
 Chapter Twenty-Two Organic and Biological Molecules
 
-| \hline Monomer | Polymer |  |  |  |
+| Monomer | Polymer |  |  |  |
 | --- | --- | --- | --- | --- |
-| \hline Name | Formula | Name | Formula | Uses |
-| \hline Ethylene | $\mathrm{H}_{2} \mathrm{C}=\mathrm{CH}_{2}$ | Polyethylene | $\left(\mathrm{CH}_{2}-\mathrm{CH}_{2}\right)_{n}$ | Plastic piping, bottles, electrical insulation, toys |
-| \hline Propylene |  | Polypropylene |  | Film for packaging, carpets, lab wares, toys |
-| \hline Vinyl chloride |  | Polyvinyl chloride (PVC) |  | Piping, siding, floor tile, clothing, toys |
-| \hline Acrylonitrile |  | Polyacrylonitrile (PAN) |  | Carpets, fabrics |
-| \hline Tetrafluoro ethylene |  | Teflon | $-\left(\mathrm{CF}_{2}-\mathrm{CF}_{2}\right)_{n}$ | Cooking utensils, electrical insulation, bearings |
-| \hline Styrene |  | Polystyrene |  | Containers, thermal insulation, toys |
-| \hline Butadiene |  | Polybutadiene | $\left(\mathrm{CH}_{2} \mathrm{CH}=\mathrm{CHCH}_{2}\right)_{n}$ | Tire tread, coating resin |
-| \hline Butadiene and styrene | (See above.) | Styrene-butadiene rubber |  | Synthetic rubber |
+| Name | Formula | Name | Formula | Uses |
+| Ethylene | $\mathrm{H}_{2} \mathrm{C}=\mathrm{CH}_{2}$ | Polyethylene | $\left(\mathrm{CH}_{2}-\mathrm{CH}_{2}\right)_{n}$ | Plastic piping, bottles, electrical insulation, toys |
+| Propylene |  | Polypropylene |  | Film for packaging, carpets, lab wares, toys |
+| Vinyl chloride |  | Polyvinyl chloride (PVC) |  | Piping, siding, floor tile, clothing, toys |
+| Acrylonitrile |  | Polyacrylonitrile (PAN) |  | Carpets, fabrics |
+| Tetrafluoro ethylene |  | Teflon | $-\left(\mathrm{CF}_{2}-\mathrm{CF}_{2}\right)_{n}$ | Cooking utensils, electrical insulation, bearings |
+| Styrene |  | Polystyrene |  | Containers, thermal insulation, toys |
+| Butadiene |  | Polybutadiene | $\left(\mathrm{CH}_{2} \mathrm{CH}=\mathrm{CHCH}_{2}\right)_{n}$ | Tire tread, coating resin |
+| Butadiene and styrene | (See above.) | Styrene-butadiene rubber |  | Synthetic rubber |
 
 
 Visualization: Synthesis of Nylon
@@ -1053,17 +1000,17 @@ Made in USA.
 ww.coppertone.com
 21621-C
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | General Name |  | |
 | | of Sugar |  | |
-| | \end{tabular} |
+| |  |
  | | | Number of |  | |
 | --- |
 | | Carbon Atoms |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline Triose | 3 |
+| Triose | 3 |
 | Tetrose | 4 |
 | Pentose | 5 |
 | Hexose | 6 |
@@ -1072,12 +1019,12 @@ ww.coppertone.com
 | Nonose | 9 |
 
 
-| \hline Pentoses |  |  |  |  |
+| Pentoses |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| \hline \multirow{2}{*}{} |  |  | D-Ribulose |  |
-| \hline |  |  |  |  |
-| \hline d-Glucose | d-Mannose | D-Galactose |  | D-Fructose |
-| \hline |  |  |  |  |
+| \multirow{2}{*}{} |  |  | D-Ribulose |  |
+| |  |  |  |  |
+| d-Glucose | d-Mannose | D-Galactose |  | D-Fructose |
+| |  |  |  |  |
 
 ---
 

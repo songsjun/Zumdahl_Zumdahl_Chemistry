@@ -163,12 +163,12 @@ Nitric acid ( $\mathrm{HNO}_{3}$ )
 
 Perchloric acid ( $\mathrm{HClO}_{4}$ )
 
-| \hline Property | Strong Acid | Weak Acid |
+| Property | Strong Acid | Weak Acid |
 | --- | --- | --- |
-| \hline $K_{\mathrm{a}}$ value | $K_{\mathrm{a}}$ is large | $K_{\mathrm{a}}$ is small |
-| \hline Position of the dissociation (ionization) equilibrium | Far to the right | Far to the left |
-| \hline Equilibrium concentration of $\mathrm{H}^{+}$compared with original concentration of HA | $\left[\mathrm{H}^{+}\right] \approx[\mathrm{HA}]_{0}$ | $\left[\mathrm{H}^{+}\right] \ll[\mathrm{HA}]_{0}$ |
-| \hline Strength of conjugate base compared with that of water | $\mathrm{A}^{-}$much weaker base than $\mathrm{H}_{2} \mathrm{O}$ | $\mathrm{A}^{-}$much stronger base than $\mathrm{H}_{2} \mathrm{O}$ |
+| $K_{\mathrm{a}}$ value | $K_{\mathrm{a}}$ is large | $K_{\mathrm{a}}$ is small |
+| Position of the dissociation (ionization) equilibrium | Far to the right | Far to the left |
+| Equilibrium concentration of $\mathrm{H}^{+}$compared with original concentration of HA | $\left[\mathrm{H}^{+}\right] \approx[\mathrm{HA}]_{0}$ | $\left[\mathrm{H}^{+}\right] \ll[\mathrm{HA}]_{0}$ |
+| Strength of conjugate base compared with that of water | $\mathrm{A}^{-}$much weaker base than $\mathrm{H}_{2} \mathrm{O}$ | $\mathrm{A}^{-}$much stronger base than $\mathrm{H}_{2} \mathrm{O}$ |
 
 
 Conversely, a weak acid is one for which the equilibrium lies far to the left. Most of the acid originally placed in the solution is still present as HA at equilibrium. That is, a weak acid dissociates only to a very small extent in aqueous solution [see Fig. 14.4(b)]. In contrast to a strong acid, a weak acid has a conjugate base that is a much stronger base than water. In this case a water molecule is not very successful in pulling an $\mathrm{H}^{+}$ion from the conjugate base. The weaker the acid, the stronger its conjugate base.
@@ -191,19 +191,19 @@ FIGURE 14.6
 628
 Chapter Fourteen Acids and Bases
 
-| \hline Formula | Name | Value of $K_{\mathrm{a}}{ }^{*}$ |  |
+| Formula | Name | Value of $K_{\mathrm{a}}{ }^{*}$ |  |
 | --- | --- | --- | --- |
-| \hline $\mathrm{HSO}_{4}{ }^{-}$ | Hydrogen sulfate ion | $1.2 \times 10^{-2}$ |  |
-| \hline $\mathrm{HClO}_{2}$ | Chlorous acid | $1.2 \times 10^{-2}$ |  |
-| \hline $\mathrm{HC}_{2} \mathrm{H}_{2} \mathrm{ClO}_{2}$ | Monochloracetic acid | $1.35 \times 10^{-3}$ |  |
-| \hline HF | Hydrofluoric acid | $7.2 \times 10^{-4}$ |  |
-| \hline $\mathrm{HNO}_{2}$ | Nitrous acid | $4.0 \times 10^{-4}$ |  |
-| \hline $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ | Acetic acid | $1.8 \times 10^{-5}$ |  |
-| \hline $\left[\mathrm{Al}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right]^{3+}$ | Hydrated aluminum(III) ion | $1.4 \times 10^{-5}$ |  |
-| \hline HOCl | Hypochlorous acid | $3.5 \times 10^{-8}$ |  |
-| \hline HCN | Hydrocyanic acid | $6.2 \times 10^{-10}$ |  |
-| \hline $\mathrm{NH}_{4}{ }^{+}$ | Ammonium ion | $5.6 \times 10^{-10}$ |  |
-| \hline $\mathrm{HOC}_{6} \mathrm{H}_{5}$ | Phenol | $1.6 \times 10^{-10}$ |  |
+| $\mathrm{HSO}_{4}{ }^{-}$ | Hydrogen sulfate ion | $1.2 \times 10^{-2}$ |  |
+| $\mathrm{HClO}_{2}$ | Chlorous acid | $1.2 \times 10^{-2}$ |  |
+| $\mathrm{HC}_{2} \mathrm{H}_{2} \mathrm{ClO}_{2}$ | Monochloracetic acid | $1.35 \times 10^{-3}$ |  |
+| HF | Hydrofluoric acid | $7.2 \times 10^{-4}$ |  |
+| $\mathrm{HNO}_{2}$ | Nitrous acid | $4.0 \times 10^{-4}$ |  |
+| $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ | Acetic acid | $1.8 \times 10^{-5}$ |  |
+| $\left[\mathrm{Al}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right]^{3+}$ | Hydrated aluminum(III) ion | $1.4 \times 10^{-5}$ |  |
+| HOCl | Hypochlorous acid | $3.5 \times 10^{-8}$ |  |
+| HCN | Hydrocyanic acid | $6.2 \times 10^{-10}$ |  |
+| $\mathrm{NH}_{4}{ }^{+}$ | Ammonium ion | $5.6 \times 10^{-10}$ |  |
+| $\mathrm{HOC}_{6} \mathrm{H}_{5}$ | Phenol | $1.6 \times 10^{-10}$ |  |
 
 *The units of $K_{\mathrm{a}}$ are customarily omitted.
 hypochlorous acid ( HOCl ), are also oxyacids. Organic acids, those with a carbon atom backbone, commonly contain the carboxyl group:
@@ -741,9 +741,9 @@ To avoid clutter we do not show the units of concentration in the ICE tables. Al
 
 The initial concentrations, the definition of $x$, and the equilibrium concentrations are as follows:
 
-| \hline Initial Concentration (mol/L) |  | Equilibrium Concentration (mol/L) |
+| Initial Concentration (mol/L) |  | Equilibrium Concentration (mol/L) |
 | --- | --- | --- |
-| \hline $$\begin{array}{l} |  |  |
+| $$\begin{array}{l} |  |  |
 | {\left[\mathrm{HNO}_{2}\right]_{0}=5.00} |  |  |
 | {\left[\mathrm{NO}_{2}^{-}\right]_{0}=0} |  |  |
 | {\left[\mathrm{H}^{+}\right]_{0} \approx 0} |  |  |
@@ -756,11 +756,11 @@ The initial concentrations, the definition of $x$, and the equilibrium concentra
 
 It is convenient to represent these concentrations in the following shorthand form (called an ICE table):
 
-| \hline | $\mathrm{HNO}_{2}(a q)$ | ⇌ | $\mathrm{H}^{-}(a q)$ | + | $\mathrm{NO}_{2}{ }^{-}(a q)$ |
+| | $\mathrm{HNO}_{2}(a q)$ | ⇌ | $\mathrm{H}^{-}(a q)$ | + | $\mathrm{NO}_{2}{ }^{-}(a q)$ |
 | --- | --- | --- | --- | --- | --- |
-| \hline Initial: | 5.00 |  | 0 |  | 0 |
-| \hline Change: | $-x$ |  | $+x$ |  | $+x$ |
-| \hline Equilibrium: | $5.00-x$ |  | $x$ |  | $x$ |
+| Initial: | 5.00 |  | 0 |  | 0 |
+| Change: | $-x$ |  | $+x$ |  | $+x$ |
+| Equilibrium: | $5.00-x$ |  | $x$ |  | $x$ |
 
 
 Substituting the equilibrium concentrations in the equilibrium expression and making the approximation that $5.00-x=5.00$ give
@@ -1067,13 +1067,13 @@ Bases of the type represented by B in Equation (14.6) compete with $\mathrm{OH}^
 647
 Visualization: Brønsted-Lowry Reaction
 
-| \hline Name | Formula | Conjugate Acid | $\boldsymbol{K}_{\mathbf{b}}$ |
+| Name | Formula | Conjugate Acid | $\boldsymbol{K}_{\mathbf{b}}$ |
 | --- | --- | --- | --- |
-| \hline Ammonia | $\mathrm{NH}_{3}$ | $\mathrm{NH}_{4}{ }^{+}$ | $1.8 \times 10^{-5}$ |
-| \hline Methylamine | $\mathrm{CH}_{3} \mathrm{NH}_{2}$ | $\mathrm{CH}_{3} \mathrm{NH}_{3}{ }^{+}$ | $4.38 \times 10^{-4}$ |
-| \hline Ethylamine | $\mathrm{C}_{2} \mathrm{H}_{5} \mathrm{NH}_{2}$ | $\mathrm{C}_{2} \mathrm{H}_{5} \mathrm{NH}_{3}{ }^{+}$ | $5.6 \times 10^{-4}$ |
-| \hline Aniline | $\mathrm{C}_{6} \mathrm{H}_{5} \mathrm{NH}_{2}$ | $\mathrm{C}_{6} \mathrm{H}_{5} \mathrm{NH}_{3}{ }^{+}$ | $3.8 \times 10^{-10}$ |
-| \hline Pyridine | $\mathrm{C}_{5} \mathrm{H}_{5} \mathrm{~N}$ | $\mathrm{C}_{5} \mathrm{H}_{5} \mathrm{NH}^{+}$ | $1.7 \times 10^{-9}$ |
+| Ammonia | $\mathrm{NH}_{3}$ | $\mathrm{NH}_{4}{ }^{+}$ | $1.8 \times 10^{-5}$ |
+| Methylamine | $\mathrm{CH}_{3} \mathrm{NH}_{2}$ | $\mathrm{CH}_{3} \mathrm{NH}_{3}{ }^{+}$ | $4.38 \times 10^{-4}$ |
+| Ethylamine | $\mathrm{C}_{2} \mathrm{H}_{5} \mathrm{NH}_{2}$ | $\mathrm{C}_{2} \mathrm{H}_{5} \mathrm{NH}_{3}{ }^{+}$ | $5.6 \times 10^{-4}$ |
+| Aniline | $\mathrm{C}_{6} \mathrm{H}_{5} \mathrm{NH}_{2}$ | $\mathrm{C}_{6} \mathrm{H}_{5} \mathrm{NH}_{3}{ }^{+}$ | $3.8 \times 10^{-10}$ |
+| Pyridine | $\mathrm{C}_{5} \mathrm{H}_{5} \mathrm{~N}$ | $\mathrm{C}_{5} \mathrm{H}_{5} \mathrm{NH}^{+}$ | $1.7 \times 10^{-9}$ |
 
 
 Sample Exercise 14.13 The pH of Weak Bases I
@@ -1097,9 +1097,9 @@ $$K_{\mathrm{b}}=1.8 \times 10^{-5}=\frac{\left[\mathrm{NH}_{4}^{+}\right]\left[
 
 The appropriate concentrations are
 
-| \hline Initial Concentration (mol/L) |  | Equilibrium Concentration (mol/L) |
+| Initial Concentration (mol/L) |  | Equilibrium Concentration (mol/L) |
 | --- | --- | --- |
-| \hline $$\begin{array}{l} |  |  |
+| $$\begin{array}{l} |  |  |
 | {\left[\mathrm{NH}_{3}\right]_{0}=15.0} |  |  |
 | {\left[\mathrm{NH}_{4}^{+}\right]_{0}=0} |  |  |
 | {\left[\mathrm{OH}^{-}\right]_{0} \approx 0} |  |  |
@@ -1112,11 +1112,11 @@ The appropriate concentrations are
 
 In terms of an ICE table, these concentrations are:
 
-| \hline | $\mathrm{NH}_{3}(a q)$ | + | $\mathrm{H}_{2} \mathrm{O}(l)$ | ⇌ | $\mathrm{NH}_{4}{ }^{+}(a q)$ | + | $\mathrm{OH}^{-}(a q)$ |
+| | $\mathrm{NH}_{3}(a q)$ | + | $\mathrm{H}_{2} \mathrm{O}(l)$ | ⇌ | $\mathrm{NH}_{4}{ }^{+}(a q)$ | + | $\mathrm{OH}^{-}(a q)$ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline Initial: | 15.0 |  | - |  | 0 |  | 0 |
-| \hline Change: | $-x$ |  | - |  | $+x$ |  | +x |
-| \hline Equilibrium: | $15.0-x$ |  | - |  | $x$ |  | $x$ |
+| Initial: | 15.0 |  | - |  | 0 |  | 0 |
+| Change: | $-x$ |  | - |  | $+x$ |  | +x |
+| Equilibrium: | $15.0-x$ |  | - |  | $x$ |  | $x$ |
 
 
 Refer to the steps for solving weak acid equilibrium problems. Use the same systematic approach for weak base equilibrium problems.
@@ -1256,16 +1256,16 @@ $$\begin{aligned}
 14.7 Polyprotic Acids
 651
 
-| \hline Name | Formula | $\boldsymbol{K} \boldsymbol{\mathrm { a }}_{\mathrm{a}_{1}}$ | $\boldsymbol{K} \boldsymbol{\mathrm { a }}_{2}$ | $\boldsymbol{K}_{\mathbf{a}_{\mathbf{3}}}$ |
+| Name | Formula | $\boldsymbol{K} \boldsymbol{\mathrm { a }}_{\mathrm{a}_{1}}$ | $\boldsymbol{K} \boldsymbol{\mathrm { a }}_{2}$ | $\boldsymbol{K}_{\mathbf{a}_{\mathbf{3}}}$ |
 | --- | --- | --- | --- | --- |
-| \hline Phosphoric acid | $\mathrm{H}_{3} \mathrm{PO}_{4}$ | $7.5 \times 10^{-3}$ | $6.2 \times 10^{-8}$ | $4.8 \times 10^{-13}$ |
-| \hline Arsenic acid | $\mathrm{H}_{3} \mathrm{AsO}_{4}$ | $5 \times 10^{-3}$ | $8 \times 10^{-8}$ | $6 \times 10^{-10}$ |
-| \hline Carbonic acid | $\mathrm{H}_{2} \mathrm{CO}_{3}$ | $4.3 \times 10^{-7}$ | $5.6 \times 10^{-11}$ |  |
-| \hline Sulfuric acid | $\mathrm{H}_{2} \mathrm{SO}_{4}$ | Large | $1.2 \times 10^{-2}$ |  |
-| \hline Sulfurous acid | $\mathrm{H}_{2} \mathrm{SO}_{3}$ | $1.5 \times 10^{-2}$ | $1.0 \times 10^{-7}$ |  |
-| \hline Hydrosulfuric acid* | $\mathrm{H}_{2} \mathrm{~S}$ | $1.0 \times 10^{-7}$ | $\sim 10^{-19}$ |  |
-| \hline Oxalic acid | $\mathrm{H}_{2} \mathrm{C}_{2} \mathrm{O}_{4}$ | $6.5 \times 10^{-2}$ | $6.1 \times 10^{-5}$ |  |
-| \hline Ascorbic acid (vitamin C) | $\mathrm{H}_{2} \mathrm{C}_{6} \mathrm{H}_{6} \mathrm{O}_{6}$ | $7.9 \times 10^{-5}$ | $1.6 \times 10^{-12}$ |  |
+| Phosphoric acid | $\mathrm{H}_{3} \mathrm{PO}_{4}$ | $7.5 \times 10^{-3}$ | $6.2 \times 10^{-8}$ | $4.8 \times 10^{-13}$ |
+| Arsenic acid | $\mathrm{H}_{3} \mathrm{AsO}_{4}$ | $5 \times 10^{-3}$ | $8 \times 10^{-8}$ | $6 \times 10^{-10}$ |
+| Carbonic acid | $\mathrm{H}_{2} \mathrm{CO}_{3}$ | $4.3 \times 10^{-7}$ | $5.6 \times 10^{-11}$ |  |
+| Sulfuric acid | $\mathrm{H}_{2} \mathrm{SO}_{4}$ | Large | $1.2 \times 10^{-2}$ |  |
+| Sulfurous acid | $\mathrm{H}_{2} \mathrm{SO}_{3}$ | $1.5 \times 10^{-2}$ | $1.0 \times 10^{-7}$ |  |
+| Hydrosulfuric acid* | $\mathrm{H}_{2} \mathrm{~S}$ | $1.0 \times 10^{-7}$ | $\sim 10^{-19}$ |  |
+| Oxalic acid | $\mathrm{H}_{2} \mathrm{C}_{2} \mathrm{O}_{4}$ | $6.5 \times 10^{-2}$ | $6.1 \times 10^{-5}$ |  |
+| Ascorbic acid (vitamin C) | $\mathrm{H}_{2} \mathrm{C}_{6} \mathrm{H}_{6} \mathrm{O}_{6}$ | $7.9 \times 10^{-5}$ | $1.6 \times 10^{-12}$ |  |
 
 *The $K_{\mathrm{a}_{2}}$ value for $\mathrm{H}_{2} \mathrm{~S}$ is very uncertain. Because it is so small, the $K_{\mathrm{a}_{2}}$ value is very difficult to measure accurately.
 
@@ -1434,12 +1434,12 @@ $$\mathrm{H}^{+}, \mathrm{HSO}_{4}^{-}, \text {and } \mathrm{H}_{2} \mathrm{O}$$
 
 Proceeding as in Sample Exercise 14.16, we consider the dissociation of $\mathrm{HSO}_{4}{ }^{-}$, which leads to the following ICE table:
 
-| \hline | $\mathrm{HSO}_{4}{ }^{-}(a q)$ | $\mathrm{H}^{+}(a q)$ | + | $\mathrm{SO}_{4}{ }^{2-}(a q)$ |
+| | $\mathrm{HSO}_{4}{ }^{-}(a q)$ | $\mathrm{H}^{+}(a q)$ | + | $\mathrm{SO}_{4}{ }^{2-}(a q)$ |
 | --- | --- | --- | --- | --- |
-| \hline Initial: | 0.0100 | 0.0100 |  | 0 |
-| \hline |  | From dissociation of $\mathrm{H}_{2} \mathrm{SO}_{4}$ |  |  |
-| \hline Change: | $-x$ | $+x$ |  | $+x$ |
-| \hline Equilibrium: | $0.0100-x$ | $0.0100+x$ |  | $x$ |
+| Initial: | 0.0100 | 0.0100 |  | 0 |
+| |  | From dissociation of $\mathrm{H}_{2} \mathrm{SO}_{4}$ |  |  |
+| Change: | $-x$ | $+x$ |  | $+x$ |
+| Equilibrium: | $0.0100-x$ | $0.0100+x$ |  | $x$ |
 
 
 Substituting the equilibrium concentrations into the expression for $K_{\mathrm{a}_{2}}$ gives
@@ -1726,13 +1726,13 @@ See Exercises 14.111 and 14.112.
 
 The acid-base properties of aqueous solutions of various salts are summarized in Table 14.6.
 
-| \hline Type of Salt | Examples | Comment | pH of Solution |
+| Type of Salt | Examples | Comment | pH of Solution |
 | --- | --- | --- | --- |
-| \hline Cation is from strong base; anion is from strong acid | $\mathrm{KCl}, \mathrm{KNO}_{3}$, $\mathrm{NaCl}, \mathrm{NaNO}_{3}$ | Neither acts as an acid or a base | Neutral |
-| \hline Cation is from strong base; anion is from weak acid | $\mathrm{NaC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$, KCN, NaF | Anion acts as a base; cation has no effect on pH | Basic |
-| \hline Cation is conjugate acid of weak base; anion is from strong acid | $\mathrm{NH}_{4} \mathrm{Cl}$, $\mathrm{NH}_{4} \mathrm{NO}_{3}$ | Cation acts as acid; anion has no effect on pH | Acidic |
-| \hline Cation is conjugate acid of weak base; anion is conjugate base of weak acid | $\mathrm{NH}_{4} \mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$, $\mathrm{NH}_{4} \mathrm{CN}$ | Cation acts as an acid; anion acts as a base | Acidic if $K_{\mathrm{a}}>K_{\mathrm{b}}$, basic if $K_{\mathrm{b}}>K_{\mathrm{a}}$, neutral if $K_{\mathrm{a}}=K_{\mathrm{b}}$ |
-| \hline Cation is highly charged metal ion; anion is from strong acid | $\mathrm{Al}\left(\mathrm{NO}_{3}\right)_{3}$, $\mathrm{FeCl}_{3}$ | Hydrated cation acts as an acid; anion has no effect on pH | Acidic |
+| Cation is from strong base; anion is from strong acid | $\mathrm{KCl}, \mathrm{KNO}_{3}$, $\mathrm{NaCl}, \mathrm{NaNO}_{3}$ | Neither acts as an acid or a base | Neutral |
+| Cation is from strong base; anion is from weak acid | $\mathrm{NaC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$, KCN, NaF | Anion acts as a base; cation has no effect on pH | Basic |
+| Cation is conjugate acid of weak base; anion is from strong acid | $\mathrm{NH}_{4} \mathrm{Cl}$, $\mathrm{NH}_{4} \mathrm{NO}_{3}$ | Cation acts as acid; anion has no effect on pH | Acidic |
+| Cation is conjugate acid of weak base; anion is conjugate base of weak acid | $\mathrm{NH}_{4} \mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$, $\mathrm{NH}_{4} \mathrm{CN}$ | Cation acts as an acid; anion acts as a base | Acidic if $K_{\mathrm{a}}>K_{\mathrm{b}}$, basic if $K_{\mathrm{b}}>K_{\mathrm{a}}$, neutral if $K_{\mathrm{a}}=K_{\mathrm{b}}$ |
+| Cation is highly charged metal ion; anion is from strong acid | $\mathrm{Al}\left(\mathrm{NO}_{3}\right)_{3}$, $\mathrm{FeCl}_{3}$ | Hydrated cation acts as an acid; anion has no effect on pH | Acidic |
 
 ---
 
@@ -1746,14 +1746,14 @@ Further aspects of acid strengths are discussed in Section 20.7.
 | | Bond |  |  | |
 | | Strength |  |  | |
 | | (kJ/mol) |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Acid |  |  | |
 | --- |
 | | Strength |  |  | |
 | | in Water |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline H-F | 565 | Weak |
+| H-F | 565 | Weak |
 | H-Cl | 427 | Strong |
 | H-Br | 363 | Strong |
 | H-I | 295 | Strong |
@@ -1787,25 +1787,25 @@ The effect of the number of attached oxygens on the $\mathrm{O}-\mathrm{H}$ bond
 
 A compound containing the $\mathrm{H}-\mathrm{O}-\mathrm{X}$ group will produce an acidic solution in water if the $0-\mathrm{X}$ bond is strong and covalent. If the $0-\mathrm{X}$ bond is ionic, the compound will produce a basic solution in water.
 
-| \hline Oxyacid | Structure | $\boldsymbol{K}_{\mathbf{a}}$ Value |
+| Oxyacid | Structure | $\boldsymbol{K}_{\mathbf{a}}$ Value |
 | --- | --- | --- |
-| \hline $\mathrm{HClO}_{4}$ |  | Large ( $\sim 10^{7}$ ) |
-| \hline $\mathrm{HClO}_{3}$ |  | $\sim 1$ |
-| \hline $\mathrm{HClO}_{2}$ | $\mathrm{H}-\mathrm{O}-\mathrm{Cl}-\mathrm{O}$ | $1.2 \times 10^{-2}$ |
-| \hline HClO | $\mathrm{H}-\mathrm{O}-\mathrm{Cl}$ | $3.5 \times 10^{-8}$ |
-| \hline $\mathrm{H}_{2} \mathrm{SO}_{4}$ |  | Large |
-| \hline $\mathrm{H}_{2} \mathrm{SO}_{3}$ |  | $1.5 \times 10^{-2}$ |
-| \hline $\mathrm{HNO}_{3}$ |  | Large |
-| \hline $\mathrm{HNO}_{2}$ | $\mathrm{H}-\mathrm{O}-\mathrm{N}-\mathrm{O}$ | $4.0 \times 10^{-4}$ |
+| $\mathrm{HClO}_{4}$ |  | Large ( $\sim 10^{7}$ ) |
+| $\mathrm{HClO}_{3}$ |  | $\sim 1$ |
+| $\mathrm{HClO}_{2}$ | $\mathrm{H}-\mathrm{O}-\mathrm{Cl}-\mathrm{O}$ | $1.2 \times 10^{-2}$ |
+| HClO | $\mathrm{H}-\mathrm{O}-\mathrm{Cl}$ | $3.5 \times 10^{-8}$ |
+| $\mathrm{H}_{2} \mathrm{SO}_{4}$ |  | Large |
+| $\mathrm{H}_{2} \mathrm{SO}_{3}$ |  | $1.5 \times 10^{-2}$ |
+| $\mathrm{HNO}_{3}$ |  | Large |
+| $\mathrm{HNO}_{2}$ | $\mathrm{H}-\mathrm{O}-\mathrm{N}-\mathrm{O}$ | $4.0 \times 10^{-4}$ |
 
 
 |  Acid  | | | --- | --- | --- | --- | |
 | --- |
 | | Electronegativity |  |  |  | |
 | | of $\mathbf{X}$ |  |  |  | |
-| | \end{tabular} |
+| |  |
 } |  |  |  |
-| \hline HOCl | Cl | 3.0 | $\boldsymbol{K}_{\mathrm{a}}$ for Acid |
+| HOCl | Cl | 3.0 | $\boldsymbol{K}_{\mathrm{a}}$ for Acid |
 | HOBr | Br | 2.8 | $4 \times 10^{-8}$ |
 | HOI | I | 2.5 | $2 \times 10^{-9}$ |
 | $\mathrm{HOCH}_{3}$ | $\mathrm{CH}_{3}$ | 2.3 (for carbon in $\mathrm{CH}_{3}$ ) | $2 \times 10^{-11}$ |
@@ -1850,7 +1850,7 @@ We have seen that the first successful conceptualization of acid-base behavior w
 
 | Model | Definition of Acid | Definition of Base |
 | --- | --- | --- |
-| \hline Arrhenius | $\mathrm{H}^{+}$producer | $\mathrm{OH}^{-}$producer |
+| Arrhenius | $\mathrm{H}^{+}$producer | $\mathrm{OH}^{-}$producer |
 | Brønsted-Lowry | $\mathrm{H}^{+}$donor | $\mathrm{H}^{+}$acceptor |
 | Lewis | Electron-pair acceptor | Electron-pair donor |
 
@@ -2312,7 +2312,7 @@ d. $\left[\mathrm{OH}^{-}\right]=7.3 \times 10^{-4} M$
 
 | Temperature $\left({ }^{\circ} \mathbf{C}\right)$ | $\boldsymbol{K}_{\mathbf{w}}$ |
 | --- | --- |
-| \hline 0 | $1.14 \times 10^{-15}$ |
+| 0 | $1.14 \times 10^{-15}$ |
 | 25 | $1.00 \times 10^{-14}$ |
 | 35 | $2.09 \times 10^{-14}$ |
 | 40. | $2.92 \times 10^{-14}$ |
@@ -2334,24 +2334,24 @@ e. $\mathrm{pOH}=5.0$
 f. $\mathrm{pOH}=9.60$
 43. Fill in the missing information in the following table.
 
-| \hline | pH | pOH | [ $\mathbf{H}^{+}$] | [ $\mathrm{OH}^{-}$] | Acidic, Basic, or Neutral? |
+| | pH | pOH | [ $\mathbf{H}^{+}$] | [ $\mathrm{OH}^{-}$] | Acidic, Basic, or Neutral? |
 | --- | --- | --- | --- | --- | --- |
-| \hline Solution a | $\underline{6.88}$ | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ |
-| \hline Solution b | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ | $\underline{8.4 \times 10^{-14} M}$ | $\_\_\_\_$ |
-| \hline Solution c | $\_\_\_\_$ | 3.11 | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ |
-| \hline Solution d | $\_\_\_\_$ | $\_\_\_\_$ | $\underline{1.0 \times 10^{-7} M}$ | $\_\_\_\_$ | $\_\_\_\_$ |
+| Solution a | $\underline{6.88}$ | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ |
+| Solution b | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ | $\underline{8.4 \times 10^{-14} M}$ | $\_\_\_\_$ |
+| Solution c | $\_\_\_\_$ | 3.11 | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ |
+| Solution d | $\_\_\_\_$ | $\_\_\_\_$ | $\underline{1.0 \times 10^{-7} M}$ | $\_\_\_\_$ | $\_\_\_\_$ |
 
 44. Fill in the missing information in the following table.
 
-| \hline | pH | pOH | [ $\mathrm{H}^{+}$] | [ $\mathrm{OH}^{-}$] | Acidic, Basic, or Neutral? |
+| | pH | pOH | [ $\mathrm{H}^{+}$] | [ $\mathrm{OH}^{-}$] | Acidic, Basic, or Neutral? |
 | --- | --- | --- | --- | --- | --- |
-| \hline Solution a | 9.63 | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ |
-| \hline Solution b | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ | $\underline{3.9 \times 10^{-6} M}$ | $\_\_\_\_$ |
-| \hline Solution c | $\_\_\_\_$ | $\_\_\_\_$ | $\underline{0.027 M}$ | $\_\_\_\_$ | $\_\_\_\_$ |
-| \hline Solution d | $\_\_\_\_$ | | | $\_\_\_\_$ |  |  |  |  |  | |
+| Solution a | 9.63 | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ |
+| Solution b | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ | $\underline{3.9 \times 10^{-6} M}$ | $\_\_\_\_$ |
+| Solution c | $\_\_\_\_$ | $\_\_\_\_$ | $\underline{0.027 M}$ | $\_\_\_\_$ | $\_\_\_\_$ |
+| Solution d | $\_\_\_\_$ | | | $\_\_\_\_$ |  |  |  |  |  | |
 | --- |
 | | 12.2 |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  | $\_\_\_\_$ | $\_\_\_\_$ | $\_\_\_\_$ |  |  |
 
 45. The pH of a sample of gastric juice in a person's stomach is 2.1 . Calculate the $\mathrm{pOH},\left[\mathrm{H}^{+}\right]$, and $\left[\mathrm{OH}^{-}\right]$for this sample. Is gastric juice acidic or basic?
@@ -2647,3 +2647,57 @@ $$\begin{array}{l}
 153. A certain acid, HA, has a vapor density of $5.11 \mathrm{~g} / \mathrm{L}$ when in the gas phase at a temperature of $25^{\circ} \mathrm{C}$ and a pressure of 1.00 atm . When 1.50 g of this acid is dissolved in enough water to make 100.0 mL of solution, the pH is found to be 1.80 . Calculate $K_{\mathrm{a}}$ for the acid.
 154. Calculate the mass of sodium hydroxide that must be added to 1.00 L of $1.00 M \mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ to double the pH of the solution (assume that the NaOH does not change the volume of the solution).
 155. Consider the species $\mathrm{PO}_{4}{ }^{3-}, \mathrm{HPO}_{4}{ }^{2-}$, and $\mathrm{H}_{2} \mathrm{PO}_{4}{ }^{-}$. Each ion can act as a base in water. Determine the $K_{\mathrm{b}}$ value for each of these species. Which species is the strongest base?
+
+---
+
+Marathon Problems
+679
+156. Calculate the pH of a $0.10 M$ solution of sodium phosphate. See Exercise 155.
+157. Will $0.10 M$ solutions of the following salts be acidic, basic, or neutral? See Appendix 5 for $K_{\mathrm{a}}$ values.
+a. ammonium bicarbonate
+b. sodium dihydrogen phosphate
+c. sodium hydrogen phosphate
+d. ammonium dihydrogen phosphate
+e. ammonium formate
+158. a. The principal equilibrium in a solution of $\mathrm{NaHCO}_{3}$ is
+$$\mathrm{HCO}_{3}^{-}(a q)+\mathrm{HCO}_{3}^{-}(a q) \rightleftharpoons \mathrm{H}_{2} \mathrm{CO}_{3}(a q)+\mathrm{CO}_{3}^{2-}(a q)$$
+
+Calculate the value of the equilibrium constant for this reaction.
+b. At equilibrium, what is the relationship between $\left[\mathrm{H}_{2} \mathrm{CO}_{3}\right]$ and $\left[\mathrm{CO}_{3}{ }^{2-}\right]$ ?
+c. Using the equilibrium
+$$\mathrm{H}_{2} \mathrm{CO}_{3}(a q) \rightleftharpoons 2 \mathrm{H}^{+}(a q)+\mathrm{CO}_{3}^{2-}(a q)$$
+derive an expression for the pH of the solution in terms of $K_{\mathrm{a}_{1}}$ and $K_{\mathrm{a}_{2}}$ using the result from part b .
+d. What is the pH of a solution of $\mathrm{NaHCO}_{3}$ ?
+159. A $0.100-\mathrm{g}$ sample of the weak acid HA (molar mass $=100.0 \mathrm{g} / \mathrm{mol})$ is dissolved in 500.0 g of water. The freezing point of the resulting solution is $-0.0056^{\circ} \mathrm{C}$. Calculate the value of $K_{\mathrm{a}}$ for this acid. Assume molarity equals molarity in this solution.
+160. A sample containing 0.0500 mol of $\mathrm{Fe}_{2}\left(\mathrm{SO}_{4}\right)_{3}$ is dissolved in enough water to make 1.00 L of solution. This solution contains hydrated $\mathrm{SO}_{4}{ }^{2-}$ and $\mathrm{Fe}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}{ }^{3+}$ ions. The latter behaves as an acid:
+$$\mathrm{Fe}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}{ }^{3+}(a q) \rightleftharpoons \mathrm{Fe}\left(\mathrm{H}_{2} \mathrm{O}\right)_{5} \mathrm{OH}^{2+}(a q)+\mathrm{H}^{+}(a q)$$
+a. Calculate the expected osmotic pressure of this solution at $25^{\circ} \mathrm{C}$ if the above dissociation is negligible.
+b. The actual osmotic pressure of the solution is 6.73 atm at $25^{\circ} \mathrm{C}$. Calculate $K_{\mathrm{a}}$ for the dissociation reaction of $\mathrm{Fe}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}{ }^{3+}$. (To do this calculation, you must assume that none of the ions goes through the semipermeable membrane. Actually, this is not a great assumption for the tiny $\mathrm{H}^{+}$ion.)
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+161. A 2.14-g sample of sodium hypoiodite is dissolved in water to make 1.25 L of solution. The solution pH is 11.32 . What is $K_{\mathrm{b}}$ for the hypoiodite ion?
+162. Isocyanic acid (HNCO) can be prepared by heating sodium cyanate in the presence of solid oxalic acid according to the equation
+$$2 \mathrm{NaOCN}(s)+\mathrm{H}_{2} \mathrm{C}_{2} \mathrm{O}_{4}(s) \longrightarrow 2 \mathrm{HNCO}(l)+\mathrm{Na}_{2} \mathrm{C}_{2} \mathrm{O}_{4}(s)$$
+
+Upon isolating pure $\mathrm{HNCO}(l)$, an aqueous solution of HNCO can be prepared by dissolving the liquid HNCO in water. What is the pH of a $100 .-\mathrm{mL}$ solution of HNCO prepared from the reaction of 10.0 g each of NaOCN and $\mathrm{H}_{2} \mathrm{C}_{2} \mathrm{O}_{4}$, assuming all of the HNCO produced is dissolved in solution? ( $K_{\mathrm{a}}$ of $\mathrm{HNCO}=1.2 \times 10^{-4}$.)
+163. Papaverine hydrochloride (abbreviated papH ${ }^{+} \mathrm{Cl}^{-}$; molar mass $= 378.85 \mathrm{~g} / \mathrm{mol}$ ) is a drug that belongs to a group of medicines called vasodilators, which cause blood vessels to expand, thereby increasing blood flow. This drug is the conjugate acid of the weak base papaverine (abbreviated pap; $K_{\mathrm{b}}=8.33 \times 10^{-9}$ at $35.0^{\circ} \mathrm{C}$ ). Calculate the pH of a $30.0 \mathrm{mg} / \mathrm{mL}$ aqueous dose of $\mathrm{papH}^{+} \mathrm{Cl}^{-}$ prepared at $35.0^{\circ} \mathrm{C} . K_{\mathrm{w}}$ at $35.0^{\circ} \mathrm{C}$ is $2.1 \times 10^{-14}$.
+
+Marathon Problems*
+These problems are designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+164. Captain Kirk, of the Starship Enterprise, has been told by his superiors that only a chemist can be trusted with the combination to the safe containing the dilithium crystals that power the ship. The combination is the pH of solution A , described below, followed by the pH of solution C . (Example: If the pH of solution A is 3.47 and that of solution C is 8.15 , then the combination to the safe is $3-47-8-15$.) The chemist must determine the combination using only the information below (all solutions are at $25^{\circ} \mathrm{C}$ ):
+
+Solution A is 50.0 mL of a $0.100 M$ solution of the weak monoprotic acid HX.
+Solution B is a $0.0500 M$ solution of the salt NaX. It has a pH of 10.02 .
+Solution C is made by adding 15.0 mL of $0.250 M \mathrm{KOH}$ to solution A.
+What is the combination to the safe?
+165. For the following, mix equal volumes of one solution from Group I with one solution from Group II to achieve the indicated pH . Calculate the pH of each solution.
+
+Group I: $\quad 0.20 M \mathrm{NH}_{4} \mathrm{Cl}, 0.20 M \mathrm{HCl}, 0.20 M \mathrm{C}_{6} \mathrm{H}_{5} \mathrm{NH}_{3} \mathrm{Cl}, 0.20 M\left(\mathrm{C}_{2} \mathrm{H}_{5}\right)_{3} \mathrm{NHCl}$
+Group II: $0.20 M \mathrm{KOI}, 0.20 M \mathrm{NaCN}, 0.20 M \mathrm{KOCl}, 0.20 M \mathrm{NaNO}_{2}$
+a. the solution with the lowest pH
+b. the solution with the highest pH
+c. the solution with the pH closest to 7.00
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
+*Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.

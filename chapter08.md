@@ -1,65 +1,5 @@
 # Chapter 8: Bonding: General Concepts
 
-Marathon Problem
-327
-
-P: $\quad 1.8$
-S: $\quad 2.3$
-Cl: $\quad 1.8$
-Ar: $\quad 1.8$
-Explain these relative numbers.
-134. We expect the atomic radius to increase going down a group in the periodic table. Can you suggest why the atomic radius of hafnium breaks this rule? (See data below.)
-
-|  Atomic Radii, in pm  |  |  |  |
-| --- | --- | --- | --- |
-| \hline Sc | 157 | Ti | 147.7 |
-| Y | 169.3 | Zr | 159.3 |
-| La | 191.5 | Hf | 147.6 |
-
-135. Consider the following ionization energies for aluminum:
-$$\begin{aligned}
-\mathrm{Al}(g) & \longrightarrow \mathrm{Al}^{+}(g)+\mathrm{e}^{-} \\
-\mathrm{Al}^{+}(g) & \longrightarrow \mathrm{Al}^{2+}(g)+\mathrm{e}^{-} \\
-\mathrm{Al}^{2+}(g) & =580 \mathrm{~kJ} / \mathrm{mol} \\
-\mathrm{Al}_{2} & =1815 \mathrm{~kJ} / \mathrm{mol} \\
-\mathrm{Al}^{3+}(g) & \longrightarrow \mathrm{Al}^{4+}(g)+\mathrm{e}^{-} \\
-I_{3} & =2740 \mathrm{~kJ} / \mathrm{mol} \\
-I_{4} & =11,600 \mathrm{~kJ} / \mathrm{mol}
-\end{aligned}$$
-a. Account for the trend in the values of the ionization energies.
-b. Explain the large increase between $I_{3}$ and $I_{4}$.
-c. Which one of the four ions has the greatest electron affinity? Explain.
-d. List the four aluminum ions given in order of increasing size, and explain your ordering. (Hint: Remember that most of the size of an atom or ion is due to its electrons.)
-136. While Mendeleev predicted the existence of several undiscovered elements, he did not predict the existence of the noble gases, the lanthanides, or the actinides. Propose reasons why Mendeleev was not able to predict the existence of the noble gases.
-137. An atom of a particular element is traveling at $1.00 \%$ of the speed of light. The de Broglie wavelength is found to be $3.31 \times 10^{-3} \mathrm{pm}$. Which element is this? Prove it.
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-138. As the weapons officer aboard the Starship Chemistry, it is your duty to configure a photon torpedo to remove an electron from the outer hull of an enemy vessel. You know that the work function (the binding energy of the electron) of the hull of the enemy ship is $7.52 \times 10^{-19} \mathrm{~J}$.
-a. What wavelength does your photon torpedo need to be to eject an electron?
-b. You find an extra photon torpedo with a wavelength of 259 nm and fire it at the enemy vessel. Does this photon torpedo do any damage to the ship (does it eject an electron)?
-c. If the hull of the enemy vessel is made of the element with an electron configuration of $[\mathrm{Ar}] 4 s^{1} 3 d^{10}$, what metal is this?
-139. Francium, Fr, is a radioactive element found in some uranium minerals and is formed as a result of the decay of actinium.
-a. What are the electron configurations of francium and its predicted most common ion?
-b. It has been estimated that at any one time, there is only one (1.0) ounce of francium on earth. Assuming this is true, what number of francium atoms exist on earth?
-c. The longest-lived isotope of francium is ${ }^{223} \mathrm{Fr}$. What is the total mass in grams of the neutrons in one atom of this isotope?
-140. Answer the following questions based on the given electron configurations and identify the elements.
-a. Arrange these atoms in order of increasing size: $[\mathrm{Kr}] 5 s^{2} 4 d^{10} 5 p^{6} ;[\mathrm{Kr}] 5 s^{2} 4 d^{10} 5 p^{1} ;[\mathrm{Kr}] 5 s^{2} 4 d^{10} 5 p^{3}$.
-b. Arrange these atoms in order of decreasing first ionization energy: $[\mathrm{Ne}] 3 s^{2} 3 p^{5} ;[\mathrm{Ar}] 4 s^{2} 3 d^{10} 4 p^{3} ;[\mathrm{Ar}] 4 s^{2} 3 d^{10} 4 p^{5}$.
-
-Marathon Problem*
-This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-141. From the information below, identify element $X$.
-a. The wavelength of the radio waves sent by an FM station broadcasting at 97.1 MHz is 30.0 million $\left(3.00 \times 10^{7}\right)$ times greater than the wavelength corresponding to the energy difference between a particular excited state of the hydrogen atom and the ground state.
-b. Let $V$ represent the principal quantum number for the valence shell of element X . If an electron in the hydrogen atom falls from shell $V$ to the inner shell corresponding to the excited state mentioned above in part a, the wavelength of light emitted is the same as the wavelength of an electron moving at a speed of $570 \mathrm{~m} / \mathrm{s}$.
-c. The number of unpaired electrons for element X in the ground state is the same as the maximum number of electrons in an atom that can have the quantum number designations $n=2$, $m_{\ell}=-1$, and $m_{s}=-\frac{1}{2}$.
-d. Let $A$ equal the charge of the stable ion that would form when the undiscovered element 120 forms ionic compounds. This value of $A$ also represents the angular momentum quantum number for the subshell containing the unpaired electron(s) for element X.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-*Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.
-
----
-
 Bonding: General Concepts
 
 Contents
@@ -285,9 +225,9 @@ There are many cases besides that of carbon dioxide where the bond polarities op
 8.3 Bond Polarity and Dipole Moments
 337
 
-| \hline Type |  |  | Cancellation of Polar Bonds | Example | Ball-and-Stick Model |
+| Type |  |  | Cancellation of Polar Bonds | Example | Ball-and-Stick Model |
 | --- | --- | --- | --- | --- | --- |
-| \hline Linear molecules with two identical bonds | B-A-B | $\mathrm{CO}_{2}$ |  |  |  |
+| Linear molecules with two identical bonds | B-A-B | $\mathrm{CO}_{2}$ |  |  |  |
 
 
 Planar molecules with three identical bonds 120 degrees apart
@@ -376,13 +316,13 @@ There are some important exceptions to the rules discussed here. For example, ti
 Sizes of lons
 Ion size plays an important role in determining the structure and stability of ionic solids, the properties of ions in aqueous solution, and the biologic effects of ions. As with atoms, it is impossible to define precisely the sizes of ions. Most often, ionic radii are determined
 
-| \hline Group 1A | Group 2A | Group 3A | Group 6A | Group 7A | Electron Configuration |
+| Group 1A | Group 2A | Group 3A | Group 6A | Group 7A | Electron Configuration |
 | --- | --- | --- | --- | --- | --- |
-| \hline $\mathrm{H}^{-}, \mathrm{Li}^{+}$ | $\mathrm{Be}^{2+}$ |  |  |  | [He] |
-| \hline $\mathrm{Na}^{+}$ | $\mathrm{Mg}^{2+}$ | Al ${ }^{3+}$ | $\mathrm{O}^{2-}$ | $\mathrm{F}^{-}$ | [Ne] |
-| \hline $\mathrm{K}^{+}$ | $\mathrm{Ca}^{2+}$ |  | $\mathrm{S}^{2-}$ | $\mathrm{Cl}^{-}$ | [Ar] |
-| \hline $\mathrm{Rb}^{+}$ | $\mathrm{Sr}^{2+}$ |  | $\mathrm{Se}^{2-}$ | $\mathrm{Br}^{-}$ | [Kr] |
-| \hline $\mathrm{Cs}^{+}$ | $\mathrm{Ba}^{2+}$ |  | $\mathrm{Te}^{2-}$ | $\mathrm{I}^{-}$ | [Xe] |
+| $\mathrm{H}^{-}, \mathrm{Li}^{+}$ | $\mathrm{Be}^{2+}$ |  |  |  | [He] |
+| $\mathrm{Na}^{+}$ | $\mathrm{Mg}^{2+}$ | Al ${ }^{3+}$ | $\mathrm{O}^{2-}$ | $\mathrm{F}^{-}$ | [Ne] |
+| $\mathrm{K}^{+}$ | $\mathrm{Ca}^{2+}$ |  | $\mathrm{S}^{2-}$ | $\mathrm{Cl}^{-}$ | [Ar] |
+| $\mathrm{Rb}^{+}$ | $\mathrm{Sr}^{2+}$ |  | $\mathrm{Se}^{2-}$ | $\mathrm{Br}^{-}$ | [Kr] |
+| $\mathrm{Cs}^{+}$ | $\mathrm{Ba}^{2+}$ |  | $\mathrm{Te}^{2-}$ | $\mathrm{I}^{-}$ | [Xe] |
 
 ---
 
@@ -489,20 +429,20 @@ $$\mathrm{Li}^{+}(g)+\mathrm{F}^{-}(g) \longrightarrow \mathrm{LiF}(s)$$
 This corresponds to the lattice energy for LiF , which is $-1047 \mathrm{~kJ} / \mathrm{mol}$.
 Since the sum of these five processes yields the desired overall reaction, the sum of the individual energy changes gives the overall energy change:
 
-| \hline Process | Energy Change (kJ) |
+| Process | Energy Change (kJ) |
 | --- | --- |
-| \hline \multirow{6}{*}{| | $\operatorname{Li}(s) \rightarrow \operatorname{Li}(g) \mathrm{Li}(g) \rightarrow \mathrm{Li}^{+}(g)+\mathrm{e}^{-} \frac{1}{2} \mathrm{~F}_{2}(g) \rightarrow \mathrm{F}(g)$ |  | |
+| \multirow{6}{*}{| | $\operatorname{Li}(s) \rightarrow \operatorname{Li}(g) \mathrm{Li}(g) \rightarrow \mathrm{Li}^{+}(g)+\mathrm{e}^{-} \frac{1}{2} \mathrm{~F}_{2}(g) \rightarrow \mathrm{F}(g)$ |  | |
 | --- |
 | | $\mathrm{F}(g)+\mathrm{e}^{-} \rightarrow \mathrm{F}^{-}(g)$ |  | |
 | | $\underline{\mathrm{Li}^{+}(g)+\mathrm{F}^{-}(g) \rightarrow \operatorname{LiF}(s)}$ |  | |
 | | Overall: $\quad \operatorname{Li}(s)+\frac{1}{2} \mathrm{~F}_{2}(g) \rightarrow \operatorname{LiF}(s)$ |  | |
-| | \end{tabular} |
+| |  |
 } | 161 |
-| \hline | 520 |
-| \hline | 77 |
-| \hline | -328 |
-| \hline | -1047 |
-| \hline | -617 kJ (per mole of LiF) |
+| | 520 |
+| | 77 |
+| | -328 |
+| | -1047 |
+| | -617 kJ (per mole of LiF) |
 
 
 This process is summarized by the energy diagram in Fig. 8.9. Note that the formation of solid lithium fluoride from its elements is highly exothermic, mainly because of the very large negative lattice energy. A great deal of energy is released when the ions combine to form the solid. In fact, note that the energy released when an electron is added to a fluorine atom to form the $\mathrm{F}^{-}$ion ( $328 \mathrm{~kJ} / \mathrm{mol}$ ) is not enough to remove an electron from lithium $(520 \mathrm{~kJ} / \mathrm{mol})$. That is, when a metallic lithium atom reacts with a nonmetallic fluorine atom to form separated ions,
@@ -692,27 +632,27 @@ Although a $\mathrm{C}-\mathrm{H}$ bond is broken in each case, the energy requi
 8.8 Covalent Bond Energies and Chemical Reactions
 351
 
-| \hline  | Single Bonds | Multiple Bonds |  |  |  |  |  |
+| | Single Bonds | Multiple Bonds |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline $\mathrm{H}-\mathrm{H}$ | 432 | $\mathrm{N}-\mathrm{H}$ | 391 | I-I | 149 | $\mathrm{C}=\mathrm{C}$ | 614 |
-| \hline $\mathrm{H}-\mathrm{F}$ | 565 | $\mathrm{N}-\mathrm{N}$ | 160 | I-Cl | 208 | $\mathrm{C} \equiv \mathrm{C}$ | 839 |
-| \hline $\mathrm{H}-\mathrm{Cl}$ | 427 | N-F | 272 | I-Br | 175 | $\mathrm{O}=\mathrm{O}$ | 495 |
-| \hline $\mathrm{H}-\mathrm{Br}$ | 363 | $\mathrm{N}-\mathrm{Cl}$ | 200 |  |  | $\mathrm{C}=\mathrm{O}^{*}$ | 745 |
-| \hline H-I | 295 | $\mathrm{N}-\mathrm{Br}$ | 243 | S-H | 347 | $\mathrm{C} \equiv \mathrm{O}$ | 1072 |
-| \hline |  | $\mathrm{N}-\mathrm{O}$ | 201 | S-F | 327 | $\mathrm{N}=\mathrm{O}$ | 607 |
-| \hline $\mathrm{C}-\mathrm{H}$ | 413 | $\mathrm{O}-\mathrm{H}$ | 467 | S-Cl | 253 | $\mathrm{N}=\mathrm{N}$ | 418 |
-| \hline C-C | 347 | $\mathrm{O}-\mathrm{O}$ | 146 | $\mathrm{S}-\mathrm{Br}$ | 218 | $\mathrm{N} \equiv \mathrm{N}$ | 941 |
-| \hline $\mathrm{C}-\mathrm{N}$ | 305 | O-F | 190 | S-S | 266 | $\mathrm{C} \equiv \mathrm{N}$ | 891 |
-| \hline $\mathrm{C}-\mathrm{O}$ | 358 | $\mathrm{O}-\mathrm{Cl}$ | 203 |  |  | $\mathrm{C}=\mathrm{N}$ | 615 |
-| \hline $\mathrm{C}-\mathrm{F}$ | 485 | O-I | 234 | Si-Si | 340 |  |  |
-| \hline $\mathrm{C}-\mathrm{Cl}$ | 339 |  |  | $\mathrm{Si}-\mathrm{H}$ | 393 |  |  |
-| \hline $\mathrm{C}-\mathrm{Br}$ | 276 | F-F | 154 | Si-C | 360 |  |  |
-| \hline C-I | 240 | F-Cl | 253 | $\mathrm{Si-O}$ | 452 |  |  |
-| \hline C-S | 259 | $\mathrm{F}-\mathrm{Br}$ | 237 |  |  |  |  |
-| \hline |  | $\mathrm{Cl}-\mathrm{Cl}$ | 239 |  |  |  |  |
-| \hline |  | $\mathrm{Cl}-\mathrm{Br}$ | 218 |  |  |  |  |
-| \hline |  | $\mathrm{Br}-\mathrm{Br}$ | 193 |  |  |  |  |
-| \hline  | ${ }^{*} \mathrm{C}=\mathrm{O}\left(\mathrm{CO}_{2}\right)=799$ |  |  |  |  |  |  |
+| $\mathrm{H}-\mathrm{H}$ | 432 | $\mathrm{N}-\mathrm{H}$ | 391 | I-I | 149 | $\mathrm{C}=\mathrm{C}$ | 614 |
+| $\mathrm{H}-\mathrm{F}$ | 565 | $\mathrm{N}-\mathrm{N}$ | 160 | I-Cl | 208 | $\mathrm{C} \equiv \mathrm{C}$ | 839 |
+| $\mathrm{H}-\mathrm{Cl}$ | 427 | N-F | 272 | I-Br | 175 | $\mathrm{O}=\mathrm{O}$ | 495 |
+| $\mathrm{H}-\mathrm{Br}$ | 363 | $\mathrm{N}-\mathrm{Cl}$ | 200 |  |  | $\mathrm{C}=\mathrm{O}^{*}$ | 745 |
+| H-I | 295 | $\mathrm{N}-\mathrm{Br}$ | 243 | S-H | 347 | $\mathrm{C} \equiv \mathrm{O}$ | 1072 |
+| |  | $\mathrm{N}-\mathrm{O}$ | 201 | S-F | 327 | $\mathrm{N}=\mathrm{O}$ | 607 |
+| $\mathrm{C}-\mathrm{H}$ | 413 | $\mathrm{O}-\mathrm{H}$ | 467 | S-Cl | 253 | $\mathrm{N}=\mathrm{N}$ | 418 |
+| C-C | 347 | $\mathrm{O}-\mathrm{O}$ | 146 | $\mathrm{S}-\mathrm{Br}$ | 218 | $\mathrm{N} \equiv \mathrm{N}$ | 941 |
+| $\mathrm{C}-\mathrm{N}$ | 305 | O-F | 190 | S-S | 266 | $\mathrm{C} \equiv \mathrm{N}$ | 891 |
+| $\mathrm{C}-\mathrm{O}$ | 358 | $\mathrm{O}-\mathrm{Cl}$ | 203 |  |  | $\mathrm{C}=\mathrm{N}$ | 615 |
+| $\mathrm{C}-\mathrm{F}$ | 485 | O-I | 234 | Si-Si | 340 |  |  |
+| $\mathrm{C}-\mathrm{Cl}$ | 339 |  |  | $\mathrm{Si}-\mathrm{H}$ | 393 |  |  |
+| $\mathrm{C}-\mathrm{Br}$ | 276 | F-F | 154 | Si-C | 360 |  |  |
+| C-I | 240 | F-Cl | 253 | $\mathrm{Si-O}$ | 452 |  |  |
+| C-S | 259 | $\mathrm{F}-\mathrm{Br}$ | 237 |  |  |  |  |
+| |  | $\mathrm{Cl}-\mathrm{Cl}$ | 239 |  |  |  |  |
+| |  | $\mathrm{Cl}-\mathrm{Br}$ | 218 |  |  |  |  |
+| |  | $\mathrm{Br}-\mathrm{Br}$ | 193 |  |  |  |  |
+| | ${ }^{*} \mathrm{C}=\mathrm{O}\left(\mathrm{CO}_{2}\right)=799$ |  |  |  |  |  |  |
 
 from experimental measurements of the energy required to break the $\mathrm{C}-\mathrm{H}$ bond in the following molecules:
 
@@ -720,7 +660,7 @@ from experimental measurements of the energy required to break the $\mathrm{C}-\
 | --- |
 | | Measured C-H Bond |  | |
 | | Energy (kJ/mol) |  | |
-| | \end{tabular} |
+| |  |
  |  |
 | $\mathrm{HCBr}_{3}$ | 380 |
 | $\mathrm{HCCl}_{3}$ | 380 |
@@ -745,16 +685,16 @@ This reaction involves breaking one $\mathrm{H}-\mathrm{H}$ and one $\mathrm{F}-
 352
 Chapter Eight Bonding: General Concepts
 
-| \hline Bond | Bond Type | Bond Length (pm) | Bond Energy (kJ/mol) |
+| Bond | Bond Type | Bond Length (pm) | Bond Energy (kJ/mol) |
 | --- | --- | --- | --- |
-| \hline C-C | Single | 154 | 347 |
-| \hline $\mathrm{C}=\mathrm{C}$ | Double | 134 | 614 |
-| \hline $\mathrm{C} \equiv \mathrm{C}$ | Triple | 120 | 839 |
-| \hline $\mathrm{C}-\mathrm{O}$ | Single | 143 | 358 |
-| \hline $\mathrm{C}=\mathrm{O}$ | Double | 123 | 745 |
-| \hline $\mathrm{C}-\mathrm{N}$ | Single | 143 | 305 |
-| \hline $\mathrm{C}=\mathrm{N}$ | Double | 138 | 615 |
-| \hline $\mathrm{C} \equiv \mathrm{N}$ | Triple | 116 | 891 |
+| C-C | Single | 154 | 347 |
+| $\mathrm{C}=\mathrm{C}$ | Double | 134 | 614 |
+| $\mathrm{C} \equiv \mathrm{C}$ | Triple | 120 | 839 |
+| $\mathrm{C}-\mathrm{O}$ | Single | 143 | 358 |
+| $\mathrm{C}=\mathrm{O}$ | Double | 123 | 745 |
+| $\mathrm{C}-\mathrm{N}$ | Single | 143 | 305 |
+| $\mathrm{C}=\mathrm{N}$ | Double | 138 | 615 |
+| $\mathrm{C} \equiv \mathrm{N}$ | Triple | 116 | 891 |
 
 process. Consequently, the energy terms associated with bond breaking have positive signs. The formation of a bond releases energy, an exothermic process, so the energy terms associated with bond making carry a negative sign. We can write the enthalpy change for a reaction as follows:
 $$\begin{aligned}
@@ -935,33 +875,33 @@ f. $\mathrm{NO}^{+}$
 Solution
 In each case we apply the three steps for writing Lewis structures. Recall that lines are used to indicate shared electron pairs and that dots are used to indicate nonbonding pairs (lone pairs). We have the following tabulated results:
 
-| \hline | Total Valence Electrons | Draw Single Bonds | Calculate Number of Electrons Remaining | Use Remaining Electrons to Achieve Noble Gas Configurations | Check Number of Electrons |
+| | Total Valence Electrons | Draw Single Bonds | Calculate Number of Electrons Remaining | Use Remaining Electrons to Achieve Noble Gas Configurations | Check Number of Electrons |
 | --- | --- | --- | --- | --- | --- |
-| \hline a. HF | $1+7=8$ | H-F | 6 | H-F: | | | H, 2 |  |  |  |  |  | |
+| a. HF | $1+7=8$ | H-F | 6 | H-F: | | | H, 2 |  |  |  |  |  | |
 | --- |
 | | F, 8 |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |  |  |
-| \hline b. $\mathrm{N}_{2}$ | $5+5=10$ | $\mathrm{N}-\mathrm{N}$ | 8 | : $\mathrm{N} \equiv \mathrm{N}$ : | N, 8 |
-| \hline c. $\mathrm{NH}_{3}$ | $5+3(1)=8$ |  | 2 |  | | | H, 2 |  |  |  |  |  | |
+| b. $\mathrm{N}_{2}$ | $5+5=10$ | $\mathrm{N}-\mathrm{N}$ | 8 | : $\mathrm{N} \equiv \mathrm{N}$ : | N, 8 |
+| c. $\mathrm{NH}_{3}$ | $5+3(1)=8$ |  | 2 |  | | | H, 2 |  |  |  |  |  | |
 | --- |
 | | N, 8 |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |  |  |
-| \hline d. $\mathrm{CH}_{4}$ | $4+4(1)=8$ |  | 0 |  | | | H, 2 |  |  |  |  |  | |
+| d. $\mathrm{CH}_{4}$ | $4+4(1)=8$ |  | 0 |  | | | H, 2 |  |  |  |  |  | |
 | --- |
 | | C, 8 |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |  |  |
-| \hline e. $\mathrm{CF}_{4}$ | $4+4(7)=32$ |  | 24 |  | | | F, 8 |  |  |  |  |  | |
+| e. $\mathrm{CF}_{4}$ | $4+4(7)=32$ |  | 24 |  | | | F, 8 |  |  |  |  |  | |
 | --- |
 | | C, 8 |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |  |  |
-| \hline f. $\mathrm{NO}^{+}$ | $5+6-1=10$ | $\mathrm{N}-\mathrm{O}$ | 8 | $[: \mathrm{N} \equiv \mathrm{O}:]^{+}$ | | | N, 8 |  |  |  |  |  | |
+| f. $\mathrm{NO}^{+}$ | $5+6-1=10$ | $\mathrm{N}-\mathrm{O}$ | 8 | $[: \mathrm{N} \equiv \mathrm{O}:]^{+}$ | | | N, 8 |  |  |  |  |  | |
 | --- |
 | | O, 8 |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |  |  |
 
 
@@ -1352,7 +1292,7 @@ Let us examine the following data:
 
 |  | $\mathbf{C H}_{\mathbf{4}}$ | $\mathbf{N H}_{\mathbf{3}}$ | $\mathbf{H}_{\mathbf{2}} \mathbf{O}$ |
 | --- | --- | --- | --- |
-| \hline Number of Lone Pairs | 0 | 1 | 2 |
+| Number of Lone Pairs | 0 | 1 | 2 |
 | Bond Angle | $109.5^{\circ}$ | $107^{\circ}$ | $104.5^{\circ}$ |
 
 
@@ -1839,7 +1779,7 @@ $$\mathrm{K}(s)+\frac{1}{2} \mathrm{Cl}_{2}(g) \longrightarrow \mathrm{KCl}(s)$$
 384
 Chapter Eight Bonding: General Concepts
 
-| \hline Lattice energy | $-690 \mathrm{~kJ} / \mathrm{mol}$ |
+| Lattice energy | $-690 \mathrm{~kJ} / \mathrm{mol}$ |
 | --- | --- |
 | Ionization energy for K | $419 \mathrm{~kJ} / \mathrm{mol}$ |
 | Electron affinity of Cl | $-349 \mathrm{~kJ} / \mathrm{mol}$ |
@@ -1849,7 +1789,7 @@ Chapter Eight Bonding: General Concepts
 46. Use the following data to estimate $\Delta H_{\mathrm{f}}^{\circ}$ for magnesium fluoride.
 $$\mathrm{Mg}(s)+\mathrm{F}_{2}(g) \longrightarrow \mathrm{MgF}_{2}(s)$$
 
-| \hline Lattice energy | $-3916 \mathrm{~kJ} / \mathrm{mol}$ |
+| Lattice energy | $-3916 \mathrm{~kJ} / \mathrm{mol}$ |
 | --- | --- |
 | First ionization energy of Mg | $735 \mathrm{~kJ} / \mathrm{mol}$ |
 | Second ionization energy of Mg | $1445 \mathrm{~kJ} / \mathrm{mol}$ |
@@ -1861,7 +1801,7 @@ $$\mathrm{Mg}(s)+\mathrm{F}_{2}(g) \longrightarrow \mathrm{MgF}_{2}(s)$$
 
 |  | $\boldsymbol{\Delta} \boldsymbol{H}(\mathbf{k J} / \mathbf{m o l})$ |
 | --- | --- |
-| \hline $\mathrm{Mg(g) \rightarrow \mathrm{Mg}^{+}(g)+\mathrm{e}^{-}$} | 735 |
+| $\mathrm{Mg(g) \rightarrow \mathrm{Mg}^{+}(g)+\mathrm{e}^{-}$} | 735 |
 | $\mathrm{Mg}^{+}(g) \rightarrow \mathrm{Mg}^{2+}(g)+\mathrm{e}^{-}$ | 1445 |
 | $\mathrm{O}(g)+\mathrm{e}^{-} \rightarrow \mathrm{O}^{-}(g)$ | -141 |
 | $\mathrm{O}^{-}(g)+\mathrm{e}^{-} \rightarrow \mathrm{O}^{2-}(g)$ | 878 |
@@ -1876,13 +1816,13 @@ Magnesium oxide exists as $\mathrm{Mg}^{2+} \mathrm{O}^{2-}$ and not as $\mathrm
 | --- |
 | | Lattice |  |  |  |  | |
 | | Energy |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  | I.E. of $\mathbf{M}$ | | | $\boldsymbol{\Delta} \boldsymbol{H}_{\text {sub }}$ |  |  |  |  | |
 | --- |
 | | of $\mathbf{M}$ |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |  |
-| \hline $\mathrm{Na}_{2} \mathrm{~S}$ | -365 | -2203 | 495 | 109 |
+| $\mathrm{Na}_{2} \mathrm{~S}$ | -365 | -2203 | 495 | 109 |
 | $\mathrm{~K}_{2} \mathrm{~S}$ | -381 | -2052 | 419 | 90 |
 | $\mathrm{Rb}_{2} \mathrm{~S}$ | -361 | -1949 | 409 | 82 |
 | $\mathrm{Cs}_{2} \mathrm{~S}$ | -360 | -1850 | 382 | 78 |
@@ -1895,13 +1835,13 @@ $$\begin{aligned}
 Assume that all values are known to $\pm 1 \mathrm{~kJ} / \mathrm{mol}$.
 51. Rationalize the following lattice energy values:
 
-| \hline Compound | | | --- | --- | |
+| Compound | | | --- | --- | |
 | --- |
 | | Lattice Energy |  | |
 | | (kJ/mol) |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline CaSe | -2862 |
+| CaSe | -2862 |
 | $\mathrm{Na}_{2} \mathrm{Se}$ | -2130 |
 | CaTe | -2721 |
 | $\mathrm{Na}_{2} \mathrm{Te}$ | -2095 |
@@ -2188,3 +2128,43 @@ b. Which of the above reactions releases the largest amount of energy per kilogr
 a.
 $\mathrm{OH}^{*}$
 125. Peroxacetyl nitrate, or PAN, is present in photochemical smog. Draw Lewis structures (including resonance forms) for PAN. The skeletal arrangement is
+
+---
+
+Marathon Problem
+389
+126. Draw a Lewis structure for the $N, N$-dimethylformamide molecule. The skeletal structure is
+
+Various types of evidence lead to the conclusion that there is some double bond character to the $\mathrm{C}-\mathrm{N}$ bond. Draw one or more resonance structures that support this observation.
+127. Predict the molecular structure for each of the following. (See Exercises 89 and 90.)
+a. $\mathrm{BrFI}_{2}$
+b. $\mathrm{XeO}_{2} \mathrm{~F}_{2}$
+c. $\mathrm{TeF}_{2} \mathrm{Cl}_{3}{ }^{-}$
+
+For each formula there are at least two different structures that can be drawn using the same central atom. Draw all possible structures for each formula.
+128. The study of carbon-containing compounds and their properties is called organic chemistry. Besides carbon atoms, organic compounds also can contain hydrogen, oxygen, and nitrogen atoms (as well as other types of atoms). A common trait of simple organic compounds is to have Lewis structures where all atoms have a formal charge of zero. Consider the following incomplete Lewis structure for an organic compound called histidine (an amino acid, which is the building block of all proteins found in our bodies):
+
+Draw a complete Lewis structure for histidine in which all atoms have a formal charge of zero. What should be the approximate bond angles about the carbon atom labeled 1 and the nitrogen atom labeled 2 ?
+129. Using bond energies, estimate $\Delta H$ for the following reaction:
+130. Consider the following computer-generated model of caffeine.
+
+Draw a Lewis structure for caffeine in which all atoms have a formal charge of zero.
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+131. A compound, $\mathrm{XF}_{5}$, is $42.81 \%$ fluorine by mass. Identify the element X . What is the molecular structure of $\mathrm{XF}_{5}$ ?
+132. A polyatomic ion is composed of $\mathrm{C}, \mathrm{N}$, and an unknown element X . The skeletal Lewis structure of this polyatomic ion is $[\mathrm{X}-\mathrm{C}-\mathrm{N}]^{-}$. The ion $\mathrm{X}^{2-}$ has an electron configuration of $[\mathrm{Ar}] 4 s^{2} 3 d^{10} 4 p^{6}$. What is element X ? Knowing the identity of X , complete the Lewis structure of the polyatomic ion, including all important resonance structures.
+133. Identify the following elements based on their electron configurations and rank them in order of increasing electronegativity: $[\mathrm{Ar}] 4 s^{1} 3 d^{5} ;[\mathrm{Ne}] 3 s^{2} 3 p^{3} ;[\mathrm{Ar}] 4 s^{2} 3 d^{10} 4 p^{3} ;[\mathrm{Ne}] 3 s^{2} 3 p^{5}$.
+
+Marathon Problem
+This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+134. Identify the five compounds of $\mathrm{H}, \mathrm{N}$, and O described below. For each compound, write a Lewis structure that is consistent with the information given.
+a. All the compounds are electrolytes, although not all of them are strong electrolytes. Compounds C and D are ionic and compound B is covalent.
+b. Nitrogen occurs in its highest possible oxidation state in compounds A and C ; nitrogen occurs in its lowest possible oxidation state in compounds C, D, and E. The formal charge on both nitrogens in compound C is +1 ; the formal charge on the only nitrogen in compound B is 0 .
+c. Compounds A and E exist in solution. Both solutions give off gases. Commercially available concentrated solutions of compound A are normally $16 M$. The commercial, concentrated solution of compound E is $15 M$.
+d. Commercial solutions of compound E are labeled with a misnomer that implies that a binary, gaseous compound of nitrogen and hydrogen has reacted with water to produce ammonium ions and hydroxide ions. Actually, this reaction occurs to only a slight extent.
+e. Compound D is $43.7 \% \mathrm{~N}$ and $50.0 \% \mathrm{O}$ by mass. If compound D were a gas at STP, it would have a density of $2.86 \mathrm{~g} / \mathrm{L}$.
+f. A formula unit of compound C has one more oxygen than a formula unit of compound D . Compounds C and A have one ion in common when compound A is acting as a strong electrolyte.
+g. Solutions of compound C are weakly acidic; solutions of compound A are strongly acidic; solutions of compounds B and E are basic. The titration of 0.726 g of compound B requires 21.98 mL of $1.000 M \mathrm{HCl}$ for complete neutralization.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl 7e.

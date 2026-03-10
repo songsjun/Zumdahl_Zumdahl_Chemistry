@@ -1,59 +1,5 @@
 # Chapter 16: Spontaneity, Entropy, and Free Energy
 
-Marathon Problem
-747
-a. Notice that the plot has essentially two titration curves. If the first equivalence point occurs at 100.0 mL of NaOH added, what volume of NaOH added corresponds to the second equivalence point?
-b. For the following volumes of NaOH added, list the major species present after the $\mathrm{OH}^{-}$reacts completely.
-i. 0 mL NaOH added
-ii. between 0 and 100.0 mL NaOH added
-iii. 100.0 mL NaOH added
-iv. between 100.0 and 200.0 mL NaOH added
-v. 200.0 mL NaOH added
-vi. after 200.0 mL NaOH added
-c. If the pH at 50.0 mL of NaOH added is 4.0 and the pH at 150.0 mL of NaOH added is 8.0 , determine the values $K_{\mathrm{a}_{1}}$ and $K_{\mathrm{a}_{2}}$ for the diprotic acid.
-144. The titration of $\mathrm{Na}_{2} \mathrm{CO}_{3}$ with HCl has the following qualitative profile:
-a. Identify the major species in solution as points $\mathrm{A}-\mathrm{F}$.
-b. Calculate the pH at the halfway points to equivalence, B and D. Hint: Refer to Exercise 143.
-145. A few drops of each of the indicators shown in the accompanying table were placed in separate portions of a $1.0 M$ solution of a weak acid, HX. The results are shown in the last column of the table. What is the approximate pH of the solution containing HX? Calculate the approximate value of $K_{\mathrm{a}}$ for HX .
-
-| \hline Indicator | Color of HIn | Color of $\mathbf{l n}^{-}$ | $\mathbf{p} \boldsymbol{K}_{\mathbf{a}}$ of HIn | HX |
-| --- | --- | --- | --- | --- |
-| \hline Bromphenol blue | Yellow | Blue | 4.0 | Blue |
-| \hline Bromcresol purple | Yellow | Purple | 6.0 | Yellow |
-| \hline Bromcresol green | Yellow | Blue | 4.8 | Green |
-| \hline Alizarin | Yellow | Red | 6.5 | Yellow |
-
-146. Consider a solution made by mixing 500.0 mL of $4.0 \mathrm{M} \mathrm{NH}_{3}$ and 500.0 mL of $0.40 M \mathrm{AgNO}_{3} . \mathrm{Ag}^{+}$reacts with $\mathrm{NH}_{3}$ to form $\mathrm{AgNH}_{3}{ }^{+}$and $\mathrm{Ag}\left(\mathrm{NH}_{3}\right)_{2}{ }^{+}$:
-$$\begin{array}{ll}
-\mathrm{Ag}^{+}+\mathrm{NH}_{3} \rightleftharpoons \mathrm{AgNH}_{3}^{+} & K_{1}=2.1 \times 10^{3} \\
-\mathrm{AgNH}_{3}^{+}+\mathrm{NH}_{3} \rightleftharpoons \mathrm{Ag}\left(\mathrm{NH}_{3}\right)_{2}^{+} & K_{2}=8.2 \times 10^{3}
-\end{array}$$
-
-Determine the concentration of all species in solution.
-147. What is the maximum possible concentration of $\mathrm{Ni}^{2+}$ ion in water at $25^{\circ} \mathrm{C}$ that is saturated with $0.10 M \mathrm{H}_{2} \mathrm{~S}$ and maintained at pH 3.0 with HCl ?
-148. You add an excess of solid MX in 250 g of water. You measure the freezing point and find it to be $-0.028^{\circ} \mathrm{C}$. What is the $K_{\mathrm{sp}}$ of the solid? Assume the density of the solution is $1.0 \mathrm{~g} / \mathrm{cm}^{3}$.
-149. a. Calculate the molar solubility of $\mathrm{SrF}_{2}$ in water, ignoring the basic properties of $\mathrm{F}^{-}$. (For $\mathrm{SrF}_{2}, K_{\mathrm{sp}}=7.9 \times 10^{-10}$.)
-b. Would the measured molar solubility of $\mathrm{SrF}_{2}$ be greater than or less than the value calculated in part a? Explain.
-c. Calculate the molar solubility of $\mathrm{SrF}_{2}$ in a solution buffered at $\mathrm{pH}=2.00$. ( $K_{\mathrm{a}}$ for HF is $7.2 \times 10^{-4}$.)
-150. A solution saturated with a salt of the type $M_{3} X_{2}$ has an osmotic pressure of $2.64 \times 10^{-2} \mathrm{~atm}$ at $25^{\circ} \mathrm{C}$. Calculate the $K_{\text {sp }}$ value for the salt, assuming ideal behavior.
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-151. A buffer solution is prepared by mixing 75.0 mL of $0.275 M$ fluorobenzoic acid $\left(\mathrm{C}_{7} \mathrm{H}_{5} \mathrm{O}_{2} \mathrm{~F}\right)$ with 55.0 mL of $0.472 M$ sodium fluorobenzoate. The $\mathrm{p} K_{\mathrm{a}}$ of this weak acid is 2.90 . What is the pH of the buffer solution?
-152. The $K_{\mathrm{sp}}$ for $Q$, a slightly soluble ionic compound composed of $\mathrm{M}_{2}{ }^{2+}$ and $\mathrm{X}^{-}$ions, is $4.5 \times 10^{-29}$. The electron configuration of $\mathrm{M}^{+}$is $[\mathrm{Xe}] 6 s^{1} 4 f^{14} 5 d^{10}$. The $\mathrm{X}^{-}$anion has 54 electrons. What is the molar solubility of $Q$ in a solution of NaX prepared by dissolving 1.98 g of NaX in $150 . \mathrm{mL}$ of water?
-153. Calculate the pH of a solution prepared by mixing $250 . \mathrm{mL}$ of $0.174 m$ aqueous HF (density $=1.10 \mathrm{~g} / \mathrm{mL}$ ) with 38.7 g of an aqueous solution that is $1.50 \% \mathrm{NaOH}$ by mass (density $= 1.02 \mathrm{~g} / \mathrm{mL}$ ). ( $K_{\mathrm{a}}$ for $\mathrm{HF}=7.2 \times 10^{-4}$.)
-
-Marathon Problem*
-This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-154. A $225-\mathrm{mg}$ sample of a diprotic acid is dissolved in enough water to make $250 . \mathrm{mL}$ of solution. The pH of this solution is 2.06 . A saturated solution of calcium hydroxide ( $K_{\text {sp }}=1.3 \times 10^{-6}$ ) is prepared by adding excess calcium hydroxide to pure water and then removing the undissolved solid by filtration. Enough of the calcium hydroxide solution is added to the solution of the acid to reach the second equivalence point. The pH at the second equivalence point (as determined by a pH meter) is 7.96. The first dissociation constant for the acid ( $K_{\mathrm{a}_{1}}$ ) is $5.90 \times 10^{-2}$. Assume that the volumes of the solutions are additive, all solutions are at $25^{\circ} \mathrm{C}$, and that $K_{\mathrm{a}_{1}}$ is at least 1000 times greater than $K_{\mathrm{a}_{2}}$.
-a. Calculate the molar mass of the acid.
-b. Calculate the second dissociation constant for the acid ( $K_{\mathrm{a}_{2}}$ ).
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-*Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.
-
----
-
 16
 Spontaneity, Entropy, and Free Energy
 
@@ -177,15 +123,15 @@ TABLE 16.1 The Microstates That Give a Particular Arrangement (State)
 
 TABLE 16.2 Probability of Finding All the Molecules in the Left Bulb as a Function of the Total Number of Molecules
 
-| \hline Number of Molecules | Relative Probability of Finding All Molecules in the Left Bulb |
+| Number of Molecules | Relative Probability of Finding All Molecules in the Left Bulb |
 | --- | --- |
-| \hline 1 | $\frac{1}{2}$ |
-| \hline 2 | $\frac{1}{2} \times \frac{1}{2}=\frac{1}{2^{2}}=\frac{1}{4}$ |
-| \hline 3 | $\frac{1}{2} \times \frac{1}{2} \times \frac{1}{2}=\frac{1}{2^{3}}=\frac{1}{8}$ |
-| \hline 5 | $\frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2}=\frac{1}{2^{5}}=\frac{1}{32}$ |
-| \hline 10 | $\frac{1}{2^{10}}=\frac{1}{1024}$ |
-| \hline n | $\frac{1}{2^{n}}=\left(\frac{1}{2}\right)^{n}$ |
-| \hline $6 \times 10^{23}$ (1 mole) | $\left(\frac{1}{2}\right)^{6 \times 10^{23}} \approx 10^{-\left(2 \times 10^{23}\right)}$ |
+| 1 | $\frac{1}{2}$ |
+| 2 | $\frac{1}{2} \times \frac{1}{2}=\frac{1}{2^{2}}=\frac{1}{4}$ |
+| 3 | $\frac{1}{2} \times \frac{1}{2} \times \frac{1}{2}=\frac{1}{2^{3}}=\frac{1}{8}$ |
+| 5 | $\frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2}=\frac{1}{2^{5}}=\frac{1}{32}$ |
+| 10 | $\frac{1}{2^{10}}=\frac{1}{1024}$ |
+| n | $\frac{1}{2^{n}}=\left(\frac{1}{2}\right)^{n}$ |
+| $6 \times 10^{23}$ (1 mole) | $\left(\frac{1}{2}\right)^{6 \times 10^{23}} \approx 10^{-\left(2 \times 10^{23}\right)}$ |
 
 ---
 
@@ -368,13 +314,13 @@ The mineral stibnite contains $\mathrm{Sb}_{2} \mathrm{~S}_{3}$.
 
 The symbol $G$ for free energy honors Josiah Willard Gibbs (1839-1903), who was professor of mathematical physics at Yale University from 1871 to 1903. He laid the foundations of many areas of thermodynamics, particularly as they apply to chemistry.
 
-| \hline Signs of Entropy Changes | \multirow[b]{2}{*}{Process Spontaneous?} |  |  |
+| Signs of Entropy Changes | \multirow[b]{2}{*}{Process Spontaneous?} |  |  |
 | --- | --- | --- | --- |
-| \hline $\boldsymbol{\Delta} \boldsymbol{S}_{\text {sys }}$ | $\boldsymbol{\Delta} \boldsymbol{S}_{\text {surr }}$ | $\boldsymbol{\Delta} \boldsymbol{S}_{\text {univ }}$ |  |
-| \hline + | + | + | Yes |
-| \hline - | - | - | No (reaction will occur in opposite direction) |
-| \hline + | - | ? | Yes, if $\Delta S_{\text {sys }}$ has a larger magnitude than $\Delta S_{\text {surr }}$ |
-| \hline - | + | ? | Yes, if $\Delta S_{\text {surr }}$ has a larger magnitude than $\Delta S_{\text {sys }}$ |
+| $\boldsymbol{\Delta} \boldsymbol{S}_{\text {sys }}$ | $\boldsymbol{\Delta} \boldsymbol{S}_{\text {surr }}$ | $\boldsymbol{\Delta} \boldsymbol{S}_{\text {univ }}$ |  |
+| + | + | + | Yes |
+| - | - | - | No (reaction will occur in opposite direction) |
+| + | - | ? | Yes, if $\Delta S_{\text {sys }}$ has a larger magnitude than $\Delta S_{\text {surr }}$ |
+| - | + | ? | Yes, if $\Delta S_{\text {surr }}$ has a larger magnitude than $\Delta S_{\text {sys }}$ |
 
 
 Note that $\Delta S_{\text {surr }}$ is positive, as it should be, since this reaction is exothermic and heat flow occurs to the surroundings, increasing the randomness of the surroundings.
@@ -434,11 +380,11 @@ Results of the calculations of $\Delta S_{\text {univ }}$ and $\Delta G^{\circ}$
 
 Why is this so? The answer lies in the fact that $\Delta S_{\text {sys }}\left(\Delta S^{\circ}\right)$ and $\Delta S_{\text {surr }}$ oppose each other. The term $\Delta S^{\circ}$ favors the melting of ice because of the increase in positional entropy, and $\Delta S_{\text {surr }}$ favors the freezing of water because it is an exothermic process. At temperatures below
 
-| \hline $\boldsymbol{T} \left({ }^{\circ} \mathrm{C}\right)$ | $T$ (K) | $\boldsymbol{\Delta} \boldsymbol{H}^{\circ}$ (J/mol) | $\boldsymbol{\Delta} \boldsymbol{S}^{\boldsymbol{\circ}}$ (J/K•mol) | $\Delta S_{\text {surr }}=-\frac{\Delta H^{\circ}}{T}$ (J/K•mol) | $\boldsymbol{\Delta} \boldsymbol{S}_{\text {univ }}= \boldsymbol{\Delta} \boldsymbol{S}^{\boldsymbol{\circ}} \boldsymbol{+} \boldsymbol{\Delta} \boldsymbol{S}_{\text {surr }}$ (J/K•mol) | $\boldsymbol{T} \boldsymbol{\Delta} \boldsymbol{S}^{\boldsymbol{\circ}}$ (J/mol) | $\boldsymbol{\Delta} \boldsymbol{G}^{\boldsymbol{\circ}} \boldsymbol{=} \boldsymbol{\Delta} \boldsymbol{H}^{\boldsymbol{\circ}} \boldsymbol{-} \boldsymbol{T} \boldsymbol{\Delta} \boldsymbol{S}^{\boldsymbol{\circ}}$ (J/mol) |
+| $\boldsymbol{T} \left({ }^{\circ} \mathrm{C}\right)$ | $T$ (K) | $\boldsymbol{\Delta} \boldsymbol{H}^{\circ}$ (J/mol) | $\boldsymbol{\Delta} \boldsymbol{S}^{\boldsymbol{\circ}}$ (J/K•mol) | $\Delta S_{\text {surr }}=-\frac{\Delta H^{\circ}}{T}$ (J/K•mol) | $\boldsymbol{\Delta} \boldsymbol{S}_{\text {univ }}= \boldsymbol{\Delta} \boldsymbol{S}^{\boldsymbol{\circ}} \boldsymbol{+} \boldsymbol{\Delta} \boldsymbol{S}_{\text {surr }}$ (J/K•mol) | $\boldsymbol{T} \boldsymbol{\Delta} \boldsymbol{S}^{\boldsymbol{\circ}}$ (J/mol) | $\boldsymbol{\Delta} \boldsymbol{G}^{\boldsymbol{\circ}} \boldsymbol{=} \boldsymbol{\Delta} \boldsymbol{H}^{\boldsymbol{\circ}} \boldsymbol{-} \boldsymbol{T} \boldsymbol{\Delta} \boldsymbol{S}^{\boldsymbol{\circ}}$ (J/mol) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline -10 | 263 | $6.03 \times 10^{3}$ | 22.1 | -22.9 | -0.8 | $5.81 \times 10^{3}$ | $+2.2 \times 10^{2}$ |
-| \hline 0 | 273 | $6.03 \times 10^{3}$ | 22.1 | -22.1 | 0 | $6.03 \times 10^{3}$ | 0 |
-| \hline 10 | 283 | $6.03 \times 10^{3}$ | 22.1 | -21.3 | +0.8 | $6.25 \times 10^{3}$ | $-2.2 \times 10^{2}$ |
+| -10 | 263 | $6.03 \times 10^{3}$ | 22.1 | -22.9 | -0.8 | $5.81 \times 10^{3}$ | $+2.2 \times 10^{2}$ |
+| 0 | 273 | $6.03 \times 10^{3}$ | 22.1 | -22.1 | 0 | $6.03 \times 10^{3}$ | 0 |
+| 10 | 283 | $6.03 \times 10^{3}$ | 22.1 | -21.3 | +0.8 | $6.25 \times 10^{3}$ | $-2.2 \times 10^{2}$ |
 
 *Note that at $10^{\circ} \mathrm{C}, \Delta S^{\circ}\left(\Delta S_{\text {sys }}\right)$ controls, and the process occurs even though it is endothermic. At $-10^{\circ} \mathrm{C}$, the magnitude of $\Delta S_{\text {surr }}$ is larger than that of $\Delta S^{\circ}$, so the process is spontaneous in the opposite (exothermic) direction.
 
@@ -476,12 +422,12 @@ $$\begin{aligned}
 \Delta H^{\circ} & =T \Delta S^{\circ}
 \end{aligned}$$
 
-| \hline Case | Result |
+| Case | Result |
 | --- | --- |
-| \hline $\Delta S$ positive, $\Delta H$ negative | Spontaneous at all temperatures |
-| \hline $\Delta S$ positive, $\Delta H$ positive | Spontaneous at high temperatures (where exothermicity is relatively unimportant) |
-| \hline $\Delta S$ negative, $\Delta H$ negative | Spontaneous at low temperatures (where exothermicity is dominant) |
-| \hline $\Delta S$ negative, $\Delta H$ positive | Process not spontaneous at any temperature (reverse process is spontaneous at all temperatures) |
+| $\Delta S$ positive, $\Delta H$ negative | Spontaneous at all temperatures |
+| $\Delta S$ positive, $\Delta H$ positive | Spontaneous at high temperatures (where exothermicity is relatively unimportant) |
+| $\Delta S$ negative, $\Delta H$ negative | Spontaneous at low temperatures (where exothermicity is dominant) |
+| $\Delta S$ negative, $\Delta H$ positive | Process not spontaneous at any temperature (reverse process is spontaneous at all temperatures) |
 
 ---
 
@@ -556,7 +502,7 @@ given the following standard entropy values:
 
 | Substance | $\mathbf{S}^{\circ} \mathbf{( J / K} \cdot \mathbf{m o l}$ ) |
 | --- | --- |
-| \hline $\mathrm{SO}_{2}(g)$ | 248 |
+| $\mathrm{SO}_{2}(g)$ | 248 |
 | $\mathrm{NiO}(s)$ | 38 |
 | $\mathrm{O}_{2}(g)$ | 205 |
 | $\mathrm{NiS}(s)$ | 53 |
@@ -589,7 +535,7 @@ Use the following standard entropy values:
 
 | Substance | $\boldsymbol{S}^{\circ}(\mathbf{J} / \mathbf{K} \cdot \mathbf{m o l})$ |
 | --- | --- |
-| \hline $\mathrm{Al}_{2} \mathrm{O}_{3}(s)$ | 51 |
+| $\mathrm{Al}_{2} \mathrm{O}_{3}(s)$ | 51 |
 | $\mathrm{H}_{2}(g)$ | 131 |
 | $\mathrm{Al}(s)$ | 28 |
 | $\mathrm{H}_{2} \mathrm{O}(g)$ | 189 |
@@ -652,9 +598,9 @@ Consider the reaction
 $$2 \mathrm{SO}_{2}(g)+\mathrm{O}_{2}(g) \longrightarrow 2 \mathrm{SO}_{3}(g)$$
 carried out at $25^{\circ} \mathrm{C}$ and 1 atm . Calculate $\Delta H^{\circ}, \Delta S^{\circ}$, and $\Delta G^{\circ}$ using the following data:
 
-| \hline Substance | $\boldsymbol{\Delta} \boldsymbol{H}_{\boldsymbol{f}}^{\boldsymbol{\circ}}(\mathbf{k J} / \mathbf{m o l})$ | $\boldsymbol{S}^{\boldsymbol{\circ}}(\mathbf{J} / \mathbf{K} \cdot \mathbf{m o l})$ |
+| Substance | $\boldsymbol{\Delta} \boldsymbol{H}_{\boldsymbol{f}}^{\boldsymbol{\circ}}(\mathbf{k J} / \mathbf{m o l})$ | $\boldsymbol{S}^{\boldsymbol{\circ}}(\mathbf{J} / \mathbf{K} \cdot \mathbf{m o l})$ |
 | --- | --- | --- |
-| \hline $\mathrm{SO}_{2}(g)$ | -297 | 248 |
+| $\mathrm{SO}_{2}(g)$ | -297 | 248 |
 | $\mathrm{SO}_{3}(g)$ | -396 | 257 |
 | $\mathrm{O}_{2}(g)$ | 0 | 205 |
 
@@ -776,7 +722,7 @@ given the following free energies of formation:
 
 | Substance | $\mathbf{\Delta G}_{\mathbf{f}}^{\boldsymbol{\circ}}(\mathbf{k J} / \mathbf{m o l})$ |
 | --- | --- |
-| \hline $\mathrm{CH}_{3} \mathrm{OH}(g)$ | -163 |
+| $\mathrm{CH}_{3} \mathrm{OH}(g)$ | -163 |
 | $\mathrm{O}_{2}(g)$ | 0 |
 | $\mathrm{CO}_{2}(g)$ | -394 |
 | $\mathrm{H}_{2} \mathrm{O}(g)$ | -229 |
@@ -1001,7 +947,7 @@ TABLE 16.6 Qualitative Relationship Between the Change in Standard Free Energy a
 
 | $\boldsymbol{\Delta} \boldsymbol{G}^{\circ}$ | $\boldsymbol{K}$ |
 | --- | --- |
-| \hline$\Delta G^{\circ}=0$ | $K=1$ |
+| $\Delta G^{\circ}=0$ | $K=1$ |
 | $\Delta G^{\circ}<0$ | $K>1$ |
 | $\Delta G^{\circ}>0$ | $K<1$ |
 
@@ -1103,7 +1049,7 @@ Using the following data, calculate the equilibrium constant for this reaction a
 
 | Substance | $\boldsymbol{\Delta} \boldsymbol{H}_{\boldsymbol{f}}^{\circ}(\mathbf{k J} / \mathbf{m o l})$ | $\boldsymbol{S}^{\circ}(\mathbf{J} / \mathbf{K} \cdot \mathbf{m o l})$ |
 | --- | --- | --- |
-| \hline $\mathrm{Fe}_{2} \mathrm{O}_{3}(s)$ | -826 | 90 |
+| $\mathrm{Fe}_{2} \mathrm{O}_{3}(s)$ | -826 | 90 |
 | $\mathrm{Fe}(s)$ | 0 | 27 |
 | $\mathrm{O}_{2}(g)$ | 0 | 205 |
 
@@ -1601,13 +1547,13 @@ What will happen to the ratio of partial pressure of $\mathrm{PCl}_{5}$ to parti
 Additional Exercises
 787
 
-| \hline | | | --- | --- | --- | |
+| | | | --- | --- | --- | |
 | --- |
 | | Boiling Point |  |  | |
 | | $(\mathbf{1}$ atm $)$ |  |  | |
-| | \end{tabular} |
+| |  |
  | $\boldsymbol{\Delta H}_{\text {vap }}$ |  |
-| \hline Methane | 112 K | $8.20 \mathrm{~kJ} / \mathrm{mol}$ |
+| Methane | 112 K | $8.20 \mathrm{~kJ} / \mathrm{mol}$ |
 | Hexane | 342 K | $28.9 \mathrm{~kJ} / \mathrm{mol}$ |
 
 
@@ -1640,7 +1586,7 @@ $$\mathrm{HgbO}_{2}+\mathrm{CO} \rightleftharpoons \mathrm{HgbCO}+\mathrm{O}_{2}
 
 |  Species  | $\boldsymbol{\Delta} \boldsymbol{G}_{\mathbf{f}}^{\boldsymbol{\circ}}$ |
 | --- | --- |
-| \hline $\mathrm{Ba}^{2+}(a q)$ | $-561 \mathrm{~kJ} / \mathrm{mol}$ |
+| $\mathrm{Ba}^{2+}(a q)$ | $-561 \mathrm{~kJ} / \mathrm{mol}$ |
 | $\mathrm{NO}_{3}^{-}(a q)$ | $-109 \mathrm{~kJ} / \mathrm{mol}$ |
 | $\mathrm{Ba}\left(\mathrm{NO}_{3}\right)_{2}(s)$ | $-797 \mathrm{~kJ} / \mathrm{mol}$ |
 
@@ -1693,7 +1639,7 @@ $$\mathrm{H}_{2} \mathrm{O}(l) \rightleftharpoons \mathrm{H}^{+}(a q)+\mathrm{OH
 
 | $\boldsymbol{T}\left({ }^{\circ} \mathbf{C}\right)$ | $\boldsymbol{K}_{\mathbf{w}}$ |
 | --- | --- |
-| \hline 0 | $1.14 \times 10^{-15}$ |
+| 0 | $1.14 \times 10^{-15}$ |
 | 25 | $1.00 \times 10^{-14}$ |
 | 35 | $2.09 \times 10^{-14}$ |
 | 40. | $2.92 \times 10^{-14}$ |
@@ -1728,3 +1674,56 @@ c. Show by calculations that $\Delta G=0$ at equilibrium.
 91. If wet silver carbonate is dried in a stream of hot air, the air must have a certain concentration level of carbon dioxide to prevent silver carbonate from decomposing by the reaction
 $$\mathrm{Ag}_{2} \mathrm{CO}_{3}(s) \rightleftharpoons \mathrm{Ag}_{2} \mathrm{O}(s)+\mathrm{CO}_{2}(g)$$
 $\Delta H^{\circ}$ for this reaction is $79.14 \mathrm{~kJ} / \mathrm{mol}$ in the temperature range of 25 to $125^{\circ} \mathrm{C}$. Given that the partial pressure of carbon dioxide in
+
+---
+
+Marathon Problem
+789
+
+equilibrium with pure solid silver carbonate is $6.23 \times 10^{-3}$ torr at $25^{\circ} \mathrm{C}$, calculate the partial pressure of $\mathrm{CO}_{2}$ necessary to prevent decomposition of $\mathrm{Ag}_{2} \mathrm{CO}_{3}$ at $110 .{ }^{\circ} \mathrm{C}$. Hint: Manipulate the equation in Exercise 67.
+92. Carbon tetrachloride ( $\mathrm{CCl}_{4}$ ) and benzene ( $\mathrm{C}_{6} \mathrm{H}_{6}$ ) form ideal solutions. Consider an equimolar solution of $\mathrm{CCl}_{4}$ and $\mathrm{C}_{6} \mathrm{H}_{6}$ at $25^{\circ} \mathrm{C}$. The vapor above the solution is collected and condensed. Using the following data, determine the composition in mole fraction of the condensed vapor.
+
+| Substance | $\boldsymbol{\Delta} \boldsymbol{G}_{\mathbf{f}}^{\circ}$ |
+| --- | --- |
+| $\mathrm{C}_{6} \mathrm{H}_{6}(l)$ | $124.50 \mathrm{~kJ} / \mathrm{mol}$ |
+| $\mathrm{C}_{6} \mathrm{H}_{6}(g)$ | $129.66 \mathrm{~kJ} / \mathrm{mol}$ |
+| $\mathrm{CCl}_{4}(l)$ | $-65.21 \mathrm{~kJ} / \mathrm{mol}$ |
+| $\mathrm{CCl}_{4}(g)$ | $-60.59 \mathrm{~kJ} / \mathrm{mol}$ |
+
+93. Some nonelectrolyte solute (molar mass $=142 \mathrm{~g} / \mathrm{mol}$ ) was dissolved in $150 . \mathrm{mL}$ of a solvent (density $=0.879 \mathrm{~g} / \mathrm{cm}^{3}$ ). The elevated boiling point of the solution was 355.4 K . What mass of solute was dissolved in the solvent? For the solvent, the enthalpy of vaporization is $33.90 \mathrm{~kJ} / \mathrm{mol}$, the entropy of vaporization is $95.95 \mathrm{~J} / \mathrm{K} \cdot \mathrm{mol}$, and the boiling-point elevation constant is $2.5 \mathrm{~K} \cdot \mathrm{~kg} / \mathrm{mol}$.
+94. You have a $1.00-\mathrm{L}$ sample of hot water $\left(90.0^{\circ} \mathrm{C}\right)$ sitting open in a $25.0^{\circ} \mathrm{C}$ room. Eventually the water cools to $250^{\circ} \mathrm{C}$ while the temperature of the room remains unchanged. Calculate $\Delta S_{\text {surr }}$ for this process. Assume the density of water is $1.00 \mathrm{~g} / \mathrm{cm}^{3}$ over this temperature range, and the heat capacity of water is constant over this temperature range and equal to $75.4 \mathrm{~J} / \mathrm{K} \cdot \mathrm{mol}$.
+95. Consider a weak acid, HX . If a $0.10 M$ solution of HX has a pH of 5.83 at $25^{\circ} \mathrm{C}$, what is $\Delta G^{\circ}$ for the acid's dissociation reaction at $25^{\circ} \mathrm{C}$ ?
+96. Sodium chloride is added to water (at $25^{\circ} \mathrm{C}$ ) until it is saturated. Calculate the $\mathrm{Cl}^{-}$concentration in such a solution.
+
+| Species | $\boldsymbol{\Delta} \boldsymbol{G}^{\boldsymbol{\circ}} \mathbf{( k J / m o l )}$ |
+| --- | --- |
+| $\mathrm{NaCl}(s)$ | -384 |
+| $\mathrm{Na}^{+}(a q)$ | -262 |
+| $\mathrm{Cl}^{-}(a q)$ | -131 |
+
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+97. For the equilibrium
+$$\mathrm{A}(g)+2 \mathrm{~B}(g) \rightleftharpoons \mathrm{C}(g)$$
+the initial concentrations are $[\mathrm{A}]=[\mathrm{B}]=[\mathrm{C}]=0.100 \mathrm{~atm}$. Once equilibrium has been established, it is found that $[\mathrm{C}]=$ 0.040 atm . What is $\Delta G^{\circ}$ for this reaction at $25^{\circ} \mathrm{C}$ ?
+98. What is the pH of a $0.125 M$ solution of the weak base B if $\Delta H^{\circ}=-28.0 \mathrm{~kJ}$ and $\Delta S^{\circ}=-175 \mathrm{~J} / \mathrm{K}$ for the following equilibrium reaction at $25^{\circ} \mathrm{C}$ ?
+$$\mathrm{B}(a q)+\mathrm{H}_{2} \mathrm{O}(l) \leftrightharpoons \mathrm{BH}^{+}(a q)+\mathrm{OH}^{-}(a q)$$
+
+Marathon Problem
+This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+99. Impure nickel, refined by smelting sulfide ores in a blast furnace, can be converted into metal from $99.90 \%$ to $99.99 \%$ purity by the Mond process. The primary reaction involved in the Mond process is
+$$\mathrm{Ni}(s)+4 \mathrm{CO}(g) \rightleftharpoons \mathrm{Ni}(\mathrm{CO})_{4}(g)$$
+a. Without referring to Appendix 4, predict the sign of $\Delta S^{\circ}$ for the above reaction. Explain.
+b. The spontaneity of the above reaction is temperature dependent. Predict the sign of $\Delta S_{\text {surr }}$ for this reaction. Explain.
+c. For $\mathrm{Ni}(\mathrm{CO})_{4}(g), \Delta H_{\mathrm{f}}^{\circ}=-607 \mathrm{~kJ} / \mathrm{mol}$ and $S^{\circ}=417 \mathrm{~J} / \mathrm{K} \cdot$ mol at 298 K . Using these values and data in Appendix 4, calculate $\Delta H^{\circ}$ and $\Delta S^{\circ}$ for the above reaction.
+d. Calculate the temperature at which $\Delta G^{\circ}=0(K=1)$ for the above reaction, assuming that $\Delta H^{\circ}$ and $\Delta S^{\circ}$ do not depend on temperature.
+e. The first step of the Mond process involves equilibrating impure nickel with $\mathrm{CO}(g)$ and $\mathrm{Ni}(\mathrm{CO})_{4}(g)$ at about $50^{\circ} \mathrm{C}$. The purpose of this step is to convert as much nickel as possible into the gas phase. Calculate the equilibrium constant for the above reaction at $50 .{ }^{\circ} \mathrm{C}$.
+f. In the second step of the Mond process, the gaseous $\mathrm{Ni}(\mathrm{CO})_{4}$ is isolated and heated to $227^{\circ} \mathrm{C}$. The purpose of this step is to deposit as much nickel as possible as pure solid (the reverse of the above reaction). Calculate the equilibrium constant for the above reaction at $227^{\circ} \mathrm{C}$.
+g. Why is temperature increased for the second step of the Mond process?
+h. The Mond process relies on the volatility of $\mathrm{Ni}(\mathrm{CO})_{4}$ for its success. Only pressures and temperatures at which $\mathrm{Ni}(\mathrm{CO})_{4}$ is a gas are useful. A recently developed variation of the Mond process carries out the first step at higher pressures and a temperature of $152^{\circ} \mathrm{C}$. Estimate the maximum pressure of $\mathrm{Ni}(\mathrm{CO})_{4}(g)$ that can be attained before the gas will liquefy at $152^{\circ} \mathrm{C}$. The boiling point for $\mathrm{Ni}(\mathrm{CO})_{4}$ is $42^{\circ} \mathrm{C}$ and the enthalpy of vaporization is $29.0 \mathrm{~kJ} / \mathrm{mol}$.
+[Hint: The phase change reaction and the corresponding equilibrium expression are
+$$\mathrm{Ni}(\mathrm{CO})_{4}(l) \rightleftharpoons \mathrm{Ni}(\mathrm{CO})_{4}(g) \quad K=P_{\mathrm{Ni}(\mathrm{CO})_{4}}$$
+$\mathrm{Ni}(\mathrm{CO})_{4}(g)$ will liquefy when the pressure of $\mathrm{Ni}(\mathrm{CO})_{4}$ is greater than the $K$ value.]
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

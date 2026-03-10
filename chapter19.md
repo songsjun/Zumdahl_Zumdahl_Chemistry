@@ -1,22 +1,5 @@
 # Chapter 19: The Representative Elements: Groups 1A Through 4A
 
-Integrative Problems
-873
-d. The U.S. Environmental Protection Agency (EPA) recommends that ${ }^{222} \mathrm{Rn}$ levels not exceed 4 pCi per liter of air ( $1 \mathrm{Ci}=1$ curie $=3.7 \times 10^{10}$ decay events per second; $1 \mathrm{pCi}= 1 \times 10^{-12} \mathrm{Ci}$ ). Convert 4.0 pCi per liter of air into concentrations units of ${ }^{222} \mathrm{Rn}$ atoms per liter of air and moles of ${ }^{222} \mathrm{Rn}$ per liter of air.
-67. To determine the $K_{\mathrm{sp}}$ value of $\mathrm{Hg}_{2} \mathrm{I}_{2}$, a chemist obtained a solid sample of $\mathrm{Hg}_{2} \mathrm{I}_{2}$ in which some of the iodine is present as radioactive ${ }^{131} \mathrm{I}$. The count rate of the $\mathrm{Hg}_{2} \mathrm{I}_{2}$ sample is $5.0 \times 10^{11}$ counts per minute per mole of I . An excess amount of $\mathrm{Hg}_{2} \mathrm{I}_{2}(s)$ is placed into some water, and the solid is allowed to come to equilibrium with its respective ions. A $150.0-\mathrm{mL}$ sample of the saturated solution is withdrawn and the radioactivity measured at 33 counts per minute. From this information, calculate the $K_{\mathrm{sp}}$ value for $\mathrm{Hg}_{2} \mathrm{I}_{2}$.
-$$\mathrm{Hg}_{2} \mathrm{I}_{2}(s) \rightleftharpoons \mathrm{Hg}_{2}^{2+}(a q)+2 \mathrm{I}^{-}(a q) \quad K_{\mathrm{sp}}=\left[\mathrm{Hg}_{2}^{2+}\right]\left[\mathrm{I}^{-}\right]^{2}$$
-68. Estimate the temperature needed to achieve the fusion of deuterium to make an alpha particle. The energy required can be estimated from Coulomb's law [use the form $E=9.0 \times 10^{9}$ ( $Q_{1} Q_{2} / r$ ), using $Q=1.6 \times 10^{-19} \mathrm{C}$ for a proton, and $r=2 \times 10^{-15} \mathrm{~m}$ for the helium nucleus; the unit for the proportionality constant in Coloumb's law is $\mathrm{J} \cdot \mathrm{m} / \mathrm{C}^{2}$.]
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-69. A recently reported synthesis of the transuranium element bohrium (Bh) involved the bombardment of berkelium-249 with
-neon-22 to produce bohrium-267. Write a nuclear reaction for this synthesis. The half-life of bohrium-267 is 15.0 seconds. If 199 atoms of bohrium- 267 could be synthesized, how much time would elapse before only 11 atoms of bohrium- 267 remain? What is the expected electron configuration of elemental bohrium?
-70. Radioactive cobalt-60 is used to study defects in vitamin $B_{12}$ absorption because cobalt is the metallic atom at the center of the vitamin $B_{12}$ molecule. The nuclear synthesis of this cobalt isotope involves a three-step process. The overall reaction is iron- 58 reacting with two neutrons to produce cobalt-60 along with the emission of another particle. What particle is emitted in this nuclear synthesis? What is the binding energy in J per nucleon for the cobalt-60 nucleus (atomic masses: ${ }^{60} \mathrm{Co}=59.9338 \mathrm{amu}$; ${ }^{1} \mathrm{H}=1.00782 \mathrm{amu}$ ). What is the de Broglie wavelength of the emitted particle if it has a velocity equal to $0.90 c$ where $c$ is the speed of light?
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 10 The Representative Elements: Groups 1A Through 4A
 
 Contents
@@ -95,18 +78,18 @@ The small size of the fluorine atoms allows close approach of the lone pairs, wh
 Abundance and Preparation
 Table 19.1 shows the distribution of elements in the earth's crust, oceans, and atmosphere. The major element is, of course, oxygen, which is found in the atmosphere as $\mathrm{O}_{2}$, in the oceans in $\mathrm{H}_{2} \mathrm{O}$, and in the earth's crust primarily in silicate and carbonate minerals. The second most abundant element, silicon, is found throughout the earth's crust in the silica and silicate minerals that form the basis of most sand, rocks, and soil. The most abundant metals, aluminum and iron, are found in ores in which they are combined with nonmetals, most commonly oxygen. One notable fact revealed by Table 19.1 is the small incidence of most transition metals. Since many of these relatively rare elements are assuming
 
-| \hline Element | Mass Percent | Element | Mass Percent |
+| Element | Mass Percent | Element | Mass Percent |
 | --- | --- | --- | --- |
-| \hline Oxygen | 49.2 | Chlorine | 0.19 |
-| \hline Silicon | 25.7 | Phosphorus | 0.11 |
-| \hline Aluminum | 7.50 | Manganese | 0.09 |
-| \hline Iron | 4.71 | Carbon | 0.08 |
-| \hline Calcium | 3.39 | Sulfur | 0.06 |
-| \hline Sodium | 2.63 | Barium | 0.04 |
-| \hline Potassium | 2.40 | Nitrogen | 0.03 |
-| \hline Magnesium | 1.93 | Fluorine | 0.03 |
-| \hline Hydrogen | 0.87 | All others | 0.49 |
-| \hline Titanium | 0.58 |  |  |
+| Oxygen | 49.2 | Chlorine | 0.19 |
+| Silicon | 25.7 | Phosphorus | 0.11 |
+| Aluminum | 7.50 | Manganese | 0.09 |
+| Iron | 4.71 | Carbon | 0.08 |
+| Calcium | 3.39 | Sulfur | 0.06 |
+| Sodium | 2.63 | Barium | 0.04 |
+| Potassium | 2.40 | Nitrogen | 0.03 |
+| Magnesium | 1.93 | Fluorine | 0.03 |
+| Hydrogen | 0.87 | All others | 0.49 |
+| Titanium | 0.58 |  |  |
 
 ---
 
@@ -117,21 +100,21 @@ Metallurgy is discussed in more detail in Chapter 21.
 
 Carbon is the cheapest and most readily available industrial reducing agent for metallic ions.
 
-| \hline Major Elements | Mass Percent | Trace Elements (in alphabetical order) |
+| Major Elements | Mass Percent | Trace Elements (in alphabetical order) |
 | --- | --- | --- |
-| \hline Oxygen | 65.0 | Arsenic |
-| \hline Carbon | 18.0 | Chromium |
-| \hline Hydrogen | 10.0 | Cobalt |
-| \hline Nitrogen | 3.0 | Copper |
-| \hline Calcium | 1.4 | Fluorine |
-| \hline Phosphorus | 1.0 | Iodine |
-| \hline Magnesium | 0.50 | Manganese |
-| \hline Potassium | 0.34 | Molybdenum |
-| \hline Sulfur | 0.26 | Nickel |
-| \hline Sodium | 0.14 | Selenium |
-| \hline Chlorine | 0.14 | Silicon |
-| \hline Iron | 0.004 | Vanadium |
-| \hline Zinc | 0.003 |  |
+| Oxygen | 65.0 | Arsenic |
+| Carbon | 18.0 | Chromium |
+| Hydrogen | 10.0 | Cobalt |
+| Nitrogen | 3.0 | Copper |
+| Calcium | 1.4 | Fluorine |
+| Phosphorus | 1.0 | Iodine |
+| Magnesium | 0.50 | Manganese |
+| Potassium | 0.34 | Molybdenum |
+| Sulfur | 0.26 | Nickel |
+| Sodium | 0.14 | Selenium |
+| Chlorine | 0.14 | Silicon |
+| Iron | 0.004 | Vanadium |
+| Zinc | 0.003 |  |
 
 increasing importance in our high-technology society, it is possible that the control of transition metal ores may ultimately have more significance for world politics than the control of petroleum supplies.
 
@@ -171,13 +154,13 @@ Lepidolite is composed mainly of lithium, aluminum, silicon, and oxygen, but it 
 
 Several properties of the alkali metals are given in Table 7.8.
 
-| \hline Element | Ionization Energy (kJ/mol) | Standard Reduction Potential (V) for $\mathbf{M}^{+} \boldsymbol{+} \mathbf{e}^{-} \boldsymbol{\rightarrow} \mathbf{M}$ | Radius of $\mathbf{M}^{+}$ (pm) | Melting Point $\left({ }^{\circ} \mathrm{C}\right)$ |
+| Element | Ionization Energy (kJ/mol) | Standard Reduction Potential (V) for $\mathbf{M}^{+} \boldsymbol{+} \mathbf{e}^{-} \boldsymbol{\rightarrow} \mathbf{M}$ | Radius of $\mathbf{M}^{+}$ (pm) | Melting Point $\left({ }^{\circ} \mathrm{C}\right)$ |
 | --- | --- | --- | --- | --- |
-| \hline Lithium | 520 | -3.05 | 60 | 180 |
-| \hline Sodium | 495 | -2.71 | 95 | 98 |
-| \hline Potassium | 419 | -2.92 | 133 | 63 |
-| \hline Rubidium | 409 | -2.99 | 148 | 39 |
-| \hline Cesium | 382 | -3.02 | 169 | 29 |
+| Lithium | 520 | -3.05 | 60 | 180 |
+| Sodium | 495 | -2.71 | 95 | 98 |
+| Potassium | 419 | -2.92 | 133 | 63 |
+| Rubidium | 409 | -2.99 | 148 | 39 |
+| Cesium | 382 | -3.02 | 169 | 29 |
 
 ---
 
@@ -219,7 +202,7 @@ The types of compounds formed by the alkali metals with oxygen are summarized in
 
 | General Formula | Name | Examples |
 | --- | --- | --- |
-| \hline $\mathrm{M}_{2} \mathrm{O}$ | Oxide | $\mathrm{Li}_{2} \mathrm{O}, \mathrm{Na}_{2} \mathrm{O}$ |
+| $\mathrm{M}_{2} \mathrm{O}$ | Oxide | $\mathrm{Li}_{2} \mathrm{O}, \mathrm{Na}_{2} \mathrm{O}$ |
 | $\mathrm{M}_{2} \mathrm{O}_{2}$ | Peroxide | $\mathrm{Na}_{2} \mathrm{O}_{2}$ |
 | $\mathrm{MO}_{2}$ | Superoxide | $\mathrm{KO}_{2}, \mathrm{RbO}_{2}, \mathrm{CsO}_{2}$ |
 
@@ -230,9 +213,9 @@ Chapter Nineteen The Representative Elements: Groups 1A Through 4A
 
 Sodium reacts violently with chlorine.
 
-| \hline Reaction | Comment |
+| Reaction | Comment |
 | --- | --- |
-| \hline $$\begin{array}{l} |  |
+| $$\begin{array}{l} |  |
 | 2 \mathrm{M}+\mathrm{X}_{2} \rightarrow 2 \mathrm{MX} |  |
 | 4 \mathrm{Li}+\mathrm{O}_{2} \rightarrow 2 \mathrm{Li}_{2} \mathrm{O} |  |
 | 2 \mathrm{Na}+\mathrm{O}_{2} \rightarrow \mathrm{Na}_{2} \mathrm{O}_{2} |  |
@@ -248,7 +231,7 @@ Sodium reacts violently with chlorine.
 | | $\mathrm{M}=\mathrm{K}, \mathrm{Rb}$, or Cs |  | |
 | | Li only |  | |
 | | Violent reaction! |  | |
-| | \end{tabular} |
+| |  |
  |  |
 
 
@@ -327,14 +310,14 @@ See Section 6.6 for a discussion of the feasibility of using hydrogen gas as a f
 When interstitial hydrides are heated, much of the absorbed hydrogen is expelled as hydrogen gas. Because of this behavior, these materials offer possibilities for storing hydrogen for use as a portable fuel. The internal combustion engines in current automobiles can burn hydrogen gas with little modification, but storage of enough hydrogen to provide an acceptable mileage range remains a problem. One possible solution might be to use a fuel tank containing a porous solid that includes a transition metal into which the hydrogen gas could be pumped to form the interstitial hydride. The hydrogen gas could then be released as required by the engine.
 
 An amphoteric oxide displays both acidic and basic properties.
-| \hline 2 A |
+| 2 A |
 | --- |
-| \hline Be |
-| \hline Mg |
-| \hline Ca |
-| \hline Sr |
-| \hline Ba |
-| \hline Ra |
+| Be |
+| Mg |
+| Ca |
+| Sr |
+| Ba |
+| Ra |
 
 19.4 The Group 2A Elements
 
@@ -349,15 +332,15 @@ $$\mathrm{M}(s)+2 \mathrm{H}_{2} \mathrm{O}(l) \longrightarrow \mathrm{M}^{2+}(a
 
 Calcium, strontium, and barium react vigorously at $25^{\circ} \mathrm{C}$. The less easily oxidized beryllium and magnesium show no observable reaction with water at $25^{\circ} \mathrm{C}$, although magnesium reacts with boiling water. Table 19.7 summarizes various properties, sources, and preparations of the alkaline earth metals.
 
-| \hline \multirow[b]{2}{*}{Element} | \multirow[b]{2}{*}{Radius of $\mathrm{M}^{2+}$ (pm)} | Ionization Energy (kJ/mol) | \multirow[b]{2}{*}{$\mathscr{E}^{\circ}(\mathrm{V})$ for $\mathbf{M}^{\mathbf{2 +}} \boldsymbol{+} \mathbf{2 \mathbf { e } ^ { - }} \boldsymbol{\rightarrow} \mathbf{M}$} | \multirow[b]{2}{*}{Source} | \multirow[b]{2}{*}{Method of Preparation} |  |
+| \multirow[b]{2}{*}{Element} | \multirow[b]{2}{*}{Radius of $\mathrm{M}^{2+}$ (pm)} | Ionization Energy (kJ/mol) | \multirow[b]{2}{*}{$\mathscr{E}^{\circ}(\mathrm{V})$ for $\mathbf{M}^{\mathbf{2 +}} \boldsymbol{+} \mathbf{2 \mathbf { e } ^ { - }} \boldsymbol{\rightarrow} \mathbf{M}$} | \multirow[b]{2}{*}{Source} | \multirow[b]{2}{*}{Method of Preparation} |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| \hline |  | First | Second |  |  |  |
-| \hline Beryllium | ~30 | 900 | 1760 | -1.70 | Beryl ( $\mathrm{Be}_{3} \mathrm{Al}_{2} \mathrm{Si}_{6} \mathrm{O}_{18}$ ) | Electrolysis of molten $\mathrm{BeCl}_{2}$ |
-| \hline Magnesium | 65 | 738 | 1450 | -2.37 | Magnesite ( $\mathrm{MgCO}_{3}$ ), dolomite ( $\mathrm{MgCO}_{3} \cdot \mathrm{CaCO}_{3}$ ), carnallite ( $\mathrm{MgCl}_{2} \cdot \mathrm{KCl} \cdot 6 \mathrm{H}_{2} \mathrm{O}$ ) | Electrolysis of molten $\mathrm{MgCl}_{2}$ |
-| \hline Calcium | 99 | 590 | 1146 | -2.76 | Various minerals containing $\mathrm{CaCO}_{3}$ | Electrolysis of molten $\mathrm{CaCl}_{2}$ |
-| \hline Strontium | 113 | 549 | 1064 | -2.89 | Celestite ( $\mathrm{SrSO}_{4}$ ), strontianite ( $\mathrm{SrCO}_{3}$ ) | Electrolysis of molten $\mathrm{SrCl}_{2}$ |
-| \hline Barium | 135 | 503 | 965 | -2.90 | Baryte ( $\mathrm{BaSO}_{4}$ ), witherite ( $\mathrm{BaCO}_{3}$ ) | Electrolysis of molten $\mathrm{BaCl}_{2}$ |
-| \hline Radium | 140 | 509 | 979 | -2.92 | Pitchblende ( 1 g of Ra/7 tons of ore) | Electrolysis of molten $\mathrm{RaCl}_{2}$ |
+| |  | First | Second |  |  |  |
+| Beryllium | ~30 | 900 | 1760 | -1.70 | Beryl ( $\mathrm{Be}_{3} \mathrm{Al}_{2} \mathrm{Si}_{6} \mathrm{O}_{18}$ ) | Electrolysis of molten $\mathrm{BeCl}_{2}$ |
+| Magnesium | 65 | 738 | 1450 | -2.37 | Magnesite ( $\mathrm{MgCO}_{3}$ ), dolomite ( $\mathrm{MgCO}_{3} \cdot \mathrm{CaCO}_{3}$ ), carnallite ( $\mathrm{MgCl}_{2} \cdot \mathrm{KCl} \cdot 6 \mathrm{H}_{2} \mathrm{O}$ ) | Electrolysis of molten $\mathrm{MgCl}_{2}$ |
+| Calcium | 99 | 590 | 1146 | -2.76 | Various minerals containing $\mathrm{CaCO}_{3}$ | Electrolysis of molten $\mathrm{CaCl}_{2}$ |
+| Strontium | 113 | 549 | 1064 | -2.89 | Celestite ( $\mathrm{SrSO}_{4}$ ), strontianite ( $\mathrm{SrCO}_{3}$ ) | Electrolysis of molten $\mathrm{SrCl}_{2}$ |
+| Barium | 135 | 503 | 965 | -2.90 | Baryte ( $\mathrm{BaSO}_{4}$ ), witherite ( $\mathrm{BaCO}_{3}$ ) | Electrolysis of molten $\mathrm{BaCl}_{2}$ |
+| Radium | 140 | 509 | 979 | -2.92 | Pitchblende ( 1 g of Ra/7 tons of ore) | Electrolysis of molten $\mathrm{RaCl}_{2}$ |
 
 ---
 
@@ -437,13 +420,13 @@ Boron is a nonmetal, and most of its compounds are covalent. The most interestin
 
 Aluminum, the most abundant metal on earth, has metallic physical properties, such as high thermal and electrical conductivities and a lustrous appearance, but its bonds to nonmetals are significantly covalent. This covalency is responsible for the amphoteric
 
-| \hline Element | Radius of $\mathbf{M}^{\mathbf{3 +}}$ (pm) | Ionization Energy (kJ/mol) | $\mathscr{E}^{\circ}(\mathrm{V})$ for $\mathbf{M}^{\mathbf{3 +}} \boldsymbol{+} \mathbf{3 \mathrm { e } ^ { - }} \boldsymbol{\rightarrow} \mathbf{M}$ | Sources | Method of Preparation |
+| Element | Radius of $\mathbf{M}^{\mathbf{3 +}}$ (pm) | Ionization Energy (kJ/mol) | $\mathscr{E}^{\circ}(\mathrm{V})$ for $\mathbf{M}^{\mathbf{3 +}} \boldsymbol{+} \mathbf{3 \mathrm { e } ^ { - }} \boldsymbol{\rightarrow} \mathbf{M}$ | Sources | Method of Preparation |
 | --- | --- | --- | --- | --- | --- |
-| \hline Boron | 20 | 798 | - | Kernite, a form of borax $\left(\mathrm{Na}_{2} \mathrm{~B}_{4} \mathrm{O}_{7} \cdot 4 \mathrm{H}_{2} \mathrm{O}\right)$ | Reduction by Mg or $\mathrm{H}_{2}$ |
-| \hline Aluminum | 51 | 581 | -1.71 | Bauxite $\left(\mathrm{Al}_{2} \mathrm{O}_{3}\right)$ | Electrolysis of $\mathrm{Al}_{2} \mathrm{O}_{3}$ in molten $\mathrm{Na}_{3} \mathrm{AlF}_{6}$ |
-| \hline Gallium | 62 | 577 | -0.53 | Traces in various minerals | Reduction with $\mathrm{H}_{2}$ or electrolysis |
-| \hline Indium | 81 | 556 | -0.34 | Traces in various minerals | Reduction with $\mathrm{H}_{2}$ or electrolysis |
-| \hline Thallium | 95 | 589 | 0.72 | Traces in various minerals | Electrolysis |
+| Boron | 20 | 798 | - | Kernite, a form of borax $\left(\mathrm{Na}_{2} \mathrm{~B}_{4} \mathrm{O}_{7} \cdot 4 \mathrm{H}_{2} \mathrm{O}\right)$ | Reduction by Mg or $\mathrm{H}_{2}$ |
+| Aluminum | 51 | 581 | -1.71 | Bauxite $\left(\mathrm{Al}_{2} \mathrm{O}_{3}\right)$ | Electrolysis of $\mathrm{Al}_{2} \mathrm{O}_{3}$ in molten $\mathrm{Na}_{3} \mathrm{AlF}_{6}$ |
+| Gallium | 62 | 577 | -0.53 | Traces in various minerals | Reduction with $\mathrm{H}_{2}$ or electrolysis |
+| Indium | 81 | 556 | -0.34 | Traces in various minerals | Reduction with $\mathrm{H}_{2}$ or electrolysis |
+| Thallium | 95 | 589 | 0.72 | Traces in various minerals | Electrolysis |
 
 ---
 
@@ -479,24 +462,24 @@ Chapter Nineteen The Representative Elements: Groups 1A Through 4A
 
 Aluminum is used in airplane construction.
 
-| \hline Reaction | Comment |
+| Reaction | Comment |
 | --- | --- |
-| \hline $2 \mathrm{M}+3 \mathrm{X}_{2} \rightarrow 2 \mathrm{MX}_{3}$ | $\mathrm{X}_{2}=$ any halogen molecule; Tl gives TIX as well, but no $\mathrm{TlI}_{3}$ |
-| \hline $4 \mathrm{M}+3 \mathrm{O}_{2} \rightarrow 2 \mathrm{M}_{2} \mathrm{O}_{3}$ | High temperatures; Tl gives $\mathrm{Tl}_{2} \mathrm{O}$ as well |
-| \hline $2 \mathrm{M}+3 \mathrm{~S} \rightarrow \mathrm{M}_{2} \mathrm{~S}_{3}$ | High temperatures; Tl gives $\mathrm{Tl}_{2} \mathrm{~S}$ as well |
-| \hline $2 \mathrm{M}+\mathrm{N}_{2} \rightarrow 2 \mathrm{MN}$ | M = Al only |
-| \hline $2 \mathrm{M}+6 \mathrm{H}^{+} \rightarrow 2 \mathrm{M}^{3+}+3 \mathrm{H}_{2}$ | $\mathrm{M}=\mathrm{Al}, \mathrm{Ga}$, or $\mathrm{In} ; \mathrm{Tl}$ gives $\mathrm{Tl}^{+}$ |
-| \hline $2 \mathrm{M}+2 \mathrm{OH}^{-}+6 \mathrm{H}_{2} \mathrm{O} \rightarrow 2 \mathrm{M}(\mathrm{OH})_{4}{ }^{-}+3 \mathrm{H}_{2}$ | $\mathrm{M}=\mathrm{Al}$ or Ga |
+| $2 \mathrm{M}+3 \mathrm{X}_{2} \rightarrow 2 \mathrm{MX}_{3}$ | $\mathrm{X}_{2}=$ any halogen molecule; Tl gives TIX as well, but no $\mathrm{TlI}_{3}$ |
+| $4 \mathrm{M}+3 \mathrm{O}_{2} \rightarrow 2 \mathrm{M}_{2} \mathrm{O}_{3}$ | High temperatures; Tl gives $\mathrm{Tl}_{2} \mathrm{O}$ as well |
+| $2 \mathrm{M}+3 \mathrm{~S} \rightarrow \mathrm{M}_{2} \mathrm{~S}_{3}$ | High temperatures; Tl gives $\mathrm{Tl}_{2} \mathrm{~S}$ as well |
+| $2 \mathrm{M}+\mathrm{N}_{2} \rightarrow 2 \mathrm{MN}$ | M = Al only |
+| $2 \mathrm{M}+6 \mathrm{H}^{+} \rightarrow 2 \mathrm{M}^{3+}+3 \mathrm{H}_{2}$ | $\mathrm{M}=\mathrm{Al}, \mathrm{Ga}$, or $\mathrm{In} ; \mathrm{Tl}$ gives $\mathrm{Tl}^{+}$ |
+| $2 \mathrm{M}+2 \mathrm{OH}^{-}+6 \mathrm{H}_{2} \mathrm{O} \rightarrow 2 \mathrm{M}(\mathrm{OH})_{4}{ }^{-}+3 \mathrm{H}_{2}$ | $\mathrm{M}=\mathrm{Al}$ or Ga |
 
 19.6 The Group 4A Elements
 
 | 4 A |
 | --- |
-| \hline C |
-| \hline Si |
-| \hline Ge |
-| \hline Sn |
-| \hline Pb |
+| C |
+| Si |
+| Ge |
+| Sn |
+| Pb |
 
 
 Group 4A (with the valence-electron configuration $n s^{2} n p^{2}$ ) contains two of the most important elements on earth: carbon, the fundamental constituent of the molecules necessary for life, and silicon, which forms the basis of the geologic world. The change from nonmetallic to metallic properties seen in Group 3A is also apparent in going down Group 4A from carbon, a typical nonmetal, to silicon and germanium, usually considered semimetals, to the metals tin and lead. Table 19.11 summarizes some physical properties, sources, and methods of preparation for the elements in this group.
@@ -513,13 +496,13 @@ Copyright 2007 Cengage Learning, Inc. All Rights Reserved. May not be copied, sc
 19.6 The Group 4A Elements
 891
 
-| \hline Element | Electronegativity | Melting Point $\left({ }^{\circ} \mathrm{C}\right)$ | Boiling Point $\left({ }^{\circ} \mathrm{C}\right)$ | Sources | Method of Preparation |
+| Element | Electronegativity | Melting Point $\left({ }^{\circ} \mathrm{C}\right)$ | Boiling Point $\left({ }^{\circ} \mathrm{C}\right)$ | Sources | Method of Preparation |
 | --- | --- | --- | --- | --- | --- |
-| \hline Carbon | 2.5 | 3727 (sublimes) | - | Graphite, diamond, petroleum, coal | - |
-| \hline Silicon | 1.8 | 1410 | 2355 | Silicate minerals, silica | Reduction of $\mathrm{K}_{2} \mathrm{SiF}_{6}$ with Al , or reduction of $\mathrm{SiO}_{2}$ with Mg |
-| \hline Germanium | 1.8 | 937 | 2830 | Germanite (mixture of copper, iron, and germanium sulfides) | Reduction of $\mathrm{GeO}_{2}$ with $\mathrm{H}_{2}$ or C |
-| \hline Tin | 1.8 | 232 | 2270 | Cassiterite ( $\mathrm{SnO}_{2}$ ) | Reduction of $\mathrm{SnO}_{2}$ with C |
-| \hline Lead | 1.9 | 327 | 1740 | Galena (PbS) | Roasting of PbS with $\mathrm{O}_{2}$ to form $\mathrm{PbO}_{2}$ and then reduction with C |
+| Carbon | 2.5 | 3727 (sublimes) | - | Graphite, diamond, petroleum, coal | - |
+| Silicon | 1.8 | 1410 | 2355 | Silicate minerals, silica | Reduction of $\mathrm{K}_{2} \mathrm{SiF}_{6}$ with Al , or reduction of $\mathrm{SiO}_{2}$ with Mg |
+| Germanium | 1.8 | 937 | 2830 | Germanite (mixture of copper, iron, and germanium sulfides) | Reduction of $\mathrm{GeO}_{2}$ with $\mathrm{H}_{2}$ or C |
+| Tin | 1.8 | 232 | 2270 | Cassiterite ( $\mathrm{SnO}_{2}$ ) | Reduction of $\mathrm{SnO}_{2}$ with C |
+| Lead | 1.9 | 327 | 1740 | Galena (PbS) | Roasting of PbS with $\mathrm{O}_{2}$ to form $\mathrm{PbO}_{2}$ and then reduction with C |
 
 
 Although graphite is thermodynamically more stable than diamond, the transformation of diamond to graphite is not observed under normal conditions.
@@ -530,9 +513,9 @@ Fullerenes have been discovered recently by geologists in ancient rocks in Russi
 | --- |
 | | Bond Energy |  | |
 | | $\mathbf{( k J} / \mathbf{m o l})$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline $\mathrm{C}-\mathrm{C}$ | 347 |
+| $\mathrm{C}-\mathrm{C}$ | 347 |
 | $\mathrm{Si}-\mathrm{Si}$ | 340 |
 | $\mathrm{Si}-\mathrm{O}$ | 452 |
 
@@ -625,7 +608,7 @@ Lead(II) oxide, known as litharge.
 
 | Reaction | Comment |
 | --- | --- |
-| \hline$M+2 X_{2} \rightarrow M X_{4}$ | $X_{2}=$ any halogen molecule; |
+| $M+2 X_{2} \rightarrow M X_{4}$ | $X_{2}=$ any halogen molecule; |
 |  | $M=$ Ge or $\mathrm{Sn} ; \mathrm{Pb}$ gives $\mathrm{PbX}_{2}$ |
 | $M+\mathrm{O}_{2} \rightarrow \mathrm{MO}_{2}$ | $M=$ Ge or $\mathrm{Sn} ;$ high temperatures; |
 |  | $P b$ gives PbO or $\mathrm{Pb}_{3} \mathrm{O}_{4}$ |
@@ -814,7 +797,7 @@ Will the ice melt? Assuming the final mixture has a specific heat capacity of $4
 
 |  |  I  |  II  |
 | --- | --- | --- |
-| \hline Mass | 0.2022 g | 0.2224 g |
+| Mass | 0.2022 g | 0.2224 g |
 | Volume | $22.6 \mathrm{~cm}^{3}$ | $26.0 \mathrm{~cm}^{3}$ |
 | Temperature | $13^{\circ} \mathrm{C}$ | $17^{\circ} \mathrm{C}$ |
 | Pressure | 765.2 mm Hg | 764.6 mm |
@@ -882,3 +865,55 @@ $$\mathrm{ATP}(a q)+\mathrm{H}_{2} \mathrm{O}(l) \longrightarrow \mathrm{ADP}(a 
 where ADP represents adenosine diphosphate. For this reaction at $37^{\circ} \mathrm{C}, K=1.7 \times 10^{5}$. How many moles of ATP must be hydrolyzed to provide the energy for the transport of 1.0 mol of $\mathrm{K}^{+}$? Assume standard conditions for the ATP hydrolysis reaction.
 73. EDTA is used as a complexing agent in chemical analysis. Solutions of EDTA, usually containing the disodium salt $\mathrm{Na}_{2} \mathrm{H}_{2}$ EDTA, are also used to treat heavy metal poisoning. The equilibrium constant for the following reaction is $1.0 \times 10^{23}$ :
 $$\mathrm{Pb}^{2+}(a q)+\mathrm{H}_{2} \mathrm{EDTA}^{2-}(a q) \rightleftharpoons \mathrm{PbEDTA}^{2-}(a q)+2 \mathrm{H}^{+}(a q)$$
+
+---
+
+Marathon Problem
+899
+
+Calculate $\left[\mathrm{Pb}^{2+}\right]$ at equilibrium in a solution originally $0.0010 M$ in $\mathrm{Pb}^{2+}, 0.050 ~ M$ in $\mathrm{H}_{2} \mathrm{EDTA}^{2-}$, and buffered at $\mathrm{pH}=6.00$.
+74. The compounds $\mathrm{CCl}_{4}$ and $\mathrm{H}_{2} \mathrm{O}$ do not react with each other. On the other hand, silicon tetrachloride reacts with water according to the equation
+$$\mathrm{SiCl}_{4}(l)+2 \mathrm{H}_{2} \mathrm{O}(l) \longrightarrow \mathrm{SiO}_{2}(s)+4 \mathrm{HCl}(a q)$$
+
+Discuss the importance of thermodynamics and kinetics in the reactivity of water with $\mathrm{SiCl}_{4}$ as compared with its lack of reactivity with $\mathrm{CCl}_{4}$.
+75. One reason suggested to account for the instability of long chains of silicon atoms is that the decomposition involves the transition state shown below:
+
+The activation energy for such a process is $210 \mathrm{~kJ} / \mathrm{mol}$, which is less than either the $\mathrm{Si}-\mathrm{Si}$ or $\mathrm{Si}-\mathrm{H}$ energy. Why would a similar mechanism not be expected to be very important in the decomposition of long carbon chains?
+76. From the information on the temperature stability of white and gray tin given in this chapter, which form would you expect to have the more ordered structure?
+77. Lead forms compounds in the +2 and +4 oxidation states. All lead(II) halides are known (and are known to be ionic). Only $\mathrm{PbF}_{4}$ and $\mathrm{PbCl}_{4}$ are known among the possible lead(IV) halides. Presumably lead(IV) oxidizes bromide and iodide ions, producing the lead(II) halide and the free halogen:
+$$\mathrm{PbX}_{4} \longrightarrow \mathrm{PbX}_{2}+\mathrm{X}_{2}$$
+
+Suppose 25.00 g of a lead(IV) halide reacts to form 16.12 g of a lead(II) halide and the free halogen. Identify the halogen.
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+78. The heaviest member of the alkaline earth metals is radium (Ra), a naturally radioactive element discovered by Pierre and Marie Curie in 1898. Radium was initially isolated from the uranium ore pitchblende, in which it is present as approximately 1.0 g per 7.0 metric tons of pitchblende. How many atoms of radium can be isolated from $1.75 \times 10^{8} \mathrm{~g}$ of pitchblende ( 1 metric ton $=$ 1000 kg )? One of the early uses of radium was as an additive to paint so that watch dials coated with this paint would glow in the dark. The longest-lived isotope of radium has a half-life of $1.60 \times 10^{3}$ years. If an antique watch, manufactured in 1925, contains 15.0 mg of radium, how many atoms of radium will remain in 2025 ?
+79. Indium(III) phosphide is a semiconducting material that has been frequently used in lasers, light-emitting diodes (LED) and
+fiber-optic devices. This material can be synthesized at $900 . \mathrm{K}$ according to the following reaction:
+$$\mathrm{In}\left(\mathrm{CH}_{3}\right)_{3}(\mathrm{~g})+\mathrm{PH}_{3}(\mathrm{~g}) \longrightarrow \mathrm{InP}(\mathrm{~s})+3 \mathrm{CH}_{4}(\mathrm{~g})$$
+a. If 2.56 L of $\mathrm{In}\left(\mathrm{CH}_{3}\right)_{3}$ at 2.00 atm is allowed to react with 1.38 L of $\mathrm{PH}_{3}$ at 3.00 atm , what mass of $\operatorname{InP}(s)$ will be produced assuming the reaction is $87 \%$ efficient?
+b. When an electric current is passed through an optoelectronic device containing InP, the light emitted has an energy of $2.03 \times 10^{-19} \mathrm{~J}$. What is the wavelength of this light and is it visible to the human eye?
+c. The semiconducting properties of InP can be altered by doping. If a small number of phosphorus atoms are replaced by atoms with an electron configuration of $[\mathrm{Kr}] 5 s^{2} 4 d^{10} 5 p^{4}$, is this n-type or p-type doping?
+80. The chemistry of tin(II) fluoride is particularly complex and demonstrates a wide range of reactivities. For example, in aqueous solutions of tin(II) fluoride containing sodium fluoride, the predominant species is $\mathrm{SnF}_{3}{ }^{-}$.
+a. What is the molecular geometry of $\mathrm{SnF}_{3}{ }^{-}$and the hybridization of the tin atom?
+b. When tin(II) fluoride is crystallized from aqueous solutions containing sodium fluoride, one of the products is the polyatomic cluster $\mathrm{Na}_{4} \mathrm{Sn}_{3} \mathrm{~F}_{10}$. Write a balanced chemical reaction for the formation of $\mathrm{Na}_{4} \mathrm{Sn}_{3} \mathrm{~F}_{10}$ from tin(II) fluoride and NaF .
+c. Assuming complete conversion, what mass of $\mathrm{Na}_{4} \mathrm{Sn}_{3} \mathrm{~F}_{10}$ can be prepared by mixing 15.5 mL of $1.48 M$ tin(II) fluoride with 35.0 mL of $1.25 M \mathrm{NaF}$ ?
+
+Marathon Problem
+This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+81. Use the symbols of the elements described in the following clues to fill in the blanks that spell out the name of a famous American scientist. Although this scientist was better known as a physicist than as a chemist, the Philadelphia institute that bears his name does include a biochemistry research facility.
+(1) (2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(1) The oxide of this alkaline earth metal is amphoteric.
+(2) You might be surprised to learn that a binary compound of sodium with this element has the formula $\mathrm{NaX}_{3}$, a compound used in airbags.
+(3) This alkali metal is radioactive.
+(4) This element is the alkali metal with the least negative standard reduction potential. Write its symbol in reverse order.
+(5) Potash is an oxide of this alkali metal.
+(6) This is the only alkali metal that reacts directly with nitrogen to make a binary compound with formula $\mathrm{M}_{3} \mathrm{~N}$.
+(7) This element is the first in Group 3A for which the +1 oxidation state is exhibited in stable compounds. Use only the second letter of its symbol.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

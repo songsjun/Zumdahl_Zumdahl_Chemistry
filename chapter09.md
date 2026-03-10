@@ -1,45 +1,5 @@
 # Chapter 9: Covalent Bonding: Orbitals
 
-Marathon Problem
-389
-126. Draw a Lewis structure for the $N, N$-dimethylformamide molecule. The skeletal structure is
-
-Various types of evidence lead to the conclusion that there is some double bond character to the $\mathrm{C}-\mathrm{N}$ bond. Draw one or more resonance structures that support this observation.
-127. Predict the molecular structure for each of the following. (See Exercises 89 and 90.)
-a. $\mathrm{BrFI}_{2}$
-b. $\mathrm{XeO}_{2} \mathrm{~F}_{2}$
-c. $\mathrm{TeF}_{2} \mathrm{Cl}_{3}{ }^{-}$
-
-For each formula there are at least two different structures that can be drawn using the same central atom. Draw all possible structures for each formula.
-128. The study of carbon-containing compounds and their properties is called organic chemistry. Besides carbon atoms, organic compounds also can contain hydrogen, oxygen, and nitrogen atoms (as well as other types of atoms). A common trait of simple organic compounds is to have Lewis structures where all atoms have a formal charge of zero. Consider the following incomplete Lewis structure for an organic compound called histidine (an amino acid, which is the building block of all proteins found in our bodies):
-
-Draw a complete Lewis structure for histidine in which all atoms have a formal charge of zero. What should be the approximate bond angles about the carbon atom labeled 1 and the nitrogen atom labeled 2 ?
-129. Using bond energies, estimate $\Delta H$ for the following reaction:
-130. Consider the following computer-generated model of caffeine.
-
-Draw a Lewis structure for caffeine in which all atoms have a formal charge of zero.
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-131. A compound, $\mathrm{XF}_{5}$, is $42.81 \%$ fluorine by mass. Identify the element X . What is the molecular structure of $\mathrm{XF}_{5}$ ?
-132. A polyatomic ion is composed of $\mathrm{C}, \mathrm{N}$, and an unknown element X . The skeletal Lewis structure of this polyatomic ion is $[\mathrm{X}-\mathrm{C}-\mathrm{N}]^{-}$. The ion $\mathrm{X}^{2-}$ has an electron configuration of $[\mathrm{Ar}] 4 s^{2} 3 d^{10} 4 p^{6}$. What is element X ? Knowing the identity of X , complete the Lewis structure of the polyatomic ion, including all important resonance structures.
-133. Identify the following elements based on their electron configurations and rank them in order of increasing electronegativity: $[\mathrm{Ar}] 4 s^{1} 3 d^{5} ;[\mathrm{Ne}] 3 s^{2} 3 p^{3} ;[\mathrm{Ar}] 4 s^{2} 3 d^{10} 4 p^{3} ;[\mathrm{Ne}] 3 s^{2} 3 p^{5}$.
-
-Marathon Problem
-This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-134. Identify the five compounds of $\mathrm{H}, \mathrm{N}$, and O described below. For each compound, write a Lewis structure that is consistent with the information given.
-a. All the compounds are electrolytes, although not all of them are strong electrolytes. Compounds C and D are ionic and compound B is covalent.
-b. Nitrogen occurs in its highest possible oxidation state in compounds A and C ; nitrogen occurs in its lowest possible oxidation state in compounds C, D, and E. The formal charge on both nitrogens in compound C is +1 ; the formal charge on the only nitrogen in compound B is 0 .
-c. Compounds A and E exist in solution. Both solutions give off gases. Commercially available concentrated solutions of compound A are normally $16 M$. The commercial, concentrated solution of compound E is $15 M$.
-d. Commercial solutions of compound E are labeled with a misnomer that implies that a binary, gaseous compound of nitrogen and hydrogen has reacted with water to produce ammonium ions and hydroxide ions. Actually, this reaction occurs to only a slight extent.
-e. Compound D is $43.7 \% \mathrm{~N}$ and $50.0 \% \mathrm{O}$ by mass. If compound D were a gas at STP, it would have a density of $2.86 \mathrm{~g} / \mathrm{L}$.
-f. A formula unit of compound C has one more oxygen than a formula unit of compound D . Compounds C and A have one ion in common when compound A is acting as a strong electrolyte.
-g. Solutions of compound C are weakly acidic; solutions of compound A are strongly acidic; solutions of compounds B and E are basic. The titration of 0.726 g of compound B requires 21.98 mL of $1.000 M \mathrm{HCl}$ for complete neutralization.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl 7e.
-
----
-
 9
 Covalent Bonding: Orbitals
 
@@ -1087,3 +1047,53 @@ c. How many $\sigma$ bonds and how many $\pi$ bonds are in each species?
 d. Is the ring in melamine planar?
 e. There are three different $\mathrm{C}-\mathrm{N}$ bond distances in dicyandiamide, $\mathrm{NCNC}\left(\mathrm{NH}_{2}\right)_{2}$, and the molecule is nonlinear. Of all the resonance structures you drew for this molecule, predict which should be the most important.
 74. In Exercise 75 in Chapter 8, the Lewis structures for benzene $\left(\mathrm{C}_{6} \mathrm{H}_{6}\right)$ were drawn. Using one of the Lewis structures, estimate $\Delta H_{\mathrm{f}}^{\circ}$ for $\mathrm{C}_{6} \mathrm{H}_{6}(g)$ using bond energies and given that the standard enthalpy of formation of $\mathrm{C}(g)$ is $717 \mathrm{~kJ} / \mathrm{mol}$. The experimental $\Delta H_{\mathrm{f}}^{\circ}$ value of $\mathrm{C}_{6} \mathrm{H}_{6}(g)$ is $83 \mathrm{~kJ} / \mathrm{mol}$. Explain the discrepancy between the experimental value and the calculated $\Delta H_{\mathrm{f}}^{\circ}$ value for $\mathrm{C}_{6} \mathrm{H}_{6}(g)$.
+
+---
+
+Integrative Problems
+423
+75. A flask containing gaseous $\mathrm{N}_{2}$ is irradiated with $25-\mathrm{nm}$ light.
+a. Using the following information, indicate what species can form in the flask during irradiation.
+$$\begin{array}{ll}
+\mathrm{N}_{2}(g) \longrightarrow 2 \mathrm{~N}(g) & \Delta H=941 \mathrm{~kJ} / \mathrm{mol} \\
+\mathrm{~N}_{2}(g) \longrightarrow \mathrm{N}_{2}^{+}(g)+\mathrm{e}^{-} & \Delta H=1501 \mathrm{~kJ} / \mathrm{mol} \\
+\mathrm{~N}(g) \longrightarrow \mathrm{N}^{+}(g)+\mathrm{e}^{-} & \Delta H=1402 \mathrm{~kJ} / \mathrm{mol}
+\end{array}$$
+b. What range of wavelengths will produce atomic nitrogen in the flask but will not produce any ions?
+c. Explain why the first ionization energy of $\mathrm{N}_{2}(1501 \mathrm{~kJ} / \mathrm{mol})$ is greater than the first ionization energy of atomic nitrogen ( $1402 \mathrm{~kJ} / \mathrm{mol}$ ).
+76. As compared with CO and $\mathrm{O}_{2}, \mathrm{CS}$ and $\mathrm{S}_{2}$ are very unstable molecules. Give an explanation based on the relative abilities of the sulfur and oxygen atoms to form $\pi$ bonds.
+77. Values of measured bond energies may vary greatly depending on the molecule studied. Consider the following reactions:
+$$\begin{array}{rlr}
+\mathrm{NCl}_{3}(g) \longrightarrow \mathrm{NCl}_{2}(g)+\mathrm{Cl}(g) & \Delta H=375 \mathrm{~kJ} / \mathrm{mol} \\
+\mathrm{ONCl}(g) \longrightarrow \mathrm{NO}(g)+\mathrm{Cl}(g) & \Delta H=158 \mathrm{~kJ} / \mathrm{mol}
+\end{array}$$
+
+Rationalize the difference in the values of $\Delta H$ for these reactions, even though each reaction appears to involve only the breaking of one $\mathrm{N}-\mathrm{Cl}$ bond. (Hint: Consider the bond order of the NO bond in ONCl and in NO.)
+78. Use the MO model to explain the bonding in $\mathrm{BeH}_{2}$. When constructing the MO energy-level diagram, assume that the Be's 1s electrons are not involved in bond formation.
+79. Carbon monoxide (CO) forms bonds to a variety of metals and metal ions. Its ability to bond to iron in hemoglobin is the reason that CO is so toxic. The bond carbon monoxide forms to metals is through the carbon atom:
+$$\mathrm{M}-\mathrm{C} \equiv \mathrm{O}$$
+a. On the basis of electronegativities, would you expect the carbon atom or the oxygen atom to form bonds to metals?
+b. Assign formal charges to the atoms in CO. Which atom would you expect to bond to a metal on this basis?
+c. In the MO model, bonding MOs place more electron density near the more electronegative atom. (See the HF molecule, Figs. 9.43 and 9.44.) Antibonding MOs place more electron density near the less electronegative atom in the diatomic molecule. Use the MO model to predict which atom of carbon monoxide should form bonds to metals.
+80. Arrange the following from lowest to highest ionization energy: $\mathrm{O}, \mathrm{O}_{2}, \mathrm{O}_{2}^{-}, \mathrm{O}_{2}^{+}$. Explain your answer.
+81. Use the MO model to determine which of the following has the smallest ionization energy: $\mathrm{N}_{2}, \mathrm{O}_{2}, \mathrm{~N}_{2}{ }^{2-}, \mathrm{N}_{2}{ }^{-}, \mathrm{O}_{2}{ }^{+}$, Explain your answer.
+82. Given that the ionization energy of $\mathrm{F}_{2}^{-}$is 290 kJ , do the following:
+a. Calculate the bond energy of $\mathrm{F}_{2}{ }^{-}$. You will need to look up the bond energy of $\mathrm{F}_{2}$ and ionization energy of $\mathrm{F}^{-}$.
+b. Explain the difference in bond energy between $\mathrm{F}_{2}^{-}$and $\mathrm{F}_{2}$ using MO theory.
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+83. As the head engineer of your starship in charge of the warp drive, you notice that the supply of dilithium is critically low. While searching for a replacement fuel, you discover some diboron, $\mathrm{B}_{2}$.
+a. What is the bond order in $\mathrm{Li}_{2}$ and $\mathrm{B}_{2}$ ?
+b. How many electrons must be removed from $\mathrm{B}_{2}$ to make it isoelectronic with $\mathrm{Li}_{2}$ so that it might be used in the warp drive?
+c. The reaction to make $\mathrm{B}_{2}$ isoelectronic with $\mathrm{Li}_{2}$ is generalized (where $n=$ number of electrons determined in part $b$ ) as follows:
+$$\mathrm{B}_{2} \rightarrow \mathrm{~B}_{2}^{n+}+n \mathrm{e}^{-} \quad \Delta H=6455 \mathrm{~kJ} / \mathrm{mol}$$
+
+How much energy is needed to ionize 1.5 kg of $\mathrm{B}_{2}$ to the desired isoelectronic species?
+84. An unusual category of acids known as superacids, which are defined as any acid stronger than $100 \%$ sulfuric acid, can be prepared by seemingly simple reactions similar to the one below. In this example, the reaction of anhydrous HF with $\mathrm{SbF}_{5}$ produces the superacid $\left[\mathrm{H}_{2} \mathrm{~F}\right]^{+}\left[\mathrm{SbF}_{6}\right]^{-}$:
+$$2 \mathrm{HF}(l)+\mathrm{SbF}_{5}(l) \rightarrow\left[\mathrm{H}_{2} \mathrm{~F}\right]^{+}\left[\mathrm{SbF}_{6}\right]^{-}(l)$$
+a. What are the molecular structures of all species in this reaction? What are the hybridizations of the central atoms in each species?
+b. What mass of $\left[\mathrm{H}_{2} \mathrm{~F}\right]^{+}\left[\mathrm{SbF}_{6}\right]^{-}$can be prepared when 2.93 mL of anhydrous HF (density $=0.975 \mathrm{~g} / \mathrm{mL}$ ) and 10.0 mL of $\mathrm{SbF}_{5}$ (density $=3.10 \mathrm{~g} / \mathrm{mL}$ ) are allowed to react?
+85. Determine the molecular structure and hybridization of the central atom X in the polyatomic ion $\mathrm{XY}_{3}{ }^{+}$given the following information: A neutral atom of $X$ contains 36 electrons, and the element Y makes an anion with a 1 - charge, which has the electron configuration $1 s^{2} 2 s^{2} 2 p^{6}$.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

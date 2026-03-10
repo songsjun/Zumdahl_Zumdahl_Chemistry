@@ -1,59 +1,5 @@
 # Chapter 15: Applications of Aqueous Equilibria
 
-Marathon Problems
-679
-156. Calculate the pH of a $0.10 M$ solution of sodium phosphate. See Exercise 155.
-157. Will $0.10 M$ solutions of the following salts be acidic, basic, or neutral? See Appendix 5 for $K_{\mathrm{a}}$ values.
-a. ammonium bicarbonate
-b. sodium dihydrogen phosphate
-c. sodium hydrogen phosphate
-d. ammonium dihydrogen phosphate
-e. ammonium formate
-158. a. The principal equilibrium in a solution of $\mathrm{NaHCO}_{3}$ is
-$$\mathrm{HCO}_{3}^{-}(a q)+\mathrm{HCO}_{3}^{-}(a q) \rightleftharpoons \mathrm{H}_{2} \mathrm{CO}_{3}(a q)+\mathrm{CO}_{3}^{2-}(a q)$$
-
-Calculate the value of the equilibrium constant for this reaction.
-b. At equilibrium, what is the relationship between $\left[\mathrm{H}_{2} \mathrm{CO}_{3}\right]$ and $\left[\mathrm{CO}_{3}{ }^{2-}\right]$ ?
-c. Using the equilibrium
-$$\mathrm{H}_{2} \mathrm{CO}_{3}(a q) \rightleftharpoons 2 \mathrm{H}^{+}(a q)+\mathrm{CO}_{3}^{2-}(a q)$$
-derive an expression for the pH of the solution in terms of $K_{\mathrm{a}_{1}}$ and $K_{\mathrm{a}_{2}}$ using the result from part b .
-d. What is the pH of a solution of $\mathrm{NaHCO}_{3}$ ?
-159. A $0.100-\mathrm{g}$ sample of the weak acid HA (molar mass $=100.0 \mathrm{g} / \mathrm{mol})$ is dissolved in 500.0 g of water. The freezing point of the resulting solution is $-0.0056^{\circ} \mathrm{C}$. Calculate the value of $K_{\mathrm{a}}$ for this acid. Assume molarity equals molarity in this solution.
-160. A sample containing 0.0500 mol of $\mathrm{Fe}_{2}\left(\mathrm{SO}_{4}\right)_{3}$ is dissolved in enough water to make 1.00 L of solution. This solution contains hydrated $\mathrm{SO}_{4}{ }^{2-}$ and $\mathrm{Fe}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}{ }^{3+}$ ions. The latter behaves as an acid:
-$$\mathrm{Fe}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}{ }^{3+}(a q) \rightleftharpoons \mathrm{Fe}\left(\mathrm{H}_{2} \mathrm{O}\right)_{5} \mathrm{OH}^{2+}(a q)+\mathrm{H}^{+}(a q)$$
-a. Calculate the expected osmotic pressure of this solution at $25^{\circ} \mathrm{C}$ if the above dissociation is negligible.
-b. The actual osmotic pressure of the solution is 6.73 atm at $25^{\circ} \mathrm{C}$. Calculate $K_{\mathrm{a}}$ for the dissociation reaction of $\mathrm{Fe}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}{ }^{3+}$. (To do this calculation, you must assume that none of the ions goes through the semipermeable membrane. Actually, this is not a great assumption for the tiny $\mathrm{H}^{+}$ion.)
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-161. A 2.14-g sample of sodium hypoiodite is dissolved in water to make 1.25 L of solution. The solution pH is 11.32 . What is $K_{\mathrm{b}}$ for the hypoiodite ion?
-162. Isocyanic acid (HNCO) can be prepared by heating sodium cyanate in the presence of solid oxalic acid according to the equation
-$$2 \mathrm{NaOCN}(s)+\mathrm{H}_{2} \mathrm{C}_{2} \mathrm{O}_{4}(s) \longrightarrow 2 \mathrm{HNCO}(l)+\mathrm{Na}_{2} \mathrm{C}_{2} \mathrm{O}_{4}(s)$$
-
-Upon isolating pure $\mathrm{HNCO}(l)$, an aqueous solution of HNCO can be prepared by dissolving the liquid HNCO in water. What is the pH of a $100 .-\mathrm{mL}$ solution of HNCO prepared from the reaction of 10.0 g each of NaOCN and $\mathrm{H}_{2} \mathrm{C}_{2} \mathrm{O}_{4}$, assuming all of the HNCO produced is dissolved in solution? ( $K_{\mathrm{a}}$ of $\mathrm{HNCO}=1.2 \times 10^{-4}$.)
-163. Papaverine hydrochloride (abbreviated papH ${ }^{+} \mathrm{Cl}^{-}$; molar mass $= 378.85 \mathrm{~g} / \mathrm{mol}$ ) is a drug that belongs to a group of medicines called vasodilators, which cause blood vessels to expand, thereby increasing blood flow. This drug is the conjugate acid of the weak base papaverine (abbreviated pap; $K_{\mathrm{b}}=8.33 \times 10^{-9}$ at $35.0^{\circ} \mathrm{C}$ ). Calculate the pH of a $30.0 \mathrm{mg} / \mathrm{mL}$ aqueous dose of $\mathrm{papH}^{+} \mathrm{Cl}^{-}$ prepared at $35.0^{\circ} \mathrm{C} . K_{\mathrm{w}}$ at $35.0^{\circ} \mathrm{C}$ is $2.1 \times 10^{-14}$.
-
-Marathon Problems*
-These problems are designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-164. Captain Kirk, of the Starship Enterprise, has been told by his superiors that only a chemist can be trusted with the combination to the safe containing the dilithium crystals that power the ship. The combination is the pH of solution A , described below, followed by the pH of solution C . (Example: If the pH of solution A is 3.47 and that of solution C is 8.15 , then the combination to the safe is $3-47-8-15$.) The chemist must determine the combination using only the information below (all solutions are at $25^{\circ} \mathrm{C}$ ):
-
-Solution A is 50.0 mL of a $0.100 M$ solution of the weak monoprotic acid HX.
-Solution B is a $0.0500 M$ solution of the salt NaX. It has a pH of 10.02 .
-Solution C is made by adding 15.0 mL of $0.250 M \mathrm{KOH}$ to solution A.
-What is the combination to the safe?
-165. For the following, mix equal volumes of one solution from Group I with one solution from Group II to achieve the indicated pH . Calculate the pH of each solution.
-
-Group I: $\quad 0.20 M \mathrm{NH}_{4} \mathrm{Cl}, 0.20 M \mathrm{HCl}, 0.20 M \mathrm{C}_{6} \mathrm{H}_{5} \mathrm{NH}_{3} \mathrm{Cl}, 0.20 M\left(\mathrm{C}_{2} \mathrm{H}_{5}\right)_{3} \mathrm{NHCl}$
-Group II: $0.20 M \mathrm{KOI}, 0.20 M \mathrm{NaCN}, 0.20 M \mathrm{KOCl}, 0.20 M \mathrm{NaNO}_{2}$
-a. the solution with the lowest pH
-b. the solution with the highest pH
-c. the solution with the pH closest to 7.00
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-*Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.
-
----
-
 7 Applications of Aqueous J Equilibria
 
 Contents
@@ -161,9 +107,9 @@ $$K_{\mathrm{a}}=\frac{\left[\mathrm{H}^{+}\right]\left[\mathrm{F}^{-}\right]}{[
 
 The important concentrations are shown in the following table.
 
-| \hline Initial Concentration (mol/L) |  | Equilibrium Concentration (mol/L) |
+| Initial Concentration (mol/L) |  | Equilibrium Concentration (mol/L) |
 | --- | --- | --- |
-| \hline $[\mathrm{HF}]_{0}=1.0$ (from dissolved HF) $\left[\mathrm{F}^{-}\right]_{0}=1.0$ (from dissolved NaF ) $\left[\mathrm{H}^{+}\right]_{0}=0$ (neglect contribution from $\mathrm{H}_{2} \mathrm{O}$ ) | $x \mathrm{~mol} / \mathrm{L}$ HF $\xrightarrow{\text { dissociates }}$ | $$\left[\mathrm{F}^{-}\right]=1.0+x$$ |
+| $[\mathrm{HF}]_{0}=1.0$ (from dissolved HF) $\left[\mathrm{F}^{-}\right]_{0}=1.0$ (from dissolved NaF ) $\left[\mathrm{H}^{+}\right]_{0}=0$ (neglect contribution from $\mathrm{H}_{2} \mathrm{O}$ ) | $x \mathrm{~mol} / \mathrm{L}$ HF $\xrightarrow{\text { dissociates }}$ | $$\left[\mathrm{F}^{-}\right]=1.0+x$$ |
 | $$\left[\mathrm{H}^{+}\right]=x$$ |  |  |
 
 
@@ -220,9 +166,9 @@ K_{\mathrm{a}}=1.8 \times 10^{-5}=\frac{\left[\mathrm{H}^{+}\right]\left[\mathrm
 
 The concentrations are as follows:
 
-| \hline Initial Concentration (mol/L) |  | Equilibrium Concentration (mol/L) |
+| Initial Concentration (mol/L) |  | Equilibrium Concentration (mol/L) |
 | --- | --- | --- |
-| \hline $$\begin{array}{l} |  |  |
+| $$\begin{array}{l} |  |  |
 | {\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]_{0}=0.50} |  |  |
 | {\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}^{-}\right]_{0}=0.50} |  |  |
 | {\left[\mathrm{H}^{+}\right]_{0} \approx 0} |  |  |
@@ -404,7 +350,7 @@ For a particular buffering system (conjugate acid-base pair), all solutions that
 
 | System | {$\left[\mathbf{A}^{-}\right] /[\mathbf{H A}]$} |
 | --- | --- |
-| \hline $5.0 M \mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ and | $\frac{3.0 M}{5.0 M}=0.60$ |
+| $5.0 M \mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ and | $\frac{3.0 M}{5.0 M}=0.60$ |
 | $3.0 M \mathrm{NaC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ | $\frac{0.030 M}{0.050 M}=0.60$ |
 | $0.050 M \mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ and |  |
 | $0.030 M \mathrm{NaC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ |  |
@@ -551,9 +497,9 @@ Since this reaction can be assumed to go essentially to completion to form the v
 
 The stoichiometry calculations for this process are shown below.
 
-| \hline | $\mathrm{NH}_{3}$ | + | $\mathrm{H}^{+}$ | ⟶ | $\mathrm{NH}_{4}{ }^{+}$ |
+| | $\mathrm{NH}_{3}$ | + | $\mathrm{H}^{+}$ | ⟶ | $\mathrm{NH}_{4}{ }^{+}$ |
 | --- | --- | --- | --- | --- | --- |
-| \hline Before reaction: | $$\begin{array}{l} |  |  |  |  |
+| Before reaction: | $$\begin{array}{l} |  |  |  |  |
 | (1.0 \mathrm{~L})(0.25 \mathrm{M}) |  |  |  |  |  |
 | =0.25 \mathrm{~mol} |  |  |  |  |  |
 | \end{array}$$ |  | $$\begin{array}{c} |  |  |  |
@@ -565,7 +511,7 @@ The stoichiometry calculations for this process are shown below.
 | (1.0 \mathrm{~L})(0.40 M) |  |  |  |  |  |
 | =0.40 \mathrm{~mol} |  |  |  |  |  |
 | \end{array}$$ |  |  |  |  |  |
-| \hline After reaction: | $$\begin{array}{l} |  |  |  |  |
+| After reaction: | $$\begin{array}{l} |  |  |  |  |
 | 0.25-0.10 |  |  |  |  |  |
 | =0.15 \mathrm{~mol} |  |  |  |  |  |
 | \end{array}$$ |  | 0 |  | $$\begin{array}{l} |  |
@@ -691,10 +637,10 @@ See Exercises 15.39 and 15.40.
 
 We have seen that the pH of a buffered solution depends on the ratio of the concentrations of buffering components. When this ratio is least affected by added protons or hydroxide ions, the solution is the most resistant to a change in pH . To find the ratio that gives optimal buffering, let's suppose we have a buffered solution containing a large concentration of acetate ion and only a small concentration of acetic acid. Addition of protons to form acetic acid will produce a relatively large percent change in the concentration of acetic acid and so will produce a relatively large change in the ratio $\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}^{-}\right] /\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]$ (see Table 15.1). Similarly, if hydroxide ions are added to remove some acetic acid, the percent change in the concentration of acetic acid is again large. The same effects are seen if the initial concentration of acetic acid is large and that of acetate ion is small.
 
-| \hline Solution | $\left(\frac{\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}\right]}{\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]}\right)_{\text {orig }}$ | $\left(\frac{\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}^{-}\right]}{\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]}\right)_{\text {new }}$ | Change | Percent Change |
+| Solution | $\left(\frac{\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}\right]}{\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]}\right)_{\text {orig }}$ | $\left(\frac{\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}^{-}\right]}{\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]}\right)_{\text {new }}$ | Change | Percent Change |
 | --- | --- | --- | --- | --- |
-| \hline A | $\frac{1.00 M}{1.00 M}=1.00$ | $\frac{0.99 M}{1.01 M}=0.98$ | $1.00 \rightarrow 0.98$ | 2.00\% |
-| \hline B | $\frac{1.00 M}{0.01 M}=100$ | $\frac{0.99 M}{0.02 M}=49.5$ | $100 \rightarrow 49.5$ | 50.5\% |
+| A | $\frac{1.00 M}{1.00 M}=1.00$ | $\frac{0.99 M}{1.01 M}=0.98$ | $1.00 \rightarrow 0.98$ | 2.00\% |
+| B | $\frac{1.00 M}{0.01 M}=100$ | $\frac{0.99 M}{0.02 M}=49.5$ | $100 \rightarrow 49.5$ | 50.5\% |
 
 ---
 
@@ -737,12 +683,12 @@ Chapter Fifteen Applications of Aqueous Equilibria
 
 A setup used to do the pH titration of an acid or a base.
 
-| \hline Acid | $\left[\mathrm{H}^{+}\right]=\mathrm{K}_{\mathrm{a}} \frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}$ | $\frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}$ |
+| Acid | $\left[\mathrm{H}^{+}\right]=\mathrm{K}_{\mathrm{a}} \frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}$ | $\frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}$ |
 | --- | --- | --- |
-| \hline a. Chloroacetic | $5.0 \times 10^{-5}=1.35 \times 10^{-3}\left(\frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}\right)$ | $3.7 \times 10^{-2}$ |
-| \hline b. Propanoic | $5.0 \times 10^{-5}=1.3 \times 10^{-5}\left(\frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}\right)$ | 3.8 |
-| \hline c. Benzoic | $5.0 \times 10^{-5}=6.4 \times 10^{-5}\left(\frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}\right)$ | 0.78 |
-| \hline d. Hypochlorous | $5.0 \times 10^{-5}=3.5 \times 10^{-8}\left(\frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}\right)$ | $1.4 \times 10^{3}$ |
+| a. Chloroacetic | $5.0 \times 10^{-5}=1.35 \times 10^{-3}\left(\frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}\right)$ | $3.7 \times 10^{-2}$ |
+| b. Propanoic | $5.0 \times 10^{-5}=1.3 \times 10^{-5}\left(\frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}\right)$ | 3.8 |
+| c. Benzoic | $5.0 \times 10^{-5}=6.4 \times 10^{-5}\left(\frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}\right)$ | 0.78 |
+| d. Hypochlorous | $5.0 \times 10^{-5}=3.5 \times 10^{-8}\left(\frac{[\mathrm{HA}]}{\left[\mathrm{A}^{-}\right]}\right)$ | $1.4 \times 10^{3}$ |
 
 
 Since $[\mathrm{HA}] /\left[\mathrm{A}^{-}\right]$for benzoic acid is closest to 1 , the system of benzoic acid and its sodium salt will be the best choice among those given for buffering a solution at pH 4.3 . This example demonstrates the principle that the optimal buffering system has a $\mathrm{p} K_{\mathrm{a}}$ value close to the desired pH . The $\mathrm{p} K_{\mathrm{a}}$ for benzoic acid is 4.19.
@@ -847,16 +793,16 @@ F. 150.0 mL (total) of $0.100 M \mathrm{NaOH}$ has been added.
 
 The stoichiometric calculations for the titration reaction are as follows:
 
-| \hline | $\mathrm{H}^{+}$ | + | $\mathrm{OH}^{-}$ | ⟶ | $\mathrm{H}_{2} \mathrm{O}$ |
+| | $\mathrm{H}^{+}$ | + | $\mathrm{OH}^{-}$ | ⟶ | $\mathrm{H}_{2} \mathrm{O}$ |
 | --- | --- | --- | --- | --- | --- |
-| \hline Before reaction: | $$\begin{array}{l} |  |  |  |  |
+| Before reaction: | $$\begin{array}{l} |  |  |  |  |
 | 50.0 \mathrm{~mL} \times 0.200 M |  |  |  |  |  |
 | \quad=10.0 \mathrm{mmol} |  |  |  |  |  |
 | \end{array}$$ |  | $$\begin{array}{l} |  |  |  |
 | 150.0 \mathrm{~mL} \times 0.100 \mathrm{M} |  |  |  |  |  |
 | \quad=15.0 \mathrm{mmol} |  |  |  |  |  |
 | \end{array}$$ |  |  |  |  |  |
-| \hline After reaction: | $$\begin{array}{l} |  |  |  |  |
+| After reaction: | $$\begin{array}{l} |  |  |  |  |
 | 10.0-10.0 |  |  |  |  |  |
 | =0 \mathrm{mmol} |  |  |  |  |  |
 | \end{array}$$ |  | | | $$\begin{array}{c} |  |  |  |  |  | |
@@ -866,7 +812,7 @@ The stoichiometric calculations for the titration reaction are as follows:
 | | \uparrow |  |  |  |  |  | |
 | | \end{array}$$ |  |  |  |  |  | |
 | | Excess $\mathrm{OH}^{-}$added |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |  |  |
 
 ---
@@ -934,23 +880,23 @@ The strong base $\mathrm{OH}^{-}$will react with the strongest proton donor, whi
 
 The Stoichiometry Problem
 
-| \hline | $\mathrm{OH}^{-}$ | $+$ | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ | ⟶ | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}$ | $+$ | $\mathrm{H}_{2} \mathrm{O}$ |
+| | $\mathrm{OH}^{-}$ | $+$ | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ | ⟶ | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}$ | $+$ | $\mathrm{H}_{2} \mathrm{O}$ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline Before reaction: | $$\begin{array}{l} |  |  |  |  |  |  |
+| Before reaction: | $$\begin{array}{l} |  |  |  |  |  |  |
 | 10 \mathrm{~mL} \times 0.10 \mathrm{M} |  |  |  |  |  |  |  |
 | =1.0 \mathrm{mmol} |  |  |  |  |  |  |  |
 | \end{array}$$ |  | $$\begin{array}{l} |  |  |  |  |  |
 | 50.0 \mathrm{~mL} \times 0.10 \mathrm{M} |  |  |  |  |  |  |  |
 | \quad=5.0 \mathrm{mmol} |  |  |  |  |  |  |  |
 | \end{array}$$ |  | 0 mmol |  |  |  |  |  |
-| \hline After reaction: | | | $$\begin{array}{l} |  |  |  |  |  |  |  | |
+| After reaction: | | | $$\begin{array}{l} |  |  |  |  |  |  |  | |
 | --- |
 | | 1.0-1.0 |  |  |  |  |  |  |  | |
 | | =0 \mathrm{mmol} |  |  |  |  |  |  |  | |
 | | \end{array}$$ |  |  |  |  |  |  |  | |
 | | ↑ |  |  |  |  |  |  |  | |
 | | Limiting reactant |  |  |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  | $$\begin{array}{l} |  |  |  |  |  |
 | 5.0-1.0 |  |  |  |  |  |  |  |
 | \quad=4.0 \mathrm{mmol} |  |  |  |  |  |  |  |
@@ -979,13 +925,13 @@ K_{\mathrm{a}}=\frac{\left[\mathrm{H}^{+}\right]\left[\mathrm{C}_{2} \mathrm{H}_
 
 We follow the usual steps to complete the equilibrium calculations:
 
-| \hline Initial Concentration |  | Equilibrium Concentration |
+| Initial Concentration |  | Equilibrium Concentration |
 | --- | --- | --- |
-| \hline | | $$\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]_{0}=\frac{4.0 \mathrm{mmol}}{(50.0+10.0) \mathrm{mL}}=\frac{4.0}{60.0}$$ |  |  | |
+| | | $$\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]_{0}=\frac{4.0 \mathrm{mmol}}{(50.0+10.0) \mathrm{mL}}=\frac{4.0}{60.0}$$ |  |  | |
 | --- |
 | | $\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}\right]_{0}=\frac{1.0 \mathrm{mmol}}{(50.0+10.0) \mathrm{mL}}=\frac{1.0}{60.0}$ |  |  | |
 | | $\left[\mathrm{H}^{+}\right]_{0} \approx 0$ |  |  | |
-| | \end{tabular} |
+| |  |
  | $$\xrightarrow[\text { dissociates }]{\substack{x \mathrm{mmol} / \mathrm{mL} \\ \mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}}}$$ | $$\begin{array}{l} |
 | {\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]=\frac{4.0}{60.0}-x} |  |  |
 | {\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}^{-}\right]=\frac{1.0}{60.0}+x} |  |  |
@@ -995,11 +941,11 @@ We follow the usual steps to complete the equilibrium calculations:
 
 The appropriate ICE table is
 
-| \hline | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}(a q)$ | ⇌ | $\mathrm{H}^{+}(a q)$ | + | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}(a q)$ |
+| | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}(a q)$ | ⇌ | $\mathrm{H}^{+}(a q)$ | + | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}(a q)$ |
 | --- | --- | --- | --- | --- | --- |
-| \hline Initial: | $\frac{4.0}{60.0}$ |  | $\approx 0$ |  | $\frac{1.0}{60.0}$ |
-| \hline Change: | $-x$ |  | $+x$ |  | $+x$ |
-| \hline Equilibrium: | $\frac{4.0}{60.0}-x$ |  | $x$ |  | $\frac{1.0}{60.0}+x$ |
+| Initial: | $\frac{4.0}{60.0}$ |  | $\approx 0$ |  | $\frac{1.0}{60.0}$ |
+| Change: | $-x$ |  | $+x$ |  | $+x$ |
+| Equilibrium: | $\frac{4.0}{60.0}-x$ |  | $x$ |  | $\frac{1.0}{60.0}+x$ |
 
 
 Therefore,
@@ -1030,9 +976,9 @@ The equilibrium that will control the pH is
 $$\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}(a q) \rightleftharpoons \mathrm{H}^{+}(a q)+\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}^{-}(a q)$$
 and the pertinent concentrations are as follows:
 
-| \hline Initial Concentration |  | Equilibrium Concentration |
+| Initial Concentration |  | Equilibrium Concentration |
 | --- | --- | --- |
-| \hline $$\begin{array}{l} |  |  |
+| $$\begin{array}{l} |  |  |
 | {\left[\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}\right]_{0} }=\frac{2.5 \mathrm{mmol}}{(50.0+25.0) \mathrm{mL}} |  |  |
 | {\left[\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}^{-}\right]_{0} }=\frac{2.5 \mathrm{mmol}}{(50.0+25.0) \mathrm{mL}} |  |  |
 | {\left[\mathrm{H}^{+}\right]_{0} \approx 0 } |  |  |
@@ -1045,11 +991,11 @@ and the pertinent concentrations are as follows:
 
 The corresponding ICE table is
 
-| \hline \multirow{2}{*}{Initial:} | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}(a q)$ | ⇌ | $\mathrm{H}^{+}(a q)$ | + | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}(a q)$ |
+| \multirow{2}{*}{Initial:} | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}(a q)$ | ⇌ | $\mathrm{H}^{+}(a q)$ | + | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}(a q)$ |
 | --- | --- | --- | --- | --- | --- |
-| \hline | $\frac{2.5}{75.0}$ |  | $\approx 0$ |  | $\frac{2.5}{75.0}$ |
-| \hline Change: | $-x$ |  | $+x$ |  | $+x$ |
-| \hline Equilibrium: | $\frac{2.5}{75.0}-x$ |  | $x$ |  | $\frac{2.5}{75.0}+x$ |
+| | $\frac{2.5}{75.0}$ |  | $\approx 0$ |  | $\frac{2.5}{75.0}$ |
+| Change: | $-x$ |  | $+x$ |  | $+x$ |
+| Equilibrium: | $\frac{2.5}{75.0}-x$ |  | $x$ |  | $\frac{2.5}{75.0}+x$ |
 
 
 Therefore,
@@ -1135,16 +1081,16 @@ F. $\mathbf{6 0 . 0 ~ m L}$ (total) of $\mathbf{0 . 1 0 ~ M ~ N a O H}$ has been
 
 At this point, excess $\mathrm{OH}^{-}$has been added. The stoichiometric calculations are as follows:
 
-| \hline | $\mathrm{OH}^{-}$ | $+$ | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ | ⟶ | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}$ | + | $\mathrm{H}_{2} \mathrm{O}$ |
+| | $\mathrm{OH}^{-}$ | $+$ | $\mathrm{HC}_{2} \mathrm{H}_{3} \mathrm{O}_{2}$ | ⟶ | $\mathrm{C}_{2} \mathrm{H}_{3} \mathrm{O}_{2}{ }^{-}$ | + | $\mathrm{H}_{2} \mathrm{O}$ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline Before reaction: | $$\begin{array}{l} |  |  |  |  |  |  |
+| Before reaction: | $$\begin{array}{l} |  |  |  |  |  |  |
 | 60.0 \mathrm{~mL} \times 0.10 \mathrm{M} |  |  |  |  |  |  |  |
 | =6.0 \mathrm{mmol} |  |  |  |  |  |  |  |
 | \end{array}$$ |  | $$\begin{array}{l} |  |  |  |  |  |
 | 50.0 \mathrm{~mL} \times 0.10 \mathrm{M} |  |  |  |  |  |  |  |
 | =5.0 \mathrm{mmol} |  |  |  |  |  |  |  |
 | \end{array}$$ |  | 0 mmol |  |  |  |  |  |
-| \hline After reaction: | $$\begin{array}{l} |  |  |  |  |  |  |
+| After reaction: | $$\begin{array}{l} |  |  |  |  |  |  |
 | 6.0-5.0 |  |  |  |  |  |  |  |
 | \quad=1.0 \mathrm{mmol} \text { in excess } |  |  |  |  |  |  |  |
 | \end{array}$$ |  | $5.0-5.0=0$ |  | 5.0 mmol |  |  |  |
@@ -1189,10 +1135,10 @@ c. at the equivalence point of the titration.
 Solution
 a. The stoichiometry problem. After 8.00 mL of $0.100 M \mathrm{NaOH}$ has been added, the following calculations apply:
 
-| \hline | HCN | + | $\mathrm{OH}^{-}$ | ⟶ | $\mathrm{CN}^{-}$ | $\mathrm{H}_{2} \mathrm{O}$ |
+| | HCN | + | $\mathrm{OH}^{-}$ | ⟶ | $\mathrm{CN}^{-}$ | $\mathrm{H}_{2} \mathrm{O}$ |
 | --- | --- | --- | --- | --- | --- | --- |
-| \hline Before reaction: | $50.0 \mathrm{~mL} \times 0.100 M =5.00 \mathrm{mmol}$ |  | $8.00 \mathrm{~mL} \times 0.100 M =0.800 \mathrm{mmol}$ |  | 0 mmol |  |
-| \hline After reaction: | 5.00-0.800 $=4.20 \mathrm{mmol}$ |  | $0.800-0.800=0$ |  | 0.800 mmol |  |
+| Before reaction: | $50.0 \mathrm{~mL} \times 0.100 M =5.00 \mathrm{mmol}$ |  | $8.00 \mathrm{~mL} \times 0.100 M =0.800 \mathrm{mmol}$ |  | 0 mmol |  |
+| After reaction: | 5.00-0.800 $=4.20 \mathrm{mmol}$ |  | $0.800-0.800=0$ |  | 0.800 mmol |  |
 
 
 The equilibrium problem. Since the solution contains the major species
@@ -1217,11 +1163,11 @@ The approximations made here are well within the 5\% rule.
 
 The corresponding ICE table is
 
-| \hline | $\mathrm{HCN}(a q)$ | ⇌ | $\mathrm{H}^{+}(a q)$ | + | $\mathrm{CN}^{-}(a q)$ |
+| | $\mathrm{HCN}(a q)$ | ⇌ | $\mathrm{H}^{+}(a q)$ | + | $\mathrm{CN}^{-}(a q)$ |
 | --- | --- | --- | --- | --- | --- |
-| \hline Initial: | $\frac{4.2}{58.0}$ |  | $\approx 0$ |  | $\frac{0.80}{58.0}$ |
-| \hline Change: | $-x$ |  | $+x$ |  | $+x$ |
-| \hline Equilibrium: | $\frac{4.2}{58.0}-x$ |  | $x$ |  | $\frac{0.80}{58.0}+x$ |
+| Initial: | $\frac{4.2}{58.0}$ |  | $\approx 0$ |  | $\frac{0.80}{58.0}$ |
+| Change: | $-x$ |  | $+x$ |  | $+x$ |
+| Equilibrium: | $\frac{4.2}{58.0}-x$ |  | $x$ |  | $\frac{0.80}{58.0}+x$ |
 
 
 Substituting the equilibrium concentrations into the expression for $K_{\mathrm{a}}$ gives
@@ -1311,17 +1257,17 @@ The stoichiometry problem. We represent the monoprotic acid as HA. The stoichiom
 | --- | --- | --- | --- | --- | --- | --- |
 | Before |  |  |  |  |  |  |
 | reaction: |  |  |  |  |  |  |
-| \end{tabular} | 2.00 mmol |  | | | $20.0 \mathrm{~mL} \times 0.0500 M$ |  |  |  |  |  |  | |
+|  | 2.00 mmol |  | | | $20.0 \mathrm{~mL} \times 0.0500 M$ |  |  |  |  |  |  | |
 | --- |
 | | $=1.00 \mathrm{mmol}$ |  |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  | 0 mmol |  |  |  |  |
 | After |  |  |  |  |  |  |
 | reaction $:$ |  |  |  |  |  |  |
-| \end{tabular} | | | $2.00-1.00$ |  |  |  |  |  |  | |
+|  | | | $2.00-1.00$ |  |  |  |  |  |  | |
 | --- |
 | | $=1.00 \mathrm{mmol}$ |  |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  | $1.00-1.00=0$ |  |  |  |  |  |
 |  |  |  |  | 1.00 mmol |  |  |
 
@@ -1336,13 +1282,13 @@ $$\begin{array}{c}
 K_{\mathrm{a}}=\frac{\left[\mathrm{H}^{+}\right]\left[\mathrm{A}^{-}\right]}{[\mathrm{HA}]}
 \end{array}$$
 
-| \hline Initial Concentration |  | Equilibrium Concentration |
+| Initial Concentration |  | Equilibrium Concentration |
 | --- | --- | --- |
-| \hline $$\begin{aligned} |  |  |
+| $$\begin{aligned} |  |  |
 | {[\mathrm{HA}]_{0} } | =\frac{1.00 \mathrm{mmol}}{(100.0+20.0) \mathrm{mL}} |  |
 |  | =8.33 \times 10^{-3} \mathrm{M} |  |
 | \end{aligned}$$ | $\xrightarrow[\text { dissociates }]{x \mathrm{mmol} / \mathrm{mL} \mathrm{HA}}$ | $[\mathrm{HA}]=8.33 \times 10^{-3}-x$ |
-| \hline $$\begin{aligned} |  |  |
+| $$\begin{aligned} |  |  |
 | {\left[\mathrm{A}^{-}\right] } | =\frac{1.00 \mathrm{mmol}}{(100.0+20.0) \mathrm{mL}} |  |
 |  | =8.33 \times 10^{-3} M |  |
 | \end{aligned}$$ |  | $\left[\mathrm{A}^{-}\right]=8.33 \times 10^{-3}+x$ |
@@ -1429,13 +1375,13 @@ $$\left[\mathrm{H}^{+}\right]=\frac{\mathrm{mmol} \mathrm{H}^{+} \text {in exces
 
 The results of these calculations are shown in Table 15.2. The pH curve is shown in Fig. 15.5.
 
-| \hline Volume of $\mathbf{0 . 1 0 ~ M ~ H C l}$ Added (mL) | $\left[\mathrm{NH}_{3}\right]_{0}$ | $\left[\mathrm{NH}_{4}{ }^{+}\right]_{0}$ | [ $\mathbf{H}^{+}$] | pH |
+| Volume of $\mathbf{0 . 1 0 ~ M ~ H C l}$ Added (mL) | $\left[\mathrm{NH}_{3}\right]_{0}$ | $\left[\mathrm{NH}_{4}{ }^{+}\right]_{0}$ | [ $\mathbf{H}^{+}$] | pH |
 | --- | --- | --- | --- | --- |
-| \hline 0 | $0.05 M$ | 0 | $1.1 \times 10^{-11} M$ | 10.96 |
-| \hline 10.0 | $\frac{4.0 \mathrm{mmol}}{(100+10) \mathrm{mL}}$ | $\frac{1.0 \mathrm{mmol}}{(100+10) \mathrm{mL}}$ | $1.4 \times 10^{-10} M$ | 9.85 |
-| \hline 25.0* | $\frac{2.5 \mathrm{mmol}}{(100+25) \mathrm{mL}}$ | $\frac{2.5 \mathrm{mmol}}{(100+25) \mathrm{mL}}$ | $5.6 \times 10^{-10} M$ | 9.25 |
-| \hline $50.0 \dagger$ | 0 | $\frac{5.0 \mathrm{mmol}}{(100+50) \mathrm{mL}}$ | $4.3 \times 10^{-6} M$ | 5.36 |
-| \hline $60.0 \ddagger$ | 0 | $\frac{5.0 \mathrm{mmol}}{(100+60) \mathrm{mL}}$ | $\frac{1.0 \mathrm{mmol}}{160 \mathrm{~mL}} =6.2 \times 10^{-3} M$ | 2.21 |
+| 0 | $0.05 M$ | 0 | $1.1 \times 10^{-11} M$ | 10.96 |
+| 10.0 | $\frac{4.0 \mathrm{mmol}}{(100+10) \mathrm{mL}}$ | $\frac{1.0 \mathrm{mmol}}{(100+10) \mathrm{mL}}$ | $1.4 \times 10^{-10} M$ | 9.85 |
+| 25.0* | $\frac{2.5 \mathrm{mmol}}{(100+25) \mathrm{mL}}$ | $\frac{2.5 \mathrm{mmol}}{(100+25) \mathrm{mL}}$ | $5.6 \times 10^{-10} M$ | 9.25 |
+| $50.0 \dagger$ | 0 | $\frac{5.0 \mathrm{mmol}}{(100+50) \mathrm{mL}}$ | $4.3 \times 10^{-6} M$ | 5.36 |
+| $60.0 \ddagger$ | 0 | $\frac{5.0 \mathrm{mmol}}{(100+60) \mathrm{mL}}$ | $\frac{1.0 \mathrm{mmol}}{160 \mathrm{~mL}} =6.2 \times 10^{-3} M$ | 2.21 |
 
 *Halfway point
 † Equivalence point
@@ -1559,29 +1505,29 @@ $$\mathrm{pH}=\mathrm{p} K_{\mathrm{a}}+\log \left(\frac{1}{10}\right)=\mathrm{p
 15.5 Acid-Base Indicators
 715
 
-| \hline \multirow[b]{3}{*}{Crystal Violet} | pH |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| \multirow[b]{3}{*}{Crystal Violet} | pH |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline | $\begin{array}{lllllllllllll | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13\end{array}$} |  |  |  |
-| \hline |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Cresol Red |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Thymol Blue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Erythrosin B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline 2,4-Dinitrophenol |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Bromphenol Blue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Methyl Orange |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Bromcresol Green |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Methyl Red |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Eriochrome* Black T |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Bromcresol Purple |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Alizarin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Bromthymol Blue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Phenol Red |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline $m$-Nitrophenol |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline $o$-Cresolphthalein |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Phenolphthalein |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Thymolphthalein |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline Alizarin Yellow R |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \hline * Trademark CIBA GEIGY CORP. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| | $\begin{array}{lllllllllllll | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13\end{array}$} |  |  |  |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cresol Red |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Thymol Blue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Erythrosin B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2,4-Dinitrophenol |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Bromphenol Blue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Methyl Orange |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Bromcresol Green |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Methyl Red |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Eriochrome* Black T |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Bromcresol Purple |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Alizarin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Bromthymol Blue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Phenol Red |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| $m$-Nitrophenol |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| $o$-Cresolphthalein |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Phenolphthalein |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Thymolphthalein |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Alizarin Yellow R |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * Trademark CIBA GEIGY CORP. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 The pH ranges shown are approximate. Specific transition ranges depend on the indicator solvent chosen.
 
@@ -1592,7 +1538,7 @@ Chapter Fifteen Applications of Aqueous Equilibria
 
 | NaOH Added (mL) | $\mathbf{p H}$ |
 | --- | --- |
-| \hline 99.99 | 5.3 |
+| 99.99 | 5.3 |
 | 100.00 | 7.0 |
 | 100.01 | 8.7 |
 
@@ -1657,40 +1603,40 @@ It is very important to distinguish between the solubility of a given solid and 
 718
 Chapter Fifteen Applications of Aqueous Equilibria
 
-| \hline TABLE $15.4 \boldsymbol{K_{\mathbf{s p}}$ Values at $\mathbf{2 5}^{\boldsymbol{\circ}} \mathbf{C}$ for Common lonic Solids} |  |  |  |  |  |
+| TABLE $15.4 \boldsymbol{K_{\mathbf{s p}}$ Values at $\mathbf{2 5}^{\boldsymbol{\circ}} \mathbf{C}$ for Common lonic Solids} |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| \hline Ionic Solid | $\boldsymbol{K _ { \text { sp } }}$ (at $\mathbf{2 5}^{\boldsymbol{\circ}} \mathbf{C}$ ) | Ionic Solid | $\boldsymbol{K _ { \text { sp } }}$ (at $\mathbf{2 5}^{\boldsymbol{\circ}} \mathbf{C}$ ) | lonic Solid | $\boldsymbol{\boldsymbol { K } _ { \mathbf { s p } }}$ (at $\mathbf{2 5}^{\boldsymbol{\circ}} \mathbf{C} \boldsymbol{)}$ |
-| \hline Fluorides |  | $\mathrm{Hg}_{2} \mathrm{CrO}_{4}{ }^{*}$ | $2 \times 10^{-9}$ | $\mathrm{Co}(\mathrm{OH})_{2}$ | $2.5 \times 10^{-16}$ |
-| \hline $\mathrm{BaF}_{2}$ | $2.4 \times 10^{-5}$ | $\mathrm{BaCrO}_{4}$ | $8.5 \times 10^{-11}$ | $\mathrm{Ni}(\mathrm{OH})_{2}$ | $1.6 \times 10^{-16}$ |
-| \hline $\mathrm{MgF}_{2}$ | $6.4 \times 10^{-9}$ | $\mathrm{Ag}_{2} \mathrm{CrO}_{4}$ | $9.0 \times 10^{-12}$ | $\mathrm{Zn}(\mathrm{OH})_{2}$ | $4.5 \times 10^{-17}$ |
-| \hline $\mathrm{PbF}_{2}$ | $4 \times 10^{-8}$ | $\mathrm{PbCrO}_{4}$ | $2 \times 10^{-16}$ | $\mathrm{Cu}(\mathrm{OH})_{2}$ | $1.6 \times 10^{-19}$ |
-| \hline $\mathrm{SrF}_{2}$ | $7.9 \times 10^{-10}$ |  |  | $\mathrm{Hg}(\mathrm{OH})_{2}$ | $3 \times 10^{-26}$ |
-| \hline $\mathrm{CaF}_{2}$ | $4.0 \times 10^{-11}$ | Carbonates |  | $\mathrm{Sn}(\mathrm{OH})_{2}$ | $3 \times 10^{-27}$ |
-| \hline |  | $\mathrm{NiCO}_{3}$ | $1.4 \times 10^{-7}$ | $\mathrm{Cr}(\mathrm{OH})_{3}$ | $6.7 \times 10^{-31}$ |
-| \hline Chlorides |  | $\mathrm{CaCO}_{3}$ | $8.7 \times 10^{-9}$ | $\mathrm{Al}(\mathrm{OH})_{3}$ | $2 \times 10^{-32}$ |
-| \hline $\mathrm{PbCl}_{2}$ | $1.6 \times 10^{-5}$ | $\mathrm{BaCO}_{3}$ | $1.6 \times 10^{-9}$ | $\mathrm{Fe}(\mathrm{OH})_{3}$ | $4 \times 10^{-38}$ |
-| \hline AgCl | $1.6 \times 10^{-10}$ | $\mathrm{SrCO}_{3}$ | $7 \times 10^{-10}$ | $\mathrm{Co}(\mathrm{OH})_{3}$ | $2.5 \times 10^{-43}$ |
-| \hline $\mathrm{Hg}_{2} \mathrm{Cl}_{2}{ }^{*}$ | $1.1 \times 10^{-18}$ | $\mathrm{CuCO}_{3}$ | $2.5 \times 10^{-10}$ |  |  |
-| \hline |  | $\mathrm{ZnCO}_{3}$ | $2 \times 10^{-10}$ | Sulfides |  |
-| \hline Bromides |  | $\mathrm{MnCO}_{3}$ | $8.8 \times 10^{-11}$ | MnS | $2.3 \times 10^{-13}$ |
-| \hline $\mathrm{PbBr}_{2}$ | $4.6 \times 10^{-6}$ | $\mathrm{FeCO}_{3}$ | $2.1 \times 10^{-11}$ | FeS | $3.7 \times 10^{-19}$ |
-| \hline AgBr | $5.0 \times 10^{-13}$ | $\mathrm{Ag}_{2} \mathrm{CO}_{3}$ | $8.1 \times 10^{-12}$ | NiS | $3 \times 10^{-21}$ |
-| \hline $\mathrm{Hg}_{2} \mathrm{Br}_{2}{ }^{*}$ | $1.3 \times 10^{-22}$ | $\mathrm{CdCO}_{3}$ | $5.2 \times 10^{-12}$ | CoS | $5 \times 10^{-22}$ |
-| \hline |  | $\mathrm{PbCO}_{3}$ | $1.5 \times 10^{-15}$ | ZnS | $2.5 \times 10^{-22}$ |
-| \hline Iodides |  | $\mathrm{MgCO}_{3}$ | $6.8 \times 10^{-6}$ | SnS | $1 \times 10^{-26}$ |
-| \hline $\mathrm{PbI}_{2}$ | $1.4 \times 10^{-8}$ | $\mathrm{Hg}_{2} \mathrm{CO}_{3}{ }^{*}$ | $9.0 \times 10^{-15}$ | CdS | $1.0 \times 10^{-28}$ |
-| \hline AgI | $1.5 \times 10^{-16}$ |  |  | PbS | $7 \times 10^{-29}$ |
-| \hline $\mathrm{Hg}_{2} \mathrm{I}_{2}{ }^{*}$ | $4.5 \times 10^{-29}$ | Hydroxides |  | CuS | $8.5 \times 10^{-45}$ |
-| \hline |  | $\mathrm{Ba}(\mathrm{OH})_{2}$ | $5.0 \times 10^{-3}$ | $\mathrm{Ag}_{2} \mathrm{~S}$ | $1.6 \times 10^{-49}$ |
-| \hline Sulfates |  | $\mathrm{Sr}(\mathrm{OH})_{2}$ | $3.2 \times 10^{-4}$ | HgS | $1.6 \times 10^{-54}$ |
-| \hline $\mathrm{CaSO}_{4}$ | $6.1 \times 10^{-5}$ | $\mathrm{Ca}(\mathrm{OH})_{2}$ | $1.3 \times 10^{-6}$ |  |  |
-| \hline $\mathrm{Ag}_{2} \mathrm{SO}_{4}$ | $1.2 \times 10^{-5}$ | AgOH | $2.0 \times 10^{-8}$ | Phosphates |  |
-| \hline $\mathrm{SrSO}_{4}$ | $3.2 \times 10^{-7}$ | $\mathrm{Mg}(\mathrm{OH})_{2}$ | $8.9 \times 10^{-12}$ | $\mathrm{Ag}_{3} \mathrm{PO}_{4}$ | $1.8 \times 10^{-18}$ |
-| \hline $\mathrm{PbSO}_{4}$ | $1.3 \times 10^{-8}$ | $\mathrm{Mn}(\mathrm{OH})_{2}$ | $2 \times 10^{-13}$ | $\mathrm{Sr}_{3}\left(\mathrm{PO}_{4}\right)_{2}$ | $1 \times 10^{-31}$ |
-| \hline $\mathrm{BaSO}_{4}$ | $1.5 \times 10^{-9}$ | $\mathrm{Cd}(\mathrm{OH})_{2}$ | $5.9 \times 10^{-15}$ | $\mathrm{Ca}_{3}\left(\mathrm{PO}_{4}\right)_{2}$ | $1.3 \times 10^{-32}$ |
-| \hline |  | $\mathrm{Pb}(\mathrm{OH})_{2}$ | $1.2 \times 10^{-15}$ | $\mathrm{Ba}_{3}\left(\mathrm{PO}_{4}\right)_{2}$ | $6 \times 10^{-39}$ |
-| \hline Chromates |  | $\mathrm{Fe}(\mathrm{OH})_{2}$ | $1.8 \times 10^{-15}$ | $\mathrm{Pb}_{3}\left(\mathrm{PO}_{4}\right)_{2}$ | $1 \times 10^{-54}$ |
-| \hline $\mathrm{SrCrO}_{4}$ | $3.6 \times 10^{-5}$ |  |  |  |  |
+| Ionic Solid | $\boldsymbol{K _ { \text { sp } }}$ (at $\mathbf{2 5}^{\boldsymbol{\circ}} \mathbf{C}$ ) | Ionic Solid | $\boldsymbol{K _ { \text { sp } }}$ (at $\mathbf{2 5}^{\boldsymbol{\circ}} \mathbf{C}$ ) | lonic Solid | $\boldsymbol{\boldsymbol { K } _ { \mathbf { s p } }}$ (at $\mathbf{2 5}^{\boldsymbol{\circ}} \mathbf{C} \boldsymbol{)}$ |
+| Fluorides |  | $\mathrm{Hg}_{2} \mathrm{CrO}_{4}{ }^{*}$ | $2 \times 10^{-9}$ | $\mathrm{Co}(\mathrm{OH})_{2}$ | $2.5 \times 10^{-16}$ |
+| $\mathrm{BaF}_{2}$ | $2.4 \times 10^{-5}$ | $\mathrm{BaCrO}_{4}$ | $8.5 \times 10^{-11}$ | $\mathrm{Ni}(\mathrm{OH})_{2}$ | $1.6 \times 10^{-16}$ |
+| $\mathrm{MgF}_{2}$ | $6.4 \times 10^{-9}$ | $\mathrm{Ag}_{2} \mathrm{CrO}_{4}$ | $9.0 \times 10^{-12}$ | $\mathrm{Zn}(\mathrm{OH})_{2}$ | $4.5 \times 10^{-17}$ |
+| $\mathrm{PbF}_{2}$ | $4 \times 10^{-8}$ | $\mathrm{PbCrO}_{4}$ | $2 \times 10^{-16}$ | $\mathrm{Cu}(\mathrm{OH})_{2}$ | $1.6 \times 10^{-19}$ |
+| $\mathrm{SrF}_{2}$ | $7.9 \times 10^{-10}$ |  |  | $\mathrm{Hg}(\mathrm{OH})_{2}$ | $3 \times 10^{-26}$ |
+| $\mathrm{CaF}_{2}$ | $4.0 \times 10^{-11}$ | Carbonates |  | $\mathrm{Sn}(\mathrm{OH})_{2}$ | $3 \times 10^{-27}$ |
+| |  | $\mathrm{NiCO}_{3}$ | $1.4 \times 10^{-7}$ | $\mathrm{Cr}(\mathrm{OH})_{3}$ | $6.7 \times 10^{-31}$ |
+| Chlorides |  | $\mathrm{CaCO}_{3}$ | $8.7 \times 10^{-9}$ | $\mathrm{Al}(\mathrm{OH})_{3}$ | $2 \times 10^{-32}$ |
+| $\mathrm{PbCl}_{2}$ | $1.6 \times 10^{-5}$ | $\mathrm{BaCO}_{3}$ | $1.6 \times 10^{-9}$ | $\mathrm{Fe}(\mathrm{OH})_{3}$ | $4 \times 10^{-38}$ |
+| AgCl | $1.6 \times 10^{-10}$ | $\mathrm{SrCO}_{3}$ | $7 \times 10^{-10}$ | $\mathrm{Co}(\mathrm{OH})_{3}$ | $2.5 \times 10^{-43}$ |
+| $\mathrm{Hg}_{2} \mathrm{Cl}_{2}{ }^{*}$ | $1.1 \times 10^{-18}$ | $\mathrm{CuCO}_{3}$ | $2.5 \times 10^{-10}$ |  |  |
+| |  | $\mathrm{ZnCO}_{3}$ | $2 \times 10^{-10}$ | Sulfides |  |
+| Bromides |  | $\mathrm{MnCO}_{3}$ | $8.8 \times 10^{-11}$ | MnS | $2.3 \times 10^{-13}$ |
+| $\mathrm{PbBr}_{2}$ | $4.6 \times 10^{-6}$ | $\mathrm{FeCO}_{3}$ | $2.1 \times 10^{-11}$ | FeS | $3.7 \times 10^{-19}$ |
+| AgBr | $5.0 \times 10^{-13}$ | $\mathrm{Ag}_{2} \mathrm{CO}_{3}$ | $8.1 \times 10^{-12}$ | NiS | $3 \times 10^{-21}$ |
+| $\mathrm{Hg}_{2} \mathrm{Br}_{2}{ }^{*}$ | $1.3 \times 10^{-22}$ | $\mathrm{CdCO}_{3}$ | $5.2 \times 10^{-12}$ | CoS | $5 \times 10^{-22}$ |
+| |  | $\mathrm{PbCO}_{3}$ | $1.5 \times 10^{-15}$ | ZnS | $2.5 \times 10^{-22}$ |
+| Iodides |  | $\mathrm{MgCO}_{3}$ | $6.8 \times 10^{-6}$ | SnS | $1 \times 10^{-26}$ |
+| $\mathrm{PbI}_{2}$ | $1.4 \times 10^{-8}$ | $\mathrm{Hg}_{2} \mathrm{CO}_{3}{ }^{*}$ | $9.0 \times 10^{-15}$ | CdS | $1.0 \times 10^{-28}$ |
+| AgI | $1.5 \times 10^{-16}$ |  |  | PbS | $7 \times 10^{-29}$ |
+| $\mathrm{Hg}_{2} \mathrm{I}_{2}{ }^{*}$ | $4.5 \times 10^{-29}$ | Hydroxides |  | CuS | $8.5 \times 10^{-45}$ |
+| |  | $\mathrm{Ba}(\mathrm{OH})_{2}$ | $5.0 \times 10^{-3}$ | $\mathrm{Ag}_{2} \mathrm{~S}$ | $1.6 \times 10^{-49}$ |
+| Sulfates |  | $\mathrm{Sr}(\mathrm{OH})_{2}$ | $3.2 \times 10^{-4}$ | HgS | $1.6 \times 10^{-54}$ |
+| $\mathrm{CaSO}_{4}$ | $6.1 \times 10^{-5}$ | $\mathrm{Ca}(\mathrm{OH})_{2}$ | $1.3 \times 10^{-6}$ |  |  |
+| $\mathrm{Ag}_{2} \mathrm{SO}_{4}$ | $1.2 \times 10^{-5}$ | AgOH | $2.0 \times 10^{-8}$ | Phosphates |  |
+| $\mathrm{SrSO}_{4}$ | $3.2 \times 10^{-7}$ | $\mathrm{Mg}(\mathrm{OH})_{2}$ | $8.9 \times 10^{-12}$ | $\mathrm{Ag}_{3} \mathrm{PO}_{4}$ | $1.8 \times 10^{-18}$ |
+| $\mathrm{PbSO}_{4}$ | $1.3 \times 10^{-8}$ | $\mathrm{Mn}(\mathrm{OH})_{2}$ | $2 \times 10^{-13}$ | $\mathrm{Sr}_{3}\left(\mathrm{PO}_{4}\right)_{2}$ | $1 \times 10^{-31}$ |
+| $\mathrm{BaSO}_{4}$ | $1.5 \times 10^{-9}$ | $\mathrm{Cd}(\mathrm{OH})_{2}$ | $5.9 \times 10^{-15}$ | $\mathrm{Ca}_{3}\left(\mathrm{PO}_{4}\right)_{2}$ | $1.3 \times 10^{-32}$ |
+| |  | $\mathrm{Pb}(\mathrm{OH})_{2}$ | $1.2 \times 10^{-15}$ | $\mathrm{Ba}_{3}\left(\mathrm{PO}_{4}\right)_{2}$ | $6 \times 10^{-39}$ |
+| Chromates |  | $\mathrm{Fe}(\mathrm{OH})_{2}$ | $1.8 \times 10^{-15}$ | $\mathrm{Pb}_{3}\left(\mathrm{PO}_{4}\right)_{2}$ | $1 \times 10^{-54}$ |
+| $\mathrm{SrCrO}_{4}$ | $3.6 \times 10^{-5}$ |  |  |  |  |
 
 *Contains $\mathrm{Hg}_{2}{ }^{2+}$ ions. $K=\left[\mathrm{Hg}_{2}{ }^{2+}\right]\left[\mathrm{X}^{-}\right]^{2}$ for $\mathrm{Hg}_{2} \mathrm{X}_{2}$ salts, for example.
 
@@ -1823,15 +1769,15 @@ $$x \mathrm{~mol} / \mathrm{L} \mathrm{Cu}\left(\mathrm{IO}_{3}\right)_{2}(s) \l
 
 The concentrations are as follows:
 
-| \hline Initial Concentration (mol/L) (before any $\mathrm{Cu}\left(\mathrm{IO}_{3}\right)_{2}$ dissolves) |  | Equilibrium Concentration (mol/L) |
+| Initial Concentration (mol/L) (before any $\mathrm{Cu}\left(\mathrm{IO}_{3}\right)_{2}$ dissolves) |  | Equilibrium Concentration (mol/L) |
 | --- | --- | --- |
-| \hline $$\begin{array}{l} |  |  |
+| $$\begin{array}{l} |  |  |
 | {\left[\mathrm{Cu}^{2+}\right]_{0}=0} |  |  |
 | {\left[\mathrm{IO}_{3}^{-}\right]_{0}=0} |  |  |
 | \end{array}$$ | | | $x \mathrm{~mol} / \mathrm{L}$ dissolves |  |  | |
 | --- |
 | | to reach equilibrium |  |  | |
-| | \end{tabular} |
+| |  |
  | $$\begin{aligned} |  |
 | {\left[\mathrm{Cu}^{2+}\right] } | =x |  |
 | {\left[\mathrm{IO}_{3}^{-}\right] } | =2 x |  |
@@ -1886,9 +1832,9 @@ A potassium chromate solution being added to aqueous silver nitrate, forming sil
 | --- |
 | | Calculated |  |  | |
 | | Solubility $\mathbf{( m o l / L )}$ |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline CuS | $8.5 \times 10^{-45}$ | $9.2 \times 10^{-23}$ |
+| CuS | $8.5 \times 10^{-45}$ | $9.2 \times 10^{-23}$ |
 | $\mathrm{Ag}_{2} \mathrm{~S}$ | $1.6 \times 10^{-49}$ | $3.4 \times 10^{-17}$ |
 | $\mathrm{Bi}_{2} \mathrm{~S}_{3}$ | $1.1 \times 10^{-73}$ | $1.0 \times 10^{-15}$ |
 
@@ -2083,9 +2029,9 @@ The concentrations are as follows:
 | --- |
 | | Equilibrium |  |  | |
 | | Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  | |
-| | \end{tabular} |
+| |  |
 } |  |  |
-| \hline$\left[\mathrm{Pb}^{2+}\right]_{0}=0$ | $x \mathrm{~mol} / \mathrm{L}$ | {$\left[\mathrm{Pb}^{2+}\right]=x$} |
+| $\left[\mathrm{Pb}^{2+}\right]_{0}=0$ | $x \mathrm{~mol} / \mathrm{L}$ | {$\left[\mathrm{Pb}^{2+}\right]=x$} |
 | {$\left[\mathrm{I}^{-}\right]_{0}=3.33 \times 10^{-2}$} | $\xrightarrow[\text { dissolves }]{\mathrm{PbI}_{2}(s)}$ | {$\left[\mathrm{I}^{-}\right]=3.33 \times 10^{-2}+2 x$} |
 
 
@@ -2140,9 +2086,9 @@ K_{\mathrm{sp}}=\left[\mathrm{Mg}^{2+}\right]\left[\mathrm{F}^{-}\right]^{2}=6.4
 | --- |
 | | Equilibrium |  |  | |
 | | Concentration $(\mathbf{m o l} / \mathbf{L})$ |  |  | |
-| | \end{tabular} |
+| |  |
 } |  |  |
-| \hline$\left[\mathrm{Mg}^{2+}\right]_{0}=0$ | $x \mathrm{~mol} / \mathrm{L}$ | {$\left[\mathrm{Mg}^{2+}\right]=x$} |
+| $\left[\mathrm{Mg}^{2+}\right]_{0}=0$ | $x \mathrm{~mol} / \mathrm{L}$ | {$\left[\mathrm{Mg}^{2+}\right]=x$} |
 | {$\left[\mathrm{~F}^{-}\right]_{0}=5.50 \times 10^{-2}$} | $\xrightarrow[\text { dissolves }]{\mathrm{MgF}_{2}(s)}$ | {$\left[\mathrm{F}^{-}\right]=5.50 \times 10^{-2}+2 x$} |
 
 $$\begin{aligned}
@@ -2345,10 +2291,10 @@ $$\begin{aligned}
 
 Since $\left[\mathrm{S}_{2} \mathrm{O}_{3}{ }^{2-}\right]_{0} \gg\left[\mathrm{Ag}^{+}\right]_{0}$, and since $K_{1}$ and $K_{2}$ are large, both formation reactions can be assumed to go to completion, and the net reaction in the solution is as follows:
 
-| \hline | $\mathrm{Ag}^{+}$ | $+$ | $2 \mathrm{~S}_{2} \mathrm{O}_{3}{ }^{2-}$ | ⟶ | $\mathrm{Ag}\left(\mathrm{S}_{2} \mathrm{O}_{3}\right)_{2}{ }^{3-}$ |
+| | $\mathrm{Ag}^{+}$ | $+$ | $2 \mathrm{~S}_{2} \mathrm{O}_{3}{ }^{2-}$ | ⟶ | $\mathrm{Ag}\left(\mathrm{S}_{2} \mathrm{O}_{3}\right)_{2}{ }^{3-}$ |
 | --- | --- | --- | --- | --- | --- |
-| \hline Before reaction: | $4.29 \times 10^{-4} M$ |  | $2.86 M$ |  | 0 |
-| \hline After reaction: | $\sim 0$ |  | $$\begin{array}{l} |  |  |
+| Before reaction: | $4.29 \times 10^{-4} M$ |  | $2.86 M$ |  | 0 |
+| After reaction: | $\sim 0$ |  | $$\begin{array}{l} |  |  |
 | 2.86-2\left(4.29 \times 10^{-4}\right) |  |  |  |  |  |
 | \quad \approx 2.86 \mathrm{M} |  |  |  |  |  |
 | \end{array}$$ |  | $4.29 \times 10^{-4} M$ |  |  |  |
@@ -2937,12 +2883,12 @@ b. Calculate the pH after 0.050 mol of $\mathrm{KOH}(s)$ is added to 1.00 L of t
 120. You make 1.00 L of a buffered solution ( $\mathrm{pH}=4.00$ ) by mixing acetic acid and sodium acetate. You have $1.00 M$ solutions of each component of the buffered solution. What volume of each solution do you mix to make such a buffered solution?
 121. You have the following reagents on hand:
 
-| \hline Solids ( $\mathbf{p K}_{\mathbf{a}}$ of Acid Form Is Given) | Solutions |
+| Solids ( $\mathbf{p K}_{\mathbf{a}}$ of Acid Form Is Given) | Solutions |
 | --- | --- |
-| \hline Benzoic acid (4.19) | $5.0 M \mathrm{HCl}$ |
-| \hline Sodium acetate (4.74) | $1.0 M$ acetic acid (4.74) |
-| \hline Potassium fluoride (3.14) | $2.6 M \mathrm{NaOH}$ |
-| \hline Ammonium chloride (9.26) | $1.0 M \mathrm{HOCl}$ (7.46) |
+| Benzoic acid (4.19) | $5.0 M \mathrm{HCl}$ |
+| Sodium acetate (4.74) | $1.0 M$ acetic acid (4.74) |
+| Potassium fluoride (3.14) | $2.6 M \mathrm{NaOH}$ |
+| Ammonium chloride (9.26) | $1.0 M \mathrm{HOCl}$ (7.46) |
 
 
 What combinations of reagents would you use to prepare buffers at the following pH values?
@@ -3024,3 +2970,57 @@ Challenge Problems
 143. When a diprotic acid, $\mathrm{H}_{2} \mathrm{~A}$, is titrated by NaOH , the protons on the diprotic acid are generally removed one at a time, resulting in a pH curve that has the following generic shape:
 
 Vol NaOH added
+
+---
+
+Marathon Problem
+747
+a. Notice that the plot has essentially two titration curves. If the first equivalence point occurs at 100.0 mL of NaOH added, what volume of NaOH added corresponds to the second equivalence point?
+b. For the following volumes of NaOH added, list the major species present after the $\mathrm{OH}^{-}$reacts completely.
+i. 0 mL NaOH added
+ii. between 0 and 100.0 mL NaOH added
+iii. 100.0 mL NaOH added
+iv. between 100.0 and 200.0 mL NaOH added
+v. 200.0 mL NaOH added
+vi. after 200.0 mL NaOH added
+c. If the pH at 50.0 mL of NaOH added is 4.0 and the pH at 150.0 mL of NaOH added is 8.0 , determine the values $K_{\mathrm{a}_{1}}$ and $K_{\mathrm{a}_{2}}$ for the diprotic acid.
+144. The titration of $\mathrm{Na}_{2} \mathrm{CO}_{3}$ with HCl has the following qualitative profile:
+a. Identify the major species in solution as points $\mathrm{A}-\mathrm{F}$.
+b. Calculate the pH at the halfway points to equivalence, B and D. Hint: Refer to Exercise 143.
+145. A few drops of each of the indicators shown in the accompanying table were placed in separate portions of a $1.0 M$ solution of a weak acid, HX. The results are shown in the last column of the table. What is the approximate pH of the solution containing HX? Calculate the approximate value of $K_{\mathrm{a}}$ for HX .
+
+| Indicator | Color of HIn | Color of $\mathbf{l n}^{-}$ | $\mathbf{p} \boldsymbol{K}_{\mathbf{a}}$ of HIn | HX |
+| --- | --- | --- | --- | --- |
+| Bromphenol blue | Yellow | Blue | 4.0 | Blue |
+| Bromcresol purple | Yellow | Purple | 6.0 | Yellow |
+| Bromcresol green | Yellow | Blue | 4.8 | Green |
+| Alizarin | Yellow | Red | 6.5 | Yellow |
+
+146. Consider a solution made by mixing 500.0 mL of $4.0 \mathrm{M} \mathrm{NH}_{3}$ and 500.0 mL of $0.40 M \mathrm{AgNO}_{3} . \mathrm{Ag}^{+}$reacts with $\mathrm{NH}_{3}$ to form $\mathrm{AgNH}_{3}{ }^{+}$and $\mathrm{Ag}\left(\mathrm{NH}_{3}\right)_{2}{ }^{+}$:
+$$\begin{array}{ll}
+\mathrm{Ag}^{+}+\mathrm{NH}_{3} \rightleftharpoons \mathrm{AgNH}_{3}^{+} & K_{1}=2.1 \times 10^{3} \\
+\mathrm{AgNH}_{3}^{+}+\mathrm{NH}_{3} \rightleftharpoons \mathrm{Ag}\left(\mathrm{NH}_{3}\right)_{2}^{+} & K_{2}=8.2 \times 10^{3}
+\end{array}$$
+
+Determine the concentration of all species in solution.
+147. What is the maximum possible concentration of $\mathrm{Ni}^{2+}$ ion in water at $25^{\circ} \mathrm{C}$ that is saturated with $0.10 M \mathrm{H}_{2} \mathrm{~S}$ and maintained at pH 3.0 with HCl ?
+148. You add an excess of solid MX in 250 g of water. You measure the freezing point and find it to be $-0.028^{\circ} \mathrm{C}$. What is the $K_{\mathrm{sp}}$ of the solid? Assume the density of the solution is $1.0 \mathrm{~g} / \mathrm{cm}^{3}$.
+149. a. Calculate the molar solubility of $\mathrm{SrF}_{2}$ in water, ignoring the basic properties of $\mathrm{F}^{-}$. (For $\mathrm{SrF}_{2}, K_{\mathrm{sp}}=7.9 \times 10^{-10}$.)
+b. Would the measured molar solubility of $\mathrm{SrF}_{2}$ be greater than or less than the value calculated in part a? Explain.
+c. Calculate the molar solubility of $\mathrm{SrF}_{2}$ in a solution buffered at $\mathrm{pH}=2.00$. ( $K_{\mathrm{a}}$ for HF is $7.2 \times 10^{-4}$.)
+150. A solution saturated with a salt of the type $M_{3} X_{2}$ has an osmotic pressure of $2.64 \times 10^{-2} \mathrm{~atm}$ at $25^{\circ} \mathrm{C}$. Calculate the $K_{\text {sp }}$ value for the salt, assuming ideal behavior.
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+151. A buffer solution is prepared by mixing 75.0 mL of $0.275 M$ fluorobenzoic acid $\left(\mathrm{C}_{7} \mathrm{H}_{5} \mathrm{O}_{2} \mathrm{~F}\right)$ with 55.0 mL of $0.472 M$ sodium fluorobenzoate. The $\mathrm{p} K_{\mathrm{a}}$ of this weak acid is 2.90 . What is the pH of the buffer solution?
+152. The $K_{\mathrm{sp}}$ for $Q$, a slightly soluble ionic compound composed of $\mathrm{M}_{2}{ }^{2+}$ and $\mathrm{X}^{-}$ions, is $4.5 \times 10^{-29}$. The electron configuration of $\mathrm{M}^{+}$is $[\mathrm{Xe}] 6 s^{1} 4 f^{14} 5 d^{10}$. The $\mathrm{X}^{-}$anion has 54 electrons. What is the molar solubility of $Q$ in a solution of NaX prepared by dissolving 1.98 g of NaX in $150 . \mathrm{mL}$ of water?
+153. Calculate the pH of a solution prepared by mixing $250 . \mathrm{mL}$ of $0.174 m$ aqueous HF (density $=1.10 \mathrm{~g} / \mathrm{mL}$ ) with 38.7 g of an aqueous solution that is $1.50 \% \mathrm{NaOH}$ by mass (density $= 1.02 \mathrm{~g} / \mathrm{mL}$ ). ( $K_{\mathrm{a}}$ for $\mathrm{HF}=7.2 \times 10^{-4}$.)
+
+Marathon Problem*
+This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+154. A $225-\mathrm{mg}$ sample of a diprotic acid is dissolved in enough water to make $250 . \mathrm{mL}$ of solution. The pH of this solution is 2.06 . A saturated solution of calcium hydroxide ( $K_{\text {sp }}=1.3 \times 10^{-6}$ ) is prepared by adding excess calcium hydroxide to pure water and then removing the undissolved solid by filtration. Enough of the calcium hydroxide solution is added to the solution of the acid to reach the second equivalence point. The pH at the second equivalence point (as determined by a pH meter) is 7.96. The first dissociation constant for the acid ( $K_{\mathrm{a}_{1}}$ ) is $5.90 \times 10^{-2}$. Assume that the volumes of the solutions are additive, all solutions are at $25^{\circ} \mathrm{C}$, and that $K_{\mathrm{a}_{1}}$ is at least 1000 times greater than $K_{\mathrm{a}_{2}}$.
+a. Calculate the molar mass of the acid.
+b. Calculate the second dissociation constant for the acid ( $K_{\mathrm{a}_{2}}$ ).
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
+*Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.

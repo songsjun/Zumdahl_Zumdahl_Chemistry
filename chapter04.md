@@ -1,20 +1,5 @@
 # Chapter 4: Types of Chemical Reactions and Solution Stoichiometry
 
-Marathon Problems
-125
-146. Consider the following balanced chemical equation:
-$$\mathrm{A}+5 \mathrm{~B} \longrightarrow 3 \mathrm{C}+4 \mathrm{D}$$
-a. Equal masses of A and B are reacted. Complete each of the following with either "A is the limiting reactant because
-$\_\_\_\_$ "; "B is the limiting reactant because $\_\_\_\_$ "; or "we cannot determine the limiting reactant because $\_\_\_\_$ ".
-i. If the molar mass of A is greater than the molar mass of B, then
-ii. If the molar mass of B is greater than the molar mass of A, then
-b. The products of the reaction are carbon dioxide (C) and water (D). Compound A has the same molar mass as carbon dioxide. Compound B is a diatomic molecule. Identify compound B and support your answer.
-c. Compound A is a hydrocarbon that is $81.71 \%$ carbon by mass. Determine its empirical and molecular formulas.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 4
 
 Types of Chemical Reactions and Solution Stoichiometry
@@ -998,17 +983,17 @@ These considerations lead to a series of rules for assigning oxidation states th
 
 TABLE 4.2 Rules for Assigning Oxidation States
 
-| \hline The Oxidation State of . . . | Summary | Examples |
+| The Oxidation State of . . . | Summary | Examples |
 | --- | --- | --- |
-| \hline - An atom in an element is zero | Element: 0 | $\mathrm{Na}(s), \mathrm{O}_{2}(g), \mathrm{O}_{3}(g), \mathrm{Hg}(l)$ |
-| \hline - A monatomic ion is the same as its charge | Monatomic ion: charge of ion | $\mathrm{Na}^{+}, \mathrm{Cl}^{-}$ |
-| \hline - Fluorine is -1 in its compounds | Fluorine: -1 | $\mathrm{HF}, \mathrm{PF}_{3}$ |
-| \hline | | - Oxygen is usually -2 in its compounds |  |  | |
+| - An atom in an element is zero | Element: 0 | $\mathrm{Na}(s), \mathrm{O}_{2}(g), \mathrm{O}_{3}(g), \mathrm{Hg}(l)$ |
+| - A monatomic ion is the same as its charge | Monatomic ion: charge of ion | $\mathrm{Na}^{+}, \mathrm{Cl}^{-}$ |
+| - Fluorine is -1 in its compounds | Fluorine: -1 | $\mathrm{HF}, \mathrm{PF}_{3}$ |
+| | | - Oxygen is usually -2 in its compounds |  |  | |
 | --- |
 | | Exception: peroxides (containing $\mathrm{O}_{2}{ }^{2-}$ ) in which oxygen is -1 |  |  | |
-| | \end{tabular} |
+| |  |
  | Oxygen: -2 | $\mathrm{H}_{2} \mathrm{O}, \mathrm{CO}_{2}$ |
-| \hline - Hydrogen is +1 in its covalent compounds | Hydrogen: +1 | $\mathrm{H}_{2} \mathrm{O}, \mathrm{HCl}, \mathrm{NH}_{3}$ |
+| - Hydrogen is +1 in its covalent compounds | Hydrogen: +1 | $\mathrm{H}_{2} \mathrm{O}, \mathrm{HCl}, \mathrm{NH}_{3}$ |
 
 ---
 
@@ -1977,3 +1962,65 @@ $$\begin{array}{l}
 
 You place 87.7 mL of a $0.500 M$ solution of copper(II) sulfate in a beaker. You then add 2.00 g of iron filings to the copper(II) sulfate solution. After one of the above reactions occurs, you isolate 2.27 g of copper. Which equation above describes the reaction that occurred? Support your answer.
 105. Consider an experiment in which two burets, Y and Z , are simultaneously draining into a beaker that initially contained 275.0 mL of $0.300 M \mathrm{HCl}$. Buret Y contains $0.150 M \mathrm{NaOH}$ and buret Z contains $0.250 M \mathrm{KOH}$. The stoichiometric point in the titration is reached 60.65 minutes after Y and Z were started simultaneously. The total volume in the beaker at the stoichiometric point is 655 mL . Calculate the flow rates of burets Y and Z . Assume the flow rates remain constant during the experiment.
+
+---
+
+Marathon Problems
+177
+106. Complete and balance each acid-base reaction.
+a. $\mathrm{H}_{3} \mathrm{PO}_{4}(a q)+\mathrm{NaOH}(a q) \rightarrow$
+
+Contains three acidic hydrogens
+b. $\mathrm{H}_{2} \mathrm{SO}_{4}(a q)+\mathrm{Al}(\mathrm{OH})_{3}(s) \rightarrow$
+
+Contains two acidic hydrogens
+c. $\mathrm{H}_{2} \mathrm{Se}(a q)+\mathrm{Ba}(\mathrm{OH})_{2}(a q) \rightarrow$
+
+Contains two acidic hydrogens
+d. $\mathrm{H}_{2} \mathrm{C}_{2} \mathrm{O}_{4}(a q)+\mathrm{NaOH}(a q) \rightarrow$
+
+Contains two acidic hydrogens
+107. What volume of $0.0521 M \mathrm{Ba}(\mathrm{OH})_{2}$ is required to neutralize exactly 14.20 mL of $0.141 M \mathrm{H}_{3} \mathrm{PO}_{4}$ ? Phosphoric acid contains three acidic hydrogens.
+108. A $10.00-\mathrm{mL}$ sample of sulfuric acid from an automobile battery requires 35.08 mL of $2.12 M$ sodium hydroxide solution for complete neutralization. What is the molarity of the sulfuric acid? Sulfuric acid contains two acidic hydrogens.
+109. Some of the substances commonly used in stomach antacids are $\mathrm{MgO}, \mathrm{Mg}(\mathrm{OH})_{2}$, and $\mathrm{Al}(\mathrm{OH})_{3}$.
+a. Write a balanced equation for the neutralization of hydrochloric acid by each of these substances.
+b. Which of these substances will neutralize the greatest amount of $0.10 M \mathrm{HCl}$ per gram?
+110. A 6.50-g sample of a diprotic acid requires 137.5 mL of a $0.750 M \mathrm{NaOH}$ solution for complete reaction. Determine the molar mass of the acid.
+111. Citric acid, which can be obtained from lemon juice, has the molecular formula $\mathrm{C}_{6} \mathrm{H}_{8} \mathrm{O}_{7}$. A 0.250-g sample of citric acid dissolved in 25.0 mL of water requires 37.2 mL of $0.105 M \mathrm{NaOH}$ for complete neutralization. What number of acidic hydrogens per molecule does citric acid have?
+112. Balance the following equations by the half-reaction method.
+a. $\mathrm{Fe}(s)+\mathrm{HCl}(a q) \rightarrow \mathrm{HFeCl}_{4}(a q)+\mathrm{H}_{2}(g)$
+b. $\mathrm{IO}_{3}{ }^{-}(a q)+\mathrm{I}^{-}(a q) \xrightarrow{\text { Acid }} \mathrm{I}_{3}{ }^{-}(a q)$
+c. $\mathrm{Cr}(\mathrm{NCS})_{6}{ }^{4-}(a q)+\mathrm{Ce}^{4+}(a q) \xrightarrow{\text { Acid }}$
+$$\mathrm{Cr}^{3+}(a q)+\mathrm{Ce}^{3+}(a q)+\mathrm{NO}_{3}^{-}(a q)+\mathrm{CO}_{2}(g)+\mathrm{SO}_{4}^{2-}(a q)$$
+d. $\mathrm{CrI}_{3}(s)+\mathrm{Cl}_{2}(g) \xrightarrow{\text { Base }} \mathrm{CrO}_{4}{ }^{2-}(a q)+\mathrm{IO}_{4}{ }^{-}(a q)+\mathrm{Cl}^{-}(a q)$
+e. $\mathrm{Fe}(\mathrm{CN})_{6}{ }^{4-}(a q)+\mathrm{Ce}^{4+}(a q) \xrightarrow{\text { Base }}$
+$$\mathrm{Ce}(\mathrm{OH})_{3}(s)+\mathrm{Fe}(\mathrm{OH})_{3}(s)+\mathrm{CO}_{3}^{2-}(a q)+\mathrm{NO}_{3}^{-}(a q)$$
+f. $\mathrm{Fe}(\mathrm{OH})_{2}(s)+\mathrm{H}_{2} \mathrm{O}_{2}(a q) \xrightarrow{\text { Base }} \mathrm{Fe}(\mathrm{OH})_{3}(s)$
+113. It took $25.06 \pm 0.05 \mathrm{~mL}$ of a sodium hydroxide solution to titrate a 0.4016-g sample of KHP (see Exercise 65). Calculate the concentration and uncertainty in the concentration of the sodium hydroxide solution. (See Appendix 1.5.) Neglect any uncertainty in the mass.
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+114. Tris(pentafluorophenyl)borane, commonly known by its acronym BARF, is frequently used to initiate polymerization of ethylene or propylene in the presence of a catalytic transition metal compound. It is composed solely of $\mathrm{C}, \mathrm{F}$, and B ; it is $42.23 \% \mathrm{C}$ by mass and $55.66 \% \mathrm{~F}$ by mass.
+a. What is the empirical formula of BARF?
+b. A $2.251-\mathrm{g}$ sample of BARF dissolved in 347.0 mL of solution produces a $0.01267 M$ solution. What is the molecular formula of BARF?
+115. In a 1-L beaker, 203 mL of $0.307 M$ ammonium chromate was mixed with 137 mL of $0.269 M$ chromium(III) nitrite to produce ammonium nitrite and chromium(III) chromate. Write the balanced chemical reaction occurring here. If the percent yield of the reaction was $88.0 \%$, how much chromium(III) chromate was isolated?
+116. The vanadium in a sample of ore is converted to $\mathrm{VO}^{2+}$. The $\mathrm{VO}^{2+}$ ion is subsequently titrated with $\mathrm{MnO}_{4}{ }^{-}$in acidic solution to form $\mathrm{V}(\mathrm{OH})_{4}{ }^{+}$and manganese(II) ion. To titrate the solution, 26.45 mL of $0.02250 \mathrm{M} \mathrm{MnO}_{4}{ }^{-}$was required. If the mass percent of vanadium in the ore was $58.1 \%$, what was the mass of the ore sample? Which of the four transition metal ions in this titration has the highest oxidation state?
+117. The unknown acid $\mathrm{H}_{2} \mathrm{X}$ can be neutralized completely by $\mathrm{OH}^{-}$ according to the following (unbalanced) equation:
+$$\mathrm{H}_{2} \mathrm{X}(a q)+\mathrm{OH}^{-} \longrightarrow \mathrm{X}^{2-}+\mathrm{H}_{2} \mathrm{O}$$
+
+The ion formed as a product, $\mathrm{X}^{2-}$, was shown to have 36 total electrons. What is element X ? Propose a name for $\mathrm{H}_{2} \mathrm{X}$ ? To completely neutralize a sample of $\mathrm{H}_{2} \mathrm{X}, 35.6 \mathrm{~mL}$ of $0.175 M \mathrm{OH}^{-}$ solution was required. What was the mass of the $\mathrm{H}_{2} \mathrm{X}$ sample used?
+
+Marathon Problems
+These problems are designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+118. Three students were asked to find the identity of the metal in a particular sulfate salt. They dissolved a 0.1472 -g sample of the salt in water and treated it with excess barium chloride, resulting in the precipitation of barium sulfate. After the precipitate had been filtered and dried, it weighed 0.2327 g .
+
+Each student analyzed the data independently and came to different conclusions. Pat decided that the metal was titanium. Chris thought it was sodium. Randy reported that it was gallium. What formula did each student assign to the sulfate salt?
+
+Look for information on the sulfates of gallium, sodium, and titanium in this text and reference books such as the CRC Handbook of Chemistry and Physics. What further tests would you suggest to determine which student is most likely correct?
+119. You have two $500.0-\mathrm{mL}$ aqueous solutions. Solution A is a solution of a metal nitrate that is $8.246 \%$ nitrogen by mass. The ionic compound in solution B consists of potassium, chromium, and oxygen; chromium has an oxidation state of +6 and there are 2 potassiums and 1 chromium in the formula. The masses of the solutes in each of the solutions are the same. When the solutions are added together, a blood-red precipitate forms. After the reaction has gone to completion, you dry the solid and find that it has a mass of 331.8 g .
+a. Identify the ionic compounds in solution A and solution B .
+b. Identify the blood-red precipitate.
+c. Calculate the concentration (molarity) of all ions in the original solutions.
+d. Calculate the concentration (molarity) of all ions in the final solution.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

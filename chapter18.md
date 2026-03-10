@@ -72,16 +72,16 @@ $\alpha$-particle production involves a change in $A$ for the decaying nucleus; 
 | Number of |  |  |  |
 | --- | --- | --- | --- |
 | Protons |  |  |  |
-| \end{tabular} | | | Number of |  |  |  | |
+|  | | | Number of |  |  |  | |
 | --- |
 | | Neutrons |  |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Number of |  |  |  | |
 | --- |
 | | Stable Nuclides |  |  |  | |
-| | \end{tabular} |
+| |  |
  | Examples |  |  |
-| \hline Even | Even | 168 | ${ }_{6}^{12} \mathrm{C},{ }_{8}^{16} \mathrm{O}$ |
+| Even | Even | 168 | ${ }_{6}^{12} \mathrm{C},{ }_{8}^{16} \mathrm{O}$ |
 | Even | Odd | 57 | ${ }_{6}^{13} \mathrm{C},{ }_{22}^{47} \mathrm{Ti}$ |
 | Odd | Even | 50 | ${ }_{9}^{9} \mathrm{~F},{ }_{11}^{33} \mathrm{Na}$ |
 | Odd | Odd | 4 | ${ }_{1}^{2} \mathrm{H},{ }_{3}^{6} \mathrm{Li}$ |
@@ -149,14 +149,14 @@ c. ${ }_{93}^{237} \mathrm{~Np}$ produces an $\alpha$ particle.
 18.1 Nuclear Stability and Radioactive Decay
 845
 
-| \hline Process | Change in $A$ | Change in Z | Change in Neutron/Proton Ratio | Example |
+| Process | Change in $A$ | Change in Z | Change in Neutron/Proton Ratio | Example |
 | --- | --- | --- | --- | --- |
-| \hline $\beta$-particle (electron) production | 0 | +1 | Decrease | ${ }_{89}^{227} \mathrm{Ac} \longrightarrow{ }_{90}^{227} \mathrm{Th}+{ }_{-1}^{0} \mathrm{e}$ |
-| \hline Positron production | 0 | -1 | Increase | ${ }_{7}^{13} \mathrm{~N} \longrightarrow{ }_{6}^{13} \mathrm{C}+{ }_{1}^{0} \mathrm{e}$ |
-| \hline Electron capture | 0 | -1 | Increase | ${ }_{33}^{73} \mathrm{As}+{ }_{-1}^{0} \mathrm{e} \longrightarrow{ }_{32}^{73} \mathrm{Ge}$ |
-| \hline $\alpha$-particle production | -4 | -2 | Increase | ${ }_{84}^{210} \mathrm{Po} \longrightarrow{ }_{82}^{206} \mathrm{~Pb}+{ }_{2}^{4} \mathrm{He}$ |
-| \hline $\gamma$-ray production | 0 | 0 | - | Excited nucleus ⟶ ground-state nucleus $+{ }_{0}^{0} \gamma$ |
-| \hline Spontaneous fission | - | - | - | ${ }_{98}^{254} \mathrm{Cf} \longrightarrow$ lighter nuclides + neutrons |
+| $\beta$-particle (electron) production | 0 | +1 | Decrease | ${ }_{89}^{227} \mathrm{Ac} \longrightarrow{ }_{90}^{227} \mathrm{Th}+{ }_{-1}^{0} \mathrm{e}$ |
+| Positron production | 0 | -1 | Increase | ${ }_{7}^{13} \mathrm{~N} \longrightarrow{ }_{6}^{13} \mathrm{C}+{ }_{1}^{0} \mathrm{e}$ |
+| Electron capture | 0 | -1 | Increase | ${ }_{33}^{73} \mathrm{As}+{ }_{-1}^{0} \mathrm{e} \longrightarrow{ }_{32}^{73} \mathrm{Ge}$ |
+| $\alpha$-particle production | -4 | -2 | Increase | ${ }_{84}^{210} \mathrm{Po} \longrightarrow{ }_{82}^{206} \mathrm{~Pb}+{ }_{2}^{4} \mathrm{He}$ |
+| $\gamma$-ray production | 0 | 0 | - | Excited nucleus ⟶ ground-state nucleus $+{ }_{0}^{0} \gamma$ |
+| Spontaneous fission | - | - | - | ${ }_{98}^{254} \mathrm{Cf} \longrightarrow$ lighter nuclides + neutrons |
 
 
 Solution
@@ -349,16 +349,16 @@ Visualization: Geiger Counter
 FIGURE 18.7
 A schematic representation of a Geiger-Müller counter. The high-energy radioactive particle enters the window and ionizes argon atoms along its path. The resulting ions and electrons produce a momentary current pulse, which is amplified and counted.
 
-| \hline Element | Neutron Bombardment | Half-Life |
+| Element | Neutron Bombardment | Half-Life |
 | --- | --- | --- |
-| \hline Neptunium ( $Z=93$ ) Plutonium ( $Z=94$ ) Americium ( $Z=95$ ) | $${ }_{92}^{238} \mathrm{U}+{ }_{0}^{1} \mathrm{n} \longrightarrow{ }_{93}^{239} \mathrm{~Np}+{ }_{-1}^{0} \mathrm{e}$$ | 2.35 days $\left({ }_{93}^{239} \mathrm{~Np}\right)$ |
-| \hline Element | Positive-Ion Bombardment | Half-Life |
-| \hline Curium ( $Z=96$ ) Californium ( $Z=98$ ) | $${ }_{94}^{239} \mathrm{Pu}+{ }_{2}^{4} \mathrm{He} \longrightarrow{ }_{96}^{242} \mathrm{Cm}+{ }_{0}^{1} \mathrm{n}$$ |  |
+| Neptunium ( $Z=93$ ) Plutonium ( $Z=94$ ) Americium ( $Z=95$ ) | $${ }_{92}^{238} \mathrm{U}+{ }_{0}^{1} \mathrm{n} \longrightarrow{ }_{93}^{239} \mathrm{~Np}+{ }_{-1}^{0} \mathrm{e}$$ | 2.35 days $\left({ }_{93}^{239} \mathrm{~Np}\right)$ |
+| Element | Positive-Ion Bombardment | Half-Life |
+| Curium ( $Z=96$ ) Californium ( $Z=98$ ) | $${ }_{94}^{239} \mathrm{Pu}+{ }_{2}^{4} \mathrm{He} \longrightarrow{ }_{96}^{242} \mathrm{Cm}+{ }_{0}^{1} \mathrm{n}$$ |  |
 | $$\begin{array}{l} |  |  |
 | { }_{96}^{42} \mathrm{Cm}+{ }_{2}^{4} \mathrm{He} \longrightarrow{ }_{98}^{245} \mathrm{Cf}+{ }_{0}^{1} \mathrm{n} |  |  |
 | \quad \text { or }{ }_{92}^{238} \mathrm{U}+{ }_{6}^{12} \mathrm{C} \longrightarrow{ }_{98}^{246} \mathrm{Cf}+4{ }_{0}^{1} \mathrm{n} |  |  |
 | \end{array}$$ | 163 days $\left({ }_{96}^{242} \mathrm{Cm}\right)$ |  |
-| \hline Rutherfordium ( $Z=104$ ) Dubnium ( $Z=105$ ) Seaborgium ( $Z=106$ ) | $${ }_{98}^{249} \mathrm{Cf}+{ }_{6}^{12} \mathrm{C} \longrightarrow{ }_{104}^{257} \mathrm{Rf}+4{ }_{0}^{1} \mathrm{n}$$ |  |
+| Rutherfordium ( $Z=104$ ) Dubnium ( $Z=105$ ) Seaborgium ( $Z=106$ ) | $${ }_{98}^{249} \mathrm{Cf}+{ }_{6}^{12} \mathrm{C} \longrightarrow{ }_{104}^{257} \mathrm{Rf}+4{ }_{0}^{1} \mathrm{n}$$ |  |
 | $${ }_{98}^{249} \mathrm{Cf}+{ }_{7}^{15} \mathrm{~N} \longrightarrow{ }_{105}^{260} \mathrm{Db}+4{ }_{0}^{1} \mathrm{n}$$ |  |  |
 | $${ }_{98}^{249} \mathrm{Cf}+{ }_{8}^{18} \mathrm{O} \longrightarrow{ }_{106}^{263} \mathrm{Sg}+4{ }_{0}^{1} \mathrm{n}$$ |  |  |
 
@@ -462,14 +462,14 @@ $$\begin{array}{|c|}
 \text { Number of }{ }_{92}^{238} \mathrm{U} \text { atoms } \\
 \text { originally present }
 \end{array} \\
-\hline
+
 \end{array}=\begin{array}{c}
 \text { number of }{ }_{82}^{206} \mathrm{~Pb} \text { atoms } \\
 \text { now present }
 \end{array}+\begin{array}{|c|}
 \hline \text { number of }{ }_{92}^{238} \mathrm{U} \text { atoms } \\
 \text { now present } \\
-\hline
+
 \end{array}$$
 $$\frac{\text { Atoms of }{ }_{82}^{206} \mathrm{~Pb} \text { now present }}{\text { Atoms of }{ }_{92}^{238} \mathrm{U} \text { now present }}=0.115=\frac{0.115}{1.000}=\frac{115}{1000}$$
 
@@ -495,17 +495,17 @@ After consumption of $\mathrm{Na}^{131} \mathrm{I}$, the patient's thyroid is sc
 856
 Chapter Eighteen The Nucleus: A Chemist's View
 
-| \hline Nuclide | Half-Life | Area of the Body Studied |
+| Nuclide | Half-Life | Area of the Body Studied |
 | --- | --- | --- |
-| \hline ${ }^{131}$ I | 8.1 days | Thyroid |
-| \hline ${ }^{59} \mathrm{Fe}$ | 45.1 days | Red blood cells |
-| \hline ${ }^{99} \mathrm{Mo}$ | 67 hours | Metabolism |
-| \hline ${ }^{32} \mathrm{P}$ | 14.3 days | Eyes, liver, tumors |
-| \hline ${ }^{51} \mathrm{Cr}$ | 27.8 days | Red blood cells |
-| \hline ${ }^{87} \mathrm{Sr}$ | 2.8 hours | Bones |
-| \hline ${ }^{99 \mathrm{~m}} \mathrm{Tc}$ | 6.0 hours | Heart, bones, liver, and lungs |
-| \hline ${ }^{133} \mathrm{Xe}$ | 5.3 days | Lungs |
-| \hline ${ }^{24} \mathrm{Na}$ | 14.8 hours | Circulatory system |
+| ${ }^{131}$ I | 8.1 days | Thyroid |
+| ${ }^{59} \mathrm{Fe}$ | 45.1 days | Red blood cells |
+| ${ }^{99} \mathrm{Mo}$ | 67 hours | Metabolism |
+| ${ }^{32} \mathrm{P}$ | 14.3 days | Eyes, liver, tumors |
+| ${ }^{51} \mathrm{Cr}$ | 27.8 days | Red blood cells |
+| ${ }^{87} \mathrm{Sr}$ | 2.8 hours | Bones |
+| ${ }^{99 \mathrm{~m}} \mathrm{Tc}$ | 6.0 hours | Heart, bones, liver, and lungs |
+| ${ }^{133} \mathrm{Xe}$ | 5.3 days | Lungs |
+| ${ }^{24} \mathrm{Na}$ | 14.8 hours | Circulatory system |
 
 
 Thallium-201 can be used to assess the damage to the heart muscle in a person who has suffered a heart attack, because thallium is concentrated in healthy muscle tissue. Technetium- 99 m is also taken up by normal heart tissue and is used for damage assessment in a similar way.
@@ -812,34 +812,34 @@ where RBE represents the relative effectiveness of the radiation in causing biol
 866
 Chapter Eighteen The Nucleus: A Chemist's View
 
-| \hline | Exposure (millirems/year) |
+| | Exposure (millirems/year) |
 | --- | --- |
-| \hline Cosmic radiation | 50 |
-| \hline From the earth | 47 |
-| \hline From building materials | 3 |
-| \hline In human tissues | 21 |
-| \hline Inhalation of air | 5 |
-| \hline Total from natural sources | 126 |
-| \hline X-ray diagnosis | 50 |
-| \hline Radiotherapy | 10 |
-| \hline Internal diagnosis/ therapy | 1 |
-| \hline Nuclear power industry | 0.2 |
-| \hline TV tubes, industrial wastes, etc. | 2 |
-| \hline Radioactive fallout | 4 |
-| \hline Total from human activities | 67 |
-| \hline Total | 193 |
+| Cosmic radiation | 50 |
+| From the earth | 47 |
+| From building materials | 3 |
+| In human tissues | 21 |
+| Inhalation of air | 5 |
+| Total from natural sources | 126 |
+| X-ray diagnosis | 50 |
+| Radiotherapy | 10 |
+| Internal diagnosis/ therapy | 1 |
+| Nuclear power industry | 0.2 |
+| TV tubes, industrial wastes, etc. | 2 |
+| Radioactive fallout | 4 |
+| Total from human activities | 67 |
+| Total | 193 |
 
 
 FIGURE 18.17
 The two models for radiation damage. In the linear model, even a small dosage causes a proportional risk. In the threshold model, risk begins only after a certain dosage.
 
-| \hline TABLE 18.6 | Effects of Short-Term Exposures to Radiation |
+| TABLE 18.6 | Effects of Short-Term Exposures to Radiation |
 | --- | --- |
-| \hline Dose (rem) | Clinical Effect |
-| \hline 0-25 | Nondetectable |
-| \hline 25-50 | Temporary decrease in white blood cell counts |
-| \hline 100-200 | Strong decrease in white blood cell counts |
-| \hline 500 | Death of half the exposed population within 30 days after exposure |
+| Dose (rem) | Clinical Effect |
+| 0-25 | Nondetectable |
+| 25-50 | Temporary decrease in white blood cell counts |
+| 100-200 | Strong decrease in white blood cell counts |
+| 500 | Death of half the exposed population within 30 days after exposure |
 
 
 Table 18.6 shows the physical effects of short-term exposure to various doses of radiation, and Table 18.7 gives the sources and amounts of radiation exposure for a typical person in the United States. Note that natural sources contribute about twice as much as human activities to the total exposure. However, although the nuclear industry contributes only a small percentage of the total exposure, the major controversy associated with nuclear power plants is the potential for radiation hazards. These arise mainly from two sources: accidents allowing the release of radioactive materials and improper disposal of the radioactive products in spent fuel elements. The radioactive products of the fission of ${ }_{92}^{235} \mathrm{U}$, although only a small percentage of the total products, have half-lives of several hundred years and remain dangerous for a long time. Various schemes have been advanced for the disposal of these wastes. The one that seems to hold the most promise is the incorporation of the wastes into ceramic blocks and the burial of these blocks in geologically stable formations. At present, however, no disposal method has been accepted, and nuclear wastes continue to accumulate in temporary storage facilities.
@@ -1036,7 +1036,7 @@ Kinetics of Radioactive Decay
 
 |  |  Half-life  |
 | --- | --- |
-| \hline $\mathrm{Kr}-73$ | 27 s |
+| $\mathrm{Kr}-73$ | 27 s |
 | $\mathrm{Kr}-74$ | 11.5 min |
 | $\mathrm{Kr}-76$ | 14.8 h |
 | $\mathrm{Kr}-81$ | $2.1 \times 10^{5} \mathrm{yr}$ |
@@ -1082,12 +1082,12 @@ Additional Exercises
 | Atom or |  |
 | --- | --- |
 | Particle |  |
-| \end{tabular} | | | Atomic |  | |
+|  | | | Atomic |  | |
 | --- |
 | | Mass |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline Neutron | $1.67493 \times 10^{-24} \mathrm{~g}$ |
+| Neutron | $1.67493 \times 10^{-24} \mathrm{~g}$ |
 | Proton | $1.67262 \times 10^{-24} \mathrm{~g}$ |
 | Electron | $9.10939 \times 10^{-28} \mathrm{~g}$ |
 | Pu-232 | $3.85285 \times 10^{-22} \mathrm{~g}$ |
@@ -1171,7 +1171,7 @@ $$\begin{array}{l}
 { }_{1}^{1} \mathrm{H}+{ }_{7}^{14} \mathrm{~N} \longrightarrow{ }_{8}^{15} \mathrm{O}+{ }_{0}^{0} \gamma \\
 { }_{7}^{15} \mathrm{O} \longrightarrow{ }_{7}^{15} \mathrm{~N}+{ }_{1}^{0} \mathrm{e} \\
 { }_{1}^{1} \mathrm{H}+{ }_{7}^{15} \mathrm{~N} \longrightarrow{ }_{6}^{12} \mathrm{C}+{ }_{2}^{4} \mathrm{He}+{ }_{0}^{0} \gamma \\
-\hline
+
 \end{array}$$
 
 Overall
@@ -1183,3 +1183,20 @@ c. How much energy is released per mole of hydrogen nuclei in the overall reacti
 a. How many $\alpha$ particles and $\beta$ particles are produced when ${ }^{238} \mathrm{U}$ decays to ${ }^{222} \mathrm{Rn}$ ? What nuclei are produced when ${ }^{222} \mathrm{Rn}$ decays?
 b. Radon is a noble gas so one would expect it to pass through the body quickly. Why is there a concern over inhaling ${ }^{222} \mathrm{Rn}$ ?
 c. Another problem associated with ${ }^{222} \mathrm{Rn}$ is that the decay of ${ }^{222} \mathrm{Rn}$ produces a more potent $\alpha$-particle producer ( $t_{1 / 2}=$ 3.11 min ) that is a solid. What is the identity of the solid? Give the balanced equation of this species decaying by $\alpha$-particle production. Why is the solid a more potent $\alpha$-particle producer?
+
+---
+
+Integrative Problems
+873
+d. The U.S. Environmental Protection Agency (EPA) recommends that ${ }^{222} \mathrm{Rn}$ levels not exceed 4 pCi per liter of air ( $1 \mathrm{Ci}=1$ curie $=3.7 \times 10^{10}$ decay events per second; $1 \mathrm{pCi}= 1 \times 10^{-12} \mathrm{Ci}$ ). Convert 4.0 pCi per liter of air into concentrations units of ${ }^{222} \mathrm{Rn}$ atoms per liter of air and moles of ${ }^{222} \mathrm{Rn}$ per liter of air.
+67. To determine the $K_{\mathrm{sp}}$ value of $\mathrm{Hg}_{2} \mathrm{I}_{2}$, a chemist obtained a solid sample of $\mathrm{Hg}_{2} \mathrm{I}_{2}$ in which some of the iodine is present as radioactive ${ }^{131} \mathrm{I}$. The count rate of the $\mathrm{Hg}_{2} \mathrm{I}_{2}$ sample is $5.0 \times 10^{11}$ counts per minute per mole of I . An excess amount of $\mathrm{Hg}_{2} \mathrm{I}_{2}(s)$ is placed into some water, and the solid is allowed to come to equilibrium with its respective ions. A $150.0-\mathrm{mL}$ sample of the saturated solution is withdrawn and the radioactivity measured at 33 counts per minute. From this information, calculate the $K_{\mathrm{sp}}$ value for $\mathrm{Hg}_{2} \mathrm{I}_{2}$.
+$$\mathrm{Hg}_{2} \mathrm{I}_{2}(s) \rightleftharpoons \mathrm{Hg}_{2}^{2+}(a q)+2 \mathrm{I}^{-}(a q) \quad K_{\mathrm{sp}}=\left[\mathrm{Hg}_{2}^{2+}\right]\left[\mathrm{I}^{-}\right]^{2}$$
+68. Estimate the temperature needed to achieve the fusion of deuterium to make an alpha particle. The energy required can be estimated from Coulomb's law [use the form $E=9.0 \times 10^{9}$ ( $Q_{1} Q_{2} / r$ ), using $Q=1.6 \times 10^{-19} \mathrm{C}$ for a proton, and $r=2 \times 10^{-15} \mathrm{~m}$ for the helium nucleus; the unit for the proportionality constant in Coloumb's law is $\mathrm{J} \cdot \mathrm{m} / \mathrm{C}^{2}$.]
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+69. A recently reported synthesis of the transuranium element bohrium (Bh) involved the bombardment of berkelium-249 with
+neon-22 to produce bohrium-267. Write a nuclear reaction for this synthesis. The half-life of bohrium-267 is 15.0 seconds. If 199 atoms of bohrium- 267 could be synthesized, how much time would elapse before only 11 atoms of bohrium- 267 remain? What is the expected electron configuration of elemental bohrium?
+70. Radioactive cobalt-60 is used to study defects in vitamin $B_{12}$ absorption because cobalt is the metallic atom at the center of the vitamin $B_{12}$ molecule. The nuclear synthesis of this cobalt isotope involves a three-step process. The overall reaction is iron- 58 reacting with two neutrons to produce cobalt-60 along with the emission of another particle. What particle is emitted in this nuclear synthesis? What is the binding energy in J per nucleon for the cobalt-60 nucleus (atomic masses: ${ }^{60} \mathrm{Co}=59.9338 \mathrm{amu}$; ${ }^{1} \mathrm{H}=1.00782 \mathrm{amu}$ ). What is the de Broglie wavelength of the emitted particle if it has a velocity equal to $0.90 c$ where $c$ is the speed of light?
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

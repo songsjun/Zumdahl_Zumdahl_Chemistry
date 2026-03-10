@@ -1,33 +1,5 @@
 # Chapter 7: Atomic Structure and Periodicity
 
-Marathon Problems
-273
-
-side the cylinder can escape.) The piston-and-cylinder apparatus is carefully placed in 10.00 kg of water at $25.00^{\circ} \mathrm{C}$. The barometric pressure is 778 torr.
-
-When the compound spontaneously decomposes, the piston moves up, the temperature of the water reaches a maximum of $29.52^{\circ} \mathrm{C}$, and then it gradually decreases as the water loses heat to the surrounding air. The distance between the piston and the bottom of the cylinder, at the maximum temperature, is 59.8 cm . Chemical analysis shows that the cylinder contains 0.300 mol carbon dioxide, 0.250 mol liquid water, 0.025 mol oxygen gas, and an undetermined amount of a gaseous element A.
-
-It is known that the enthalpy change for the decomposition of X, according to the reaction described above, is $-1893 \mathrm{~kJ} / \mathrm{mol}$ X . The standard enthalpies of formation for gaseous carbon dioxide and liquid water are $-393.5 \mathrm{~kJ} / \mathrm{mol}$ and $-286 \mathrm{~kJ} / \mathrm{mol}$, respectively. The heat capacity for water is $4.184 \mathrm{~J} /{ }^{\circ} \mathrm{C} \cdot \mathrm{g}$. The conversion factor between $\mathrm{L} \cdot \mathrm{atm}$ and J can be determined from the two values for the gas constant $R$, namely, 0.08206 $\mathrm{L} \cdot \mathrm{atm} / \mathrm{mol} \cdot \mathrm{K}$ and $8.3145 \mathrm{~J} / \mathrm{mol} \cdot \mathrm{K}$. The vapor pressure of water at $29.5^{\circ} \mathrm{C}$ is 31 torr. Assume that the heat capacity of the piston-and-cylinder apparatus is negligible and that the piston has negligible mass.
-
-Given the preceding information, determine
-a. The formula for X .
-b. The pressure-volume work (in kJ ) for the decomposition of the $22.7-\mathrm{g}$ sample of X.
-c. The molar change in internal energy for the decomposition of X and the approximate standard enthalpy of formation for X .
-107. A gaseous hydrocarbon reacts completely with oxygen gas to form carbon dioxide and water vapor. Given the following data, determine $\Delta H_{\mathrm{f}}^{\circ}$ for the hydrocarbon:
-$$\begin{aligned}
-\Delta H_{\mathrm{rxn}}^{\circ} & =-2044.5 \mathrm{~kJ} / \mathrm{mol} \text { hydrocarbon } \\
-\Delta H_{\mathrm{f}}^{\circ}\left(\mathrm{CO}_{2}\right) & =-393.5 \mathrm{~kJ} / \mathrm{mol} \\
-\Delta H_{\mathrm{f}}^{\circ}\left(\mathrm{H}_{2} \mathrm{O}\right) & =-242 \mathrm{~kJ} / \mathrm{mol}
-\end{aligned}$$
-
-Density of $\mathrm{CO}_{2}$ and $\mathrm{H}_{2} \mathrm{O}$ product mixture at $1.00 \mathrm{~atm}, 200 .{ }^{\circ} \mathrm{C}= 0.751 \mathrm{~g} / \mathrm{L}$
-
-The density of the hydrocarbon is less than the density of Kr at the same conditions.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at College.hmco.com/ PIC/Zumdahl7e.
-
----
-
 $7 \begin{array}{l}\text { Atomic Structure and } \\ \text { Periodicity }\end{array}$
 
 Contents
@@ -477,19 +449,19 @@ A typical aerial shell is shown in the diagram. The shell is launched from a mor
 
 Although you might think that the chemistry of fireworks is simple, the achievement of the vivid white flashes and the brilliant colors requires complex combinations of chemicals. For example, because the white flashes produce high flame temperatures, the colors tend to wash out. Thus oxidizers such as $\mathrm{KClO}_{4}$ are commonly used with fuels that produce relatively low flame temperatures. An added difficulty, however, is that perchlorates are very sensitive to accidental ignition and are therefore quite hazardous. Another problem arises from the use of sodium salts. Because sodium produces an extremely bright yellow emission, sodium salts cannot be used when other colors are desired. Carbon-based fuels also give a yellow flame that masks other colors, and this limits the use of organic compounds as fuels. You can see that the manufacture of fireworks that produce the desired effects and are also safe to handle requires careful selection of chemicals. And, of course, there is still the dream of a deep blue flame.
 
-| \hline Chemicals Commonly Used in the Manufacture of Fireworks |  |  |
+| Chemicals Commonly Used in the Manufacture of Fireworks |  |  |
 | --- | --- | --- |
-| \hline Oxidizers | Fuels | Special Effects |
-| \hline Potassium nitrate | Aluminum | Red flame: strontium nitrate, strontium carbonate |
-| \hline Potassium chlorate | Magnesium | Green flame: barium nitrate, barium chlorate |
-| \hline Potassium perchlorate | Titanium | Blue flame: copper carbonate, copper sulfate, copper oxide |
-| \hline Ammonium perchlorate | Charcoal | Yellow flame: sodium oxalate, cryolite ( $\mathrm{Na}_{3} \mathrm{AlF}_{6}$ ) |
-| \hline Barium nitrate | Sulfur | White flame: magnesium, aluminum |
-| \hline Barium chlorate | Antimony sulfide | Gold sparks: iron filings, charcoal |
-| \hline Strontium nitrate | Dextrin | White sparks: aluminum, magnesium, aluminum-magnesium alloy, titanium |
-| \hline | Red gum | Whistle effect: potassium benzoate or sodium salicylate |
-| \hline | Polyvinyl chloride | White smoke: mixture of potassium nitrate and sulfur |
-| \hline |  | Colored smoke: mixture of potassium chlorate, sulfur, and organic dye |
+| Oxidizers | Fuels | Special Effects |
+| Potassium nitrate | Aluminum | Red flame: strontium nitrate, strontium carbonate |
+| Potassium chlorate | Magnesium | Green flame: barium nitrate, barium chlorate |
+| Potassium perchlorate | Titanium | Blue flame: copper carbonate, copper sulfate, copper oxide |
+| Ammonium perchlorate | Charcoal | Yellow flame: sodium oxalate, cryolite ( $\mathrm{Na}_{3} \mathrm{AlF}_{6}$ ) |
+| Barium nitrate | Sulfur | White flame: magnesium, aluminum |
+| Barium chlorate | Antimony sulfide | Gold sparks: iron filings, charcoal |
+| Strontium nitrate | Dextrin | White sparks: aluminum, magnesium, aluminum-magnesium alloy, titanium |
+| | Red gum | Whistle effect: potassium benzoate or sodium salicylate |
+| | Polyvinyl chloride | White smoke: mixture of potassium nitrate and sulfur |
+| |  | Colored smoke: mixture of potassium chlorate, sulfur, and organic dye |
 
 ---
 
@@ -618,29 +590,29 @@ n & =1,2,3, \ldots \\
 m_{\ell} & =-\ell, \ldots 0, \ldots+\ell
 \end{aligned}$$
 
-| \hline | | --- | --- | --- | --- | --- | --- | |
+| | | --- | --- | --- | --- | --- | --- | |
 | --- |
 | | TABLE 7.1 |  |  |  |  |  | |
 | | The Angular Momentum Quantum Numbers and |  |  |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |  |  |
-| \hline Corresponding Letters Used to Designate Atomic Orbitals |  |  |  |  |  |
-| \hline Value of $\ell$ | 0 | 1 | 2 | 3 | 4 |
-| \hline Letter Used | $s$ | $p$ | $d$ | $f$ | $g$ |
+| Corresponding Letters Used to Designate Atomic Orbitals |  |  |  |  |  |
+| Value of $\ell$ | 0 | 1 | 2 | 3 | 4 |
+| Letter Used | $s$ | $p$ | $d$ | $f$ | $g$ |
 
 
-| \hline $\boldsymbol{n}$ | $\ell$ | Orbital Designation | $\boldsymbol{m}_{\ell}$ | Number of Orbitals |
+| $\boldsymbol{n}$ | $\ell$ | Orbital Designation | $\boldsymbol{m}_{\ell}$ | Number of Orbitals |
 | --- | --- | --- | --- | --- |
-| \hline 1 | 0 | $1 s$ | 0 | 1 |
-| \hline \multirow[t]{2}{*}{2} | 0 | $2 s$ | 0 | 1 |
-| \hline | 1 | $2 p$ | $-1,0,+1$ | 3 |
-| \hline \multirow{3}{*}{} | 0 | $3 s$ | 0 | 1 |
-| \hline | 1 | $3 p$ | $-1,0,1$ | 3 |
-| \hline | 2 | $3 d$ | $-2,-1,0,1,2$ | 5 |
-| \hline \multirow{4}{*}{} | 0 | $4 s$ | 0 | 1 |
-| \hline | 1 | $4 p$ | $-1,0,1$ | 3 |
-| \hline | 2 | $4 d$ | $-2,-1,0,1,2$ | 5 |
-| \hline | 3 | $4 f$ | $-3,-2,-1,0,1,2,3$ | 7 |
+| 1 | 0 | $1 s$ | 0 | 1 |
+| \multirow[t]{2}{*}{2} | 0 | $2 s$ | 0 | 1 |
+| | 1 | $2 p$ | $-1,0,+1$ | 3 |
+| \multirow{3}{*}{} | 0 | $3 s$ | 0 | 1 |
+| | 1 | $3 p$ | $-1,0,1$ | 3 |
+| | 2 | $3 d$ | $-2,-1,0,1,2$ | 5 |
+| \multirow{4}{*}{} | 0 | $4 s$ | 0 | 1 |
+| | 1 | $4 p$ | $-1,0,1$ | 3 |
+| | 2 | $4 d$ | $-2,-1,0,1,2$ | 5 |
+| | 3 | $4 f$ | $-3,-2,-1,0,1,2,3$ | 7 |
 
 $\ell=1$ is called $p ; \ell=2$ is called $d ; \ell=3$ is called $f$. This system arises from early spectral studies and is summarized in Table 7.1.
 
@@ -815,47 +787,47 @@ Mendeleev was a versatile genius who was interested in many fields of science. H
 7.10 The History of the Periodic Table
 301
 
-| \hline | GRUPPE 1. $\mathbf{R}^{\mathbf{2}} \mathbf{0}$ | GRUPPE II. R0 | GRUPPE III. $\mathrm{R}^{2} \mathrm{O}^{3}$ | GRUPPE IV. RH ${ }^{\mathbf{4}}$ RO ${ }^{2}$ | GRUPPE V. R H $^{\mathbf{3}} \mathrm{R}^{2} \mathrm{O}^{5}$ | GRUPPE VI. $\mathrm{RH}^{2} \mathrm{RO}^{3}$ | GRUPPE VII RH $\mathrm{R}^{2} \mathrm{O}^{7}$ | GRUPPE VIII. RO ${ }^{4}$ |
+| | GRUPPE 1. $\mathbf{R}^{\mathbf{2}} \mathbf{0}$ | GRUPPE II. R0 | GRUPPE III. $\mathrm{R}^{2} \mathrm{O}^{3}$ | GRUPPE IV. RH ${ }^{\mathbf{4}}$ RO ${ }^{2}$ | GRUPPE V. R H $^{\mathbf{3}} \mathrm{R}^{2} \mathrm{O}^{5}$ | GRUPPE VI. $\mathrm{RH}^{2} \mathrm{RO}^{3}$ | GRUPPE VII RH $\mathrm{R}^{2} \mathrm{O}^{7}$ | GRUPPE VIII. RO ${ }^{4}$ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline I |  |  |  |  |  |  |  | \multirow[b]{4}{*}{$\mathrm{Fe}=56, \mathrm{C}_{\mathrm{o}}=59$, $\mathrm{Ni}=59, \mathrm{Cu}=63$.} |
-| \hline | $H=1 \mathrm{Li}=7$ | $\mathrm{Be}=9,4$ | $B=11$ | $\mathrm{C}=12$ | $\mathrm{N}=14$ | $0=16$ | $F=19$ |  |
-| \hline 3 | $\mathrm{Na}=23$ | $\mathrm{Mg}=24$ |  |  | \multirow[t]{2}{*}{$\mathrm{P}=31$} | $\mathrm{s}=32$ | $\mathrm{Cl}=35,5$ |  |
-| \hline 4 | $\mathrm{K}=39$ |  | $A I=27,3$ -= 44 | $\mathrm{Si}=28 \mathrm{Ti}=48$ |  | $\mathrm{Cr}=52$ | $\mathrm{Mn}=55$ |  |
-| \hline 5 | ( $\mathrm{Cu}=63$ ) | $\mathrm{Zn}=65$ | -=68 | -=72 | As $=75$ | $\mathrm{se}=78$ | $\mathrm{Br}=80$ |  |
-| \hline 6 | $\mathrm{Rb}=85$ | $\mathrm{sr}=87$ | ? $\mathrm{Yt}=88$ | $\mathrm{Z} r=90$ | $\mathrm{Nb}=94$ | $\mathrm{M}_{\mathrm{o}}=96$ | -=100 | $$\begin{array}{l} |
+| I |  |  |  |  |  |  |  | \multirow[b]{4}{*}{$\mathrm{Fe}=56, \mathrm{C}_{\mathrm{o}}=59$, $\mathrm{Ni}=59, \mathrm{Cu}=63$.} |
+| | $H=1 \mathrm{Li}=7$ | $\mathrm{Be}=9,4$ | $B=11$ | $\mathrm{C}=12$ | $\mathrm{N}=14$ | $0=16$ | $F=19$ |  |
+| 3 | $\mathrm{Na}=23$ | $\mathrm{Mg}=24$ |  |  | \multirow[t]{2}{*}{$\mathrm{P}=31$} | $\mathrm{s}=32$ | $\mathrm{Cl}=35,5$ |  |
+| 4 | $\mathrm{K}=39$ |  | $A I=27,3$ -= 44 | $\mathrm{Si}=28 \mathrm{Ti}=48$ |  | $\mathrm{Cr}=52$ | $\mathrm{Mn}=55$ |  |
+| 5 | ( $\mathrm{Cu}=63$ ) | $\mathrm{Zn}=65$ | -=68 | -=72 | As $=75$ | $\mathrm{se}=78$ | $\mathrm{Br}=80$ |  |
+| 6 | $\mathrm{Rb}=85$ | $\mathrm{sr}=87$ | ? $\mathrm{Yt}=88$ | $\mathrm{Z} r=90$ | $\mathrm{Nb}=94$ | $\mathrm{M}_{\mathrm{o}}=96$ | -=100 | $$\begin{array}{l} |
 | R u=104, R h=104, |  |  |  |  |  |  |  |  |
 | P d=106, A q=108 . |  |  |  |  |  |  |  |  |
 | \end{array}$$ |  |  |  |  |  |  |  |  |
-| \hline 7 | $(\mathrm{Ag}=108)$ | $\mathrm{Cd}=112$ | $1 \mathrm{n}=113$ | $5 n=118$ | $\mathrm{Sb}=122$ | $\mathrm{Te}=125$ | $\mathrm{J}=127$ |  |
-| \hline 8 | CS = 133 | $\mathrm{Ba}=137$ | ? $\mathrm{Di}=138$ | ? Ce = 140 | - | - | - | - - - - |
-| \hline 9 | (-) | - | - | - | - | - | - |  |
-| \hline 10 | - | - | ? $\mathrm{Er}=178$ | ? $\mathrm{Ld}=180$ | $\mathrm{Ta}=182$ | $\mathrm{W}=184$ | - | $$\begin{aligned} |
+| 7 | $(\mathrm{Ag}=108)$ | $\mathrm{Cd}=112$ | $1 \mathrm{n}=113$ | $5 n=118$ | $\mathrm{Sb}=122$ | $\mathrm{Te}=125$ | $\mathrm{J}=127$ |  |
+| 8 | CS = 133 | $\mathrm{Ba}=137$ | ? $\mathrm{Di}=138$ | ? Ce = 140 | - | - | - | - - - - |
+| 9 | (-) | - | - | - | - | - | - |  |
+| 10 | - | - | ? $\mathrm{Er}=178$ | ? $\mathrm{Ld}=180$ | $\mathrm{Ta}=182$ | $\mathrm{W}=184$ | - | $$\begin{aligned} |
 | 0 S | =195, I r=197, |  |  |  |  |  |  |  |
 | P t | =198, A u=199 . |  |  |  |  |  |  |  |
 | \end{aligned}$$ |  |  |  |  |  |  |  |  |
-| \hline 11 | ( $\mathrm{Au}=199$ ) | $\mathrm{Hg}=200$ | $\mathrm{TI}=204$ | $\mathrm{Pb}=207$ | $\mathrm{B}_{i}=208$ | - | - |  |
-| \hline 12 | - | - | - | $\mathrm{Th}=231$ | - | $\mathrm{U}=240$ | - | - - - - |
+| 11 | ( $\mathrm{Au}=199$ ) | $\mathrm{Hg}=200$ | $\mathrm{TI}=204$ | $\mathrm{Pb}=207$ | $\mathrm{B}_{i}=208$ | - | - |  |
+| 12 | - | - | - | $\mathrm{Th}=231$ | - | $\mathrm{U}=240$ | - | - - - - |
 
 
 FIGURE 7.24
 Mendeleev's early periodic table, published in 1872. Note the spaces left for missing elements with atomic masses 44, 68, 72, and 100.
 (From Annalen der Chemie und Pharmacie, VIII, Supplementary Volume for 1872, page 511.)
 
-| \hline Properties of Germanium | Predicted in 1871 | Observed in 1886 |
+| Properties of Germanium | Predicted in 1871 | Observed in 1886 |
 | --- | --- | --- |
-| \hline Atomic weight | 72 | 72.3 |
-| \hline Density | $5.5 \mathrm{~g} / \mathrm{cm}^{3}$ | $5.47 \mathrm{~g} / \mathrm{cm}^{3}$ |
-| \hline Specific heat | $0.31 \mathrm{~J} /\left({ }^{\circ} \mathrm{C} \cdot \mathrm{g}\right)$ | $0.32 \mathrm{~J} /\left({ }^{\circ} \mathrm{C} \cdot \mathrm{g}\right)$ |
-| \hline Melting point | Very high | $960^{\circ} \mathrm{C}$ |
-| \hline Oxide formula | $\mathrm{RO}_{2}$ | $\mathrm{GeO}_{2}$ |
-| \hline Oxide density | $4.7 \mathrm{~g} / \mathrm{cm}^{3}$ | $4.70 \mathrm{~g} / \mathrm{cm}^{3}$ |
-| \hline Chloride formula | $\mathrm{RCl}_{4}$ | $\mathrm{GeCl}_{4}$ |
-| \hline bp of chloride | $100^{\circ} \mathrm{C}$ | $86^{\circ} \mathrm{C}$ |
+| Atomic weight | 72 | 72.3 |
+| Density | $5.5 \mathrm{~g} / \mathrm{cm}^{3}$ | $5.47 \mathrm{~g} / \mathrm{cm}^{3}$ |
+| Specific heat | $0.31 \mathrm{~J} /\left({ }^{\circ} \mathrm{C} \cdot \mathrm{g}\right)$ | $0.32 \mathrm{~J} /\left({ }^{\circ} \mathrm{C} \cdot \mathrm{g}\right)$ |
+| Melting point | Very high | $960^{\circ} \mathrm{C}$ |
+| Oxide formula | $\mathrm{RO}_{2}$ | $\mathrm{GeO}_{2}$ |
+| Oxide density | $4.7 \mathrm{~g} / \mathrm{cm}^{3}$ | $4.70 \mathrm{~g} / \mathrm{cm}^{3}$ |
+| Chloride formula | $\mathrm{RCl}_{4}$ | $\mathrm{GeCl}_{4}$ |
+| bp of chloride | $100^{\circ} \mathrm{C}$ | $86^{\circ} \mathrm{C}$ |
 
 
 | Property | Element $\mathbf{1 1 3}$ | Element $\mathbf{1 1 4}$ |
 | --- | --- | --- |
-| \hline Chemically like | Thallium | Lead |
+| Chemically like | Thallium | Lead |
 | Atomic mass | 297 | 298 |
 | Density | $16 \mathrm{~g} / \mathrm{mL}$ | $14 \mathrm{~g} / \mathrm{mL}$ |
 | Melting point | $430^{\circ} \mathrm{C}$ | $70^{\circ} \mathrm{C}$ |
@@ -909,13 +881,13 @@ in the scientific community, the name seaborgium was adopted.
 
 Names for the elements beyond 111 have not been decided, and these elements are represented on many periodic tables with three letters that symbolize their atomic numbers. More traditional names will no doubt be assigned in due time (hopefully with a minimum of controversy).
 
-| \hline | | --- | --- | --- | |
+| | | --- | --- | --- | |
 | --- |
 | | Atomic |  |  | |
 | | Number |  |  | |
-| | \end{tabular} |
+| |  |
  | Name | Symbol |
-| \hline 104 | Rutherfordium | Rf |
+| 104 | Rutherfordium | Rf |
 | 105 | Dubium | Db |
 | 106 | Seaborgium | Sg |
 | 107 | Bohrium | Bh |
@@ -973,10 +945,10 @@ At this point it is useful to introduce the concept of valence electrons, the el
 
 Note in Fig. 7.25 that a very important pattern is developing: The elements in the same group (vertical column of the periodic table) have the same valence electron configuration. Remember that Mendeleev originally placed the elements in groups based on similarities in chemical properties. Now we understand the reason behind these
 
-| \hline H $1 s^{1}$ |  | He $1 s^{2}$ |  |  |  |  |  |
+| H $1 s^{1}$ |  | He $1 s^{2}$ |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline Li $2 s^{1}$ | Be $2 s^{2}$ | B $2 p^{1}$ | C $2 p^{2}$ | N $2 p^{3}$ | O $2 p^{4}$ | F $2 p^{5}$ | Ne $2 p^{6}$ |
-| \hline Na $3 s^{1}$ | Mg $3 s^{2}$ | Al $3 p^{1}$ | Si $3 p^{2}$ | P $3 p^{3}$ | S $3 p^{4}$ | Cl $3 p^{5}$ | Ar $3 p^{6}$ |
+| Li $2 s^{1}$ | Be $2 s^{2}$ | B $2 p^{1}$ | C $2 p^{2}$ | N $2 p^{3}$ | O $2 p^{4}$ | F $2 p^{5}$ | Ne $2 p^{6}$ |
+| Na $3 s^{1}$ | Mg $3 s^{2}$ | Al $3 p^{1}$ | Si $3 p^{2}$ | P $3 p^{3}$ | S $3 p^{4}$ | Cl $3 p^{5}$ | Ar $3 p^{6}$ |
 
 ---
 
@@ -1080,15 +1052,15 @@ $$\mathrm{Cd}: \quad 1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 4 s^{2} 3 d^{10} 4 
 
 Hafnium is element 72 and is found in Period 6, as shown in Fig. 7.29. Note that it occurs just after the lanthanide series. Thus the $4 f$ orbitals are already filled. Hafnium is
 
-| \hline 1A |  |  | 8A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1A |  |  | 8A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline | 1 | $1 s$ | 2A |  |  |  |  |  |  |  |  |  | 3A | 4A | 5A | 6A | 7A | $1 s$ |
-| \hline | 2 |  | $2 s$ |  |  |  |  |  |  |  |  |  |  |  | $2 p$ |  |  |  |
-| \hline | 3 |  | $3 s$ |  |  |  |  |  |  |  |  |  |  |  | $3 p$ | S |  |  |
-| \hline Period | 4 |  | $4 s$ |  |  |  |  | $3 d$ |  |  |  |  |  |  |  | $4 p$ |  |  |
-| \hline | 5 |  | $5 s$ |  |  |  |  | $4 d$ |  |  |  | Cd |  |  | $5 p$ |  |  |  |
-| \hline | 6 |  | $6 s$ | La | Hf |  |  | $5 d$ |  |  |  |  |  |  | $6 p$ |  |  |  |
-| \hline | 7 | $7 s$ | Ra | Ac |  |  |  | $6 d$ |  |  |  |  |  |  |  |  |  |  |
+| | 1 | $1 s$ | 2A |  |  |  |  |  |  |  |  |  | 3A | 4A | 5A | 6A | 7A | $1 s$ |
+| | 2 |  | $2 s$ |  |  |  |  |  |  |  |  |  |  |  | $2 p$ |  |  |  |
+| | 3 |  | $3 s$ |  |  |  |  |  |  |  |  |  |  |  | $3 p$ | S |  |  |
+| Period | 4 |  | $4 s$ |  |  |  |  | $3 d$ |  |  |  |  |  |  |  | $4 p$ |  |  |
+| | 5 |  | $5 s$ |  |  |  |  | $4 d$ |  |  |  | Cd |  |  | $5 p$ |  |  |  |
+| | 6 |  | $6 s$ | La | Hf |  |  | $5 d$ |  |  |  |  |  |  | $6 p$ |  |  |  |
+| | 7 | $7 s$ | Ra | Ac |  |  |  | $6 d$ |  |  |  |  |  |  |  |  |  |  |
 
 
 FIGURE 7.29
@@ -1162,7 +1134,7 @@ Chapter Seven Atomic Structure and Periodicity
 
 | Atom | $\boldsymbol{I}_{\mathbf{1}}(\mathbf{k J} / \mathbf{m o l})$ |
 | --- | --- |
-| \hline Group 1A |  |
+| Group 1A |  |
 | Li | 520 |
 | Na | 495 |
 | K | 419 |
@@ -1182,16 +1154,16 @@ First ionization energy increases across a period and decreases down a group.
 FIGURE 7.30
 The values of first ionization energy for the elements in the first six periods. In general, ionization energy decreases in going down a group. For example, note the decrease in values for Group 1A and Group 8A. In general, ionization energy increases in going left to right across a period. For example, note the sharp increase going across Period 2 from lithium through neon.
 
-| \hline \multirow{9}{*}{} | Element | $\boldsymbol{I}_{\mathbf{1}}$ | $\boldsymbol{I}_{\mathbf{2}}$ | $\boldsymbol{I}_{\mathbf{3}}$ | $\boldsymbol{I}_{\mathbf{4}}$ | $\boldsymbol{I}_{\mathbf{5}}$ | $\boldsymbol{I}_{\mathbf{6}}$ | $I_{7}$ |
+| \multirow{9}{*}{} | Element | $\boldsymbol{I}_{\mathbf{1}}$ | $\boldsymbol{I}_{\mathbf{2}}$ | $\boldsymbol{I}_{\mathbf{3}}$ | $\boldsymbol{I}_{\mathbf{4}}$ | $\boldsymbol{I}_{\mathbf{5}}$ | $\boldsymbol{I}_{\mathbf{6}}$ | $I_{7}$ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline | Na | 495 | 4560 |  |  |  | \multirow{4}{*}{} | \multirow{5}{*}{} |
-| \hline | Mg | 735 | 1445 | 7730 | Core electrons* |  |  |  |
-| \hline |  | 580 | 1815 | 2740 | 11,600 |  |  |  |
-| \hline | Si | 780 | 1575 | 3220 | 4350 | 16,100 |  |  |
-| \hline | P | 1060 | 1890 | 2905 | 4950 | 6270 | 21,200 |  |
-| \hline | S | 1005 | 2260 | 3375 | 4565 | 6950 | 8490 | 27,000 |
-| \hline | Cl | 1255 | 2295 | 3850 | 5160 | 6560 | 9360 | 11,000 |
-| \hline | Ar | 1527 | 2665 | 3945 | 5770 | 7230 | 8780 | 12,000 |
+| | Na | 495 | 4560 |  |  |  | \multirow{4}{*}{} | \multirow{5}{*}{} |
+| | Mg | 735 | 1445 | 7730 | Core electrons* |  |  |  |
+| |  | 580 | 1815 | 2740 | 11,600 |  |  |  |
+| | Si | 780 | 1575 | 3220 | 4350 | 16,100 |  |  |
+| | P | 1060 | 1890 | 2905 | 4950 | 6270 | 21,200 |  |
+| | S | 1005 | 2260 | 3375 | 4565 | 6950 | 8490 | 27,000 |
+| | Cl | 1255 | 2295 | 3850 | 5160 | 6560 | 9360 | 11,000 |
+| | Ar | 1527 | 2665 | 3945 | 5770 | 7230 | 8780 | 12,000 |
 
 *Note the large jump in ionization energy in going from removal of valence electrons to removal of core electrons.
 
@@ -1270,9 +1242,9 @@ In contrast to the nitrogen atom, the oxygen atom can add one electron to form t
 | --- |
 | | Electron Affinity |  | |
 | | $\mathbf{( k J / m o l )}$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline F | -327.8 |
+| F | -327.8 |
 | Cl | -348.7 |
 | Br | -324.5 |
 | I | -295.2 |
@@ -1359,13 +1331,13 @@ The chemical property most characteristic of a metal is the ability to lose its 
 $$2 \mathrm{Na}(s)+\mathrm{Cl}_{2}(g) \longrightarrow 2 \mathrm{NaCl}(s)$$
 where sodium chloride contains $\mathrm{Na}^{+}$and $\mathrm{Cl}^{-}$ions. This is an oxidation-reduction reaction in which chlorine oxidizes sodium. In the reactions between metals and nonmetals,
 
-| \hline Element | Valence Electron Configuration | Density at $\mathbf{2 5}^{\boldsymbol{\circ}} \mathbf{C} \boldsymbol{(} \mathbf{g} \boldsymbol{/} \mathbf{c m}^{\mathbf{3}} \boldsymbol{)}$ | mp $\left({ }^{\circ} \mathrm{C}\right)$ | bp $\left({ }^{\circ} \mathrm{C}\right)$ | First Ionization Energy (kJ/mol) | Atomic (covalent) Radius (pm) | lonic ( $\mathbf{M}^{\boldsymbol{+}}$ ) Radius (pm) |
+| Element | Valence Electron Configuration | Density at $\mathbf{2 5}^{\boldsymbol{\circ}} \mathbf{C} \boldsymbol{(} \mathbf{g} \boldsymbol{/} \mathbf{c m}^{\mathbf{3}} \boldsymbol{)}$ | mp $\left({ }^{\circ} \mathrm{C}\right)$ | bp $\left({ }^{\circ} \mathrm{C}\right)$ | First Ionization Energy (kJ/mol) | Atomic (covalent) Radius (pm) | lonic ( $\mathbf{M}^{\boldsymbol{+}}$ ) Radius (pm) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline Li | $2 s^{1}$ | 0.53 | 180 | 1330 | 520 | 152 | 60 |
-| \hline Na | $3 s^{1}$ | 0.97 | 98 | 892 | 495 | 186 | 95 |
-| \hline K | $4 s^{1}$ | 0.86 | 64 | 760 | 419 | 227 | 133 |
-| \hline Rb | $5 s^{1}$ | 1.53 | 39 | 668 | 409 | 247 | 148 |
-| \hline Cs | $6 s^{1}$ | 1.87 | 29 | 690 | 382 | 265 | 169 |
+| Li | $2 s^{1}$ | 0.53 | 180 | 1330 | 520 | 152 | 60 |
+| Na | $3 s^{1}$ | 0.97 | 98 | 892 | 495 | 186 | 95 |
+| K | $4 s^{1}$ | 0.86 | 64 | 760 | 419 | 227 | 133 |
+| Rb | $5 s^{1}$ | 1.53 | 39 | 668 | 409 | 247 | 148 |
+| Cs | $6 s^{1}$ | 1.87 | 29 | 690 | 382 | 265 | 169 |
 
 ---
 
@@ -1405,22 +1377,22 @@ This order is observed experimentally for direct reactions between the solid alk
 318
 Chapter Seven Atomic Structure and Periodicity
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | TABLE 7.9 |  | |
 | | for $\mathrm{Li}^{+}, \mathrm{Na}^{+}$, and $\mathrm{K}^{+}$lons |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline | | | Hydration Energies |  | |
+| | | | Hydration Energies |  | |
 | --- |
 | | Hydration Energy |  | |
 | | $(\mathbf{k J} / \mathbf{m o l})$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline lon | -510 |
-| \hline $\mathrm{Li}^{+}$ | -402 |
+| lon | -510 |
+| $\mathrm{Li}^{+}$ | -402 |
 | $\mathrm{Na}^{+}$ | -314 |
-| \hline $\mathrm{~K}^{+}$ |  |
+| $\mathrm{~K}^{+}$ |  |
 
 
 Key Terms
@@ -1568,7 +1540,7 @@ These questions are designed to be used by groups of students in class. The ques
 
 |  | $\boldsymbol{X}$ | $\boldsymbol{Y}$ |
 | --- | --- | --- |
-| \hline First | 170 | 200 |
+| First | 170 | 200 |
 | Second | 350 | 400 |
 | Third | 1800 | 3500 |
 | Fourth | 2500 | 5000 |
@@ -1944,3 +1916,63 @@ f. How many electrons can have $p=6$ ?
 | $\mathrm{Mg}:$ | 2.0 |
 | $\mathrm{Al}:$ | 3.1 |
 | $\mathrm{Si}:$ | 2.0 |
+
+---
+
+Marathon Problem
+327
+
+P: $\quad 1.8$
+S: $\quad 2.3$
+Cl: $\quad 1.8$
+Ar: $\quad 1.8$
+Explain these relative numbers.
+134. We expect the atomic radius to increase going down a group in the periodic table. Can you suggest why the atomic radius of hafnium breaks this rule? (See data below.)
+
+|  Atomic Radii, in pm  |  |  |  |
+| --- | --- | --- | --- |
+| Sc | 157 | Ti | 147.7 |
+| Y | 169.3 | Zr | 159.3 |
+| La | 191.5 | Hf | 147.6 |
+
+135. Consider the following ionization energies for aluminum:
+$$\begin{aligned}
+\mathrm{Al}(g) & \longrightarrow \mathrm{Al}^{+}(g)+\mathrm{e}^{-} \\
+\mathrm{Al}^{+}(g) & \longrightarrow \mathrm{Al}^{2+}(g)+\mathrm{e}^{-} \\
+\mathrm{Al}^{2+}(g) & =580 \mathrm{~kJ} / \mathrm{mol} \\
+\mathrm{Al}_{2} & =1815 \mathrm{~kJ} / \mathrm{mol} \\
+\mathrm{Al}^{3+}(g) & \longrightarrow \mathrm{Al}^{4+}(g)+\mathrm{e}^{-} \\
+I_{3} & =2740 \mathrm{~kJ} / \mathrm{mol} \\
+I_{4} & =11,600 \mathrm{~kJ} / \mathrm{mol}
+\end{aligned}$$
+a. Account for the trend in the values of the ionization energies.
+b. Explain the large increase between $I_{3}$ and $I_{4}$.
+c. Which one of the four ions has the greatest electron affinity? Explain.
+d. List the four aluminum ions given in order of increasing size, and explain your ordering. (Hint: Remember that most of the size of an atom or ion is due to its electrons.)
+136. While Mendeleev predicted the existence of several undiscovered elements, he did not predict the existence of the noble gases, the lanthanides, or the actinides. Propose reasons why Mendeleev was not able to predict the existence of the noble gases.
+137. An atom of a particular element is traveling at $1.00 \%$ of the speed of light. The de Broglie wavelength is found to be $3.31 \times 10^{-3} \mathrm{pm}$. Which element is this? Prove it.
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+138. As the weapons officer aboard the Starship Chemistry, it is your duty to configure a photon torpedo to remove an electron from the outer hull of an enemy vessel. You know that the work function (the binding energy of the electron) of the hull of the enemy ship is $7.52 \times 10^{-19} \mathrm{~J}$.
+a. What wavelength does your photon torpedo need to be to eject an electron?
+b. You find an extra photon torpedo with a wavelength of 259 nm and fire it at the enemy vessel. Does this photon torpedo do any damage to the ship (does it eject an electron)?
+c. If the hull of the enemy vessel is made of the element with an electron configuration of $[\mathrm{Ar}] 4 s^{1} 3 d^{10}$, what metal is this?
+139. Francium, Fr, is a radioactive element found in some uranium minerals and is formed as a result of the decay of actinium.
+a. What are the electron configurations of francium and its predicted most common ion?
+b. It has been estimated that at any one time, there is only one (1.0) ounce of francium on earth. Assuming this is true, what number of francium atoms exist on earth?
+c. The longest-lived isotope of francium is ${ }^{223} \mathrm{Fr}$. What is the total mass in grams of the neutrons in one atom of this isotope?
+140. Answer the following questions based on the given electron configurations and identify the elements.
+a. Arrange these atoms in order of increasing size: $[\mathrm{Kr}] 5 s^{2} 4 d^{10} 5 p^{6} ;[\mathrm{Kr}] 5 s^{2} 4 d^{10} 5 p^{1} ;[\mathrm{Kr}] 5 s^{2} 4 d^{10} 5 p^{3}$.
+b. Arrange these atoms in order of decreasing first ionization energy: $[\mathrm{Ne}] 3 s^{2} 3 p^{5} ;[\mathrm{Ar}] 4 s^{2} 3 d^{10} 4 p^{3} ;[\mathrm{Ar}] 4 s^{2} 3 d^{10} 4 p^{5}$.
+
+Marathon Problem*
+This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+141. From the information below, identify element $X$.
+a. The wavelength of the radio waves sent by an FM station broadcasting at 97.1 MHz is 30.0 million $\left(3.00 \times 10^{7}\right)$ times greater than the wavelength corresponding to the energy difference between a particular excited state of the hydrogen atom and the ground state.
+b. Let $V$ represent the principal quantum number for the valence shell of element X . If an electron in the hydrogen atom falls from shell $V$ to the inner shell corresponding to the excited state mentioned above in part a, the wavelength of light emitted is the same as the wavelength of an electron moving at a speed of $570 \mathrm{~m} / \mathrm{s}$.
+c. The number of unpaired electrons for element X in the ground state is the same as the maximum number of electrons in an atom that can have the quantum number designations $n=2$, $m_{\ell}=-1$, and $m_{s}=-\frac{1}{2}$.
+d. Let $A$ equal the charge of the stable ion that would form when the undiscovered element 120 forms ionic compounds. This value of $A$ also represents the angular momentum quantum number for the subshell containing the unpaired electron(s) for element X.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
+*Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.

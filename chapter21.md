@@ -1,54 +1,5 @@
 # Chapter 21: Transition Metals and Coordination Chemistry
 
-Marathon Problem
-941
-
-Consider starting with a $10.0-\mathrm{mL}$ sample of a saturated calcium iodate solution. Upon titrating, you find that 14.9 mL of $0.100 M \mathrm{Na}_{2} \mathrm{~S}_{2} \mathrm{O}_{3}$ is required to reach the end point of the titration. Calculate $K_{\mathrm{sp}}$ for $\mathrm{Ca}\left(\mathrm{IO}_{3}\right)_{2}$.
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-73. Although nitrogen trifluoride $\left(\mathrm{NF}_{3}\right)$ is a thermally stable compound, nitrogen triiodide $\left(\mathrm{NI}_{3}\right)$ is known to be a highly explosive material. $\mathrm{NI}_{3}$ can be synthesized according to the equation
-$$\mathrm{BN}(s)+3 \mathrm{IF}(g) \longrightarrow \mathrm{BF}_{3}(g)+\mathrm{NI}_{3}(g)$$
-a. What is the enthalpy of formation for $\mathrm{NI}_{3}(s)$ given the enthalpy of reaction $(-307 \mathrm{~kJ})$ and the enthalpies of formation for $\mathrm{BN}(s)(-254 \mathrm{~kJ} / \mathrm{mol}), \mathrm{IF}(g)(-96 \mathrm{~kJ} / \mathrm{mol})$, and $\mathrm{BF}_{3}(g)(-1136 \mathrm{kJ} / \mathrm{mol}$ )?
-b. It is reported that when the synthesis of $\mathrm{NI}_{3}$ is conducted using 4 mol IF for every 1 mol BN , one of the by-products isolated is $\left[\mathrm{IF}_{2}\right]^{+}\left[\mathrm{BF}_{4}\right]^{-}$. What are the molecular geometries of the species in this by-product? What are the hybridizations of the central atoms in each species in the by-product?
-74. While selenic acid has the formula $\mathrm{H}_{2} \mathrm{SeO}_{4}$ and thus is directly related to sulfuric acid, telluric acid is best visualized as $\mathrm{H}_{6} \mathrm{TeO}_{6}$ or $\mathrm{Te}(\mathrm{OH})_{6}$.
-a. What is the oxidation state of tellurium in $\mathrm{Te}(\mathrm{OH})_{6}$ ?
-b. Despite its structural differences with sulfuric and selenic acid, telluric acid is a diprotic acid with $\mathrm{p} K_{\mathrm{a} 1}=7.68$ and $\mathrm{p} K_{\mathrm{a} 2}=$ 11.29. Telluric acid can be prepared by hydrolysis of tellurium hexafluoride according to the equation
-$$\mathrm{TeF}_{6}(g)+6 \mathrm{H}_{2} \mathrm{O}(l) \longrightarrow \mathrm{Te}(\mathrm{OH})_{6}(a q)+6 \mathrm{HF}(a q)$$
-
-Tellurium hexafluoride can be prepared by the reaction of elemental tellurium with fluorine gas:
-$$\mathrm{Te}(s)+3 \mathrm{~F}_{2}(g) \longrightarrow \mathrm{TeF}_{6}(g)$$
-
-If a cubic block of tellurium (density $=6.240 \mathrm{~g} / \mathrm{cm}^{3}$ ) measuring 0.545 cm on edge is allowed to react with 2.34 L of fluorine gas at 1.06 atm and $25^{\circ} \mathrm{C}$, what is the pH of a solution of $\mathrm{Te}(\mathrm{OH})_{6}$ formed by dissolving the isolated $\mathrm{TeF}_{6}(g)$ in 115 mL of water?
-
-Marathon Problem
-This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-75. Captain Kirk has set a trap for the Klingons who are threatening an innocent planet. He has sent small groups of fighter rockets to sites that are invisible to Klingon radar and put a decoy in the
-open. He calls this the "fishhook" strategy. Mr. Spock has sent a coded message to the chemists on the fighters to tell the ships what to do next. The outline of the message is
-
-| $\overline{(1)}$ | $\overline{(2)}$ | $\overline{(3)}$ | $\overline{(4)}$ | $\overline{(5)}$ | $\overline{(6)}$ |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| $\overline{(7)}$ | - | $\overline{(8)}$ | $\overline{(9)}$ | $\overline{(10)}$ | $\overline{(11)}$ | $\overline{(12)}$ | $\overline{(10)}$ |
-$\frac{\overline{(11)}}{(11)}$
-
-Fill in the blanks of the message using the following clues.
-(1) Symbol of the halogen whose hydride has the second highest boiling point in the series of HX compounds that are hydrogen halides.
-(2) Symbol of the halogen that is the only hydrogen halide, HX, that is a weak acid in aqueous solution.
-(3) Symbol of the element whose existence on the sun was known before its existence on earth was discovered.
-(4) Symbol of the element whose presence can interfere with the qualitative analysis for $\mathrm{Pb}^{2+}, \mathrm{Hg}_{2}{ }^{2+}$, and $\mathrm{Ag}^{+}$. When chloride ions are added to an aqueous solution of this metal ion, a white precipitate forms with formula MOCl .
-(5) Symbol of the Group 6A element that, like selenium, is a semiconductor.
-(6) Symbol for the element known in rhombic and monoclinic forms.
-(7) Symbol for the element that exists as diatomic molecules in a yellow-green gas when not combined with another element; its silver, lead, and mercury(I) salts are white and insoluble in water.
-(8) Symbol for the most abundant element in and near the earth's crust.
-(9) Symbol for the element that seems to give some protection against cancer when a diet rich in this element is consumed.
-(10) Symbol for the only noble gas besides xenon that has been shown to form compounds under some circumstances (write the symbol backward and split the letters as shown).
-(11) Symbol for the toxic element that, like phosphorus and antimony, forms tetrameric molecules when uncombined with other elements (split the letters of the symbol as shown).
-(12) Symbol for the element that occurs as an inert component of air but is a very prominent part of fertilizers and explosives.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 21
 
 Transition Metals and Coordination Chemistry
@@ -97,12 +48,12 @@ One striking characteristic of the representative elements is that their chemist
 
 Group designations are traditionally given on the periodic table for the $d$-block transition metals (see Fig. 21.1). However, these designations do not relate as directly to the
 
-| \hline Metal | Uses | Percentage Imported |
+| Metal | Uses | Percentage Imported |
 | --- | --- | --- |
-| \hline Chromium | Stainless steel (especially for parts exposed to corrosive gases and high temperatures) | ~91\% |
-| \hline Cobalt | High-temperature alloys in jet engines, magnets, catalysts, drill bits | ~93\% |
-| \hline Manganese | Steelmaking | ~97\% |
-| \hline Platinum and palladium | Catalysts | ~87\% |
+| Chromium | Stainless steel (especially for parts exposed to corrosive gases and high temperatures) | ~91\% |
+| Cobalt | High-temperature alloys in jet engines, magnets, catalysts, drill bits | ~93\% |
+| Manganese | Steelmaking | ~97\% |
+| Platinum and palladium | Catalysts | ~87\% |
 
 
 943
@@ -112,15 +63,15 @@ Group designations are traditionally given on the periodic table for the $d$-blo
 944
 Chapter Twenty-One Transition Metals and Coordination Chemistry
 
-| \hline | Sc | Ti | V | Cr | Mn | Fe | Co | Ni | Cu | Zn |
+| | Sc | Ti | V | Cr | Mn | Fe | Co | Ni | Cu | Zn |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline | Y | Zr | Nb | Mo | Tc | Ru | Rh | Pd | Ag | Cd |
-| \hline | La | Hf | Ta | W | Re | Os | Ir | Pt | Au | Hg |
-| \hline | Ac | Rf | Db | Sg | Bh | Hs | Mt | Ds | Rg | Uub |
-| \hline \multirow{2{*}{}} |  |  |  |  |  |  |  |  |  |  |
-| \hline |  |  |  |  |  |  |  |  |  |  |
-| \hline Pm | Sm | Eu | Gd | Tb | Dy | Ho | Er | Tm | Yb | Lu |
-| \hline Np | Pu | Am | Cm | Bk | Cf | Es | Fm | Md | No | Lr |
+| | Y | Zr | Nb | Mo | Tc | Ru | Rh | Pd | Ag | Cd |
+| | La | Hf | Ta | W | Re | Os | Ir | Pt | Au | Hg |
+| | Ac | Rf | Db | Sg | Bh | Hs | Mt | Ds | Rg | Uub |
+| \multirow{2{*}{}} |  |  |  |  |  |  |  |  |  |  |
+| |  |  |  |  |  |  |  |  |  |  |
+| Pm | Sm | Eu | Gd | Tb | Dy | Ho | Er | Tm | Yb | Lu |
+| Np | Pu | Am | Cm | Bk | Cf | Es | Fm | Md | No | Lr |
 
 chemical behavior of these elements as they do for the representative elements (the A groups), so we will not use them.
 
@@ -168,21 +119,21 @@ Basically, the chromium configuration occurs because the energies of the $3 d$ a
 21.1 The Transition Metals: A Survey
 947
 
-| \hline | Scandium | Titanium | Vanadium | Chromium | Manganese | Iron | Cobalt | Nickel | Copper | Zinc |
+| | Scandium | Titanium | Vanadium | Chromium | Manganese | Iron | Cobalt | Nickel | Copper | Zinc |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline Atomic number | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-| \hline Electron configuration* | $4 s^{2} 3 d^{1}$ | $4 s^{2} 3 d^{2}$ | $4 s^{2} 3 d^{3}$ | $4 s^{1} 3 d^{5}$ | $4 s^{2} 3 d^{5}$ | $4 s^{2} 3 d^{6}$ | $4 s^{2} 3 d^{7}$ | $4 s^{2} 3 d^{8}$ | $4 s^{1} 3 d^{10}$ | $4 s^{2} 3 d^{10}$ |
-| \hline Atomic radius (pm) | 162 | 147 | 134 | 130 | 135 | 126 | 125 | 124 | 128 | 138 |
-| \hline Ionization energies |  |  |  |  |  |  |  |  |  |  |
-| \hline |  |  |  |  |  |  |  |  |  |  |
-| \hline First | 6.54 | 6.82 | 6.74 | 6.77 | 7.44 | 7.87 | 7.86 | 7.64 | 7.73 | 9.39 |
-| \hline Second | 12.80 | 13.58 | 14.65 | 16.50 | 15.64 | 16.18 | 17.06 | 18.17 | 20.29 | 17.96 |
-| \hline Third | 24.76 | 27.49 | 29.31 | 30.96 | 33.67 | 30.65 | 33.50 | 35.17 | 36.83 | 39.72 |
-| \hline Reduction potential † (V) | -2.08 | -1.63 | -1.2 | -0.91 | -1.18 | -0.44 | -0.28 | -0.23 | +0.34 | -0.76 |
-| \hline Common oxidation states | +3 | $+2,+3$, +4 | $+2,+3$, +4,+5 | $+2,+3$, +6 | $+2,+3$, +4,+7 | +2,+3 | +2,+3 | +2 | +1,+2 | +2 |
-| \hline Melting point $\left({ }^{\circ} \mathrm{C}\right)$ | 1397 | 1672 | 1710 | 1900 | 1244 | 1530 | 1495 | 1455 | 1083 | 419 |
-| \hline Density ( $\mathrm{g} / \mathrm{cm}^{3}$ ) | 2.99 | 4.49 | 5.96 | 7.20 | 7.43 | 7.86 | 8.9 | 8.90 | 8.92 | 7.14 |
-| \hline Electrical conductivity ‡ | - | 2 | 3 | 10 | 2 | 17 | 24 | 24 | 97 | 27 |
+| Atomic number | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| Electron configuration* | $4 s^{2} 3 d^{1}$ | $4 s^{2} 3 d^{2}$ | $4 s^{2} 3 d^{3}$ | $4 s^{1} 3 d^{5}$ | $4 s^{2} 3 d^{5}$ | $4 s^{2} 3 d^{6}$ | $4 s^{2} 3 d^{7}$ | $4 s^{2} 3 d^{8}$ | $4 s^{1} 3 d^{10}$ | $4 s^{2} 3 d^{10}$ |
+| Atomic radius (pm) | 162 | 147 | 134 | 130 | 135 | 126 | 125 | 124 | 128 | 138 |
+| Ionization energies |  |  |  |  |  |  |  |  |  |  |
+| |  |  |  |  |  |  |  |  |  |  |
+| First | 6.54 | 6.82 | 6.74 | 6.77 | 7.44 | 7.87 | 7.86 | 7.64 | 7.73 | 9.39 |
+| Second | 12.80 | 13.58 | 14.65 | 16.50 | 15.64 | 16.18 | 17.06 | 18.17 | 20.29 | 17.96 |
+| Third | 24.76 | 27.49 | 29.31 | 30.96 | 33.67 | 30.65 | 33.50 | 35.17 | 36.83 | 39.72 |
+| Reduction potential † (V) | -2.08 | -1.63 | -1.2 | -0.91 | -1.18 | -0.44 | -0.28 | -0.23 | +0.34 | -0.76 |
+| Common oxidation states | +3 | $+2,+3$, +4 | $+2,+3$, +4,+5 | $+2,+3$, +6 | $+2,+3$, +4,+7 | +2,+3 | +2,+3 | +2 | +1,+2 | +2 |
+| Melting point $\left({ }^{\circ} \mathrm{C}\right)$ | 1397 | 1672 | 1710 | 1900 | 1244 | 1530 | 1495 | 1455 | 1083 | 419 |
+| Density ( $\mathrm{g} / \mathrm{cm}^{3}$ ) | 2.99 | 4.49 | 5.96 | 7.20 | 7.43 | 7.86 | 8.9 | 8.90 | 8.92 | 7.14 |
+| Electrical conductivity ‡ | - | 2 | 3 | 10 | 2 | 17 | 24 | 24 | 97 | 27 |
 
 *Each atom has an argon inner-core configuration.
 † For the reduction process $\mathrm{M}^{2+}+2 \mathrm{e}^{-} \rightarrow \mathrm{M}$ (except for scandium, where the ion is $\mathrm{Sc}^{3+}$ ).
@@ -215,18 +166,18 @@ Chapter Twenty-One Transition Metals and Coordination Chemistry
 FIGURE 21.2
 Plots of the first (red dots) and third (blue dots) ionization energies for the first-row transition metals.
 
-| \hline Reaction | Potential (V) |
+| Reaction | Potential (V) |
 | --- | --- |
-| \hline $\mathrm{Sc} \rightarrow \mathrm{Sc}^{3+}+3 \mathrm{e}^{-}$ | 2.08 |
-| \hline $\mathrm{Ti} \rightarrow \mathrm{Ti}^{2+}+2 \mathrm{e}^{-}$ | 1.63 |
-| \hline $\mathrm{V} \rightarrow \mathrm{V}^{2+}+2 \mathrm{e}^{-}$ | 1.2 |
-| \hline $\mathrm{Mn} \rightarrow \mathrm{Mn}^{2+}+2 \mathrm{e}^{-}$ | 1.18 |
-| \hline $\mathrm{Cr} \rightarrow \mathrm{Cr}^{2+}+2 \mathrm{e}^{-}$ | 0.91 |
-| \hline $\mathrm{Zn} \rightarrow \mathrm{Zn}^{2+}+2 \mathrm{e}^{-}$ | 0.76 |
-| \hline $\mathrm{Fe} \rightarrow \mathrm{Fe}^{2+}+2 \mathrm{e}^{-}$ | 0.44 |
-| \hline $\mathrm{Co} \rightarrow \mathrm{Co}^{2+}+2 \mathrm{e}^{-}$ | 0.28 |
-| \hline $\mathrm{Ni} \rightarrow \mathrm{Ni}^{2+}+2 \mathrm{e}^{-}$ | 0.23 |
-| \hline $\mathrm{Cu} \rightarrow \mathrm{Cu}^{2+}+2 \mathrm{e}^{-}$ | -0.34 |
+| $\mathrm{Sc} \rightarrow \mathrm{Sc}^{3+}+3 \mathrm{e}^{-}$ | 2.08 |
+| $\mathrm{Ti} \rightarrow \mathrm{Ti}^{2+}+2 \mathrm{e}^{-}$ | 1.63 |
+| $\mathrm{V} \rightarrow \mathrm{V}^{2+}+2 \mathrm{e}^{-}$ | 1.2 |
+| $\mathrm{Mn} \rightarrow \mathrm{Mn}^{2+}+2 \mathrm{e}^{-}$ | 1.18 |
+| $\mathrm{Cr} \rightarrow \mathrm{Cr}^{2+}+2 \mathrm{e}^{-}$ | 0.91 |
+| $\mathrm{Zn} \rightarrow \mathrm{Zn}^{2+}+2 \mathrm{e}^{-}$ | 0.76 |
+| $\mathrm{Fe} \rightarrow \mathrm{Fe}^{2+}+2 \mathrm{e}^{-}$ | 0.44 |
+| $\mathrm{Co} \rightarrow \mathrm{Co}^{2+}+2 \mathrm{e}^{-}$ | 0.28 |
+| $\mathrm{Ni} \rightarrow \mathrm{Ni}^{2+}+2 \mathrm{e}^{-}$ | 0.23 |
+| $\mathrm{Cu} \rightarrow \mathrm{Cu}^{2+}+2 \mathrm{e}^{-}$ | -0.34 |
 
 first five metals the maximum possible oxidation state corresponds to the loss of all the $4 s$ and $3 d$ electrons. For example, the maximum oxidation state of chromium $\left([\operatorname{Ar}] 4 s^{1} 3 d^{5}\right)$ is +6 . Toward the right end of the period, the maximum oxidation states are not observed; in fact, the $2+$ ions are the most common. The higher oxidation states are not seen for these metals because the $3 d$ orbitals become lower in energy as the nuclear charge increases, and the electrons become increasingly difficult to remove. From Table 21.2 we see that ionization energy increases gradually going from left to right across the period. However, the third ionization energy (when an electron is removed from a $3 d$ orbital) increases faster than the first ionization energy, clear evidence of the significant decrease in the energy of the $3 d$ orbitals going across the period (see Fig. 21.2).
 
@@ -321,12 +272,12 @@ Titanium dioxide, a cheap and plentiful material, may prove to be worth its weig
 | --- | --- |
 | State of |  |
 | Vanadium |  |
-| \end{tabular} | | | Species in Aqueous |  | |
+|  | | | Species in Aqueous |  | |
 | --- |
 | | Solution |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline+5 | $\mathrm{VO}_{2}{ }^{+}($yellow $)$ |
+| +5 | $\mathrm{VO}_{2}{ }^{+}($yellow $)$ |
 | +4 | $\mathrm{VO}^{2+}($ blue $)$ |
 | +3 | $\mathrm{~V}^{3+}($ aq $)$ (blue-green) |
 | +2 | $\mathrm{~V}^{2+}($ aq $)$ (violet) |
@@ -336,13 +287,13 @@ Titanium dioxide, a cheap and plentiful material, may prove to be worth its weig
 | --- | --- |
 | State of |  |
 | Chromium |  |
-| \end{tabular} | | | Examples of |  | |
+|  | | | Examples of |  | |
 | --- |
 | | Compounds |  | |
 | | $\mathbf{( X =}$ halogen) |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline+2 | $\mathrm{CrX}_{2}$ |
+| +2 | $\mathrm{CrX}_{2}$ |
 | +3 | $\mathrm{CrX}_{3}$ |
 |  | $\mathrm{Cr}_{2} \mathrm{O}_{3}$ (green) |
 | +6 | $\mathrm{Cr}^{2}(\mathrm{OH})_{3}$ (blue-green) |
@@ -410,12 +361,12 @@ However, the bicycle that results is worth all these difficulties. One woman des
 | --- | --- |
 | State of |  |
 | Manganese |  |
-| \end{tabular} | | | Examples of |  | |
+|  | | | Examples of |  | |
 | --- |
 | | Compounds |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline+2 | $\mathrm{Mn}(\mathrm{OH})_{2}$ (pink) |
+| +2 | $\mathrm{Mn}(\mathrm{OH})_{2}$ (pink) |
 |  | $\mathrm{MnS}($ salmon $)$ |
 |  | $\mathrm{MnSO}_{4}$ (reddish) |
 | +4 | $\mathrm{MnCl}_{2}$ (pink) |
@@ -455,12 +406,12 @@ Nickel in compounds is almost exclusively in the +2 oxidation state. Aqueous sol
 | Oxidation |  |
 | --- | --- |
 | State |  |
-| \end{tabular} | | | Examples of |  | |
+|  | | | Examples of |  | |
 | --- |
 | | Compounds |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline+2 | $\mathrm{CoSO}_{4}($ dark blue $)$ |
+| +2 | $\mathrm{CoSO}_{4}($ dark blue $)$ |
 |  | {$\left[\mathrm{Co}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right] \mathrm{Cl}_{2}$} |
 |  | $($ pink $)$ |
 |  | {$\left[\mathrm{Co}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right]\left(\mathrm{NO}_{3}\right)_{2}$} |
@@ -480,12 +431,12 @@ Nickel in compounds is almost exclusively in the +2 oxidation state. Aqueous sol
 | --- | --- |
 | State of |  |
 | Nickel |  |
-| \end{tabular} | | | Examples of |  | |
+|  | | | Examples of |  | |
 | --- |
 | | Compounds |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline+2 | $\mathrm{NiCl}_{2}($ yellow $)$ |
+| +2 | $\mathrm{NiCl}_{2}($ yellow $)$ |
 |  | {$\left[\mathrm{Ni}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right] \mathrm{Cl}_{2}$} |
 |  | $($ green $)$ |
 |  | $\mathrm{NiO}($ greenish |
@@ -503,24 +454,24 @@ Nickel in compounds is almost exclusively in the +2 oxidation state. Aqueous sol
 
 Copper roofs and bronze statues, such as the Statue of Liberty, turn green in air because $\mathrm{Cu}_{3}(\mathrm{OH})_{4} \mathrm{SO}_{4}$ and $\mathrm{Cu}_{4}(\mathrm{OH})_{6} \mathrm{SO}_{4}$ form.
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | TABLE 21.11 |  | |
 | | Compounds of Copper |  | |
-| | \end{tabular} |
+| |  |
  | | | Typical |  | |
 | --- |
 | | Comidation |  | |
 | | State of |  | |
 | | Copper |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline+1 | | | Examples of |  | |
+| +1 | | | Examples of |  | |
 | --- |
 | | Compounds |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline | $\mathrm{Cu}_{2} \mathrm{O}$ (red) |
+| | $\mathrm{Cu}_{2} \mathrm{O}$ (red) |
 | +2 | $\mathrm{Cu}_{2} \mathrm{~S}$ (black) |
 |  | CuCl (white) |
 |  | CuO (black) |
@@ -532,7 +483,7 @@ Copper roofs and bronze statues, such as the Statue of Liberty, turn green in ai
 
 | Alloy | Composition (\% by mass in parentheses) |
 | --- | --- |
-| \hline Brass | $\mathrm{Cu}(20-97), \mathrm{Zn}(2-80), \mathrm{Sn}(0-14), \mathrm{Pb}(0-12), \mathrm{Mn}(0-25)$ |
+| Brass | $\mathrm{Cu}(20-97), \mathrm{Zn}(2-80), \mathrm{Sn}(0-14), \mathrm{Pb}(0-12), \mathrm{Mn}(0-25)$ |
 | Bronze | $\mathrm{Cu}(50-98), \mathrm{Sn}(0-35), \mathrm{Zn}(0-29), \mathrm{Pb}(0-50), \mathrm{P}(0-3)$ |
 | Sterling silver | $\mathrm{Cu}(7.5), \mathrm{Ag}(92.5)$ |
 | Gold (18-karat) | $\mathrm{Cu}(5-15), \mathrm{Au}(75), \mathrm{Ag}(10-20)$ |
@@ -562,14 +513,14 @@ Chapter Twenty-One Transition Metals and Coordination Chemistry
 FIGURE 21.5
 The ligand arrangements for coordination numbers 2,4 , and 6 .
 
-| \hline $\mathbf{M}^{\boldsymbol{+}}$ | Coordination Numbers | $\mathrm{M}^{2+}$ | Coordination Numbers | $\mathbf{M}^{\mathbf{3 +}}$ | Coordination Numbers |
+| $\mathbf{M}^{\boldsymbol{+}}$ | Coordination Numbers | $\mathrm{M}^{2+}$ | Coordination Numbers | $\mathbf{M}^{\mathbf{3 +}}$ | Coordination Numbers |
 | --- | --- | --- | --- | --- | --- |
-| \hline $\mathrm{Cu}^{+}$ | 2, 4 | $\mathrm{Mn}^{2+}$ | 4, 6 | $\mathrm{Sc}^{3+}$ | 6 |
-| \hline $\mathrm{Ag}^{+}$ | 2 | $\mathrm{Fe}^{2+}$ | 6 | $\mathrm{Cr}^{3+}$ | 6 |
-| \hline $\mathrm{Au}^{+}$ | 2, 4 | $\mathrm{Co}^{2+}$ | 4, 6 | $\mathrm{Co}^{3+}$ | 6 |
-| \hline |  | $\mathrm{Ni}^{2+}$ | 4,6 |  |  |
-| \hline |  | $\mathrm{Cu}^{2+}$ | 4, 6 | $\mathrm{Au}^{3+}$ | 4 |
-| \hline |  | $\mathrm{Zn}^{2+}$ | 4, 6 |  |  |
+| $\mathrm{Cu}^{+}$ | 2, 4 | $\mathrm{Mn}^{2+}$ | 4, 6 | $\mathrm{Sc}^{3+}$ | 6 |
+| $\mathrm{Ag}^{+}$ | 2 | $\mathrm{Fe}^{2+}$ | 6 | $\mathrm{Cr}^{3+}$ | 6 |
+| $\mathrm{Au}^{+}$ | 2, 4 | $\mathrm{Co}^{2+}$ | 4, 6 | $\mathrm{Co}^{3+}$ | 6 |
+| |  | $\mathrm{Ni}^{2+}$ | 4,6 |  |  |
+| |  | $\mathrm{Cu}^{2+}$ | 4, 6 | $\mathrm{Au}^{3+}$ | 4 |
+| |  | $\mathrm{Zn}^{2+}$ | 4, 6 |  |  |
 
 
 Coordination compounds have been known since about 1700, but their true nature was not understood until the 1890s when a young Swiss chemist named Alfred Werner (1866-1919) proposed that transition metal ions have two types of valence (combining ability). One type of valence, which Werner called the secondary valence, refers to the ability of a metal ion to bind to Lewis bases (ligands) to form complex ions. The other type, the primary valence, refers to the ability of the metal ion to form ionic bonds with oppositely charged ions. Thus Werner explained that the compound, originally written as $\mathrm{CoCl}_{3} \cdot 5 \mathrm{NH}_{3}$, was really $\left[\mathrm{Co}\left(\mathrm{NH}_{3}\right)_{5} \mathrm{Cl}\right] \mathrm{Cl}_{2}$, where the $\mathrm{Co}^{3+}$ ion has a primary valence of 3 , satisfied by the three $\mathrm{Cl}^{-}$ions, and a secondary valence of 6 , satisfied by the six ligands (five $\mathrm{NH}_{3}$ and one $\mathrm{Cl}^{-}$). We now call the primary valence the oxidation state and the secondary valence the coordination number, which reflects the number of bonds formed between the metal ion and the ligands in the complex ion.
@@ -589,15 +540,15 @@ Some ligands have more than one atom with a lone electron pair that can be used 
 FIGURE 21.6
 (a) The bidentate ligand ethylenediamine can bond to the metal ion through the lone pair on each nitrogen atom, thus forming two coordinate covalent bonds. (b) Ammonia is a monodentate ligand.
 
-| \hline Type | Examples |
+| Type | Examples |
 | --- | --- |
-| \hline Unidentate/monodentate | $\mathrm{NH}_{3} \mathrm{NO}_{2}{ }^{-}$(nitrite) |
-| \hline Bidentate | Oxalate |
-| \hline Polydentate | | | Diethylenetriamine (dien) |  | |
+| Unidentate/monodentate | $\mathrm{NH}_{3} \mathrm{NO}_{2}{ }^{-}$(nitrite) |
+| Bidentate | Oxalate |
+| Polydentate | | | Diethylenetriamine (dien) |  | |
 | --- |
 | | Three coordinating atoms Ethylenediaminetetraacetate (EDTA) |  | |
 | | Six coordinating atoms |  | |
-| | \end{tabular} |
+| |  |
  |  |
 
 
@@ -606,38 +557,38 @@ The coordination of EDTA with a $2+$ metal ion.
 
 ---
 
-| \hline TABLE 21.14 Names of Some Common Unidentate Ligands |  |
+| TABLE 21.14 Names of Some Common Unidentate Ligands |  |
 | --- | --- |
-| \hline Neutral Molecules |  |
-| \hline Aqua | $\mathrm{H}_{2} \mathrm{O}$ |
-| \hline Ammine | $\mathrm{NH}_{3}$ |
-| \hline Methylamine | $\mathrm{CH}_{3} \mathrm{NH}_{2}$ |
-| \hline Carbonyl | CO |
-| \hline Nitrosyl | NO |
-| \hline Anions |  |
-| \hline Fluoro | $\mathrm{F}^{-}$ |
-| \hline Chloro | $\mathrm{Cl}^{-}$ |
-| \hline Bromo | $\mathrm{Br}^{-}$ |
-| \hline Iodo | $\mathrm{I}^{-}$ |
-| \hline Hydroxo | $\mathrm{OH}^{-}$ |
-| \hline Cyano | $\mathrm{CN}^{-}$ |
+| Neutral Molecules |  |
+| Aqua | $\mathrm{H}_{2} \mathrm{O}$ |
+| Ammine | $\mathrm{NH}_{3}$ |
+| Methylamine | $\mathrm{CH}_{3} \mathrm{NH}_{2}$ |
+| Carbonyl | CO |
+| Nitrosyl | NO |
+| Anions |  |
+| Fluoro | $\mathrm{F}^{-}$ |
+| Chloro | $\mathrm{Cl}^{-}$ |
+| Bromo | $\mathrm{Br}^{-}$ |
+| Iodo | $\mathrm{I}^{-}$ |
+| Hydroxo | $\mathrm{OH}^{-}$ |
+| Cyano | $\mathrm{CN}^{-}$ |
 
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | TABLE 21.15 |  | |
 | | for Some Metal lons in Anionic |  | |
 | | Complex lons |  | |
-| | \end{tabular} |
+| |  |
  | | | Latin Names Used |  | |
 | --- |
 | | Metal |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline Iron | | | Name in an |  | |
+| Iron | | | Name in an |  | |
 | --- |
 | | Anionic Complex |  | |
-| | \end{tabular} |
+| |  |
  |  |
 | Copper | Ferrate |
 | Lead | Cuprate |
@@ -923,8 +874,8 @@ D
 | Absorbed Wavelength |  |
 | --- | --- |
 | in $\mathbf{n m}$ (Color) |  |
-| \end{tabular} | Observed Color |
-| \hline 400 (violet) | Greenish yellow |
+|  | Observed Color |
+| 400 (violet) | Greenish yellow |
 | 450 (blue) | Yellow |
 | 490 (blue-green) | Red |
 | 570 (yellow-green) | Violet |
@@ -949,7 +900,7 @@ A gem closely related to ruby and emerald is alexandrite, named after Alexander 
 
 | Isomer | Color |
 | --- | --- |
-| \hline$\left[\mathrm{Cr}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right] \mathrm{Cl}_{3}$ | Violet |
+| $\left[\mathrm{Cr}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}\right] \mathrm{Cl}_{3}$ | Violet |
 | {$\left[\mathrm{Cr}\left(\mathrm{H}_{2} \mathrm{O}\right)_{5} \mathrm{Cl}\right] \mathrm{Cl}_{2}$} | Blue-green |
 | {$\left[\mathrm{Cr}\left(\mathrm{H}_{2} \mathrm{O}\right)_{4} \mathrm{Cl}_{2}\right] \mathrm{Cl}$} | Green |
 | {$\left[\mathrm{Cr}\left(\mathrm{NH}_{3}\right)_{6}\right] \mathrm{Cl}_{3}$} | Yellow |
@@ -1039,18 +990,18 @@ Iron plays a central role in almost all living cells. In mammals, the principal 
 
 In addition to participating in the transfer of electrons from nutrients to oxygen, iron plays a principal role in the transport and storage of oxygen in mammalian blood and tissues. Oxygen is stored in a molecule called myoglobin, which consists of a heme
 
-| \hline First-Row Transition Metal | Biologic Function(s) |
+| First-Row Transition Metal | Biologic Function(s) |
 | --- | --- |
-| \hline Scandium | None known. |
-| \hline Titanium | None known. |
-| \hline Vanadium | None known in humans. |
-| \hline Chromium | Assists insulin in the control of blood sugar; may also be involved in the control of cholesterol. |
-| \hline Manganese | Necessary for a number of enzymatic reactions. |
-| \hline Iron | Component of hemoglobin and myoglobin; involved in the electron-transport chain. |
-| \hline Cobalt | Component of vitamin $\mathrm{B}_{12}$, which is essential for the metabolism of carbohydrates, fats, and proteins. |
-| \hline Nickel | Component of the enzymes urease and hydrogenase. |
-| \hline Copper | Component of several enzymes; assists in iron storage; involved in the production of color pigments of hair, skin, and eyes. |
-| \hline Zinc | Component of insulin and many enzymes. |
+| Scandium | None known. |
+| Titanium | None known. |
+| Vanadium | None known in humans. |
+| Chromium | Assists insulin in the control of blood sugar; may also be involved in the control of cholesterol. |
+| Manganese | Necessary for a number of enzymatic reactions. |
+| Iron | Component of hemoglobin and myoglobin; involved in the electron-transport chain. |
+| Cobalt | Component of vitamin $\mathrm{B}_{12}$, which is essential for the metabolism of carbohydrates, fats, and proteins. |
+| Nickel | Component of the enzymes urease and hydrogenase. |
+| Copper | Component of several enzymes; assists in iron storage; involved in the production of color pigments of hair, skin, and eyes. |
+| Zinc | Component of insulin and many enzymes. |
 
 ---
 
@@ -1169,31 +1120,31 @@ The advantage that Eero Maentyranta gained in the 1964 Olympics was the result o
 The 1998 Tour de France.
 with enormous risk.
 
-| \hline TABLE 21.19 | Common Minerals Found in Ores |
+| TABLE 21.19 | Common Minerals Found in Ores |
 | --- | --- |
-| \hline Anion | Examples |
-| \hline None (free metal) | Au, Ag, Pt, Pd, Rh, Ir, Ru |
-| \hline Oxide | $\mathrm{Fe}_{2} \mathrm{O}_{3}$ (hematite) |
-| \hline | $\mathrm{Fe}_{3} \mathrm{O}_{4}$ (magnetite) |
-| \hline | $\mathrm{Al}_{2} \mathrm{O}_{3}$ (bauxite) |
-| \hline | $\mathrm{SnO}_{2}$ (cassiterite) |
-| \hline Sulfide | PbS (galena) |
-| \hline | ZnS (sphalerite) |
-| \hline | $\mathrm{FeS}_{2}$ (pyrite) |
-| \hline | HgS (cinnabar) |
-| \hline | $\mathrm{Cu}_{2} \mathrm{~S}$ (chalcocite) |
-| \hline Chloride | NaCl (rock salt) |
-| \hline | KCl (sylvite) |
-| \hline | $\mathrm{KCl} \cdot \mathrm{MgCl}_{2}$ (carnalite) |
-| \hline Carbonate | $\mathrm{FeCO}_{3}$ (siderite) |
-| \hline | $\mathrm{CaCO}_{3}$ (limestone) |
-| \hline | $\mathrm{MgCO}_{3}$ (magnesite) |
-| \hline | $\mathrm{MgCO}_{3} \cdot \mathrm{CaCO}_{3}$ (dolomite) |
-| \hline Sulfate | $\mathrm{CaSO}_{4} \cdot 2 \mathrm{H}_{2} \mathrm{O}$ (gypsum) |
-| \hline | $\mathrm{BaSO}_{4}$ (barite) |
-| \hline Silicate | $\mathrm{Be}_{3} \mathrm{Al}_{2} \mathrm{Si}_{6} \mathrm{O}_{18}$ (beryl) |
-| \hline | $\mathrm{Al}_{2}\left(\mathrm{Si}_{2} \mathrm{O}_{8}\right)(\mathrm{OH})_{4}$ (kaolinite) |
-| \hline | $\mathrm{LiAl}\left(\mathrm{SiO}_{3}\right)_{2}$ (spondumene) |
+| Anion | Examples |
+| None (free metal) | Au, Ag, Pt, Pd, Rh, Ir, Ru |
+| Oxide | $\mathrm{Fe}_{2} \mathrm{O}_{3}$ (hematite) |
+| | $\mathrm{Fe}_{3} \mathrm{O}_{4}$ (magnetite) |
+| | $\mathrm{Al}_{2} \mathrm{O}_{3}$ (bauxite) |
+| | $\mathrm{SnO}_{2}$ (cassiterite) |
+| Sulfide | PbS (galena) |
+| | ZnS (sphalerite) |
+| | $\mathrm{FeS}_{2}$ (pyrite) |
+| | HgS (cinnabar) |
+| | $\mathrm{Cu}_{2} \mathrm{~S}$ (chalcocite) |
+| Chloride | NaCl (rock salt) |
+| | KCl (sylvite) |
+| | $\mathrm{KCl} \cdot \mathrm{MgCl}_{2}$ (carnalite) |
+| Carbonate | $\mathrm{FeCO}_{3}$ (siderite) |
+| | $\mathrm{CaCO}_{3}$ (limestone) |
+| | $\mathrm{MgCO}_{3}$ (magnesite) |
+| | $\mathrm{MgCO}_{3} \cdot \mathrm{CaCO}_{3}$ (dolomite) |
+| Sulfate | $\mathrm{CaSO}_{4} \cdot 2 \mathrm{H}_{2} \mathrm{O}$ (gypsum) |
+| | $\mathrm{BaSO}_{4}$ (barite) |
+| Silicate | $\mathrm{Be}_{3} \mathrm{Al}_{2} \mathrm{Si}_{6} \mathrm{O}_{18}$ (beryl) |
+| | $\mathrm{Al}_{2}\left(\mathrm{Si}_{2} \mathrm{O}_{8}\right)(\mathrm{OH})_{4}$ (kaolinite) |
+| | $\mathrm{LiAl}\left(\mathrm{SiO}_{3}\right)_{2}$ (spondumene) |
 
 ---
 
@@ -1270,17 +1221,17 @@ $$\mathrm{PbSO}_{4}(s)+4 \mathrm{Na}^{+}(a q)+4 \mathrm{Cl}^{-}(a q) \longrighta
 982
 Chapter Twenty-One Transition Metals and Coordination Chemistry
 
-| \hline Method | Examples |
+| Method | Examples |
 | --- | --- |
-| \hline Precipitation of a salt | $$\begin{array}{l} |
+| Precipitation of a salt | $$\begin{array}{l} |
 | \mathrm{Cu}^{2+}(a q)+\mathrm{S}^{2-}(a q) \longrightarrow \mathrm{CuS}(s) |  |
 | \mathrm{Cu}^{+}(a q)+\mathrm{HCN}(a q) \longrightarrow \mathrm{CuCN}(s)+\mathrm{H}^{+}(a q) |  |
 | \end{array}$$ |  |
-| \hline \multirow{2}{*}{} | $\left\{\begin{array}{l}\mathrm{Au}^{+}(a q)+\mathrm{Fe}^{2+}(a q) \longrightarrow \mathrm{Au}(s)+\mathrm{Fe}^{3+}(a q) \\ \mathrm{Cu}^{2+}(a q)+\mathrm{Fe}(s) \longrightarrow \mathrm{Cu}(s)+\mathrm{Fe}^{2+}(a q) \\ \mathrm{Ni}^{2+}(a q)+\mathrm{H}_{2}(g) \longrightarrow \mathrm{Ni}(s)+2 \mathrm{H}^{+}(a q)\end{array}\right.$ |
+| \multirow{2}{*}{} | $\left\{\begin{array}{l}\mathrm{Au}^{+}(a q)+\mathrm{Fe}^{2+}(a q) \longrightarrow \mathrm{Au}(s)+\mathrm{Fe}^{3+}(a q) \\ \mathrm{Cu}^{2+}(a q)+\mathrm{Fe}(s) \longrightarrow \mathrm{Cu}(s)+\mathrm{Fe}^{2+}(a q) \\ \mathrm{Ni}^{2+}(a q)+\mathrm{H}_{2}(g) \longrightarrow \mathrm{Ni}(s)+2 \mathrm{H}^{+}(a q)\end{array}\right.$ |
 | $\left\{\begin{array}{l}\mathrm{Cu}^{2+}(a q)+2 \mathrm{e}^{-} \longrightarrow \mathrm{Cu}(s) \\ \mathrm{Al}^{3+}(a q)+3 \mathrm{e}^{-} \longrightarrow \mathrm{Al}(s)\end{array}\right.$ |  |
-| \hline |  |
-| \hline \multirow[t]{2}{*}{Reduction plus precipitation} | $2 \mathrm{Cu}^{2+}(a q)+2 \mathrm{Cl}^{-}(a q)+\mathrm{H}_{2} \mathrm{SO}_{3}(a q)+\mathrm{H}_{2} \mathrm{O}(l) \longrightarrow$ |
-| \hline | $2 \mathrm{CuCl}(s)+3 \mathrm{H}^{+}(a q)+\mathrm{HSO}_{4}{ }^{-}(a q)$ |
+| |  |
+| \multirow[t]{2}{*}{Reduction plus precipitation} | $2 \mathrm{Cu}^{2+}(a q)+2 \mathrm{Cl}^{-}(a q)+\mathrm{H}_{2} \mathrm{SO}_{3}(a q)+\mathrm{H}_{2} \mathrm{O}(l) \longrightarrow$ |
+| | $2 \mathrm{CuCl}(s)+3 \mathrm{H}^{+}(a q)+\mathrm{HSO}_{4}{ }^{-}(a q)$ |
 
 
 Formation of a complex ion also occurs in the cyanidation process for the recovery of gold. However, since the gold is present in the ore as particles of metal, it must first be oxidized by oxygen to produce $\mathrm{Au}^{+}$, which then reacts with $\mathrm{CN}^{-}$to form the soluble $\mathrm{Au}(\mathrm{CN})_{2}{ }^{-}$species. Thus, in this case, the leaching process involves a combination of oxidation and complexation.
@@ -1384,14 +1335,14 @@ The electric arc method, which was once used only for small batches of specialty
 986
 Chapter Twenty-One Transition Metals and Coordination Chemistry
 
-| \hline TABLE 21.21 | Percent Composition and Uses of Various Types of Steel |  |  |  |  |  |  |  |  |
+| TABLE 21.21 | Percent Composition and Uses of Various Types of Steel |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| \hline Type of Steel | \% Carbon | \% Manganese | \% Phosphorus | \% Sulfur | \% Silicon | \% Nickel | \% Chromium | \% Other | Uses |
-| \hline Plain carbon | $\leq 1.35$ | $\leq 1.65$ | $\leq 0.04$ | $\leq 0.05$ | $\leq 0.60$ | - | - | - | Sheet steel, tools |
-| \hline High-strength (low-alloy) | $\leq 0.25$ | $\leq 1.65$ | $\leq 0.04$ | $\leq 0.05$ | 0.150.9 | 0.4-1 | 0.3-1.3 | $\mathrm{Cu}(0.2-0.6)$ Sb (0.01-0.08) V (0.01-0.08) | Transportation equipment, structural beams |
-| \hline Alloy | $\leq 1.00$ | $\leq 3.50$ | $\leq 0.04$ | $\leq 0.05$ | 0.152.0 | 0.2510.0 | 0.25-4.0 | Mo (0.08-4.0) V (0-0.2) W (0-18) Co (0-5) | Automobile and aircraft engine parts |
-| \hline Stainless | 0.031.2 | 1.0-10 | 0.040.06 | $\leq 0.03$ | 1-3 | 1-22 | 4.0-27 | - | Engine parts, steam turbine parts, kitchen utensils |
-| \hline Silicon | - | - | - | - | 0.55.0 | - | - | - | Electric motors and transformers |
+| Type of Steel | \% Carbon | \% Manganese | \% Phosphorus | \% Sulfur | \% Silicon | \% Nickel | \% Chromium | \% Other | Uses |
+| Plain carbon | $\leq 1.35$ | $\leq 1.65$ | $\leq 0.04$ | $\leq 0.05$ | $\leq 0.60$ | - | - | - | Sheet steel, tools |
+| High-strength (low-alloy) | $\leq 0.25$ | $\leq 1.65$ | $\leq 0.04$ | $\leq 0.05$ | 0.150.9 | 0.4-1 | 0.3-1.3 | $\mathrm{Cu}(0.2-0.6)$ Sb (0.01-0.08) V (0.01-0.08) | Transportation equipment, structural beams |
+| Alloy | $\leq 1.00$ | $\leq 3.50$ | $\leq 0.04$ | $\leq 0.05$ | 0.152.0 | 0.2510.0 | 0.25-4.0 | Mo (0.08-4.0) V (0-0.2) W (0-18) Co (0-5) | Automobile and aircraft engine parts |
+| Stainless | 0.031.2 | 1.0-10 | 0.040.06 | $\leq 0.03$ | 1-3 | 1-22 | 4.0-27 | - | Engine parts, steam turbine parts, kitchen utensils |
+| Silicon | - | - | - | - | 0.55.0 | - | - | - | Electric motors and transformers |
 
 
 Refer to Section 10.3 for a review of packing and crystal lattices.
@@ -1636,13 +1587,13 @@ b. What is the oxidation state of Mo in each of the compounds mentioned above?
 | --- |
 | | Atomic |  |  |  | |
 | | Radius $(\AA)$ |  |  |  | |
-| | \end{tabular} |
+| |  |
  | Element | | | Atomic |  |  |  | |
 | --- |
 | | Radius $(\AA)$ |  |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |  |
-| \hline Sc | 1.57 | Ti | 1.477 |
+| Sc | 1.57 | Ti | 1.477 |
 | Y | 1.693 | Zr | 1.593 |
 | La | 1.915 | Hf | 1.476 |
 
@@ -1871,3 +1822,56 @@ $$\begin{array}{rlrl}
 where en $=$ ethylenediamine.
 a. Calculate $\mathscr{E}^{\circ}$ for the half-reaction
 $$\mathrm{Co}(\mathrm{en})_{3}^{3+}+\mathrm{e}^{-} \longrightarrow \mathrm{Co}(\mathrm{en})_{3}^{2+}$$
+
+---
+
+Marathon Problem
+995
+b. Based on your answer to part a, which is the stronger oxidizing agent, $\mathrm{Co}^{3+}$ or $\mathrm{Co}(\mathrm{en})_{3}{ }^{3+}$ ?
+c. Use the crystal field model to rationalize the result in part b.
+78. Henry Taube, 1983 Nobel Prize winner in chemistry, has studied the mechanisms of the oxidation-reduction reactions of transition metal complexes. In one experiment he and his students studied the following reaction:
+$$\begin{aligned}
+\mathrm{Cr}\left(\mathrm{H}_{2} \mathrm{O}\right)_{6}{ }^{2+}(a q)+ & \mathrm{Co}\left(\mathrm{NH}_{3}\right)_{5} \mathrm{Cl}^{2+}(a q) \\
+& \longrightarrow \mathrm{Cr}(\mathrm{III}) \text { complexes }+\mathrm{Co}(\mathrm{II}) \text { complexes }
+\end{aligned}$$
+
+Chromium(III) and cobalt(III) complexes are substitutionally inert (no exchange of ligands) under conditions of the experiment. Chromium(II) and cobalt(II) complexes can exchange ligands very rapidly. One of the products of the reaction is $\mathrm{Cr}\left(\mathrm{H}_{2} \mathrm{O}\right)_{5} \mathrm{Cl}^{2+}$. Is this consistent with the reaction proceeding through formation of $\left(\mathrm{H}_{2} \mathrm{O}\right)_{5} \mathrm{Cr}-\mathrm{Cl}-\mathrm{Co}\left(\mathrm{NH}_{3}\right)_{5}$ as an intermediate? Explain.
+79. Chelating ligands often form more stable complex ions than the corresponding monodentate ligands with the same donor atoms. For example,
+$$\begin{array}{rll}
+\mathrm{Ni}^{2+}(a q)+6 \mathrm{NH}_{3}(a q) & \rightleftharpoons \mathrm{Ni}\left(\mathrm{NH}_{3}\right)_{6}{ }^{2+}(a q) & K=3.2 \times 10^{8} \\
+\mathrm{Ni}^{2+}(a q)+3 \mathrm{en}(a q) & \rightleftharpoons \mathrm{Ni}(\mathrm{en})_{3}{ }^{2+}(a q) & K=1.6 \times 10^{18} \\
+\mathrm{Ni}^{2+}(a q)+\operatorname{penten}(a q) & \rightleftharpoons \mathrm{Ni}(\text { penten})^{2+}(a q) & K=2.0 \times 10^{19}
+\end{array}$$
+where en is ethylenediamine and penten is
+
+This increased stability is called the chelate effect. Based on bond energies, would you expect the enthalpy changes for the above reactions to be very different? What is the order (from least favorable to most favorable) of the entropy changes for the above reactions? How do the values of the formation constants correlate with $\Delta S^{\circ}$ ? How can this be used to explain the chelate effect?
+80. Qualitatively draw the crystal field splitting of the $d$ orbitals in a trigonal planar complex ion. (Let the $z$ axis be perpendicular to the plane of the complex.)
+81. Qualitatively draw the crystal field splitting for a trigonal bipyramidal complex ion. (Let the $z$ axis be perpendicular to the trigonal plane.)
+82. Sketch a $d$-orbital energy diagram for the following.
+a. a linear complex with ligands on the $x$ axis
+b. a linear complex with ligands on the $y$ axis
+83. Sketch and explain the most likely pattern for the crystal field diagram for the complex ion trans-diamminetetracyanonickelate(II), where $\mathrm{CN}^{-}$produces a much stronger crystal field than $\mathrm{NH}_{3}$. Explain completely and label the $d$ orbitals in your diagram. Assume the $\mathrm{NH}_{3}$ ligands lie on the axis.
+84. a. Calculate the molar solubility of AgBr in pure water. $K_{\mathrm{sp}}$ for AgBr is $5.0 \times 10^{-13}$.
+b. Calculate the molar solubility of AgBr in $3.0 M \mathrm{NH}_{3}$. The overall formation constant for $\mathrm{Ag}\left(\mathrm{NH}_{3}\right)_{2}{ }^{+}$is $1.7 \times 10^{7}$, that is, $\mathrm{Ag}^{+}(a q)+2 \mathrm{NH}_{3}(a q) \longrightarrow \mathrm{Ag}\left(\mathrm{NH}_{3}\right)_{2}{ }^{+}(a q) \quad K=1.7 \times 10^{7}$.
+c. Compare the calculated solubilities from parts a and b . Explain any differences.
+d. What mass of AgBr will dissolve in 250.0 mL of $3.0 M \mathrm{NH}_{3}$ ?
+e. What effect does adding $\mathrm{HNO}_{3}$ have on the solubilities calculated in parts $a$ and $b$ ?
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+85. The ferrate ion, $\mathrm{FeO}_{4}{ }^{2-}$, is such a powerful oxidizing agent that in acidic solution, aqueous ammonia is reduced to elemental nitrogen along with the formation of the iron(III) ion.
+a. What is the oxidation state of iron in $\mathrm{FeO}_{4}{ }^{2-}$, and what is the electron configuration of iron in this polyatomic ion?
+b. If 25.0 mL of a $0.243 M \mathrm{FeO}_{4}{ }^{2-}$ solution is allowed to react with 55.0 mL of 1.45 M aqueous ammonia, what volume of nitrogen gas can form at $25^{\circ} \mathrm{C}$ and 1.50 atm ?
+86. a. In the absorption spectrum of the complex ion $\left[\mathrm{Cr}(\mathrm{NCS})_{6}\right]^{3-}$, there is a band corresponding to the absorption of a photon of light with an energy of $1.75 \times 10^{4} \mathrm{~cm}^{-1}$. Given $1 \mathrm{~cm}^{-1}= 1.986 \times 10^{-23} \mathrm{~J}$, what is the wavelength of this photon?
+b. The $\mathrm{Cr}-\mathrm{N}-\mathrm{C}$ bond angle in $\left[\mathrm{Cr}(\mathrm{NCS})_{6}\right]^{3-}$ is predicted to be $180^{\circ}$. What is the hybridization of the N atom in the $\mathrm{NCS}^{-}$ ligand when a Lewis acid-base reaction occurs between $\mathrm{Cr}^{3+}$ and $\mathrm{NCS}^{-}$that would give a $180^{\circ} \mathrm{Cr}-\mathrm{N}-\mathrm{C}$ bond angle? $\left[\mathrm{Cr}(\mathrm{NCS})_{6}\right]^{3-}$ undergoes substitution by ethylenediammine (en) according to the equation
+$$\left[\mathrm{Cr}(\mathrm{NCS})_{6}\right]^{3-}+2 \mathrm{en} \longrightarrow\left[\mathrm{Cr}(\mathrm{NCS})_{2}(\mathrm{en})_{2}\right]^{+}+4 \mathrm{NCS}^{-}$$
+
+Does $\left[\mathrm{Cr}(\mathrm{NCS})_{2}(\mathrm{en})_{2}\right]^{+}$exhibit geometric isomerism? Does $\left[\mathrm{Cr}(\mathrm{NCS})_{2}(\mathrm{en})_{2}\right]^{+}$exhibit optical isomerism?
+
+Marathon Problem
+This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+87. There are three salts that contain complex ions of chromium and have the molecular formula $\mathrm{CrCl}_{3} \cdot 6 \mathrm{H}_{2} \mathrm{O}$. Treating 0.27 g of the first salt with a strong dehydrating agent resulted in a mass loss of 0.036 g . Treating 270 mg of the second salt with the same dehydrating agent resulted in a mass loss of 18 mg . The third salt did not lose any mass when treated with the same dehydrating agent. Addition of excess aqueous silver nitrate to $100.0-\mathrm{mL}$ portions of $0.100 M$ solutions of each salt resulted in the formation of different masses of silver chloride; one solution yielded 1430 mg AgCl ; another, 2870 mg AgCl ; the third, 4300 mg AgCl . Two of the salts are green and one is violet.
+
+Suggest probable structural formulas for these salts, defending your answer on the basis of the preceding observations. State which salt is most likely to be violet. Would a study of the magnetic properties of the salts be helpful in determining the structural formulas? Explain.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.

@@ -1,19 +1,5 @@
 # Chapter 6: Thermochemistry
 
-Marathon Problem
-227
-
-The desiccant is anhydrous magnesium perchlorate, which quantitatively absorbs the water produced by the combustion reaction as well as the water produced by the above reaction. Neither the Ascarite nor the desiccant reacts with compound B or oxygen. The total mass of the container with the Ascarite and desiccant is 765.3 g .
-
-The combustion reaction of compound B is initiated by a spark. The pressure immediately rises, then begins to decrease, and finally reaches a steady value of 6.02 atm . The stainless steel vessel is carefully opened, and the mass of the container inside the vessel is found to be 846.7 g .
-$A$ and $B$ react quantitatively in a $1: 1$ mole ratio to form one mole of the single product, gas C .
-a. How many grams of C will be produced if 10.0 L of A and 8.60 L of B (each at STP) are reacted by opening a stopcock connecting the two samples?
-b. What will be the total pressure in the system?
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 6
 Thermochemistry
 
@@ -334,23 +320,23 @@ See Exercises 6.35 through 6.38.
 6.2 Enthalpy and Calorimetry
 237
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | TABLE 6.1 |  | |
 | | Capacities of Some Common |  | |
 | | Substances |  | |
-| | \end{tabular} |
+| |  |
  | | | The Specific Heat |  | |
 | --- |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline Substance | | | Specific Heat |  | |
+| Substance | | | Specific Heat |  | |
 | --- |
 | | Capacity |  | |
 | | $\left(\mathbf{J} /{ }^{\circ} \mathbf{C} \cdot \mathbf{g}\right)$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline $\mathrm{H}_{2} \mathrm{O}(l)$ | 4.18 |
+| $\mathrm{H}_{2} \mathrm{O}(l)$ | 4.18 |
 | $\mathrm{H}_{2} \mathrm{O}(s)$ | 2.03 |
 | $\mathrm{Al}(s)$ | 0.89 |
 | $\mathrm{Fe}(s)$ | 0.45 |
@@ -735,7 +721,7 @@ Brown nitrogen dioxide gas.
 
 | Compound | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{f}}^{\boldsymbol{\circ}}(\mathbf{k J} / \mathbf{m o l})$ |
 | --- | --- |
-| \hline $\mathrm{NH}_{3}(g)$ | -46 |
+| $\mathrm{NH}_{3}(g)$ | -46 |
 | $\mathrm{NO}_{2}(g)$ | 34 |
 | $\mathrm{H}_{2} \mathrm{O}(l)$ | -286 |
 | $\mathrm{Al}_{2} \mathrm{O}_{3}(s)$ | -1676 |
@@ -994,7 +980,7 @@ This oil rig in Norway is the largest in the world.
 
 | Formula | Name |
 | --- | --- |
-| \hline $\mathrm{CH}_{4}$ | Methane |
+| $\mathrm{CH}_{4}$ | Methane |
 | $\mathrm{C}_{2} \mathrm{H}_{6}$ | Ethane |
 | $\mathrm{C}_{3} \mathrm{H}_{8}$ | Propane |
 | $\mathrm{C}_{4} \mathrm{H}_{10}$ | Butane |
@@ -1019,19 +1005,19 @@ As gasoline became more important, new ways were sought to increase the yield of
 254
 Chapter Six Thermochemistry
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | TABLE 6.4 Uses of the Various |  | |
 | | Petroleum Fractions |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline | | Petroleum Fraction |  | |
+| | | Petroleum Fraction |  | |
 | --- |
 | | in Terms of Numbers |  | |
 | | of Carbon Atoms |  | |
-| | \end{tabular} |
+| |  |
  | Major Uses |
-| \hline $\mathrm{C}_{5}-\mathrm{C}_{10}$ | Gasoline |
+| $\mathrm{C}_{5}-\mathrm{C}_{10}$ | Gasoline |
 | $\mathrm{C}_{10}-\mathrm{C}_{18}$ | Kerosene |
 | $\mathrm{C}_{15}-\mathrm{C}_{25}$ | | | Jet fuel |  | |
 | --- |
@@ -1040,9 +1026,9 @@ Chapter Six Thermochemistry
 | | Lubricating |  | |
 | | oil |  | |
 | | Asphalt |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline$>\mathrm{C}_{25}$ |  |
+| $>\mathrm{C}_{25}$ |  |
 
 
 Coal has variable composition depending on both its age and location.
@@ -1059,13 +1045,13 @@ Coal is an important and plentiful fuel in the United States, currently furnishi
 Effects of Carbon Dioxide on Climate
 The earth receives a tremendous quantity of radiant energy from the sun, about $30 \%$ of which is reflected back into space by the earth's atmosphere. The remaining energy passes through the atmosphere to the earth's surface. Some of this energy is absorbed by plants for photosynthesis and some by the oceans to evaporate water, but most of it is absorbed by soil, rocks, and water, increasing the temperature of the earth's surface. This energy is in turn radiated from the heated surface mainly as infrared radiation, often called heat radiation.
 
-| \hline \multirow[b]{2}{*}{Type of Coal} | Mass Percent of Each Element |  |  |  |  |
+| \multirow[b]{2}{*}{Type of Coal} | Mass Percent of Each Element |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| \hline | C | H | 0 | N | S |
-| \hline Lignite | 71 | 4 | 23 | 1 | 1 |
-| \hline Subbituminous | 77 | 5 | 16 | 1 | 1 |
-| \hline Bituminous | 80 | 6 | 8 | 1 | 5 |
-| \hline Anthracite | 92 | 3 | 3 | 1 | 1 |
+| | C | H | 0 | N | S |
+| Lignite | 71 | 4 | 23 | 1 | 1 |
+| Subbituminous | 77 | 5 | 16 | 1 | 1 |
+| Bituminous | 80 | 6 | 8 | 1 | 5 |
+| Anthracite | 92 | 3 | 3 | 1 | 1 |
 
 ---
 
@@ -1875,3 +1861,31 @@ Marathon Problems*
 These problems are designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
 106. A sample consisting of 22.7 g of a nongaseous, unstable compound X is placed inside a metal cylinder with a radius of 8.00 cm , and a piston is carefully placed on the surface of the compound so that, for all practical purposes, the distance between the bottom of the cylinder and the piston is zero. (A hole in the piston allows trapped air to escape as the piston is placed on the compound; then this hole is plugged so that nothing in-
 *Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.
+
+---
+
+Marathon Problems
+273
+
+side the cylinder can escape.) The piston-and-cylinder apparatus is carefully placed in 10.00 kg of water at $25.00^{\circ} \mathrm{C}$. The barometric pressure is 778 torr.
+
+When the compound spontaneously decomposes, the piston moves up, the temperature of the water reaches a maximum of $29.52^{\circ} \mathrm{C}$, and then it gradually decreases as the water loses heat to the surrounding air. The distance between the piston and the bottom of the cylinder, at the maximum temperature, is 59.8 cm . Chemical analysis shows that the cylinder contains 0.300 mol carbon dioxide, 0.250 mol liquid water, 0.025 mol oxygen gas, and an undetermined amount of a gaseous element A.
+
+It is known that the enthalpy change for the decomposition of X, according to the reaction described above, is $-1893 \mathrm{~kJ} / \mathrm{mol}$ X . The standard enthalpies of formation for gaseous carbon dioxide and liquid water are $-393.5 \mathrm{~kJ} / \mathrm{mol}$ and $-286 \mathrm{~kJ} / \mathrm{mol}$, respectively. The heat capacity for water is $4.184 \mathrm{~J} /{ }^{\circ} \mathrm{C} \cdot \mathrm{g}$. The conversion factor between $\mathrm{L} \cdot \mathrm{atm}$ and J can be determined from the two values for the gas constant $R$, namely, 0.08206 $\mathrm{L} \cdot \mathrm{atm} / \mathrm{mol} \cdot \mathrm{K}$ and $8.3145 \mathrm{~J} / \mathrm{mol} \cdot \mathrm{K}$. The vapor pressure of water at $29.5^{\circ} \mathrm{C}$ is 31 torr. Assume that the heat capacity of the piston-and-cylinder apparatus is negligible and that the piston has negligible mass.
+
+Given the preceding information, determine
+a. The formula for X .
+b. The pressure-volume work (in kJ ) for the decomposition of the $22.7-\mathrm{g}$ sample of X.
+c. The molar change in internal energy for the decomposition of X and the approximate standard enthalpy of formation for X .
+107. A gaseous hydrocarbon reacts completely with oxygen gas to form carbon dioxide and water vapor. Given the following data, determine $\Delta H_{\mathrm{f}}^{\circ}$ for the hydrocarbon:
+$$\begin{aligned}
+\Delta H_{\mathrm{rxn}}^{\circ} & =-2044.5 \mathrm{~kJ} / \mathrm{mol} \text { hydrocarbon } \\
+\Delta H_{\mathrm{f}}^{\circ}\left(\mathrm{CO}_{2}\right) & =-393.5 \mathrm{~kJ} / \mathrm{mol} \\
+\Delta H_{\mathrm{f}}^{\circ}\left(\mathrm{H}_{2} \mathrm{O}\right) & =-242 \mathrm{~kJ} / \mathrm{mol}
+\end{aligned}$$
+
+Density of $\mathrm{CO}_{2}$ and $\mathrm{H}_{2} \mathrm{O}$ product mixture at $1.00 \mathrm{~atm}, 200 .{ }^{\circ} \mathrm{C}= 0.751 \mathrm{~g} / \mathrm{L}$
+
+The density of the hydrocarbon is less than the density of Kr at the same conditions.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at College.hmco.com/ PIC/Zumdahl7e.

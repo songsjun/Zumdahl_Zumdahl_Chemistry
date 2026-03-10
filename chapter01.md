@@ -218,15 +218,15 @@ Because the fundamental units are not always convenient (expressing the mass of 
 FIGURE 1.6
 The largest cube has sides 1 m in length and a volume of $1 \mathrm{~m}^{3}$. The middle-sized cube has sides 1 dm in length and a volume of $1 \mathrm{dm}^{3}$, or 1 L . The smallest cube has sides 1 cm in length and a volume of $1 \mathrm{~cm}^{3}$, or 1 mL .
 
-| \hline Physical Quantity | Name of Unit | Abbreviation |
+| Physical Quantity | Name of Unit | Abbreviation |
 | --- | --- | --- |
-| \hline Mass | kilogram | kg |
-| \hline Length | meter | m |
-| \hline Time | second | s |
-| \hline Temperature | kelvin | K |
-| \hline Electric current | ampere | A |
-| \hline Amount of substance | mole | mol |
-| \hline Luminous intensity | candela | cd |
+| Mass | kilogram | kg |
+| Length | meter | m |
+| Time | second | s |
+| Temperature | kelvin | K |
+| Electric current | ampere | A |
+| Amount of substance | mole | mol |
+| Luminous intensity | candela | cd |
 
 
 One physical quantity that is very important in chemistry is volume, which is not a fundamental SI unit but is derived from length. A cube that measures 1 meter ( m ) on each edge is represented in Fig. 1.6. This cube has a volume of $(1 \mathrm{~m})^{3}=1 \mathrm{~m}^{3}$. Recognizing that there are 10 decimeters (dm) in a meter, the volume of this cube is $(1 \mathrm{~m})^{3}=(10 \mathrm{dm})^{3}=1000 \mathrm{dm}^{3}$. A cubic decimeter, that is $(1 \mathrm{dm})^{3}$, is commonly called a liter $(L)$, which is a unit of volume slightly larger than a quart. As shown in Fig. 1.6, 1000 liters are contained in a cube with a volume of 1 cubic meter. Similarly, since 1 decimeter equals 10 centimeters (cm), the liter can be divided into 1000 cubes each with a volume of 1 cubic centimeter:
@@ -240,25 +240,25 @@ Chemical laboratory work frequently requires measurement of the volumes of liqui
 
 An important point concerning measurements is the relationship between mass and weight. Although these terms are sometimes used interchangeably, they are not the same.
 
-| \hline Prefix | Symbol | Meaning | Exponential Notation* |
+| Prefix | Symbol | Meaning | Exponential Notation* |
 | --- | --- | --- | --- |
-| \hline exa | E | 1,000,000,000,000,000,000 | $10^{18}$ |
-| \hline peta | P | 1,000,000,000,000,000 | $10^{15}$ |
-| \hline tera | T | 1,000,000,000,000 | $10^{12}$ |
-| \hline giga | G | 1,000,000,000 | $10^{9}$ |
-| \hline mega | M | 1,000,000 | $10^{6}$ |
-| \hline kilo | k | 1,000 | $10^{3}$ |
-| \hline hecto | h | 100 | $10^{2}$ |
-| \hline deka | da | 10 | $10^{1}$ |
-| \hline - | - | 1 | $10^{0}$ |
-| \hline deci | d | 0.1 | $10^{-1}$ |
-| \hline centi | c | 0.01 | $10^{-2}$ |
-| \hline milli | m | 0.001 | $10^{-3}$ |
-| \hline micro | $\mu$ | 0.000001 | $10^{-6}$ |
-| \hline nano | n | 0.000000001 | $10^{-9}$ |
-| \hline pico | p | 0.000000000001 | $10^{-12}$ |
-| \hline femto | f | 0.000000000000001 | $10^{-15}$ |
-| \hline atto | a | 0.000000000000000001 | $10^{-18}$ |
+| exa | E | 1,000,000,000,000,000,000 | $10^{18}$ |
+| peta | P | 1,000,000,000,000,000 | $10^{15}$ |
+| tera | T | 1,000,000,000,000 | $10^{12}$ |
+| giga | G | 1,000,000,000 | $10^{9}$ |
+| mega | M | 1,000,000 | $10^{6}$ |
+| kilo | k | 1,000 | $10^{3}$ |
+| hecto | h | 100 | $10^{2}$ |
+| deka | da | 10 | $10^{1}$ |
+| - | - | 1 | $10^{0}$ |
+| deci | d | 0.1 | $10^{-1}$ |
+| centi | c | 0.01 | $10^{-2}$ |
+| milli | m | 0.001 | $10^{-3}$ |
+| micro | $\mu$ | 0.000001 | $10^{-6}$ |
+| nano | n | 0.000000001 | $10^{-9}$ |
+| pico | p | 0.000000000001 | $10^{-12}$ |
+| femto | f | 0.000000000000001 | $10^{-15}$ |
+| atto | a | 0.000000000000000001 | $10^{-18}$ |
 
 *See Appendix 1.1 if you need a review of exponential notation.
 
@@ -292,7 +292,7 @@ The number associated with a measurement is obtained using some measuring device
 
 | Person | Results of Measurement |
 | --- | --- |
-| \hline 1 | 20.15 mL |
+| 1 | 20.15 mL |
 | 2 | 20.14 mL |
 | 3 | 20.16 mL |
 | 4 | 20.17 mL |
@@ -313,7 +313,7 @@ It is very important to realize that a measurement always has some degree of unc
 
 |  | Bathroom Scale | Balance |
 | --- | --- | --- |
-| \hline Grapefruit 1 | 1.5 lb | 1.476 lb |
+| Grapefruit 1 | 1.5 lb | 1.476 lb |
 | Grapefruit 2 | 1.5 lb | 1.518 lb |
 
 
@@ -348,9 +348,9 @@ Two different types of errors are illustrated in Fig. 1.10. A random error (also
 
 In quantitative work, precision is often used as an indication of accuracy; we assume that the average of a series of precise measurements (which should "average out" the random errors because of their equal probability of being high or low) is accurate, or close to the "true" value. However, this assumption is valid only if systematic errors are absent. Suppose we weigh a piece of brass five times on a very precise balance and obtain the following results:
 
-| \hline Weighing | Result |
+| Weighing | Result |
 | --- | --- |
-| \hline 1 | 2.486 g |
+| 1 | 2.486 g |
 | 2 | 2.487 g |
 | 3 | 2.485 g |
 | 4 | 2.484 g |
@@ -385,13 +385,13 @@ Exponential notation is reviewed in Appendix 1.1.
 | --- |
 | | Volume Shown by |  |  | |
 | | Graduated Cylinder |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Volume Shown |  |  | |
 | --- |
 | | by the Buret |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline 1 | 25 mL | 26.54 mL |
+| 1 | 25 mL | 26.54 mL |
 | 2 | 25 mL | 26.51 mL |
 | 3 | 25 mL | 26.60 mL |
 | 4 | 25 mL | 26.49 mL |
@@ -491,13 +491,13 @@ Chapter One Chemical Foundations
 
 This number must be rounded to two significant figures.
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | TABLE 1.4 |  | |
 | | Equivalents |  | |
-| | \end{tabular} |
+| |  |
  | English-Metric |
-| \hline Length | $1 \mathrm{~m}=1.094 \mathrm{yd}$ |
+| Length | $1 \mathrm{~m}=1.094 \mathrm{yd}$ |
 |  | $2.54 \mathrm{~cm}=1 \mathrm{in}$ |
 | Mass | $1 \mathrm{~kg}=2.205 \mathrm{lb}$ |
 |  | $453.6 \mathrm{~g}=1 \mathrm{lb}$ |
@@ -809,9 +809,9 @@ The density of a liquid can be determined easily by weighing an accurately known
 Sample Exercise 1.13 Determining Density
 A chemist, trying to identify the main component of a compact disc cleaning fluid, finds that $25.00 \mathrm{~cm}^{3}$ of the substance has a mass of 19.625 g at $20^{\circ} \mathrm{C}$. The following are the names and densities of the compounds that might be the main component:
 
-| \hline Compound | Density in $\mathbf{g} / \mathbf{c m}^{\mathbf{3}}$ at $\mathbf{2 0}^{\circ} \mathbf{C}$ |
+| Compound | Density in $\mathbf{g} / \mathbf{c m}^{\mathbf{3}}$ at $\mathbf{2 0}^{\circ} \mathbf{C}$ |
 | --- | --- |
-| \hline Chloroform | 1.492 |
+| Chloroform | 1.492 |
 | Diethyl ether | 0.714 |
 | Ethanol | 0.789 |
 | Isopropyl alcohol | 0.785 |
@@ -844,22 +844,22 @@ Visualization: Comparison of a Solution and a Mixture
 
 Visualization: Homogeneous Mixtures: Air and Brass)
 
-| \hline Substance | Physical State | Density ( $\mathbf{g} / \mathbf{c m}^{\mathbf{3}}$ ) |
+| Substance | Physical State | Density ( $\mathbf{g} / \mathbf{c m}^{\mathbf{3}}$ ) |
 | --- | --- | --- |
-| \hline Oxygen | Gas | 0.00133 |
-| \hline Hydrogen | Gas | 0.000084 |
-| \hline Ethanol | Liquid | 0.789 |
-| \hline Benzene | Liquid | 0.880 |
-| \hline Water | Liquid | 0.9982 |
-| \hline Magnesium | Solid | 1.74 |
-| \hline Salt (sodium chloride) | Solid | 2.16 |
-| \hline Aluminum | Solid | 2.70 |
-| \hline Iron | Solid | 7.87 |
-| \hline Copper | Solid | 8.96 |
-| \hline Silver | Solid | 10.5 |
-| \hline Lead | Solid | 11.34 |
-| \hline Mercury | Liquid | 13.6 |
-| \hline Gold | Solid | 19.32 |
+| Oxygen | Gas | 0.00133 |
+| Hydrogen | Gas | 0.000084 |
+| Ethanol | Liquid | 0.789 |
+| Benzene | Liquid | 0.880 |
+| Water | Liquid | 0.9982 |
+| Magnesium | Solid | 1.74 |
+| Salt (sodium chloride) | Solid | 2.16 |
+| Aluminum | Solid | 2.70 |
+| Iron | Solid | 7.87 |
+| Copper | Solid | 8.96 |
+| Silver | Solid | 10.5 |
+| Lead | Solid | 11.34 |
+| Mercury | Liquid | 13.6 |
+| Gold | Solid | 19.32 |
 
 *At 1 atmosphere pressure
 1.9 Classification of Matter
@@ -1456,3 +1456,24 @@ b. What further experiments could you do to refine your model?
 | Volume of methanol | 10.00 mL |
 
 *From Yoder, Suydam, and Snavely, Chemistry (New York: Harcourt Brace Jovanovich, 1975), pp. 9-11.
+
+---
+
+Marathon Problem
+37
+
+Integrative Problems
+These problems require the integration of multiple concepts to find the solutions.
+91. The U.S. trade deficit at the beginning of 2005 was $\$ 475,000,000$. If the wealthiest 1.00 percent of the U.S. population $(297,000,000)$ contributed an equal amount of money to bring the trade deficit to $\$ 0$, how many dollars would each person contribute? If one of these people were to pay their share in nickels only, how many nickels are needed? Another person living abroad at the time decides to pay in pounds sterling (£). How many pounds sterling does this person contribute (assume a conversion rate of $1 £=\$ 1.869$ )?
+92. The density of osmium is reported by one source to be 22610 $\mathrm{kg} / \mathrm{m}^{3}$. What is this density in $\mathrm{g} / \mathrm{cm}^{3}$ ? What is the mass of a block of osmium measuring $10.0 \mathrm{~cm} \times 8.0 \mathrm{~cm} \times 9.0 \mathrm{~cm}$ ?
+93. At the Amundsen-Scott South Pole base station in Antarctica, when the temperature is $-100.0^{\circ} \mathrm{F}$, researchers who live there can join the " 300 Club" by stepping into a sauna heated to $200.0^{\circ} \mathrm{F}$ then quickly running outside and around the pole that marks the South Pole. What are these temperatures in ${ }^{\circ} \mathrm{C}$ ? What are these temperatures in K ? If you measured the temperatures only in ${ }^{\circ} \mathrm{C}$ and K , can you become a member of the " 300 Club" (that is, is there a 300 .-degree difference between the temperature extremes when measured in ${ }^{\circ} \mathrm{C}$ and K ?)
+
+Marathon Problem*
+This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+94. A cylindrical bar of gold that is 1.5 in high and 0.25 in in diameter has a mass of 23.1984 g , as determined on an analytical balance. An empty graduated cylinder is weighed on a triple-beam balance and has a mass of 73.47 g . After pouring a small amount of a liquid into the graduated cylinder, the mass is 79.16 g . When the gold cylinder is placed in the graduated cylinder (the liquid covers the top of the gold cylinder), the volume indicated on the graduated cylinder is 8.5 mL . Assume that the temperature of the gold bar and the liquid are $86^{\circ} \mathrm{F}$. If the density of the liquid decreases by $1.0 \%$ for each $10 .{ }^{\circ} \mathrm{C}$ rise in temperature (over the range 0 to $50^{\circ} \mathrm{C}$ ), determine
+a. the density of the gold at $86^{\circ} \mathrm{F}$.
+b. the density of the liquid at $40 .{ }^{\circ} \mathrm{F}$.
+
+Note: Parts a and b can be answered independently.
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
+*Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.

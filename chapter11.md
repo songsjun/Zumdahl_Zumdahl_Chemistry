@@ -1,24 +1,5 @@
 # Chapter 11: Properties of Solutions
 
-Marathon Problem
-483
-
-Marathon Problem
-This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-124. General Zod has sold Lex Luthor what Zod claims to be a new copper-colored form of kryptonite, the only substance that can harm Superman. Lex, not believing in honor among thieves, decided to carry out some tests on the supposed kryptonite. From previous tests, Lex knew that kryptonite is a metal having a specific heat capacity of $0.082 \mathrm{~J} / \mathrm{g} \cdot{ }^{\circ} \mathrm{C}$, and a density of $9.2 \mathrm{~g} / \mathrm{cm}^{3}$.
-
-Lex Luthor's first experiment was an attempt to find the specific heat capacity of kryptonite. He dropped a $10 \mathrm{~g} \pm 3 \mathrm{~g}$ sample of the metal into a boiling water bath at a temperature of $100.0^{\circ} \mathrm{C} \pm 0.2^{\circ} \mathrm{C}$. He waited until the metal had reached the bath temperature and then quickly transferred it to $100 \mathrm{~g} \pm 3 \mathrm{~g}$ of water that was contained in a calorimeter at an initial temperature of $25.0^{\circ} \mathrm{C} \pm 0.2^{\circ} \mathrm{C}$. The final temperature of the metal and water was $25.2^{\circ} \mathrm{C}$. Based on these results, is it possible to distinguish between copper and kryptonite? Explain.
-
-When Lex found that his results from the first experiment were inconclusive, he decided to determine the density of the sample. He managed to steal a better balance and determined the mass of another portion of the purported kryptonite to be $4 \mathrm{~g} \pm 1 \mathrm{~g}$. He dropped this sample into water contained in a $25-\mathrm{mL}$ graduated cylinder and found that it displaced a volume of $0.42 \mathrm{~mL} \pm 0.02 \mathrm{~mL}$. Is the metal copper or kryptonite? Explain.
-
-Lex was finally forced to determine the crystal structure of the metal General Zod had given him. He found that the cubic unit cell contained 4 atoms and had an edge length of 600. pm. Explain how this information enabled Lex to identify the metal as copper or kryptonite.
-
-Will Lex be going after Superman with the kryptonite or seeking revenge on General Zod? What improvements could he have made in his experimental techniques to avoid performing the crystal structure determination?
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 11 Properties of Solutions
 
 Contents
@@ -58,14 +39,14 @@ $$\text { Mass percent }=\left(\frac{\text { mass of solute }}{\text { mass of s
 Another way of describing solution composition is the mole fraction (symbolized by the Greek lowercase letter chi, $\chi$ ), the ratio of the number of moles of a given component to the total number of moles of solution. For a two-component solution, where $n_{\mathrm{A}}$ and $n_{\mathrm{B}}$ represent the number of moles of the two components,
 $$\text { Mole fraction of component } \mathrm{A}=\chi_{\mathrm{A}}=\frac{n_{\mathrm{A}}}{n_{\mathrm{A}}+n_{\mathrm{B}}}$$
 
-| \hline Example | State of Solution | State of Solute | State of Solvent |
+| Example | State of Solution | State of Solute | State of Solvent |
 | --- | --- | --- | --- |
-| \hline Air, natural gas | Gas | Gas | Gas |
-| \hline Vodka in water, antifreeze | Liquid | Liquid | Liquid |
-| \hline Brass | Solid | Solid | Solid |
-| \hline Carbonated water (soda) | Liquid | Gas | Liquid |
-| \hline Seawater, sugar solution | Liquid | Solid | Liquid |
-| \hline Hydrogen in platinum | Solid | Gas | Solid |
+| Air, natural gas | Gas | Gas | Gas |
+| Vodka in water, antifreeze | Liquid | Liquid | Liquid |
+| Brass | Solid | Solid | Solid |
+| Carbonated water (soda) | Liquid | Gas | Liquid |
+| Seawater, sugar solution | Liquid | Solid | Liquid |
+| Hydrogen in platinum | Solid | Gas | Solid |
 
 
 485
@@ -134,12 +115,12 @@ Sample Exercise 11.2
 
 A modern 12-volt lead storage battery of the type used in automobiles.
 
-| \hline Acid or Base | Molar Mass | Equivalent Mass | Relationship of Molarity and Normality |
+| Acid or Base | Molar Mass | Equivalent Mass | Relationship of Molarity and Normality |
 | --- | --- | --- | --- |
-| \hline HCl | 36.5 | 36.5 | $1 M=1 N$ |
-| \hline $\mathrm{H}_{2} \mathrm{SO}_{4}$ | 98 | $\frac{98}{2}=49$ | $1 M=2 N$ |
-| \hline NaOH | 40 | 40 | $1 M=1 N$ |
-| \hline $\mathrm{Ca}(\mathrm{OH})_{2}$ | 74 | $\frac{74}{2}=37$ | $1 M=2 N$ |
+| HCl | 36.5 | 36.5 | $1 M=1 N$ |
+| $\mathrm{H}_{2} \mathrm{SO}_{4}$ | 98 | $\frac{98}{2}=49$ | $1 M=2 N$ |
+| NaOH | 40 | 40 | $1 M=1 N$ |
+| $\mathrm{Ca}(\mathrm{OH})_{2}$ | 74 | $\frac{74}{2}=37$ | $1 M=2 N$ |
 
 
 Another concentration measure sometimes encountered is normality (symbolized by $N$ ). Normality is defined as the number of equivalents per liter of solution, where the definition of an equivalent depends on the reaction taking place in the solution. For an acid-base reaction, the equivalent is the mass of acid or base that can furnish or accept exactly 1 mole of protons ( $\mathrm{H}^{+}$ions). In Table 11.2 note, for example, that the equivalent mass of sulfuric acid is the molar mass divided by 2 , since each mole of $\mathrm{H}_{2} \mathrm{SO}_{4}$ can furnish 2 moles of protons. The equivalent mass of calcium hydroxide is also half the molar mass, since each mole of $\mathrm{Ca}(\mathrm{OH})_{2}$ contains 2 moles of $\mathrm{OH}^{-}$ions that can react with 2 moles of protons. The equivalent is defined so that 1 equivalent of acid will react with exactly 1 equivalent of base.
@@ -277,12 +258,12 @@ The various possible cases for solution formation are summarized in Table 11.3. 
 492
 Chapter Eleven Properties of Solutions
 
-| \hline | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{1}}$ | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{2}}$ | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{3}}$ | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{s o l n}}$ | Outcome |
+| | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{1}}$ | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{2}}$ | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{3}}$ | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{s o l n}}$ | Outcome |
 | --- | --- | --- | --- | --- | --- |
-| \hline Polar solute, polar solvent | Large | Large | Large, negative | Small | Solution forms |
-| \hline Nonpolar solute, polar solvent | Small | Large | Small | Large, positive | No solution forms |
-| \hline Nonpolar solute, nonpolar solvent | Small | Small | Small | Small | Solution forms |
-| \hline Polar solute, nonpolar solvent | Large | Small | Small | Large, positive | No solution forms |
+| Polar solute, polar solvent | Large | Large | Large, negative | Small | Solution forms |
+| Nonpolar solute, polar solvent | Small | Large | Small | Large, positive | No solution forms |
+| Nonpolar solute, nonpolar solvent | Small | Small | Small | Small | Solution forms |
+| Polar solute, nonpolar solvent | Large | Small | Small | Large, positive | No solution forms |
 
 
 Sample Exercise 11.3 Differentiating Solvent Properties
@@ -607,11 +588,11 @@ Vapor pressure for a solution of two volatile liquids. (a) The behavior predicte
 11.4 The Vapor Pressures of Solutions
 503
 
-| \hline Interactive Forces Between Solute (A) and Solvent (B) Particles | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{s o l n}}$ | $\boldsymbol{\Delta} \boldsymbol{T}$ for Solution Formation | Deviation from Raoult's Law | Example |
+| Interactive Forces Between Solute (A) and Solvent (B) Particles | $\boldsymbol{\Delta} \boldsymbol{H}_{\mathbf{s o l n}}$ | $\boldsymbol{\Delta} \boldsymbol{T}$ for Solution Formation | Deviation from Raoult's Law | Example |
 | --- | --- | --- | --- | --- |
-| \hline $\mathrm{A} \leftrightarrow \mathrm{A}, \mathrm{B} \leftrightarrow \mathrm{B} \equiv \mathrm{A} \leftrightarrow \mathrm{B}$ | Zero | Zero | None (ideal solution) | Benzenetoluene |
-| \hline $\mathrm{A} \leftrightarrow \mathrm{A}, \mathrm{B} \leftrightarrow \mathrm{B}<\mathrm{A} \leftrightarrow \mathrm{B}$ | Negative (exothermic) | Positive | Negative | Acetonewater |
-| \hline $\mathrm{A} \leftrightarrow \mathrm{A}, \mathrm{B} \leftrightarrow \mathrm{B}>\mathrm{A} \leftrightarrow \mathrm{B}$ | Positive (endothermic) | Negative | Positive | Ethanolhexane |
+| $\mathrm{A} \leftrightarrow \mathrm{A}, \mathrm{B} \leftrightarrow \mathrm{B} \equiv \mathrm{A} \leftrightarrow \mathrm{B}$ | Zero | Zero | None (ideal solution) | Benzenetoluene |
+| $\mathrm{A} \leftrightarrow \mathrm{A}, \mathrm{B} \leftrightarrow \mathrm{B}<\mathrm{A} \leftrightarrow \mathrm{B}$ | Negative (exothermic) | Positive | Negative | Acetonewater |
+| $\mathrm{A} \leftrightarrow \mathrm{A}, \mathrm{B} \leftrightarrow \mathrm{B}>\mathrm{A} \leftrightarrow \mathrm{B}$ | Positive (endothermic) | Negative | Positive | Ethanolhexane |
 
 
 Benzene
@@ -678,16 +659,16 @@ The normal boiling point of a liquid occurs at the temperature where the vapor p
 11.5 Boiling-Point Elevation and Freezing-Point Depression
 505
 
-| \hline TABLE 11.5 Molal Boiling-Point Elevation Constants $\boldsymbol{( \boldsymbol{K}_{\mathbf{b}} \boldsymbol{)}$ and Freezing-Point Depression Constants $\boldsymbol{(} \boldsymbol{K}_{\mathbf{f}} \boldsymbol{)}$ for Several Solvents} |  |  |  |  |
+| TABLE 11.5 Molal Boiling-Point Elevation Constants $\boldsymbol{( \boldsymbol{K}_{\mathbf{b}} \boldsymbol{)}$ and Freezing-Point Depression Constants $\boldsymbol{(} \boldsymbol{K}_{\mathbf{f}} \boldsymbol{)}$ for Several Solvents} |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| \hline Solvent | Boiling Point $\left({ }^{\circ} \mathrm{C}\right)$ | $K_{\mathrm{b}}$ ( ${ }^{\circ} \mathrm{C} \cdot \mathrm{kg} / \mathrm{mol}$ ) | Freezing Point $\left({ }^{\circ} \mathrm{C}\right)$ | $K_{\mathrm{f}}$ ( ${ }^{\circ} \mathrm{C} \cdot \mathrm{kg} / \mathrm{mol}$ ) |
-| \hline Water ( $\mathrm{H}_{2} \mathrm{O}$ ) | 100.0 | 0.51 | 0 | 1.86 |
-| \hline Carbon tetrachloride ( $\mathrm{CCl}_{4}$ ) | 76.5 | 5.03 | -22.99 | 30. |
-| \hline Chloroform ( $\mathrm{CHCl}_{3}$ ) | 61.2 | 3.63 | -63.5 | 4.70 |
-| \hline Benzene ( $\mathrm{C}_{6} \mathrm{H}_{6}$ ) | 80.1 | 2.53 | 5.5 | 5.12 |
-| \hline Carbon disulfide ( $\mathrm{CS}_{2}$ ) | 46.2 | 2.34 | -111.5 | 3.83 |
-| \hline Ethyl ether $\left(\mathrm{C}_{4} \mathrm{H}_{10} \mathrm{O}\right)$ | 34.5 | 2.02 | -116.2 | 1.79 |
-| \hline Camphor $\left(\mathrm{C}_{10} \mathrm{H}_{16} \mathrm{O}\right)$ | 208.0 | 5.95 | 179.8 | 40. |
+| Solvent | Boiling Point $\left({ }^{\circ} \mathrm{C}\right)$ | $K_{\mathrm{b}}$ ( ${ }^{\circ} \mathrm{C} \cdot \mathrm{kg} / \mathrm{mol}$ ) | Freezing Point $\left({ }^{\circ} \mathrm{C}\right)$ | $K_{\mathrm{f}}$ ( ${ }^{\circ} \mathrm{C} \cdot \mathrm{kg} / \mathrm{mol}$ ) |
+| Water ( $\mathrm{H}_{2} \mathrm{O}$ ) | 100.0 | 0.51 | 0 | 1.86 |
+| Carbon tetrachloride ( $\mathrm{CCl}_{4}$ ) | 76.5 | 5.03 | -22.99 | 30. |
+| Chloroform ( $\mathrm{CHCl}_{3}$ ) | 61.2 | 3.63 | -63.5 | 4.70 |
+| Benzene ( $\mathrm{C}_{6} \mathrm{H}_{6}$ ) | 80.1 | 2.53 | 5.5 | 5.12 |
+| Carbon disulfide ( $\mathrm{CS}_{2}$ ) | 46.2 | 2.34 | -111.5 | 3.83 |
+| Ethyl ether $\left(\mathrm{C}_{4} \mathrm{H}_{10} \mathrm{O}\right)$ | 34.5 | 2.02 | -116.2 | 1.79 |
+| Camphor $\left(\mathrm{C}_{10} \mathrm{H}_{16} \mathrm{O}\right)$ | 208.0 | 5.95 | 179.8 | 40. |
 
 
 As you might expect, the magnitude of the boiling-point elevation depends on the concentration of the solute. The change in boiling point can be represented by the equation
@@ -949,7 +930,7 @@ The expected value for $i$ can be calculated for a salt by noting the number of 
 
 | Electrolyte | $\boldsymbol{i}$ (expected) | $\boldsymbol{i}$ (observed) |
 | --- | --- | --- |
-| \hline NaCl | 2.0 | 1.9 |
+| NaCl | 2.0 | 1.9 |
 | $\mathrm{MgCl}_{2}$ | 3.0 | 2.7 |
 | $\mathrm{MgSO}_{4}$ | 2.0 | 1.3 |
 | $\mathrm{FeCl}_{3}$ | 4.0 | 3.4 |
@@ -1031,16 +1012,16 @@ Adapted with permission from "Sports Drinks: Don't Sweat the Small Stuff," by Ti
 FIGURE 11.25
 The Cottrell precipitator installed in a smokestack. The charged plates attract the colloidal particles because of their ion layers and thus remove them from the smoke.
 
-| \hline Examples | Dispersing Medium | Dispersed Substance | Colloid Type |
+| Examples | Dispersing Medium | Dispersed Substance | Colloid Type |
 | --- | --- | --- | --- |
-| \hline Fog, aerosol sprays | Gas | Liquid | Aerosol |
-| \hline Smoke, airborne bacteria | Gas | Solid | Aerosol |
-| \hline Whipped cream, soap suds | Liquid | Gas | Foam |
-| \hline Milk, mayonnaise | Liquid | Liquid | Emulsion |
-| \hline Paint, clays, gelatin | Liquid | Solid | Sol |
-| \hline Marshmallow, polystyrene foam | Solid | Gas | Solid foam |
-| \hline Butter, cheese | Solid | Liquid | Solid emulsion |
-| \hline Ruby glass | Solid | Solid | Solid sol |
+| Fog, aerosol sprays | Gas | Liquid | Aerosol |
+| Smoke, airborne bacteria | Gas | Solid | Aerosol |
+| Whipped cream, soap suds | Liquid | Gas | Foam |
+| Milk, mayonnaise | Liquid | Liquid | Emulsion |
+| Paint, clays, gelatin | Liquid | Solid | Sol |
+| Marshmallow, polystyrene foam | Solid | Gas | Solid foam |
+| Butter, cheese | Solid | Liquid | Solid emulsion |
+| Ruby glass | Solid | Solid | Solid sol |
 
 
 The destruction of a colloid, called coagulation, usually can be accomplished either by heating or by adding an electrolyte. Heating increases the velocities of the colloidal particles, causing them to collide with enough energy that the ion barriers are penetrated and the particles can aggregate. Because this process is repeated many times, the particle grows to a point where it settles out. Adding an electrolyte neutralizes the adsorbed ion layers. This is why clay suspended in rivers is deposited where the river reaches the ocean, forming the deltas characteristic of large rivers like the Mississippi. The high salt content of the seawater causes the colloidal clay particles to coagulate.
@@ -1244,13 +1225,13 @@ Concentration of Solutions
 | --- |
 | | Density |  |  | |
 | | $\mathbf{( g / c m}$ |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Mass Percent |  |  | |
 | --- |
 | | of Solute |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline Hydrochloric acid | 1.19 | 38 |
+| Hydrochloric acid | 1.19 | 38 |
 | Nitric acid | 1.42 | 70. |
 | Sulfuric acid | 1.84 | 95 |
 | Acetic acid | 1.05 | 99 |
@@ -1274,7 +1255,7 @@ Energetics of Solutions and Solubility
 
 |  | Lattice Energy | $\boldsymbol{\Delta} \boldsymbol{H}_{\text {soln }}$ |
 | --- | --- | --- |
-| \hline $\mathrm{CaCl}_{2}(s)$ | $-2247 \mathrm{~kJ} / \mathrm{mol}$ | $-46 \mathrm{~kJ} / \mathrm{mol}$ |
+| $\mathrm{CaCl}_{2}(s)$ | $-2247 \mathrm{~kJ} / \mathrm{mol}$ | $-46 \mathrm{~kJ} / \mathrm{mol}$ |
 | $\mathrm{CaI}_{2}(s)$ | $-2059 \mathrm{~kJ} / \mathrm{mol}$ | $-104 \mathrm{~kJ} / \mathrm{mol}$ |
 
 b. Based on your answers to part a, which ion, $\mathrm{Cl}^{-}$or $\mathrm{I}^{-}$, is more strongly attracted to water?
@@ -1312,15 +1293,15 @@ c. $\mathrm{Fe}^{2+}$ or $\mathrm{Fe}^{3+}$
 f. $\mathrm{ClO}_{4}{ }^{-}$or $\mathrm{SO}_{4}{ }^{2-}$
 41. Rationalize the trend in water solubility for the following simple alcohols:
 
-| \hline Alcohol | Solubility $\boldsymbol{(} \mathbf{g} \boldsymbol{/} \mathbf{1 0 0 ~ g} \mathbf{H}_{\mathbf{2}} \mathbf{O}$ at $\mathbf{2 0}^{\boldsymbol{\circ}} \mathbf{C}$ ) |
+| Alcohol | Solubility $\boldsymbol{(} \mathbf{g} \boldsymbol{/} \mathbf{1 0 0 ~ g} \mathbf{H}_{\mathbf{2}} \mathbf{O}$ at $\mathbf{2 0}^{\boldsymbol{\circ}} \mathbf{C}$ ) |
 | --- | --- |
-| \hline Methanol, $\mathrm{CH}_{3} \mathrm{OH}$ | Soluble in all proportions |
-| \hline Ethanol, $\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{OH}$ | Soluble in all proportions |
-| \hline Propanol, $\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{CH}_{2} \mathrm{OH}$ | Soluble in all proportions |
-| \hline Butanol, $\mathrm{CH}_{3}\left(\mathrm{CH}_{2}\right)_{2} \mathrm{CH}_{2} \mathrm{OH}$ | 8.14 |
-| \hline Pentanol, $\mathrm{CH}_{3}\left(\mathrm{CH}_{2}\right)_{3} \mathrm{CH}_{2} \mathrm{OH}$ | 2.64 |
-| \hline Hexanol, $\mathrm{CH}_{3}\left(\mathrm{CH}_{2}\right)_{4} \mathrm{CH}_{2} \mathrm{OH}$ | 0.59 |
-| \hline Heptanol, $\mathrm{CH}_{3}\left(\mathrm{CH}_{2}\right)_{5} \mathrm{CH}_{2} \mathrm{OH}$ | 0.09 |
+| Methanol, $\mathrm{CH}_{3} \mathrm{OH}$ | Soluble in all proportions |
+| Ethanol, $\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{OH}$ | Soluble in all proportions |
+| Propanol, $\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{CH}_{2} \mathrm{OH}$ | Soluble in all proportions |
+| Butanol, $\mathrm{CH}_{3}\left(\mathrm{CH}_{2}\right)_{2} \mathrm{CH}_{2} \mathrm{OH}$ | 8.14 |
+| Pentanol, $\mathrm{CH}_{3}\left(\mathrm{CH}_{2}\right)_{3} \mathrm{CH}_{2} \mathrm{OH}$ | 2.64 |
+| Hexanol, $\mathrm{CH}_{3}\left(\mathrm{CH}_{2}\right)_{4} \mathrm{CH}_{2} \mathrm{OH}$ | 0.59 |
+| Heptanol, $\mathrm{CH}_{3}\left(\mathrm{CH}_{2}\right)_{5} \mathrm{CH}_{2} \mathrm{OH}$ | 0.09 |
 
 42. The solubility of benzoic acid ( $\left.\mathrm{HC}_{7} \mathrm{H}_{5} \mathrm{O}_{2}\right)$,
 is $0.34 \mathrm{~g} / 100 \mathrm{~mL}$ in water at $25^{\circ} \mathrm{C}$ and is $10.0 \mathrm{~g} / 100 \mathrm{~mL}$ in benzene $\left(\mathrm{C}_{6} \mathrm{H}_{6}\right)$ at $25^{\circ} \mathrm{C}$. Rationalize this solubility behavior. (Hint: Benzoic acid forms a dimer in benzene.) Would benzoic acid be more or less soluble in a $0.1 M \mathrm{NaOH}$ solution than it is in water? Explain.
@@ -1352,13 +1333,13 @@ d. a solution of methanol in water with $\chi_{\mathrm{CH}_{3} \mathrm{OH}}=0.2$
 Chapter Eleven Properties of Solutions
 56. The vapor pressures of several solutions of water-propanol $\left(\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{CH}_{2} \mathrm{OH}\right)$ were determined at various compositions, with the following data collected at $45^{\circ} \mathrm{C}$ :
 
-| \hline$\chi_{\mathbf{H}_{\mathbf{2}} \mathbf{O}}$ | | | --- | --- | |
+| $\chi_{\mathbf{H}_{\mathbf{2}} \mathbf{O}}$ | | | --- | --- | |
 | --- |
 | | Vapor pressure |  | |
 | | (torr) |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline 0 | 74.0 |
+| 0 | 74.0 |
 | 0.15 | 77.3 |
 | 0.37 | 80.2 |
 | 0.54 | 81.6 |
@@ -1414,7 +1395,7 @@ b. $0.050 m \mathrm{FeCl}_{3}$
 
 | Molality | Freezing-Point Depression $\left({ }^{\circ} \mathbf{C}\right)$ |
 | --- | --- |
-| \hline 0.0225 | 0.110 |
+| 0.0225 | 0.110 |
 | 0.0910 | 0.440 |
 | 0.278 | 1.330 |
 
@@ -1499,3 +1480,21 @@ These problems require the integration of multiple concepts to find the solution
 100. Creatinine, $\mathrm{C}_{4} \mathrm{H}_{7} \mathrm{~N}_{3} \mathrm{O}$, is a by-product of muscle metabolism, and creatinine levels in the body are known to be a fairly reliable indicator of kidney function. The normal level of creatinine in the blood for adults is approximately 1.0 mg per deciliter ( dL ) of blood. If the density of blood is $1.025 \mathrm{~g} / \mathrm{mL}$, calculate the molality of a normal creatinine level in a $10.0-\mathrm{mL}$ blood sample. What is the osmotic pressure of this solution at $25.0^{\circ} \mathrm{C}$ ?
 101. An aqueous solution containing 0.250 mol of Q , a strong electrolyte, in $5.00 \times 10^{2} \mathrm{~g}$ of water freezes at $-2.79^{\circ} \mathrm{C}$. What is the van't Hoff factor for Q ? The molal freezing-point depression constant for water is $1.86^{\circ} \mathrm{C} \cdot \mathrm{kg} / \mathrm{mol}$. What is the formula of Q if it is $38.68 \%$ chlorine by mass and there are twice as many anions as cations in one formula unit of Q?
 102. Patients undergoing an upper gastrointestinal tract laboratory test are typically given an X-ray contrast agent that aids with the radiologic imaging of the anatomy. One such contrast agent is sodium diatrizoate, a nonvolatile water-soluble compound. A $0.378 m$ solution is prepared by dissolving 38.4 g of sodium diatrizoate (NaDTZ) in $1.60 \times 10^{2} \mathrm{~mL}$ of water at $31.2^{\circ} \mathrm{C}$ (the density of water at $31.2^{\circ} \mathrm{C}$ is $0.995 \mathrm{~g} / \mathrm{mL}$ ). What is the molar mass of sodium diatrizoate? What is the vapor pressure of this solution if the vapor pressure of pure water at $31.2^{\circ} \mathrm{C}$ is 34.1 torr?
+
+---
+
+Marathon Problem
+525
+
+Marathon Problem*
+This problem is designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
+103. Using the following information, identify the strong electrolyte whose general formula is
+$$\mathrm{M}_{x}(\mathrm{~A})_{y} \cdot z \mathrm{H}_{2} \mathrm{O}$$
+
+Ignore the effect of interionic attractions in the solution.
+a. $\mathrm{A}^{n-}$ is a common oxyanion. When 30.0 mg of the anhydrous sodium salt containing this oxyanion $\left(\mathrm{Na}_{n} \mathrm{~A}\right.$, where $n=1,2$, or 3) is reduced, 15.26 mL of $0.02313 M$ reducing agent is required to react completely with the $\mathrm{Na}_{n} \mathrm{~A}$ present. Assume a $1: 1$ mole ratio in the reaction.
+b. The cation is derived from a silvery white metal that is relatively expensive. The metal itself crystallizes in a body-centered cubic unit cell and has an atomic radius of 198.4 pm . The solid, pure metal has a density of $5.243 \mathrm{~g} / \mathrm{cm}^{3}$. The oxidation number of M in the strong electrolyte in question is +3 .
+c. When 33.45 mg of the compound is present (dissolved) in 10.0 mL of aqueous solution at $25^{\circ} \mathrm{C}$, the solution has an osmotic pressure of 558 torr.
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
+*This Marathon Problem was developed by James H. Burness, Penn State University, York Campus. Reprinted with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.

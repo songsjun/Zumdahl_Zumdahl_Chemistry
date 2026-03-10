@@ -1,67 +1,5 @@
 # Chapter 5: Gases
 
-Marathon Problems
-177
-106. Complete and balance each acid-base reaction.
-a. $\mathrm{H}_{3} \mathrm{PO}_{4}(a q)+\mathrm{NaOH}(a q) \rightarrow$
-
-Contains three acidic hydrogens
-b. $\mathrm{H}_{2} \mathrm{SO}_{4}(a q)+\mathrm{Al}(\mathrm{OH})_{3}(s) \rightarrow$
-
-Contains two acidic hydrogens
-c. $\mathrm{H}_{2} \mathrm{Se}(a q)+\mathrm{Ba}(\mathrm{OH})_{2}(a q) \rightarrow$
-
-Contains two acidic hydrogens
-d. $\mathrm{H}_{2} \mathrm{C}_{2} \mathrm{O}_{4}(a q)+\mathrm{NaOH}(a q) \rightarrow$
-
-Contains two acidic hydrogens
-107. What volume of $0.0521 M \mathrm{Ba}(\mathrm{OH})_{2}$ is required to neutralize exactly 14.20 mL of $0.141 M \mathrm{H}_{3} \mathrm{PO}_{4}$ ? Phosphoric acid contains three acidic hydrogens.
-108. A $10.00-\mathrm{mL}$ sample of sulfuric acid from an automobile battery requires 35.08 mL of $2.12 M$ sodium hydroxide solution for complete neutralization. What is the molarity of the sulfuric acid? Sulfuric acid contains two acidic hydrogens.
-109. Some of the substances commonly used in stomach antacids are $\mathrm{MgO}, \mathrm{Mg}(\mathrm{OH})_{2}$, and $\mathrm{Al}(\mathrm{OH})_{3}$.
-a. Write a balanced equation for the neutralization of hydrochloric acid by each of these substances.
-b. Which of these substances will neutralize the greatest amount of $0.10 M \mathrm{HCl}$ per gram?
-110. A 6.50-g sample of a diprotic acid requires 137.5 mL of a $0.750 M \mathrm{NaOH}$ solution for complete reaction. Determine the molar mass of the acid.
-111. Citric acid, which can be obtained from lemon juice, has the molecular formula $\mathrm{C}_{6} \mathrm{H}_{8} \mathrm{O}_{7}$. A 0.250-g sample of citric acid dissolved in 25.0 mL of water requires 37.2 mL of $0.105 M \mathrm{NaOH}$ for complete neutralization. What number of acidic hydrogens per molecule does citric acid have?
-112. Balance the following equations by the half-reaction method.
-a. $\mathrm{Fe}(s)+\mathrm{HCl}(a q) \rightarrow \mathrm{HFeCl}_{4}(a q)+\mathrm{H}_{2}(g)$
-b. $\mathrm{IO}_{3}{ }^{-}(a q)+\mathrm{I}^{-}(a q) \xrightarrow{\text { Acid }} \mathrm{I}_{3}{ }^{-}(a q)$
-c. $\mathrm{Cr}(\mathrm{NCS})_{6}{ }^{4-}(a q)+\mathrm{Ce}^{4+}(a q) \xrightarrow{\text { Acid }}$
-$$\mathrm{Cr}^{3+}(a q)+\mathrm{Ce}^{3+}(a q)+\mathrm{NO}_{3}^{-}(a q)+\mathrm{CO}_{2}(g)+\mathrm{SO}_{4}^{2-}(a q)$$
-d. $\mathrm{CrI}_{3}(s)+\mathrm{Cl}_{2}(g) \xrightarrow{\text { Base }} \mathrm{CrO}_{4}{ }^{2-}(a q)+\mathrm{IO}_{4}{ }^{-}(a q)+\mathrm{Cl}^{-}(a q)$
-e. $\mathrm{Fe}(\mathrm{CN})_{6}{ }^{4-}(a q)+\mathrm{Ce}^{4+}(a q) \xrightarrow{\text { Base }}$
-$$\mathrm{Ce}(\mathrm{OH})_{3}(s)+\mathrm{Fe}(\mathrm{OH})_{3}(s)+\mathrm{CO}_{3}^{2-}(a q)+\mathrm{NO}_{3}^{-}(a q)$$
-f. $\mathrm{Fe}(\mathrm{OH})_{2}(s)+\mathrm{H}_{2} \mathrm{O}_{2}(a q) \xrightarrow{\text { Base }} \mathrm{Fe}(\mathrm{OH})_{3}(s)$
-113. It took $25.06 \pm 0.05 \mathrm{~mL}$ of a sodium hydroxide solution to titrate a 0.4016-g sample of KHP (see Exercise 65). Calculate the concentration and uncertainty in the concentration of the sodium hydroxide solution. (See Appendix 1.5.) Neglect any uncertainty in the mass.
-
-Integrative Problems
-These problems require the integration of multiple concepts to find the solutions.
-114. Tris(pentafluorophenyl)borane, commonly known by its acronym BARF, is frequently used to initiate polymerization of ethylene or propylene in the presence of a catalytic transition metal compound. It is composed solely of $\mathrm{C}, \mathrm{F}$, and B ; it is $42.23 \% \mathrm{C}$ by mass and $55.66 \% \mathrm{~F}$ by mass.
-a. What is the empirical formula of BARF?
-b. A $2.251-\mathrm{g}$ sample of BARF dissolved in 347.0 mL of solution produces a $0.01267 M$ solution. What is the molecular formula of BARF?
-115. In a 1-L beaker, 203 mL of $0.307 M$ ammonium chromate was mixed with 137 mL of $0.269 M$ chromium(III) nitrite to produce ammonium nitrite and chromium(III) chromate. Write the balanced chemical reaction occurring here. If the percent yield of the reaction was $88.0 \%$, how much chromium(III) chromate was isolated?
-116. The vanadium in a sample of ore is converted to $\mathrm{VO}^{2+}$. The $\mathrm{VO}^{2+}$ ion is subsequently titrated with $\mathrm{MnO}_{4}{ }^{-}$in acidic solution to form $\mathrm{V}(\mathrm{OH})_{4}{ }^{+}$and manganese(II) ion. To titrate the solution, 26.45 mL of $0.02250 \mathrm{M} \mathrm{MnO}_{4}{ }^{-}$was required. If the mass percent of vanadium in the ore was $58.1 \%$, what was the mass of the ore sample? Which of the four transition metal ions in this titration has the highest oxidation state?
-117. The unknown acid $\mathrm{H}_{2} \mathrm{X}$ can be neutralized completely by $\mathrm{OH}^{-}$ according to the following (unbalanced) equation:
-$$\mathrm{H}_{2} \mathrm{X}(a q)+\mathrm{OH}^{-} \longrightarrow \mathrm{X}^{2-}+\mathrm{H}_{2} \mathrm{O}$$
-
-The ion formed as a product, $\mathrm{X}^{2-}$, was shown to have 36 total electrons. What is element X ? Propose a name for $\mathrm{H}_{2} \mathrm{X}$ ? To completely neutralize a sample of $\mathrm{H}_{2} \mathrm{X}, 35.6 \mathrm{~mL}$ of $0.175 M \mathrm{OH}^{-}$ solution was required. What was the mass of the $\mathrm{H}_{2} \mathrm{X}$ sample used?
-
-Marathon Problems
-These problems are designed to incorporate several concepts and techniques into one situation. Marathon Problems can be used in class by groups of students to help facilitate problem-solving skills.
-118. Three students were asked to find the identity of the metal in a particular sulfate salt. They dissolved a 0.1472 -g sample of the salt in water and treated it with excess barium chloride, resulting in the precipitation of barium sulfate. After the precipitate had been filtered and dried, it weighed 0.2327 g .
-
-Each student analyzed the data independently and came to different conclusions. Pat decided that the metal was titanium. Chris thought it was sodium. Randy reported that it was gallium. What formula did each student assign to the sulfate salt?
-
-Look for information on the sulfates of gallium, sodium, and titanium in this text and reference books such as the CRC Handbook of Chemistry and Physics. What further tests would you suggest to determine which student is most likely correct?
-119. You have two $500.0-\mathrm{mL}$ aqueous solutions. Solution A is a solution of a metal nitrate that is $8.246 \%$ nitrogen by mass. The ionic compound in solution B consists of potassium, chromium, and oxygen; chromium has an oxidation state of +6 and there are 2 potassiums and 1 chromium in the formula. The masses of the solutes in each of the solutions are the same. When the solutions are added together, a blood-red precipitate forms. After the reaction has gone to completion, you dry the solid and find that it has a mass of 331.8 g .
-a. Identify the ionic compounds in solution A and solution B .
-b. Identify the blood-red precipitate.
-c. Calculate the concentration (molarity) of all ions in the original solutions.
-d. Calculate the concentration (molarity) of all ions in the final solution.
-
-Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
-
----
-
 5
 Gases
 
@@ -207,16 +145,16 @@ Plotting Boyle's data from Table 5.1. (a) A plot of $P$ versus $V$ shows that th
 | Volume |  |  |
 | --- | --- | --- |
 | $\left(\mathbf{i n}^{\mathbf{3}}\right)$ |  |  |
-| \end{tabular} | | | Pressure |  |  | |
+|  | | | Pressure |  |  | |
 | --- |
 | | $($ in $\mathbf{H g})$ |  |  | |
-| | \end{tabular} |
+| |  |
  | | | Pressure × Volume |  |  | |
 | --- |
 | | $\left(\right.$ in $\left.\mathbf{H g} \times \mathbf{i n}^{\mathbf{3}}\right)$ |  |  | |
-| | \end{tabular} |
+| |  |
  |  |  |
-| \hline 117.5 | 12.0 | $14.1 \times 10^{2}$ |
+| 117.5 | 12.0 | $14.1 \times 10^{2}$ |
 | 87.2 | 16.0 | $14.0 \times 10^{2}$ |
 | 70.7 | 20.0 | $14.1 \times 10^{2}$ |
 | 58.8 | 24.0 | $14.1 \times 10^{2}$ |
@@ -297,7 +235,7 @@ A plot of $P V$ versus $P$ for 1 mol of ammonia. The dashed line shows the extra
 
 | Experiment | Pressure $(\mathbf{a t m})$ | Volume $(\mathbf{L})$ |
 | --- | --- | --- |
-| \hline 1 | 0.1300 | 172.1 |
+| 1 | 0.1300 | 172.1 |
 | 2 | 0.2500 | 89.28 |
 | 3 | 0.3000 | 74.35 |
 | 4 | 0.5000 | 44.49 |
@@ -308,7 +246,7 @@ A plot of $P V$ versus $P$ for 1 mol of ammonia. The dashed line shows the extra
 Solution
 To determine how closely $\mathrm{NH}_{3}$ gas follows Boyle's law under these conditions, we calculate the value of $k$ (in $\mathrm{L} \cdot \mathrm{atm}$ ) for each set of values:
 
-| \hline Experiment | 1 | 2 | 3 | 4 | 5 | 6 |
+| Experiment | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- | --- |
 | $\boldsymbol{k}=\boldsymbol{P V}$ | 22.37 | 22.32 | 22.31 | 22.25 | 22.16 | 22.08 |
 
@@ -614,18 +552,18 @@ $$V=\frac{n R T}{P}=\frac{(1.000 \mathrm{mot})(0.08206 \mathrm{~L} \cdot \mathrm
 5.4 Gas Stoichiometry
 191
 
-| \hline | | --- | --- | |
+| | | --- | --- | |
 | --- |
 | | TABLE 5.2 Molar Volumes for |  | |
 | | Various Gases at $\mathbf{0}^{\circ} \mathbf{C}$ and $\mathbf{1} \mathbf{a t m}$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline Gas | | | Molar |  | |
+| Gas | | | Molar |  | |
 | --- |
 | | Volume $(\mathbf{L})$ |  | |
-| | \end{tabular} |
+| |  |
  |  |
-| \hline Oxygen $\left(\mathrm{O}_{2}\right)$ | 22.397 |
+| Oxygen $\left(\mathrm{O}_{2}\right)$ | 22.397 |
 | Nitrogen $\left(\mathrm{N}_{2}\right)$ | 22.402 |
 | Hydrogen $\left(\mathrm{H}_{2}\right)$ | 22.433 |
 | Helium $(\mathrm{He})$ | 22.434 |
@@ -1280,7 +1218,7 @@ $P_{\text {obs }}$ is usually called just $P$.
 
 | Gas | $\boldsymbol{a}\left(\frac{\mathbf{a t m} \cdot \mathbf{L}^{\mathbf{2}}}{\mathbf{m o l}}\right)$ | $\boldsymbol{b}\left(\frac{\mathbf{L}}{\mathbf{m o l}}\right)$ |
 | --- | --- | --- |
-| \hline He | 0.0341 | 0.0237 |
+| He | 0.0341 | 0.0237 |
 | Ne | 0.211 | 0.0171 |
 | Ar | 1.35 | 0.0322 |
 | Kr | 2.32 | 0.0398 |
@@ -1316,7 +1254,7 @@ We can understand gas behavior more completely if we examine the characteristics
 
 | Component | Mole Fraction |
 | --- | --- |
-| \hline $\mathrm{N}_{2}$ | 0.78084 |
+| $\mathrm{N}_{2}$ | 0.78084 |
 | $\mathrm{O}_{2}$ | 0.20948 |
 | Ar | 0.00934 |
 | $\mathrm{CO}_{2}$ | 0.000345 |
@@ -1707,10 +1645,10 @@ b.
 
 | $P(\mathbf{a t m})$ | $V(\mathbf{L})$ | $n(\mathbf{m o l})$ | $T$ |
 | --- | --- | --- | --- |
-| \hline 5.00 |  | 2.00 | $155^{\circ} \mathrm{C}$ |
-| \hline 0.300 | 2.00 |  | 155 K |
-| \hline 4.47 | 25.0 | 2.01 |  |
-| \hline | 2.25 | 10.5 | $75^{\circ} \mathrm{C}$ |
+| 5.00 |  | 2.00 | $155^{\circ} \mathrm{C}$ |
+| 0.300 | 2.00 |  | 155 K |
+| 4.47 | 25.0 | 2.01 |  |
+| | 2.25 | 10.5 | $75^{\circ} \mathrm{C}$ |
 
 38. Complete the following table for an ideal gas.
 b.
@@ -1718,10 +1656,10 @@ c.
 
 | $\boldsymbol{P}$ | $\boldsymbol{V}$ | $\boldsymbol{n}$ | $\boldsymbol{T}$ |
 | --- | --- | --- | --- |
-| \hline $7.74 \times 10^{3} \mathrm{~Pa}$ | 12.2 mL |  | $25^{\circ} \mathrm{C}$ |
-| \hline | 43.0 mL | 0.421 mol | 223 K |
-| \hline 455 torr |  | $4.4 \times 10^{-2} \mathrm{~mol}$ | $331^{\circ} \mathrm{C}$ |
-| \hline 745 mm Hg | 11.2 L | 0.401 mol |  |
+| $7.74 \times 10^{3} \mathrm{~Pa}$ | 12.2 mL |  | $25^{\circ} \mathrm{C}$ |
+| | 43.0 mL | 0.421 mol | 223 K |
+| 455 torr |  | $4.4 \times 10^{-2} \mathrm{~mol}$ | $331^{\circ} \mathrm{C}$ |
+| 745 mm Hg | 11.2 L | 0.401 mol |  |
 
 39. Suppose two $200.0-\mathrm{L}$ tanks are to be filled separately with the gases helium and hydrogen. What mass of each gas is needed to produce a pressure of 135 atm in its respective tank at $24^{\circ} \mathrm{C}$ ?
 40. A flask that can withstand an internal pressure of 2500 torr, but no more, is filled with a gas at $21.0^{\circ} \mathrm{C}$ and 758 torr and heated.
@@ -1737,7 +1675,7 @@ increases the temperature of the tire to $58^{\circ} \mathrm{C}$. The volume of 
 
 | Container A | Container B |
 | --- | --- |
-| \hline Contents: $\mathrm{SO}_{2}(g)$ | Contents: unknown gas |
+| Contents: $\mathrm{SO}_{2}(g)$ | Contents: unknown gas |
 | Pressure $=P_{\mathrm{A}}$ | Pressure $=P_{\mathrm{B}}$ |
 | Moles of gas $=1.0 \mathrm{~mol}$ | Moles of gas $=2.0 \mathrm{~mol}$ |
 | Volume $=1.0 \mathrm{~L}$ | Volume $=2.0 \mathrm{~L}$ |
@@ -1930,7 +1868,7 @@ would be the pressure of $\mathrm{CO}_{2}$ inside the wine bottle at $25^{\circ}
 
 |  | $\mathbf{I}$ | $\mathbf{I I}$ |
 | --- | --- | --- |
-| \hline Mass | 0.2022 g | 0.2224 g |
+| Mass | 0.2022 g | 0.2224 g |
 | Volume | $22.6 \mathrm{~cm}^{3}$ | $26.0 \mathrm{~cm}^{3}$ |
 | Temperature | $13^{\circ} \mathrm{C}$ | $17^{\circ} \mathrm{C}$ |
 | Pressure | 765.2 mm Hg | 764.6 mm |
@@ -2034,3 +1972,17 @@ An empty glass container has a mass of 658.572 g . It has a mass of 659.452 g af
 Compound B, a gaseous organic compound that consists of $85.6 \%$ carbon and $14.4 \%$ hydrogen by mass, is placed in a stainless steel vessel ( 10.68 L ) with excess oxygen gas. The vessel is placed in a constant-temperature bath at $22^{\circ} \mathrm{C}$. The pressure in the vessel is 11.98 atm . In the bottom of the vessel is a container that is packed with Ascarite and a desiccant. Ascarite is asbestos impregnated with sodium hydroxide; it quantitatively absorbs carbon dioxide:
 $$2 \mathrm{NaOH}(s)+\mathrm{CO}_{2}(g) \longrightarrow \mathrm{Na}_{2} \mathrm{CO}_{3}(s)+\mathrm{H}_{2} \mathrm{O}(l)$$
 *Used with permission from the Journal of Chemical Education, Vol. 68, No. 11, 1991, pp. 919-922; copyright © 1991, Division of Chemical Education, Inc.
+
+---
+
+Marathon Problem
+227
+
+The desiccant is anhydrous magnesium perchlorate, which quantitatively absorbs the water produced by the combustion reaction as well as the water produced by the above reaction. Neither the Ascarite nor the desiccant reacts with compound B or oxygen. The total mass of the container with the Ascarite and desiccant is 765.3 g .
+
+The combustion reaction of compound B is initiated by a spark. The pressure immediately rises, then begins to decrease, and finally reaches a steady value of 6.02 atm . The stainless steel vessel is carefully opened, and the mass of the container inside the vessel is found to be 846.7 g .
+$A$ and $B$ react quantitatively in a $1: 1$ mole ratio to form one mole of the single product, gas C .
+a. How many grams of C will be produced if 10.0 L of A and 8.60 L of B (each at STP) are reacted by opening a stopcock connecting the two samples?
+b. What will be the total pressure in the system?
+
+Get help understanding core concepts and visualizing molecular-level interactions, and practice problem solving, by visiting the Online Study Center at college.hmco.com/ PIC/zumdahl7e.
