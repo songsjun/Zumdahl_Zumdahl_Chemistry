@@ -319,7 +319,7 @@ Image of a portion of the Cygnus Loop supernova remnant, taken by the Hubble spa
 A physicist works with a small cyclotron at the University of California at Berkeley.
 
 By using neutron and positive-ion bombardment, scientists have been able to extend the periodic table. Prior to 1940, the heaviest known element was uranium ( $Z=92$ ), but in 1940, neptunium ( $Z=93$ ) was produced by neutron bombardment of ${ }_{92}^{238} \mathrm{U}$. The process initially gives ${ }_{92}^{239} \mathrm{U}$, which decays to ${ }_{93}^{239} \mathrm{~Np}$ by $\beta$-particle production:
-$${ }_{92}^{238} \mathrm{U}+{ }_{0}^{1} \mathrm{n} \longrightarrow{ }_{92}^{239} \mathrm{U} \xrightarrow[t_{1 / 2}=23 \min ]{{ }_{92}^{238} \mathrm{~Np}+{ }_{-1}^{0} \mathrm{p}}$$
+$${ }_{92}^{238} \mathrm{U}+{ }_{0}^{1} \mathrm{n} \longrightarrow{ }_{92}^{239} \mathrm{U} \xrightarrow[t_{1 / 2}=23 \min ]{ { }_{92}^{238} \mathrm{~Np}+{ }_{-1}^{0} \mathrm{p}}$$
 
 In the years since 1940, the elements with atomic numbers 93 through 112, called the transuranium elements,* have been synthesized. Many of these elements have very short half-lives, as shown in Table 18.4. As a result, only a few atoms of some have ever been formed. This, of course, makes the chemical characterization of these elements extremely difficult.
 
@@ -465,7 +465,7 @@ $$\frac{\text { Atoms of }{ }_{82}^{206} \mathrm{~Pb} \text { now present }}{\te
 
 Think carefully about what this means. For every $1115{ }_{92}^{238} \mathrm{U}$ atoms originally present in the rock, 115 have been changed to ${ }_{82}^{206} \mathrm{~Pb}$ and 1000 remain as ${ }_{92}^{238} \mathrm{U}$. Thus
 $$\begin{aligned}
-\frac{N}{N_{0}} & =\underbrace{\swarrow_{92}^{238 \mathrm{U}}}_{{ }_{92}^{238} \underbrace{206 \mathrm{~Pb}+{ }_{92}^{238 \mathrm{U}}}_{\text {originally present }}}=\frac{1000}{1115}=0.8969 \\
+\frac{N}{N_{0}} & =\underbrace{\swarrow_{92}^{238 \mathrm{U}}}_{ { }_{92}^{238} \underbrace{206 \mathrm{~Pb}+{ }_{92}^{238 \mathrm{U}}}_{\text {originally present }}}=\frac{1000}{1115}=0.8969 \\
 \ln \left(\frac{N}{N_{0}}\right) & =\ln (0.8969)=-\left(\frac{0.693}{4.5 \times 10^{9} \text { years }}\right) t \\
 t & =7.1 \times 10^{8} \text { years }
 \end{aligned}$$

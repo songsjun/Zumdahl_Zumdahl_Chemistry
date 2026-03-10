@@ -388,7 +388,7 @@ $$\begin{array}{l}
 In this case the increase in temperature $(\Delta T)=31.9^{\circ} \mathrm{C}-25.0^{\circ} \mathrm{C}=6.9^{\circ} \mathrm{C}$, and the mass of solution $(m)=100.0 \mathrm{~mL} \times 1.0 \mathrm{~g} / \mathrm{mL}=1.0 \times 10^{2} \mathrm{~g}$. Thus
 $$\begin{aligned}
 \text { Energy released } & =s \times m \times \Delta T \\
-& =\left(4.18 \frac{\mathrm{~J}}{{ }^{\circ} \ell \cdot g}\right)\left(1.0 \times 10^{2} g\right)\left(6.9^{\circ} \ell\right) \\
+& =\left(4.18 \frac{\mathrm{~J}}{ { }^{\circ} \ell \cdot g}\right)\left(1.0 \times 10^{2} g\right)\left(6.9^{\circ} \ell\right) \\
 & =2.9 \times 10^{3} \mathrm{~J}
 \end{aligned}$$
 
