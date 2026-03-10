@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+  // SPA redirect for GitHub Pages
+  const path = window.location.pathname;
+  const repo = path.split('/')[1];
+  const rest = path.split('/').slice(2).join('/');
+  window.location.replace('/' + repo + '/?p=' + encodeURIComponent(rest));
+</script>
+</head>
+<body></body>
+</html>

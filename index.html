@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zumdahl Chemistry (7th Edition)</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+  :root {
+    --bg: #fafafa;
+    --text: #1a1a2e;
+    --accent: #1e3a5f;
+    --border: #d1d5db;
+    --sidebar-bg: #f3f4f6;
+    --sidebar-hover: #e5e7eb;
+    --sidebar-active: #dbeafe;
+    --blockquote-bg: #eff6ff;
+    --blockquote-border: #3b82f6;
+    --code-bg: #f3f4f6;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: var(--bg);
+    color: var(--text);
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  /* Sidebar */
+  #sidebar {
+    width: 300px;
+    min-width: 300px;
+    background: var(--sidebar-bg);
+    border-right: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+  }
+  #sidebar h2 {
+    font-size: 14px;
+    padding: 16px;
+    border-bottom: 1px solid var(--border);
+    font-family: 'Helvetica Neue', sans-serif;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #6b7280;
+  }
+  .chapter-link {
+    display: block;
+    padding: 8px 16px 8px 24px;
+    text-decoration: none;
+    color: var(--text);
+    font-size: 13px;
+    font-family: 'Helvetica Neue', sans-serif;
+    border-bottom: 1px solid #e5e7eb;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .chapter-link:hover { background: var(--sidebar-hover); }
+  .chapter-link.active { background: var(--sidebar-active); color: var(--accent); font-weight: 600; }
+  .chapter-link .ch-num {
+    display: inline-block;
+    width: 28px;
+    font-weight: 700;
+    color: var(--accent);
+  }
+
+  /* Mobile sidebar toggle */
+  #sidebar-toggle {
+    display: none;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 100;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  /* Main content */
+  #main {
+    flex: 1;
+    overflow-y: auto;
+    padding: 40px 60px 80px;
+    max-width: 900px;
+    scroll-behavior: smooth;
+  }
+  @media (min-width: 1400px) {
+    #main { padding: 40px 80px 80px; }
+  }
+  @media (max-width: 768px) {
+    #sidebar { position: fixed; left: -320px; z-index: 50; height: 100vh; transition: left 0.3s; }
+    #sidebar.open { left: 0; }
+    #sidebar-toggle { display: block; }
+    #main { padding: 40px 20px 60px; max-width: 100%; }
+  }
+
+  /* Typography */
+  #content h1 {
+    font-size: 28px;
+    margin: 0 0 24px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--accent);
+  }
+  #content h2 {
+    font-size: 22px;
+    margin: 36px 0 16px;
+    color: #1f2937;
+  }
+  #content h3 {
+    font-size: 18px;
+    margin: 28px 0 12px;
+    color: #374151;
+  }
+  #content p {
+    line-height: 1.75;
+    margin: 10px 0;
+  }
+  #content ul, #content ol {
+    margin: 10px 0 10px 24px;
+    line-height: 1.75;
+  }
+  #content li { margin: 4px 0; }
+  #content strong { color: #1a1a2e; }
+  #content em { font-style: italic; }
+  #content hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 24px 0;
+  }
+
+  /* Blockquotes */
+  #content blockquote {
+    background: var(--blockquote-bg);
+    border-left: 4px solid var(--blockquote-border);
+    padding: 12px 16px;
+    margin: 16px 0;
+    border-radius: 0 6px 6px 0;
+    line-height: 1.7;
+  }
+  #content blockquote strong:first-child {
+    color: #1d4ed8;
+  }
+
+  /* Tables */
+  #content table {
+    border-collapse: collapse;
+    margin: 16px auto;
+    font-size: 15px;
+  }
+  #content table th, #content table td {
+    border: 1px solid #9ca3af;
+    padding: 6px 14px;
+    text-align: center;
+  }
+  #content table th {
+    background: #f3f4f6;
+    font-weight: 700;
+  }
+  #content table tr:nth-child(even) {
+    background: #fafafa;
+  }
+
+  /* Code blocks */
+  #content pre {
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 14px 18px;
+    overflow-x: auto;
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 12px 0;
+  }
+  #content code {
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: 14px;
+  }
+
+  /* KaTeX display math */
+  .katex-display {
+    margin: 16px 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 4px 0;
+  }
+
+  /* Loading state */
+  #loading {
+    text-align: center;
+    padding: 60px;
+    color: #6b7280;
+    font-family: sans-serif;
+  }
+  #loading .spinner {
+    display: inline-block;
+    width: 24px; height: 24px;
+    border: 3px solid #d1d5db;
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin-bottom: 12px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Welcome page */
+  .welcome { font-family: 'Helvetica Neue', sans-serif; max-width: 640px; }
+  .welcome h1 { font-size: 24px; border: none; padding: 0; margin-bottom: 16px; }
+  .welcome p { color: #4b5563; font-size: 15px; line-height: 1.6; }
+  .welcome .toc { list-style: none; margin: 20px 0; padding: 0; }
+  .welcome .toc li { margin: 6px 0; }
+  .welcome .toc a {
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 15px;
+  }
+  .welcome .toc a:hover { text-decoration: underline; }
+  .welcome .toc .ch-num { font-weight: 700; display: inline-block; width: 28px; }
+</style>
+</head>
+<body>
+
+<button id="sidebar-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">&#9776;</button>
+
+<div id="sidebar">
+  <h2>Chapters</h2>
+  <div id="chapter-list"></div>
+</div>
+
+<div id="main">
+  <div id="content">
+    <div id="loading">
+      <div class="spinner"></div>
+      <p>Loading...</p>
+    </div>
+  </div>
+</div>
+
+<script>
+const chapters = [
+  { num: 1, title: 'Chemical Foundations' },
+  { num: 2, title: 'Atoms, Molecules, and Ions' },
+  { num: 3, title: 'Stoichiometry' },
+  { num: 4, title: 'Types of Chemical Reactions and Solution Stoichiometry' },
+  { num: 5, title: 'Gases' },
+  { num: 6, title: 'Thermochemistry' },
+  { num: 7, title: 'Atomic Structure and Periodicity' },
+  { num: 8, title: 'Bonding: General Concepts' },
+  { num: 9, title: 'Covalent Bonding: Orbitals' },
+  { num: 10, title: 'Liquids and Solids' },
+  { num: 11, title: 'Properties of Solutions' },
+  { num: 12, title: 'Chemical Kinetics' },
+  { num: 13, title: 'Chemical Equilibrium' },
+  { num: 14, title: 'Acids and Bases' },
+  { num: 15, title: 'Applications of Aqueous Equilibria' },
+  { num: 16, title: 'Spontaneity, Entropy, and Free Energy' },
+  { num: 17, title: 'Electrochemistry' },
+  { num: 18, title: 'The Nucleus: A Chemist\'s View' },
+  { num: 19, title: 'The Representative Elements: Groups 1A Through 4A' },
+  { num: 20, title: 'The Representative Elements: Groups 5A Through 8A' },
+  { num: 21, title: 'Transition Metals and Coordination Chemistry' },
+  { num: 22, title: 'Organic and Biological Molecules' },
+];
+
+const basePath = (() => {
+  let p = window.location.pathname;
+  p = p.replace(/\/[^/]*\.html$/, '/');
+  p = p.replace(/\/chapter\d+\/?$/, '/');
+  if (!p.endsWith('/')) p += '/';
+  return p;
+})();
+
+function chapterFile(num) {
+  return `chapter${String(num).padStart(2, '0')}.md`;
+}
+
+function chapterPath(num) {
+  return `${basePath}chapter${num}`;
+}
+
+// Build sidebar
+const listEl = document.getElementById('chapter-list');
+chapters.forEach(ch => {
+  const a = document.createElement('a');
+  a.className = 'chapter-link';
+  a.href = chapterPath(ch.num);
+  a.dataset.num = ch.num;
+  a.innerHTML = `<span class="ch-num">${ch.num}.</span> ${ch.title}`;
+  a.onclick = (e) => {
+    e.preventDefault();
+    navigateTo(ch.num);
+    document.getElementById('sidebar').classList.remove('open');
+  };
+  listEl.appendChild(a);
+});
+
+// Convert LaTeX tabular environments to HTML tables
+function convertTabular(text) {
+  return text.replace(/\\begin\{tabular\}\{[^}]*\}([\s\S]*?)\\end\{tabular\}/g, (match, body) => {
+    let rows = body.replace(/\\hline/g, '').trim();
+    let rowArr = rows.split(/\\\\\s*/).filter(r => r.trim());
+    let html = '<table>\n';
+    rowArr.forEach((row, i) => {
+      let cells = row.split('&').map(c => c.trim());
+      let tag = i === 0 ? 'th' : 'td';
+      html += '<tr>';
+      cells.forEach(cell => {
+        cell = cell.replace(/\\\(/g, '$').replace(/\\\)/g, '$');
+        html += `<${tag}>${cell}</${tag}>`;
+      });
+      html += '</tr>\n';
+    });
+    html += '</table>';
+    return html;
+  });
+}
+
+// Protect math from marked.js processing
+function shieldMath(text) {
+  const mathSegments = [];
+  let idx = 0;
+
+  text = text.replace(/\$\$([\s\S]*?)\$\$/g, (match) => {
+    const placeholder = `%%MATH_DISPLAY_${idx}%%`;
+    mathSegments[idx] = match;
+    idx++;
+    return placeholder;
+  });
+
+  text = text.replace(/(?<!\$)\$(?!\$)((?:[^$\\]|\\.)+?)\$(?!\$)/g, (match) => {
+    const placeholder = `%%MATH_INLINE_${idx}%%`;
+    mathSegments[idx] = match;
+    idx++;
+    return placeholder;
+  });
+
+  return { text, mathSegments };
+}
+
+function restoreMath(html, mathSegments) {
+  for (let i = 0; i < mathSegments.length; i++) {
+    html = html.replace(`%%MATH_DISPLAY_${i}%%`, mathSegments[i]);
+    html = html.replace(`%%MATH_INLINE_${i}%%`, mathSegments[i]);
+  }
+  return html;
+}
+
+function preprocessMath(text) {
+  text = convertTabular(text);
+  return text;
+}
+
+function showWelcome() {
+  const contentEl = document.getElementById('content');
+  let tocHtml = '';
+  chapters.forEach(ch => {
+    tocHtml += `<li><a href="${chapterPath(ch.num)}" onclick="event.preventDefault();navigateTo(${ch.num})"><span class="ch-num">${ch.num}.</span> ${ch.title}</a></li>`;
+  });
+  contentEl.innerHTML = `<div class="welcome">
+    <h1>Chemistry (7th Edition)</h1>
+    <p>Steven S. Zumdahl, Susan A. Zumdahl</p>
+    <ul class="toc">${tocHtml}</ul>
+  </div>`;
+}
+
+async function loadChapter(num) {
+  document.querySelectorAll('.chapter-link').forEach(a => {
+    a.classList.toggle('active', parseInt(a.dataset.num) === num);
+  });
+
+  const ch = chapters.find(c => c.num === num);
+  document.title = ch ? `Ch ${num}: ${ch.title} — Zumdahl Chemistry` : 'Zumdahl Chemistry (7th Edition)';
+
+  const contentEl = document.getElementById('content');
+  contentEl.innerHTML = '<div id="loading"><div class="spinner"></div><p>Loading...</p></div>';
+
+  const file = chapterFile(num);
+  try {
+    const resp = await fetch(`${basePath}${file}`);
+    if (!resp.ok) throw new Error(`Failed to load ${file}`);
+    let md = await resp.text();
+
+    md = preprocessMath(md);
+    const shielded = shieldMath(md);
+    let html = marked.parse(shielded.text);
+    html = restoreMath(html, shielded.mathSegments);
+    contentEl.innerHTML = html;
+
+    renderMathInElement(contentEl, {
+      delimiters: [
+        { left: '$$', right: '$$', display: true },
+        { left: '$', right: '$', display: false },
+        { left: '\\[', right: '\\]', display: true },
+        { left: '\\(', right: '\\)', display: false },
+      ],
+      throwOnError: false,
+      trust: true,
+      strict: false,
+    });
+
+    document.getElementById('main').scrollTop = 0;
+  } catch (e) {
+    contentEl.innerHTML = `<p style="color:red;">Error loading chapter ${num}: ${e.message}</p>
+    <p>Make sure the markdown files are in the same directory as this page.</p>
+    <p>For local development:</p>
+    <pre>python3 -m http.server 8080</pre>`;
+  }
+}
+
+function navigateTo(num) {
+  const url = chapterPath(num);
+  history.pushState({ chapter: num }, '', url);
+  loadChapter(num);
+}
+
+function getChapterFromPath() {
+  const path = window.location.pathname;
+  const match = path.match(/\/chapter(\d+)\/?$/);
+  if (match) return parseInt(match[1]);
+  const params = new URLSearchParams(window.location.search);
+  const q = params.get('chapter');
+  if (q) return parseInt(q);
+  return null;
+}
+
+window.addEventListener('popstate', (e) => {
+  if (e.state && e.state.chapter) {
+    loadChapter(e.state.chapter);
+  } else {
+    const num = getChapterFromPath();
+    if (num && num >= 1 && num <= 22) {
+      loadChapter(num);
+    } else {
+      showWelcome();
+      document.querySelectorAll('.chapter-link').forEach(a => a.classList.remove('active'));
+    }
+  }
+});
+
+// Handle 404.html SPA redirect
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  const redirectPath = params.get('p');
+  if (redirectPath) {
+    history.replaceState(null, '', basePath + decodeURIComponent(redirectPath));
+  }
+})();
+
+// Initial load
+const initialChapter = getChapterFromPath();
+if (initialChapter && initialChapter >= 1 && initialChapter <= 22) {
+  history.replaceState({ chapter: initialChapter }, '', chapterPath(initialChapter));
+  loadChapter(initialChapter);
+} else {
+  showWelcome();
+}
+</script>
+
+</body>
+</html>
